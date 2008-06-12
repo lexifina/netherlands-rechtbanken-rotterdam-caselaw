@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2008:BD4467"
-published_in: ["Rechtspraak.nl", "V-N 2008/40.5 met annotatie van Redactie", "FutD 2008-1516"]
+published_in: ["Rechtspraak.nl", "V-N 2008/40.5 met annotatie van Redactie", "FutD 2008-1516", "Viditax (FutD) 2008070801"]
 ---
 
 # ECLI:NL:RBROT:2008:BD4467 Rechtbank Rotterdam , 12-06-2008 / 75223 / KG ZA 08-85
