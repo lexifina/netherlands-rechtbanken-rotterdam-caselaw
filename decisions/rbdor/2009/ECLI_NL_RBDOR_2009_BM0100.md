@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDOR:2009:BM0100"
-published_in: ["Rechtspraak.nl", "Belastingblad 2010/705", "FutD 2010-0951"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2010/705", "FutD 2010-0951", "Viditax (FutD) 2010040707"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSGR:2011:BQ6738, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
