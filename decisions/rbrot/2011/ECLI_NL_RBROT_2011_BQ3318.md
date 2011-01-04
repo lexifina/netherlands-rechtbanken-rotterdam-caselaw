@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2011:BQ3318"
-published_in: ["Rechtspraak.nl", "Prg. 2011/164", "AR-Updates.nl 2011-0374", "XpertHR.nl 2013-400206"]
+published_in: ["Rechtspraak.nl", "Prg. 2011/164", "AR-Updates.nl 2011-0374", "VAAN-AR-Updates.nl 2011-0374"]
 ---
 
 # ECLI:NL:RBROT:2011:BQ3318 Rechtbank Rotterdam , 04-01-2011 / 1180192
