@@ -1,0 +1,581 @@
+---
+ecli: "ECLI:NL:RBROT:2014:10415"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "10/962030-12"
+decided: "2014-12-19"
+published: "2014-12-19"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2014:10415"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2014:10415 Rechtbank Rotterdam , 19-12-2014 / 10/962030-12
+
+## Inhoudsindicatie
+
+De rechtbank heeft zes verdachten veroordeeld vanwege hun betrokkenheid bij hennepteelt.
+
+De zwaarste straf is opgelegd aan een verdachte die als medepleger betrokken was bij een hennepkwekerij met ruim 500 planten, terwijl hij ook bijna 5,5 kg henneptoppen in zijn bezit had. Ook had hij een handgranaat, munitie en een boksbeugel voorhanden. Aan hem is een gevangenisstraf van 15 maanden waarvan 5 maanden voorwaardelijk opgelegd.
+
+Aan een verdachte die als medeplichtige betrokken was bij een hennepkwekerij is de lichtste straf opgelegd. Zij kreeg een werkstraf van 80 uur en een gevangenisstraf van 1 maand voorwaardelijk.
+
+De aan de andere 4 verdachten opgelegde straffen zijn combinaties van gevangenisstraffen en werkstraffen.
+
+Alle verdachten zijn vrijgesproken van deelname aan een criminele organisatie.
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team straf 3
+
+Parketnummer: 10/962030-12 [Promis]
+
+Datum uitspraak: 19 december 2014
+
+Tegenspraak
+
+Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak tegen de verdachte:
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] op [geboortedatum] 1981,
+
+ingeschreven in de gemeentelijke basisadministratie op het adres:
+
+[adres en woonplaats],
+
+raadslieden mr. K. Karakaya en mr. J.J. Veldheer, advocaten te Amsterdam (verder: de raadsman).
+
+ONDERZOEK OP DE TERECHTZITTING
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzittingen van 11 januari 2013, 17, 18, 19, 20 en 21 november 2014 en 19 december 2014.
+
+TENLASTELEGGING
+
+Aan de verdachte is tenlastegelegd hetgeen is vermeld in de vordering nadere omschrijving tenlastelegging, waarbij de oorspronkelijke opgave van de feiten als bedoeld in artikel 261, derde lid van het Wetboek van Strafvordering op vordering van de officier van justitie is gewijzigd. De tekst van de nader omschreven tenlastelegging is als bijlage I aan dit vonnis gehecht. Deze bijlage maakt deel uit van dit vonnis.
+
+EIS OFFICIER VAN JUSTITIE
+
+De officieren van justitie mr. J.J. Beliën en mr. A. van Dooren (verder: de officier van justitie) hebben gerekwireerd tot:
+
+- bewezenverklaring van het onder 1, 2, 3, 4, 5 en 6 tenlastegelegde;
+
+- veroordeling van de verdachte tot een gevangenisstraf voor de duur van 30 maanden met aftrek van voorarrest en met opheffing van de schorsing van de voorlopige hechtenis bij de uitspraak, alsmede een voorwaardelijke geldboete van € 10.000,00 met een proeftijd van 2 jaar;
+
+- niet-ontvankelijkverklaring van de benadeelde partijen [benadeelde partij 1] en [benadeelde partij 2] in hun vorderingen.
+
+DE VERDEDIGING
+
+De raadsman heeft primair algehele vrijspraak bepleit voor het onder 1 en 2 tenlastegelegde en subsidiair een strafmaatverweer gevoerd. Met betrekking tot het onder 3 tenlastegelegde heeft de raadsman partiële vrijspraak bepleit en zich voor het overige gerefereerd aan het oordeel van de rechtbank. Voor het onder 4, 5 en 6 tenlastegelegde heeft hij zich eveneens gerefereerd aan het oordeel van de rechtbank.
+
+De vorderingen van de benadeelde partijen zouden moeten worden afgewezen dan wel zouden de benadeelde partijen niet-ontvankelijk moeten worden verklaard in hun vorderingen.
+
+MOTIVERING VRIJSPRAAK
+
+I.	Feit 1 (zaaksdossier E11: Imkersdeef)
+
+De rechtbank acht feit 1, onder het 2e gedachtestreepje niet wettig en overtuigend bewezen, zodat de verdachte daarvan dient te worden vrijgesproken Ter toelichting diene het volgende.
+
+In het proces-verbaal is gerelateerd dat de politie heeft gezien dat de verdachte op 6 september 2013 met een ander bij de Praxis in Apeldoorn een gipsplaat kocht en dat zij even later een growshop verlieten met twee tassen en een doos. De politie heeft waargenomen dat zij vervolgens zijn gereden naar de Imkersdreef in Apeldoorn, de gipsplaat en de tassen naar binnen hebben gebracht in het pand Imkersdreef 624 en dat zij enkele minuten later weer zijn weggereden. Meer aanwijzingen voor de mogelijke betrokkenheid van de verdachte bij deze hennepkwekerij heeft de rechtbank in het dossier niet aangetroffen.
+
+Op 2 oktober 2013 trof de politie in dit pand een hennepkwekerij aan. De getuige [getuige] heeft verklaard dat er voor deze kwekerij een gipswand is geplaatst maar hij heeft de verdachte bij een fotoconfrontatie niet herkend als degene die hij bezig heeft gezien met het opbouwen van de kwekerij.
+
+Om van medeplegen te kunnen spreken is vereist dat elke medepleger een wezenlijke bijdrage heeft geleverd aan het delict (vgl. HR 2-12-2014 ECLI:NL:HR:2014:3474). De door de officier van justitie gestelde betrokkenheid van de verdachte bij deze kwekerij is naar het oordeel van de rechtbank te beperkt om van een nauwe en bewuste samenwerking ten aanzien van het telen van hennep te kunnen spreken. De enkele vaststelling dat de verdachte met een ander een gipsplaat heeft gekocht en die gipsplaat met twee tassen met onbekende inhoud, afkomstig van een growshop, in een pand heeft gebracht waar een aantal weken later een hennepkwekerij is aangetroffen, is naar het oordeel van de rechtbank geen bijdrage van voldoende gewicht om te kunnen spreken van  het medeplegen van het telen van hennep. Dit geldt temeer daar verdachte door voornoemde getuige nadrukkelijk niet is herkend als degene die zich bezig heeft gehouden met de opbouw van de kwekerij.
+
+II.	Feit 2 (zaaksdossier E10)
+
+Het onder 2 tenlastegelegde is niet wettig en overtuigend bewezen, zodat de verdachte daarvan dient te worden vrijgesproken.
+
+Het standpunt van de officieren van justitie
+
+De officier van justitie heeft  zich – samengevat – op het volgende standpunt gesteld. Sprake is geweest van een samenwerkingsverband. Onder de dekmantel van de growshop van de verdachte [medeverdachte 1] hebben de verdachten in onderling wisselende samenstellingen samengewerkt bij het telen van hennep. De officier van justitie heeft in dit verband gewezen op de uitspraak van de Hoge Raad van 2 februari 2010, ECLI:HR:2010:BK5193, inhoudende onder meer dat, om een persoon als deelnemer aan een organisatie in de zin van artikel 140 Wetboek van Strafrecht te kunnen aanmerken, niet vereist is dat vast komt te staan dat die persoon moet hebben samengewerkt, althans bekend moet zijn geweest met alle andere personen die deel uitmaken van de organisatie of dat de samenstelling van het samenwerkingsverband steeds dezelfde is geweest.
+
+Hoewel niet alle verdachten in een uitgesproken rol in beeld komen, zijn alle verdachten wel meermalen in verbinding te brengen met hennepkwekerijen. [medeverdachte 1] heeft daarbij een centrale/faciliterende – geen leidende – rol gehad. De typerende – niet de enige vaste – werkwijze heeft er uit bestaan dat met valse of vervalste identiteitsbewijzen locaties werden gehuurd. In het bijzonder de verdachte [medeverdachte 2], destijds partner van verdachte [medeverdachte 1], heeft documenten misbruikt voor dat doel. De verdachten [medeverdachte 3] en [medeverdachte 4] hebben bijdragen geleverd aan verschillende hennepkwekerijen. De rol van [medeverdachte 3] is in het algemeen die van opbouwer geweest. Via voornoemde verdachten zijn ook de verdachten [verdachte] en [medeverdachte 5] in beeld gekomen. Beiden zijn betrokken geweest bij meerdere hennepkwekerijen. Voorts was sprake van typisch crimineel gedrag dat wijst op de samenwerking, zoals door de verdachten gevoerde telefoongesprekken met verhullend taalgebruik en het aantreffen van een jammer bij [medeverdachte 3] en wapens bij [medeverdachte 5] en [verdachte].
+
+Beoordelingskader
+
+De rechtbank stelt voorop dat voor het antwoord op de vraag of gesproken kan worden van een criminele organisatie, sprake moet zijn van: (i) een organisatie, (ii) die het oogmerk heeft op criminele delicten, alsmede van (iii) deelneming door de verdachte aan die organisatie. Naar bestendige jurisprudentie van de Hoge Raad dient bij de beantwoording van de vraag of sprake is van (i) een organisatie beoordeeld te worden of er een samenwerkingsverband is met een zekere duurzaamheid en structuur tussen de verdachte en ten minste één andere persoon. Direct contact met de medeverdachte(n) is niet vereist, maar afwezigheid daarvan levert naar het oordeel van de rechtbank geen positieve indicatie op voor het bestaan van een samenwerkingsverband. Steeds zal sprake moeten zijn typerende samenwerkingsgedragingen.
+
+Onderzocht moet worden of daar in het onderhavige geval sprake van is geweest.
+
+Samenwerkingsverband
+
+Het dossier E10, dat ziet op de vermeende criminele organisatie, is met name opgebouwd uit een beschrijving van verschillende locaties waar hennepkwekerijen en/of hennep zijn aangetroffen. Op een deel van deze locaties is backwards (achteruit) gerechercheerd. Bij de beoordeling is de rechtbank nagegaan of de verdachte en diens medeverdachten bij de verschillende ontmantelde henneplocaties c.q. bij de aangetroffen hoeveelheden hennep – in onderlinge samenhang bezien – strafrechtelijke betrokkenheid van afdoende gewicht kan worden toegedicht. Wat betreft de rol van de verdachte [verdachte] geldt dat de rechtbank onder feit 1 zijn betrokkenheid bij de hennepkwekerij Eerbeek in de vorm van medeplegen (met medeverdachte [medeverdachte 5]) bewezen zal verklaren. Van het ten laste gelegde medeplegen van de hennepkwekerij Imkersdreef wordt verdachte weliswaar vrijgesproken maar uit het dossier blijkt dat de verdachte in dat zaaksdossier wel in beeld is gekomen tezamen met [medeverdachte 5] en [medeverdachte 3]. Ten aanzien van alle overige locaties die aan de orde komen in zaaksdossier E10 geldt dat verdachte daarin geheel niet naar voren is gekomen, dan wel in ieder geval niet met een of meer medeverdachten uit het onderzoek Ditto. Verder is in de woning van verdachte onder meer een hoeveelheid hennep aangetroffen (circa 5,5 kg). Ook daarbij is echter niet gebleken van betrokkenheid van een of meer van de medeverdachten.
+
+Uit het voorgaande volgt de conclusie dat de verdachte zich weliswaar heeft beziggehouden met de teelt van hennep en een hoeveelheid hennep aanwezig heeft gehad, maar bij gebreke van typerende samenwerkingsgedragingen kan naar het oordeel van de rechtbank niet worden bewezen dat de verdachte met een of meer van diens medeverdachten een criminele organisatie heeft gevormd.
+
+BEWEZENVERKLARING
+
+De rechtbank acht op grond van de in de bijlage II vermelde bewijsmiddelen wettig en overtuigend bewezen dat de verdachte:
+
+1.
+
+hij op een of meer tijdstip(pen) in of omstreeks de periode van 22 augustus
+
+2012 tot en met 02 oktober 19 september 2012, te Eerbeek en/of Apeldoorn, in elk geval
+
+in Nederland, meermalen, althans eenmaal, tezamen en in vereniging met een of
+
+meer ander(en), althans alleen, in de uitoefening van zijn beroep of bedrijf,
+
+- ( E06: ZD Eerbeek) in de periode van 22 augustus 2012 tot en met 19 september
+
+2012, te Eerbeek, opzettelijk een aantal van ongeveer 509 hennepplant(en),
+
+althans een hoeveelheid van meer dan 30 gram, zijnde hennep, een middel
+
+vermeld op de bij de Opiumwet behorende lijst II, heeft verkocht en/of afgeleverd
+
+en/of verstrekt en/of vervoerd en/of geteeld en/of bereid en/of bewerkt en/of
+
+verwerkt, in elk geval opzettelijk aanwezig heeft gehad, en/of
+
+- (E11: ZD Imkersdeef) in de periode van 06 september 2012 tot en met 02 oktober
+
+2012, te Apeldoorn, opzettelijk een aantal van ongeveer 105 hennepplant(en),
+
+althans een hoeveelheid van meer dan 30 gram, zijnde hennep, een middel
+
+vermeld op de bij de Opiumwet behorende lijst II, heeft verkocht
+
+en/of afgeleverd en/of verstrekt en/of vervoerd en/of geteeld en/of bereid en/of
+
+bewerkt en/of verwerkt, in elk geval opzettelijk aanwezig heeft gehad,
+
+terwijl dit (telkens) betrekking had op een of meer grote hoeveelhe(i)d(en)
+
+hennep;
+
+3.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk
+
+aanwezig heeft gehad ongeveer 7,33 5,48 kilogram henneptoppen, in elk geval een
+
+hoeveelheid van meer dan 30 gram hennep, zijnde hennep een middel als bedoeld
+
+in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het
+
+vijfde lid van artikel 3a van die wet;
+
+4.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+een wapen als bedoeld in artikel 2, lid 1, categorie II onder 7°, van de Wet wapens
+
+en munitie, te weten een handgranaat, zijnde (een) voorwerp(en) bestemd voor
+
+het treffen van personen of zaken door vuur of door middel van ontploffing,
+
+voorhanden heeft gehad;
+
+5.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+voorhanden heeft gehad:
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 38 SPL,
+
+kaliber 38, bodemstempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECK, 38 SPL,
+
+kaliber 357 MAG, bodemstempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 357 MAGNUM,
+
+kaliber 357, bodem stempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 357 MAGNUM,
+
+kaliber 357, bodemstempel CBC) en/of
+
+- 125 althans één of meer kogelpatronen (merkopschrift: SELLIER&BELLOT, 9 mm
+
+Browning Court, kaliber 9 mm Br.K 380 Auto, bodemstempel S &B), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: PMC, 380 AUTO, kaliber
+
+380 AUTO, bodemstempel PMC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift PMC .45 COLT, kaliber
+
+.45 Colt, bodemstempel PMC),
+
+in elk geval munitie in de zin van de Wet wapens en munitie van categorie III;
+
+6.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+een wapen, van categorie I, onder 1° of 3°, te weten een boksbeugel voorhanden heeft gehad en/of heeft gedragen.
+
+Hetgeen meer of anders is tenlastegelegd is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+BEWIJSMOTIVERING
+
+Bij dit vonnis is als bijlage II een overzicht gevoegd van de bewijsmiddelen inhoudende de redengevende feiten en omstandigheden die tot het bewijs hebben bijgedragen. Deze bijlage maakt deel uit van dit vonnis.
+
+NADERE BEWIJSOVERWEGING
+
+De rechtbank is van oordeel dat bij het onder 1 bewezen verklaarde feit sprake is van
+
+handelen in de uitoefening van een beroep of bedrijf. Daarvoor acht de rechtbank het
+
+volgende van belang.
+
+Blijkens het proces-verbaal van bevindingen van 30 oktober 2012 met bijlage (pagina’s
+
+0201 tot en met 0204 van het zaaksdossier E06) was in de kelder van het bedrijfspand een ruimte afgetimmerd waarin een hennepkwekerij werd aangetroffen met een afmeting van 10,7 bij 3,8 meter. De capaciteit van de kwekerij was niet gering (509 planten). De hennepkwekerij was voorts voorzien van onder andere een groot aantal armaturen en assimilatielampen, tijdschakelaars, transformatoren, een snelheidsregelaar, ventilatoren en een water- en beluchtingspomp. Er is derhalve een behoorlijke investering gedaan om deze kwekerij op te zetten. Het teeltproces geschiedde onder gecontroleerde condities en met behulp van technische middelen.
+
+STRAFBAARHEID FEITEN
+
+De bewezen feiten leveren op:
+
+1. MEDEPLEGEN VAN: IN DE UITOEFENING VAN EEN BEROEP OF BEDRIJF 	OPZETTELIJK HANDELEN IN STRIJD MET EEN IN ARTIKEL 3, ONDER B,
+
+VAN DE OPIUMWET, GEGEVEN VERBOD, TERWIJL HET FEIT BETREKKING HEEFT OP EEN GROTE HOEVEELHEID VAN HET MIDDEL;
+
+3
+OPZETTELIJK HANDELEN IN STRIJD MET EEN IN ARTIKEL 3, ONDER C,
+
+VAN DE OPIUMWET, GEGEVEN VERBOD;
+
+4.	HANDELEN IN STRIJD MET ARTIKEL 26, EERSTE LID, VAN DE WET WAPENS EN MUNITIE EN HET FEIT BEGAAN MET BETREKKING TOT EEN WAPEN VAN CATEGORIE II;
+
+5
+HANDELEN IN STRIJD MET ARTIKEL 26, EERSTE LID, VAN DE WET WAPENS EN MUNITIE;
+
+6
+HANDELEN IN STRIJD MET ARTIKEL 13, EERSTE LID, VAN DE WET WAPENS EN MUNITIE.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten.
+
+De feiten zijn dus strafbaar.
+
+STRAFBAARHEID VERDACHTE
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit.
+
+De verdachte is dus strafbaar.
+
+STRAFMOTIVERING
+
+De straffen die aan de verdachte worden opgelegd, zijn gegrond op de ernst van de feiten, de omstandigheden waaronder de feiten zijn begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+
+Verdachte heeft zich samen met zijn mededaders schuldig gemaakt aan het opzetten, inrichten en exploiteren van een hennepkwekerij in een kelder van een bedrijfspand en het vervolgens in die kelder telen van 509 hennepplanten. Daarnaast heeft de verdachte ruim 5 kilo henneptoppen in een woning aanwezig gehad.
+
+De hennepteelt is onaanvaardbaar en moet vanwege het belang van de volksgezondheid, om sociale en economische redenen en ter bestrijding van de bijkomende criminaliteit worden bestreden.
+
+Hennepteelt levert een softdrug op die bij langdurig gebruik kan leiden tot schade voor de gezondheid.
+
+De hennepteelt is echter niet alleen uit het oogpunt van de volksgezondheid maatschappelijk onaanvaardbaar maar ook omdat met de handel in hennep buiten de reguliere en legale economie om grote winsten worden gemaakt. Inmiddels moet het telen van softdrugs namelijk allang niet meer worden gezien als een relatief onschuldige bezigheid die plaatsvindt uit idealisme. De handel in softdrugs is al sinds lange tijd grotendeels in handen  van criminelen/criminele organisaties omdat er veel geld mee te verdienen is. Het gevolg is dat er allerlei andere vormen van criminaliteit door worden veroorzaakt en mee samenhangen.
+
+Daar komt bij dat de hennepteelt in woningen overlast, verloedering en (brand)gevaarlijke situaties in die woningen en daarmee in woonwijken veroorzaakt.
+
+De verdachte heeft zich hieraan  niets gelegen laten liggen. Hij heeft zich slechts laten leiden door de vooruitzichten van financieel gewin.
+
+Dit alles maakt dat dergelijke feiten consequent moeten worden bestreden en aangepakt en dat daartegen streng moet worden opgetreden.
+
+Tevens heeft de verdachte een handgranaat, 425 kogelpatronen en een boksbeugel voorhanden gehad. Het feit dat de verdachte een dergelijke hoeveelheid kogelpatronen voorhanden heeft gehad in combinatie met zijn betrokkenheid bij de hennepteelt geeft  te denken.
+
+Een boksbeugel is een verboden wapen dat veelal tegen personen wordt gebruikt. Derhalve moet dit wapen uit het maatschappelijk verkeer worden gehouden en verwijderd.
+
+Dit geldt des te meer voor de handgranaat die de verdachte (naar hij doet voorkomen: op uiterst nonchalante wijze) in zijn berging/schuur heeft opgeborgen en bewaard met alle mogelijke risico’s van dien.
+
+De rechtbank rekent de verdachte deze feiten doch met name het voorhanden hebben van de handgranaat, zwaar aan.
+
+Wat de persoon van de verdachte en zijn persoonlijke omstandigheden betreft, heeft de rechtbank in het bijzonder gelet op het Uittreksel Justitiële Documentatie van 18 september 2014 en de reclasseringsrapporten van 19 maart 2013 en 26 juni 2013. Uit voornoemd uittreksel blijkt dat de verdachte niet eerder met politie, justitie en de strafrechter in aanraking is geweest voor overtreding van de Opiumwet en de Wet wapens en munitie.
+
+Bij de strafoplegging gaat  de rechtbank uit van de oriëntatiepunten van het Landelijk Overleg Vakinhoud Strafrecht ten aanzien van Opiumwetdelicten en de Wet wapens en munitie. Daaruit volgt dat alleen al het voorhanden hebben van een handgranaat zou moeten worden bestraft met het opleggen van een gevangenisstraf voor de duur van zes maanden.
+
+Alles overziend en afwegend is de rechtbank van oordeel dat het opleggen van een gevangenisstraf voor de duur van 15 (vijftien) maanden, met aftrek van voorarrest, waarvan 5 (vijf) maanden voorwaardelijk met een proeftijd van 3 (drie) jaar passend en geboden is. Het voorwaardelijk deel van de op te leggen gevangenisstraf is bedoeld om de verdachte ervan te weerhouden in de toekomst wederom strafbare feiten te plegen.
+
+De rechtbank acht het opleggen van een proeftijd van drie jaar geïndiceerd omdat zij er niet  van overtuigd is dat de verdachte geheel is doordrongen van het  strafwaardige van zijn handelen.
+
+Ter terechtzitting heeft de officier van justitie gevorderd de schorsing van de voorlopige hechtenis van de verdachte op te heffen. De rechtbank zal deze vordering toewijzen. Gelet op zowel het aantal bewezen verklaarde feiten, de aard en de ernst daarvan als op de duur van het onvoorwaardelijk deel van de op te leggen gevangenisstraf, zal de schorsing van de voorlopige hechtenis van de verdachte worden opgeheven, nu de persoonlijke belangen van de verdachte niet langer opwegen tegen het strafvorderlijk belang.
+
+IN BESLAG GENOMEN VOORWERPEN
+
+Met betrekking tot de in beslag genomen voorwerpen heeft de officier van justitie een lijst overgelegd en het navolgende gevorderd:
+
+- verbeurdverklaring van de onder 3a tot en met 3d genoemde voorwerpen;
+
+- onttrekking aan het verkeer van de onder 4 tot en met 20 genoemde voorwerpen.
+
+Voornoemde lijst is als bijlage III aan dit vonnis gehecht.
+
+De raadsman heeft zich niet uitgelaten over de in beslag genomen voorwerpen.
+
+De rechtbank heeft vastgesteld dat hetgeen de officier van justitie heeft gevorderd voldoet aan de daaraan door de wet gestelde eisen en zij zal dan ook hetgeen gevorderd is integraal toewijzen.
+
+VORDERINGEN BENADEELDE PARTIJEN
+
+Als benadeelde partijen hebben zich in het geding gevoegd:
+
+- [benadeelde partij 1]: zij vordert € 22.081,76 aan materiële schadevergoeding ter zake van het onder 2 ten laste gelegde feit;
+
+- [benadeelde partij 2]: hij vordert € 13.410,09 aan materiële schadevergoeding ter zake van het onder 2 ten laste gelegde feit.
+
+De benadeelde partijen zullen in de vorderingen niet-ontvankelijk worden verklaard, nu de verdachte zal worden vrijgesproken van het onder 2 ten laste gelegde feit.
+
+De vorderingen kunnen slechts bij de burgerlijke rechter worden aangebracht.
+
+Nu de benadeelde partijen niet-ontvankelijk zullen worden verklaard, zullen zij worden veroordeeld in de kosten door de verdachte ten verwere tegen de vorderingen gemaakt, welke kosten tot op heden worden begroot op nihil.
+
+TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN
+
+Gelet is op de artikelen 14a, 14b, 14c, 33, 33a, 36b, 36c, 36d, 47 en 57 van het Wetboek van Strafrecht, de artikelen 3 en 11 van de Opiumwet en de artikelen 13, 26 en 55 van de Wet wapens en munitie.
+
+BESLISSING
+
+De rechtbank:
+
+verklaart niet bewezen, dat de verdachte het onder 2 ten laste gelegde feit heeft begaan en spreekt de verdachte daarvan vrij;
+
+verklaart bewezen, dat de verdachte de onder 1, 3, 4, 5 en 6 ten laste gelegde feiten, zoals hiervoor omschreven, heeft begaan;
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+
+stelt vast dat het bewezen verklaarde oplevert de hiervoor vermelde strafbare feiten;
+
+verklaart de verdachte strafbaar;
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van 15 (vijftien) maanden;
+
+bepaalt dat van deze gevangenisstraf een gedeelte, groot 5 (vijf) maanden, niet ten uitvoer zal worden gelegd, tenzij de rechtbank later anders mocht gelasten, omdat de veroordeelde voor het einde van de proeftijd, die hierbij wordt gesteld op 3 (drie) jaar, na te melden voorwaarde overtreedt;
+
+stelt als algemene voorwaarde: de veroordeelde zal zich vóór het einde van de proeftijd niet aan een strafbaar feit schuldig maken;
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht, voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht;
+
+heft op de schorsing van de voorlopige hechtenis van de verdachte;
+
+beslist ten aanzien van de voorwerpen, geplaatst op de lijst van in beslag genomen en nog niet terug gegeven voorwerpen, als volgt:
+
+- verklaart verbeurd de voorwerpen genoemd onder 3a tot en met 3d van bijlage III;
+
+- verklaart onttrokken aan het verkeer de voorwerpen genoemd onder 4 tot en 20 van
+
+bijlage III;
+
+verklaart de benadeelde partij [benadeelde partij 1], [adres BP 1], niet-ontvankelijk in de vordering; bepaalt dat de vordering slechts kan worden aangebracht bij de burgerlijke rechter;
+
+veroordeelt de benadeelde partij [benadeelde partij 1] in de kosten door de verdachte ten verwere tegen de vordering gemaakt, en begroot deze kosten op nihil;
+
+verklaart de benadeelde partij [benadeelde partij 2], [adres BP 2]
+
+niet-ontvankelijk in de vordering; bepaalt dat de vordering slechts kan worden aangebracht bij de burgerlijke rechter;
+
+veroordeelt de benadeelde partij [benadeelde partij 2] in de kosten door de verdachte ten verwere tegen de vordering gemaakt, en begroot deze kosten op nihil.
+
+Dit vonnis is gewezen door:
+
+mr. G.A.F.M. Wouters, voorzitter,
+
+mr. K. Helmich en mr. G.M. Munnichs, rechters,
+
+in tegenwoordigheid van A. Gaal, griffier, en uitgesproken op de openbare terechtzitting van deze rechtbank op 19 december 2014.
+
+Bijlage I bij vonnis d.d. 19 december 2014 van: [verdachte]
+
+TEKST NADER OMSCHREVEN TENLASTELEGGING:
+
+Aan de verdachte wordt ten laste gelegd dat
+
+1.
+
+hij op een of meer tijdstip(pen) in of omstreeks de periode van 22 augustus
+
+2012 tot en met 02 oktober 2012, te Eerbeek en/of Apeldoorn, in elk geval
+
+in Nederland, meermalen, althans eenmaal, tezamen en in vereniging met een of
+
+meer ander(en), althans alleen, in de uitoefening van zijn beroep of bedrijf,
+
+- ( E06: ZD Eerbeek) in de periode van 22 augustus 2012 tot en met 19 september
+
+2012, te Eerbeek, opzettelijk een aantal van ongeveer 509 hennepplant(en),
+
+althans een hoeveelheid van meer dan 30 gram, zijnde hennep, een middel
+
+vermeld op de bij de Opiumwet behorende lijst 11, heeft verkocht en/of afgeleverd
+
+en/of verstrekt en/of vervoerd en/of geteeld en/of bereid en/of bewerkt en/of
+
+verwerkt, in elk geval opzettelijk aanwezig heeft gehad, en/of
+
+- ( E11: ZD Imkersdeef) in de periode van 06 september 2012 tot en met 02 oktober
+
+2012, te Apeldoorn, opzettelijk een aantal van ongeveer 105 hennepplant(en),
+
+althans een hoeveelheid van meer dan 30 gram, zijnde hennep, een middel
+
+vermeld op de bij de Opiumwet behorende lijst II, heeft verkocht
+
+en/of afgeleverd en/of verstrekt en/of vervoerd en/of geteeld en/of bereid en/of
+
+bewerkt en/of verwerkt, in elk geval opzettelijk aanwezig heeft gehad,
+
+terwijl dit (telkens) betrekking had op een of meer grote hoeveelhe(i)d(en)
+
+hennep;
+
+art 3 ahf/ond B Opiumwet
+
+art 11 lid 2 Opiumwet
+
+2.
+
+Zaaksdossier E10
+
+hij op één of meer tijdstippen in of omstreeks de periode van 08 augustus 2009
+
+tot en met 2 oktober 2012, te Eerbeek en/of Apeldoorn en/of Deventer en/of ’s
+
+Hertogenbosch en/of Vaassen en/of Heerenveen en/of Delft en/of Wateringen
+
+en/of Den Haag en/of Leiden, in elk geval in Nederland, leiding heeft gegeven
+
+danwel heeft deelgenomen aan een organisatie, bestaande uit (onder meer) hem zelf,
+
+verdachte, en/of [medeverdachte 5] en/of [medeverdachte 2] en/of [medeverdachte 1] en/of [medeverdachte 3]
+
+en/of [medeverdachte 4] en/of een of meer andere perso(o)n(en), en welke organisatie tot
+
+oogmerk had het plegen van misdrijven, namelijk
+
+- het opzettelijk al dan niet in de uitoefening van een beroep of bedrijf
+
+telen/bereiden/bewerken/verwerken/verkopen/afleveren/verstrekken/vervoeren
+
+van hennep, zijnde een middel van lijst II behorende bij de Opiumwet,
+
+terwijl dit betrekking had op een of meer grote hoeveelhe(i)d(en) hennep
+
+en/of
+
+- diefstal van stroom/elektriciteit als bedoeld in artikel 310/311 wetboek van
+
+strafrecht en/of
+
+- valsheid in geschriften als bedoeld in artikel 225 wetboek van strafrecht
+
+en/of 231 wetboek van strafrecht;
+
+artikel 11a Opiumwet
+
+artikel 140 wetboek van strafrecht
+
+3.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk
+
+aanwezig heeft gehad ongeveer 7,33 kilogram henneptoppen, in elk geval een
+
+hoeveelheid van meer dan 30 gram hennep, zijnde hennep een middel als bedoeld
+
+in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het
+
+vijfde lid van artikel 3a van die wet;
+
+art 3 ahf/ond C Opiumwet
+
+art 47 lid 1 ahf/sub 1 Wetboek van Strafrecht
+
+art 11 lid 2 Opiumwet
+
+4.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+een wapen als bedoeld in artikel 2 lid 1 categorie II onder 7 van de Wet wapens
+
+en munitie, te weten een handgranaat, zijnde (een) voorwerp(en) bestemd voor
+
+het treffen van personen of zaken door vuur of door middel van ontploffing,
+
+voorhanden heeft gehad;
+
+art 26 lid 1 Wet wapens en munitie
+
+5.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+voorhanden heeft gehad:
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 38 SPL,
+
+kaliber 38, bodemstempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECK, 38 SPL,
+
+kaliber 357 MAG, bodemstempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 357 MAGNUM,
+
+kaliber 357, bodem stempel CBC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: MAGTECH, 357 MAGNUM,
+
+kaliber 357, bodemstempel CBC) en/of
+
+- 125 althans één of meer kogelpatronen (merkopschrift: SELLIER&BELLOT, 9 mm
+
+Browning Court, kaliber 9 mm Br.K 380 Auto, bodemstempel S &B), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift: PMC, 380 AUTO, kaliber
+
+380 AUTO, bodemstempel PMC), en/of
+
+- 50 althans één of meer kogelpatronen (merkopschrift PMC .45 COLT, kaliber
+
+.45 Colt, bodemstempel PMC),
+
+in elk geval munitie in de zin van de Wet Wapens en Munitie van categorie III;
+
+art 26 lid 1 Wet wapens en munitie
+
+6.
+
+Zaaksdossier E33
+
+hij op of omstreeks 02 oktober 2012 te Apeldoorn, althans in Nederland,
+
+een wapen, van categorie I, onder 1° of 3°, te weten een boksbeugel voorhanden heeft gehad en/of heeft gedragen;
+
+art 13 lid 1 Wet wapens en munitie
