@@ -30,7 +30,7 @@ zaaknummer: ROT 15/1360
 
 uitspraak van de meervoudige kamer van 1 oktober 2015 in de zaak tussen
 
-[naam], te [plaats], eiseres,
+[naam] , te [plaats] , eiseres,
 gemachtigde: mr. M.M. van Daalhuizen,
 
 en
@@ -123,7 +123,7 @@ c. de betrokkene heeft wel inlichtingen verstrekt, die echter onjuist of onvolle
 
 11. Verweerder heeft aldus een nader standpunt ingenomen over de hoogte van de boete. Het beroep is dan ook gegrond. Het bestreden besluit dient in zoverre te worden vernietigd wegens strijd met artikel 3:2 (vanwege het niet toepassen van de matiging van 5%) en artikel  5:46, tweede lid, (vanwege de nieuwe berekening van de boetehoogte) van de Awb.
 
-12. Verweerder heeft niet een vervangend besluit genomen als bedoeld in artikel 6:19, eerste lid, van de Awb. Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid (https://www.navigator.nl/), aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
+12. Verweerder heeft niet een vervangend besluit genomen als bedoeld in artikel 6:19, eerste lid, van de Awb. Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid, aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
 
 De boete voor gedragingen in de periode tot 1 januari 2013
 
