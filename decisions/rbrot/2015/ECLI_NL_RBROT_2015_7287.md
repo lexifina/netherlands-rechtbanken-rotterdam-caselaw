@@ -28,11 +28,11 @@ zaaknummer: ROT 14/8887
 
 uitspraak van de meervoudige kamer van 15 oktober 2015 in de zaak tussen
 
-[naam], eiser, en
+[naam] , eiser, en
 
-[naam], eiseres (samen te noemen eisers),
+[naam] , eiseres (samen te noemen eisers),
 
-beiden wonende te Rotterdam
+beiden wonende te [woonplaats]
 
 gemachtigde: mr. P. Hanenberg,
 
@@ -58,7 +58,7 @@ Overwegingen
 
 Eisers ontvingen vanaf 2 februari 2010 een bijstandsuitkering van verweerder.
 
-Naar aanleiding van een melding dat eiser zwart zou werken in een garage in Schiedam, heeft verweerder onderzoek laten instellen naar de financiële situatie van eisers. In het kader van dat onderzoek heeft verweerder eisers uitgenodigd om tijdens een gesprek op 31 januari 2014 gegevens over te leggen en vervolgens vastgesteld dat op de ingeleverde bankafschriften acht stortingen zichtbaar zijn op eigen rekening (NL16INGB0003209656), waarvan één storting, de storting op 3 oktober 2013 van € 650,-, voldoende is verklaard.
+Naar aanleiding van een melding dat eiser zwart zou werken in een garage in [plaats] , heeft verweerder onderzoek laten instellen naar de financiële situatie van eisers. In het kader van dat onderzoek heeft verweerder eisers uitgenodigd om tijdens een gesprek op 31 januari 2014 gegevens over te leggen en vervolgens vastgesteld dat op de ingeleverde bankafschriften acht stortingen zichtbaar zijn op eigen rekening ( [rekeningnummer] ), waarvan één storting, de storting op 3 oktober 2013 van € 650,-, voldoende is verklaard.
 
 1.2.
 
@@ -104,7 +104,7 @@ c. de betrokkene heeft wel inlichtingen verstrekt, die echter onjuist of onvolle
 
 6.1.
 
-Vaststaat dat op de betaalrekening van eiser met het nummer NL16INGB0003209656 in de periode van 31 januari 2013 tot en met 29 januari 2014 zeven stortingen zijn verricht en dat eisers deze stortingen niet onverwijld en uit eigen beweging bij verweerder hebben gemeld. Naar het oordeel van de rechtbank had het eisers redelijkerwijs duidelijk moeten zijn dat deze stortingen van invloed kunnen zijn op het recht op bijstand, zodat eisers de op hen rustende inlichtingenplicht hebben geschonden.
+Vaststaat dat op de betaalrekening van eiser met het nummer [rekeningnummer] in de periode van 31 januari 2013 tot en met 29 januari 2014 zeven stortingen zijn verricht en dat eisers deze stortingen niet onverwijld en uit eigen beweging bij verweerder hebben gemeld. Naar het oordeel van de rechtbank had het eisers redelijkerwijs duidelijk moeten zijn dat deze stortingen van invloed kunnen zijn op het recht op bijstand, zodat eisers de op hen rustende inlichtingenplicht hebben geschonden.
 
 6.2.
 
@@ -130,7 +130,7 @@ Verweerder heeft hiermee een nader standpunt ingenomen over de hoogte van de boe
 
 8.1.
 
-Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid (https://www.navigator.nl/), aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
+Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid, aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
 
 8.2.
 
