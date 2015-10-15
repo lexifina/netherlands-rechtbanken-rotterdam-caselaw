@@ -101,7 +101,7 @@ Op grond van artikel 2, eerste lid, van het Boetebesluit socialezekerheidswetten
 
 7. Verweerder heeft hiermee een nader standpunt ingenomen over de hoogte van de boete. Het beroep is dan ook gegrond. Het bestreden besluit dient in zoverre te worden vernietigd wegens strijd met artikel 5:46, tweede lid, van de Algemene wet bestuursrecht (Awb).
 
-8. Verweerder heeft niet een vervangend besluit genomen als bedoeld in artikel 6:19, eerste lid, van de Awb. Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid (https://www.navigator.nl/), aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
+8. Verweerder heeft niet een vervangend besluit genomen als bedoeld in artikel 6:19, eerste lid, van de Awb. Uit een oogpunt van finale geschilbeslechting ziet de rechtbank aanleiding om zelf in de zaak te voorzien als bedoeld in artikel 8:72, derde lid, aanhef en onder b, in samenhang met artikel 8:72a van de Awb. De rechtbank overweegt daartoe als volgt.
 
 8.1.
 
