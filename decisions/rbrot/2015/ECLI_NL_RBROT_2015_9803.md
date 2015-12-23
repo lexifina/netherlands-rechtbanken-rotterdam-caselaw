@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2015:9803"
-published_in: ["Rechtspraak.nl", "AR 2016/19", "PJ 2016/37", "RAR 2016/60", "JAR 2016/30 met annotatie van dr. I. Zaal", "AR-Updates.nl 2016-0020", "PR-Updates.nl AR-2016-0020", "XpertHR.nl 2016-415006"]
+published_in: ["Rechtspraak.nl", "AR 2016/19", "PJ 2016/37", "RAR 2016/60", "JAR 2016/30 met annotatie van dr. I. Zaal", "AR-Updates.nl 2016-0020", "PR-Updates.nl AR-2016-0020", "Brightmine 2016-415006", "PR-Updates.nl 2016-0020"]
 cites_law: ["netherlands/national/acts/pensioenwet/art-023.md", "netherlands/national/acts/pensioenwet/art-032.md", "netherlands/national/acts/wet-op-de-ondernemingsraden/art-027.md", "netherlands/national/acts/wet-op-de-ondernemingsraden/art-032.md"]
 ---
 
