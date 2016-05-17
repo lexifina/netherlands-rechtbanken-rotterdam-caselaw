@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2016:3682"
-published_in: ["Rechtspraak.nl", "AR 2016/1509", "AR-Updates.nl 2016-0567", "PR-Updates.nl AR-2016-0567"]
+published_in: ["Rechtspraak.nl", "AR 2016/1509", "AR-Updates.nl 2016-0567", "PR-Updates.nl AR-2016-0567", "PR-Updates.nl 2016-0567"]
 ---
 
 # ECLI:NL:RBROT:2016:3682 Rechtbank Rotterdam , 17-05-2016 / 4096507
