@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2016:4364"
-published_in: ["Rechtspraak.nl", "AR 2016/1656", "AR 2016/1889", "PJ 2016/105", "AR-Updates.nl 2016-0621", "XpertHR.nl 2016-416773", "PR-Updates.nl AR-2016-0621"]
+published_in: ["Rechtspraak.nl", "AR 2016/1656", "AR 2016/1889", "PJ 2016/105", "AR-Updates.nl 2016-0621", "PR-Updates.nl AR-2016-0621", "Brightmine 2016-416773", "PR-Updates.nl 2016-0621"]
 ---
 
 # ECLI:NL:RBROT:2016:4364 Rechtbank Rotterdam , 08-06-2016 / C/10/488376 / HA ZA 15-1125
