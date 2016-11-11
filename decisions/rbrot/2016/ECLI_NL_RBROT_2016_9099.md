@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2016:9099"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-1346", "PR-Updates.nl AR-2016-1346"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-1346", "PR-Updates.nl AR-2016-1346", "PR-Updates.nl 2016-1346"]
 ---
 
 # ECLI:NL:RBROT:2016:9099 Rechtbank Rotterdam , 11-11-2016 / 5112036 CV EXPL 16-22471
