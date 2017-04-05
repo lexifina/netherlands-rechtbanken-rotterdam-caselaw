@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "NJFS 2017/109"]
 
 ## Inhoudsindicatie
 
-Vrijspraak van valsheid in geschrift in verband met PGB-fraude.
+Niet-ontvankelijkverklaring van de officier van justitie. In een eerder stadium van de zaak heeft de raadkamer beslist dat aan de verdediging inzage moet worden gegeven in TCI-journaals. Er hebben zich geen omstandigheden voorgedaan die de rechtbank thans anders doet oordelen. Met de weigering van het openbaar ministerie tot het uitvoeren van een door de raadkamer gegeven bevel, is sprake van een schending van de verhouding tussen de rechterlijke macht en het openbaar ministerie die de kern van het wettelijk systeem aantast.
 
 ## Uitspraak
 
