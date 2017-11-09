@@ -1,0 +1,337 @@
+---
+ecli: "ECLI:NL:RBROT:2017:9160"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "10/741200-17"
+decided: "2017-11-09"
+published: "2017-11-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2017:9160"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2017:9160 Rechtbank Rotterdam , 09-11-2017 / 10/741200-17
+
+## Inhoudsindicatie
+
+Rellen na de wedstrijd Excelsior – Feijenoord op 7 mei 2017. Openlijk geweld bewezen.
+
+Taakstraf van 240 uur met aftrek; daarnaast 1 maand gevangenisstraf voorwaardelijk met een proeftijd van 2 jaar. In deze zaak een hogere taakstraf dan in andere zaken betreffende deze rellen, omdat er meer feiten zijn bewezen. Om die reden en vanwege het strafblad van de verdachte ook een voorwaardelijke gevangenisstraf, ter beperking van het herhalingsgevaar.
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team straf 1
+
+Parketnummer: 10/741200-17
+
+Datum uitspraak: 9 november 2017
+
+Tegenspraak
+
+Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak tegen de verdachte:
+
+[naam verdachte] ,
+
+geboren te [geboorteplaats verdachte] op [geboortedatum verdachte] ,
+
+ingeschreven in de basisregistratie personen op het adres:
+
+[adres verdachte] , [woonplaats verdachte] ,
+
+raadsvrouw mr. F. Bouyaghjdane, advocaat te Rotterdam.
+
+1
+Onderzoek op de terechtzitting
+
+Gelet is op het onderzoek op de terechtzitting van 26 oktober 2017.
+
+2
+Tenlastelegging
+
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding. De tekst van de tenlastelegging is als bijlage I aan dit vonnis gehecht.
+
+3
+Eis officier van justitie
+
+De officier van justitie mr. E. Harbers heeft gevorderd:
+
+bewezenverklaring van het onder 1 en 2 tenlastegelegde;
+
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 3 maanden voorwaardelijk met een proeftijd van 2 jaar, alsmede een taakstraf voor de duur van 240 uur, subsidiair 120 dagen vervangende hechtenis, met aftrek van de tijd die verdachte in voorlopige hechtenis heeft doorgebracht.
+
+4
+Waardering van het bewijs
+
+4.1.
+
+Standpunt van de verdediging
+
+Er is onvoldoende wettig en overtuigend bewijs dat verdachte de ten laste gelegde handelingen heeft verricht. De verdachte ontkent dit. Er zijn twee processen-verbaal van verbalisanten die zouden hebben gezien dat de verdachte – volledig in het zwart gekleed –  te midden van een zeer grote groep personen deze handelingen zou hebben verricht. Het is dus  maar de vraag of zij de verdachte met zekerheid hebben kunnen herkennen en hoe goed zij hebben kunnen waarnemen wat de verdachte deed. Er zijn bovendien geen beelden waarop de verdachte is te zien. Er dient daarom vrijspraak te volgen.
+
+4.2.
+
+Bewijsoverweging
+
+Op 7 mei 2017 werd in het stadion van Excelsior een wedstrijd gespeeld tussen Excelsior en Feyenoord. Feyenoord kon bij een overwinning het landskampioenschap veiligstellen. Op verschillende plaatsen in het centrum van Rotterdam waren schermen geplaatst zodat de vele bezoekers voor wie geen plaats in het stadion was, de wedstrijd konden volgen. Na de rust liep Feyenoord een achterstand op en ontstonden er ongeregeldheden in het centrum van Rotterdam.
+
+Tegen het eind van de wedstrijd werd de ME van het ene op het andere moment bekogeld met flessen, stenen en ander materiaal, waaronder verkeersborden, hekken en straatmeubilair. Op de Coolsingel werden straatstenen uit het trottoir gewrikt en werd er met zwaar vuurwerk gegooid. Ook op de andere locaties in het centrum – waaronder de Korte Lijnbaan – werd de ME bekogeld door de supporters en werden vernielingen aangericht. Van deze ongeregeldheden zijn videobeelden gemaakt, die door verbalisanten zijn bekeken. Sommige verdachten zijn ter plaatse aangehouden, anderen zijn op de videobeelden herkend of hebben zichzelf gemeld nadat hun foto op de website van de politie was geplaatst. Ook deze verdachten zijn vervolgens aangehouden.
+
+Aan alle verdachten die op 26 oktober 2017 terechtstonden, is ten laste gelegd dat zij openlijk in vereniging geweld hebben gepleegd in verschillende straten in het centrum van Rotterdam. Voor een bewezenverklaring van openlijke geweldpleging dient het medeplegen van (openlijk) geweld te worden vastgesteld. Dat wil zeggen dat dit geweld in nauwe en bewuste samenwerking gepleegd moet zijn. Het opzet van de dader moet derhalve gericht zijn op het geweld en zijn bijdrage daaraan en hij moet aan het geweld hebben bijgedragen door hetzij zelf geweld te gebruiken, hetzij – bij gebreke daaraan – een wezenlijke bijdrage te leveren aan het geweld van anderen. Het enkel deel uitmaken van een groep waarvan geweld uitgaat, is op zichzelf niet voldoende voor bewezenverklaring.
+
+Verbalisant [naam verbalisant] zag de verdachte na afloop van de wedstrijd in een groep van ongeveer 15 mensen weglopen in de richting van de Coolsingel. Op dat moment werd door de ME op de Coolsingel opgetreden. Verbalisant zag dat de verdachte tegen de groep riep: “Kom! Daarheen!” en daarbij een “kom mee”- gebaar maakte, waarop de groep in de richting van de Coolsingel rende. Op dat moment stond de ME daar in een linie. De verdachte stond voor die linie. Verbalisant [naam verbalisant] zag en hoorde dat de verdachte met beide handen in de lucht stond en riep: “Rotterdam Hooligans”. Nadat de ME een charge had uitgevoerd, zag verbalisant [naam verbalisant] dat de verdachte riep: “Kom mee die kant op” en daarbij wees in de richting van de ME, waarop hij samen met een groep in die richting rende.
+
+Ook een andere verbalisant ( [code verbalisant] ) zag de verdachte op de Coolsingel in het midden van een groep, die flessen en stenen naar de ME gooide. Deze verbalisant zag dat de verdachte met de groep in de richting van de ME liep. Ook zag hij dat de verdachte een fles gooide en trapte in de richting van een ME-bus. De verdachte maakte deel uit van de groep, ook op het moment dat er hekken werden gepakt om naar de ME te gooien, aldus de verbalisant.
+
+De verdachte heeft ter terechtzitting verklaard dat hij zich met een aantal vrienden bevond in een grote groep. Tevens heeft hij verklaard dat vanuit die groep spullen werden gegooid, maar dat hij zelf geen bijdrage heeft geleverd aan de openlijke geweldpleging. De rechtbank ziet evenwel geen enkele reden om te twijfelen aan de twee afzonderlijk opgemaakte processen-verbaal van bevindingen van de verbalisanten over zowel de herkenning van verdachte als de (gewelds)handelingen die hij heeft verricht. Op basis van die processen-verbaal komt de rechtbank tot een bewezenverklaring van de ten laste gelegde openlijke geweldpleging en opruiing.
+
+Daarbij geldt dat de verdachte (gewelds)handelingen verrichtte op een moment dat ook anderen voorwerpen naar ME-agenten, -paarden of -bussen gooiden. Dit kan hem niet ontgaan zijn. Hij droeg met zijn handelen bij aan de gewelddadige stemming ter plaatse. Hieruit volgt dat verdachtes opzet zich (ook) uitstrekte tot het geweld dat anderen op dezelfde locatie pleegden. Ook dat geweld kan hem daarom worden toegerekend en wordt bewezen verklaard. Die toerekening gaat niet zo ver dat verdachte verantwoordelijk kan worden gehouden voor geweld dat op andere plekken in de stad gepleegd werd. In zoverre zal de verdachte worden vrijgesproken.
+
+Voorts zal de verdachte worden vrijgesproken van het onder 2 ten laste gelegde medeplegen (“tezamen en in vereniging met één of meer anderen”), nu het dossier daarvoor geen aanwijzingen bevat.
+
+4.3.
+
+Bewezenverklaring
+
+De rechtbank heeft de inhoud van wettige bewijsmiddelen opgenomen, houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Op grond daarvan, en op grond van de redengevende inhoud van het voorgaande, is wettig en overtuigend bewezen dat de verdachte het onder 1 en 2 tenlastegelegde heeft begaan op die wijze dat:
+
+1.
+
+hij op 7 mei 2017 te Rotterdam
+
+openlijk in vereniging geweld heeft gepleegd tegen personen en/of goederen.
+
+welk geweld bestond uit het meermalen, (telkens) (met kracht)
+
+in de richting van politie-agenten en/of politievoertuigen
+
+gooien met glazen flesjes en/of blikjes en/of stenen en/of
+
+stoeptegels  en/of hekken en/of verkeersborden en/of vuurwerk en/of andere voorwerpen
+
+en/of
+
+op luide toon roepen van de woorden: "Rotterdam Hooligans".
+
+2.
+
+hij op 07 mei 2017 te Rotterdam, in het openbaar mondeling
+
+tot enig strafbaar feit en/of gewelddadig optreden tegen het openbaar gezag
+
+heeft opgeruid door terwijl er charges gaande waren van de ME in verband met de openlijke
+
+geweldpleging tegen politieambtenaren in het centrum van Rotterdam rondom de
+
+Coolsingel:
+
+- tegen een groep te roepen (en te gebaren) "Kom!! Daarheen!!" waarna
+
+vervolgens de groep in de door hem aangegeven richting, namelijk richting de
+
+ME-linie, rende en
+
+- voor de ME-linie staand met beide handen in de lucht te roepen "Rotterdam
+
+hooligans" en
+
+- zodra de ME-charge ophield, met de handen in de richting van de ME te
+
+wijzen en tegen een groep mensen te roepen "Kom mee die kant op!" waarop de
+
+groep mensen (inderdaad) in de richting van de ME rende.
+
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+5
+Strafbaarheid feiten
+
+De bewezen feiten leveren op:
+
+1.
+
+openlijk in vereniging geweld plegen tegen personen en goederen;
+
+2.
+
+het in het openbaar, mondeling tot enig strafbaar feit en/of gewelddadig optreden tegen het openbaar gezag opruien.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. De feiten zijn dus strafbaar.
+
+6
+Strafbaarheid verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+7
+Motivering straf
+
+7.1.
+
+Feiten waarop de straf is gebaseerd
+
+7 mei 2017 had een feestelijke dag moeten worden voor Feyenoord, de supporters van die club en de stad Rotterdam. Helaas bleek ook nu dat de gezegden “voetbal is oorlog” en “geen woorden maar daden” door velen verkeerd worden begrepen. Feyenoord verloor van Excelsior en moest daardoor nog een week op de landstitel wachten. Meteen na de wedstrijd sloeg de vlam in de pan. Het centrum van Rotterdam werd een slagveld, waar ME’ers werden belaagd door relschoppers. Niet alleen de ME’ers, maar ook politiepaarden en politievoertuigen werden bekogeld met stenen, flessen, blikjes, vuurwerk en andere voorwerpen. Er werden vernielingen aangericht. Er klonken opruiende spreekkoren als “Rotterdam hooligans” en “Hamas Hamas, Joden aan het gas”. De beelden die in de dossiers zijn beschreven en deels ter zitting zijn getoond, laten menigten zien die uit zijn op rellen, en daardoor de politie verhinderen de openbare orde te handhaven. De verdachten en de andere relschoppers hebben door hun bijdragen aan de gewelddadigheden Feyenoord in het bijzonder en het voetbal in het algemeen een slechte dienst bewezen.
+
+De rol van de verdachte bestond niet alleen uit het getalsmatig versterken van de groep relschoppers op de Coolsingel, maar tevens uit het gooien van een fles naar de politie. Daarnaast heeft hij zich schuldig gemaakt aan het meermalen opruien van een groep personen om zich tegen de ME te keren. Ook heeft de verdachte bijgedragen aan de voornoemde spreekkoren. De verdachte heeft zich daarmee niet alleen schuldig gemaakt aan openlijke geweldpleging maar ook aan opruiing.
+
+7.2.
+
+Algemene strafmotivering
+
+Het is de rechtbank opgevallen dat geen van de verdachten die op 26 oktober 2017 terechtstonden, een redelijke verklaring heeft kunnen geven voor zijn of haar betrokkenheid bij de rellen. Bij velen speelde overmatig drankgebruik een rol. Sommigen hebben psychische problemen of een beperkt denkvermogen. Veel verdachten hebben verklaard dat zij zich “hebben laten meeslepen” door de groep waarin zij verkeerden. Dit alles vormt geen enkel excuus voor de bijdrage die elk van de verdachten aan het geweld heeft geleverd. Het is buitengewoon zorgelijk te noemen dat ook verdachten die hun leven goed op orde lijken te hebben, zich niet kunnen beheersen en hun baan, opleiding of toekomstperspectief in gevaar brengen door deel te nemen aan openlijke geweldpleging.
+
+Sommige verdachten hebben verklaard dat zij klappen van de ME hebben gekregen of zagen dat anderen door ME’ers werden geslagen. Wat daarvan zij, dit is geen excuus voor geweld tegen politieambtenaren. De politie heeft de taak om waar nodig de orde te herstellen en mag daartoe geweld gebruiken. Wanneer een burger vindt dat hij het slachtoffer is geworden van buitenproportioneel politiegeweld, dan kan hij daarover klagen bij de bevoegde instanties. Geweld tegen politieambtenaren, die de hun opgedragen taak uitoefenen, is nooit te rechtvaardigen en leidt bovendien alleen maar tot verdere escalatie.
+
+De officier van justitie heeft tegen de volwassen verdachten taakstraffen geëist, variërend van 180 tot 240 uur, met daarnaast een voorwaardelijke gevangenisstraf.
+
+Met de officier van justitie is de rechtbank van oordeel dat een krachtig signaal moet worden afgegeven dat openlijke geweldpleging als op 7 mei op verschillende plaatsen in de stad plaatsvond volstrekt onaanvaardbaar is. Anders dan de officier van justitie vindt de rechtbank echter dat bij de strafoplegging recht moet worden gedaan aan het beginsel “gelijke monniken, gelijke kappen”. De meeste verdachten hebben immers vergelijkbare handelingen verricht, zoals het gooien van één of meer voorwerpen richting politieambtenaren, politievoertuigen of politiepaarden. Bovendien neemt de rechtbank de verdachten niet alleen hun eigen handelingen kwalijk. Het gaat er ook om, dat zij allen door die gedragingen een bijdrage hebben geleverd aan een sfeer waarin geweld tegen politiemensen gewoon werd gevonden, en daarmee anderen tot dergelijk geweld aanzetten.
+
+De rechtbank houdt als uitgangspunt een onvoorwaardelijke taakstraf van forse duur aan. Naar het oordeel van de rechtbank sluit dat aan bij de straffen die in soortgelijke zaken zijn opgelegd. Voor zover verdachten een aanmerkelijk grotere bijdrage aan de gewelddadigheden hebben geleverd of die meer feiten hebben gepleegd, zal een hogere straf worden opgelegd.
+
+De rechtbank houdt bij de strafoplegging voorts rekening met de persoonlijke omstandigheden van iedere verdachte, zoals die tijdens de politieverhoren, in reclasseringsrapporten en tijdens de zitting naar voren zijn gekomen. Alleen in die gevallen waarin er ook volgens de reclassering een verhoogd herhalingsgevaar bestaat, wordt een deels voorwaardelijke taakstraf opgelegd, waar nodig met bijzondere voorwaarden.
+
+7.3.
+
+Persoonlijke omstandigheden van de verdachte
+
+De rechtbank heeft acht geslagen op een uittreksel uit de justitiële documentatie van 29 september 2017, waaruit blijkt dat de verdachte eerder, te weten in 2012, is veroordeeld voor onder andere openlijke geweldpleging.
+
+Reclassering Nederland heeft een rapport over de verdachte opgemaakt, gedateerd 10 mei 2017. De rechtbank heeft kennis genomen van dit rapport.
+
+Nu de verdachte voor twee feiten zal worden veroordeeld (waaronder ook de opruiing van andere relschoppers) en relevante justitiële documentatie heeft, acht de rechtbank in zijn geval oplegging van zowel een voorwaardelijke gevangenisstraf als een taakstraf passend en geboden. Het opleggen van een geldboete, zoals door de verdediging bepleit, doet naar het oordeel van de rechtbank onvoldoende recht aan de ernst van de feiten.
+
+7.4.
+
+Conclusies van de rechtbank
+
+Alles afwegend acht de rechtbank een voorwaardelijke gevangenisstraf voor de duur van 1 maand en een taakstraf voor de duur van 240 uur passend en geboden.
+
+8
+Toepasselijke wettelijke voorschriften
+
+Gelet is op de artikelen 9, 14a, 14b, 14c, 22c, 22d, 57, 131 en 141 van het Wetboek van Strafrecht.
+
+9
+Bijlagen
+
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+10
+Beslissing
+
+De rechtbank:
+
+verklaart bewezen, dat de verdachte de onder 1 en 2 ten laste gelegde feiten, zoals hiervoor omschreven, heeft begaan;
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+
+stelt vast dat het bewezen verklaarde oplevert de hiervoor vermelde strafbare feiten;
+
+verklaart de verdachte strafbaar;
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van 1 (één) maand;
+
+bepaalt dat deze gevangenisstraf niet ten uitvoer zal worden gelegd, tenzij de rechtbank later anders mocht gelasten, omdat de veroordeelde voor het einde van de proeftijd, die hierbij wordt gesteld op 2 (twee) jaar, zich schuldig maakt aan enig strafbaar feit;
+
+veroordeelt de verdachte tot een taakstraf voor de duur van 240 (tweehonderdveertig) uren, waarbij de Reclassering Nederland dient te bepalen uit welke werkzaamheden de taakstraf dient te bestaan;
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, bij de uitvoering van de opgelegde taakstraf in mindering wordt gebracht volgens de maatstaf van twee uren per dag, zodat na deze aftrek 220 (tweehonderdtwintig) uren te verrichten taakstraf resteert;
+
+beveelt dat, voor het geval de veroordeelde de taakstraf niet naar behoren verricht, vervangende hechtenis zal worden toegepast voor de duur van 110 (honderdtien) dagen;
+
+heft op het geschorste bevel tot voorlopige hechtenis van de verdachte.
+
+Dit vonnis is gewezen door:
+
+mr. E.M. Havik, voorzitter,
+
+en mrs. M.M. Koevoets en L. Amperse, rechters,
+
+in tegenwoordigheid van mr. M.E.G. Busemeijer genaamd Lagemann, griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank op de datum die in de kop van dit vonnis is vermeld.
+
+Bijlage I
+
+Tekst tenlastelegging
+
+Aan de verdachte wordt ten laste gelegd dat
+
+1.
+
+hij op of omstreeks 7 mei 2017 te Rotterdam
+
+openlijk in vereniging geweld heeft gepleegd tegen personen en/of goederen.
+
+welk geweld bestond uit het meermalen, althans eenmaal (telkens) (met kracht)
+
+in de richting van één of meer politie-agent(en) en/of politievoertuig(en)
+
+-gooien met (een) (glazen) flesje(s) en/of blikjes en/of ste(e)n(en) en/of
+
+(een) stoeptegel(s) en/of (een) fiets(en) en/of (een) pilon en/of (een)
+
+hek(ken) en/of (een) ijzeren pa(a)l(en) en/of (een) verkeersbord(en) en/of
+
+(een) (plastic) stoel(en) en/of (een) reclamebord(en) en/of (een) brandende
+
+fakkel(s) en/of vuurwerk en/of (een) ander(e) voorwerp(en)
+
+en/of
+
+-zoeken van de confrontatie met de politie en/of vertonen van agressief
+
+gedrag en/of op luide (agressieve) toon roepen van de woorden: "Rotterdam
+
+Hooligans". en/of "Kankerjoden", althans woorden van gelijke (opruiende) aard
+
+en/of strekking
+
+en/of
+
+-trappen tegen (een) hek(ken) en/of (een) ME-bus(sen).
+
+2.
+
+hij op of omstreeks 07 mei 2017 te Rotterdam, tezamen en in vereniging met een
+
+of meer anderen, althans alleen,
+
+in het openbaar mondeling
+
+tot enig strafbaar feit en/of gewelddadig optreden tegen het openbaar gezag
+
+heeft opgeruid door
+
+- terwijl er charges gaande waren van de ME in verband met de openlijke
+
+geweldpleging tegen politieambtenaren in het centrum van Rotterdam rondom de
+
+Coolsingel - :
+
+- tegen een groep te roepen (en te gebaren) "Kom!! Daarheen!!" waarna
+
+vervolgens de groep in de door hem aangegeven richting, namelijk richting de
+
+ME-linie, rende en/of
+
+- voor de ME-linie staand met beide handen in de lucht te roepen "Rotterdam
+
+hooligans" en/of
+
+- zodra de ME-charge ophield, met de handen in de richting van de ME te
+
+wijzen en tegen een groep mensen te roepen "Kom mee die kant op!" waarop de
+
+groep mensen (inderdaad) in de richting van de ME rende.
+
+Proces-verbaal van bevindingen [proces-verbaalnummer 1] , blad 3: “Omstreeks 16:10 uur barstte de bom en werden de eenheden van de BIOO vanuit het niets bekogeld met flessen, stenen en ander gooimateriaal, waaronder verkeersborden, hekken en ander straatmeubilair. Ik zag dat op de Coolsingel straatstenen uit het trottoir werden getrokken. Ook werd met zeer zwaar vuurwerk gegooid.”
+
+Proces-verbaal van bevindingen [proces-verbaalnummer 1] , blad 3: “Het geweld was gericht tegen ons als politie. Op diverse locaties in het centrum werd er in linie opgetreden en geweld toegepast tegen supporters welke de ME bekogelden en vernielingen aanrichtten. De ME werd bijgestaan door de beredenen, de hondenbrigade en de waterwerpers. Voor het aanwenden van het geweld was veelvuldig gewaarschuwd. De B101 heeft opgetreden op de Coolsingel in de richting van West Blaak. De B102 heeft opgetreden op de Lijnbaan en de Korte Lijnbaan.
+
+Proces-verbaal van bevindingen, nummer [proces-verbaalnummer 2] , blad 1.
+
+Proces-verbaal van bevindingen, nummer [proces-verbaalnummer 3] , blad 1.
