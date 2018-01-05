@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:121"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0116", "PR-Updates.nl PR-2018-0005"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0116", "PR-Updates.nl PR-2018-0005", "VAAN-AR-Updates.nl 2020-0116", "PR-Updates.nl 2018-0005"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:25"]]
 ---
 
