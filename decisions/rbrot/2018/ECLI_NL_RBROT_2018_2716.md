@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBROT:2018:2716"
 court: "Rechtbank Rotterdam"
 court_code: "RBROT"
-docket: "Zaaknummer/rekestnummer C/10/538224 / FA RK 17-9100"
+docket: "C/10/538224 / FA RK 17-9100"
 decided: "2018-02-01"
 published: "2018-04-05"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:271
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBROT:2018:2716 Rechtbank Rotterdam , 01-02-2018 / Zaaknummer/rekestnummer C/10/538224 / FA RK 17-9100
+# ECLI:NL:RBROT:2018:2716 Rechtbank Rotterdam , 01-02-2018 / C/10/538224 / FA RK 17-9100
 
 ## Inhoudsindicatie
 
