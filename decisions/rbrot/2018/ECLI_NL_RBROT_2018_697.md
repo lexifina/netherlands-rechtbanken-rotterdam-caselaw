@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:697"
-published_in: ["Rechtspraak.nl", "PJ 2018/45", "AR-Updates.nl 2018-0261", "PR-Updates.nl PR-2018-0017"]
+published_in: ["Rechtspraak.nl", "PJ 2018/45", "AR-Updates.nl 2018-0261", "PR-Updates.nl PR-2018-0017", "VAAN-AR-Updates.nl 2018-0261", "PR-Updates.nl 2018-0017"]
 ---
 
 # ECLI:NL:RBROT:2018:697 Rechtbank Rotterdam , 09-02-2018 / 5590176
