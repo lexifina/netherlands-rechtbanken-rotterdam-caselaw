@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:999"
-published_in: ["Rechtspraak.nl", "PJ 2018/51 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2018-0014"]
+published_in: ["Rechtspraak.nl", "PJ 2018/51 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2018-0014", "PR-Updates.nl 2018-0014"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2019:62, Overig"]]
 ---
 
