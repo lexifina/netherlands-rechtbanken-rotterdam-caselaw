@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:1767"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0342", "PR-Updates.nl PR-2018-0036"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0342", "PR-Updates.nl PR-2018-0036", "VAAN-AR-Updates.nl 2018-0342", "PR-Updates.nl 2018-0036"]
 ---
 
 # ECLI:NL:RBROT:2018:1767 Rechtbank Rotterdam , 01-03-2018 / 6527901 \ CV FORM 17-43020
