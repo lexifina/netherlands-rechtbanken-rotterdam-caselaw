@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:2077"
-published_in: ["Rechtspraak.nl", "PJ 2018/94", "INS-Updates.nl 2018-0123", "PR-Updates.nl PR-2018-0040"]
+published_in: ["Rechtspraak.nl", "PJ 2018/94", "INS-Updates.nl 2018-0123", "PR-Updates.nl PR-2018-0040", "PR-Updates.nl 2018-0040"]
 ---
 
 # ECLI:NL:RBROT:2018:2077 Rechtbank Rotterdam , 08-03-2018 / 5974864 CV EXPL 17-3495
