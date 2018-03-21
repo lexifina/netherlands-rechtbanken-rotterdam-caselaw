@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:2357"
-published_in: ["Rechtspraak.nl", "PJ 2018/85", "PR-Updates.nl PR-2018-0042"]
+published_in: ["Rechtspraak.nl", "PJ 2018/85", "PR-Updates.nl PR-2018-0042", "PR-Updates.nl 2018-0042"]
 ---
 
 # ECLI:NL:RBROT:2018:2357 Rechtbank Rotterdam , 21-03-2018 / C/10/539446 / HA ZA 17-1095
