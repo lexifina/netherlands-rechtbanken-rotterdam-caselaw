@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:2531"
-published_in: ["Rechtspraak.nl", "PJ 2018/97", "PR-Updates.nl PR-2018-0051"]
+published_in: ["Rechtspraak.nl", "PJ 2018/97", "PR-Updates.nl PR-2018-0051", "PR-Updates.nl 2018-0051"]
 ---
 
 # ECLI:NL:RBROT:2018:2531 Rechtbank Rotterdam , 28-03-2018 / C/10/525900 / HA ZA 17-415
