@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:3402"
-published_in: ["Rechtspraak.nl", "PJ 2018/115", "PR-Updates.nl PR-2018-0063"]
+published_in: ["Rechtspraak.nl", "PJ 2018/115", "PR-Updates.nl PR-2018-0063", "PR-Updates.nl 2018-0063"]
 ---
 
 # ECLI:NL:RBROT:2018:3402 Rechtbank Rotterdam , 25-04-2018 / C/10/486634 / HA ZA 15-1052
