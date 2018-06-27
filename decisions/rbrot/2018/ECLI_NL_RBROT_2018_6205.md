@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:6205"
-published_in: ["Rechtspraak.nl", "PJ 2018/157", "JOR 2018/294 met annotatie van mr. dr. A.J. Tekstra", "JONDR 2018/895", "OR-Updates.nl 2018-0136", "INS-Updates.nl 2018-0188", "PR-Updates.nl PR-2018-0095", "AR-Updates.nl 2020-0318"]
+published_in: ["Rechtspraak.nl", "PJ 2018/157", "JOR 2018/294 met annotatie van mr. dr. A.J. Tekstra", "JONDR 2018/895", "OR-Updates.nl 2018-0136", "INS-Updates.nl 2018-0188", "PR-Updates.nl PR-2018-0095", "AR-Updates.nl 2020-0318", "VAAN-AR-Updates.nl 2020-0318", "PR-Updates.nl 2018-0095"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:269"]]
 ---
 
