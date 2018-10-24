@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:9530"
-published_in: ["Rechtspraak.nl", "PJ 2019/83", "PR-Updates.nl PR-2019-0007", "FJR 2020/32.10"]
+published_in: ["Rechtspraak.nl", "PJ 2019/83", "PR-Updates.nl PR-2019-0007", "FJR 2020/32.10", "PR-Updates.nl 2019-0007"]
 ---
 
 # ECLI:NL:RBROT:2018:9530 Rechtbank Rotterdam , 24-10-2018 / C/10/545996 / HA ZA 18-230
