@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:10856"
-published_in: ["Rechtspraak.nl", "PJ 2019/44", "JONDR 2019/187", "PR-Updates.nl PR-2019-0008", "AR-Updates.nl 2020-0317"]
+published_in: ["Rechtspraak.nl", "PJ 2019/44", "JONDR 2019/187", "PR-Updates.nl PR-2019-0008", "AR-Updates.nl 2020-0317", "VAAN-AR-Updates.nl 2020-0317", "PR-Updates.nl 2019-0008"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:269"]]
 ---
 
