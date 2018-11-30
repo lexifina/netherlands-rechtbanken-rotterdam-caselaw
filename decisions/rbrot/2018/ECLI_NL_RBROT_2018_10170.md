@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:10170"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1410", "PR-Updates.nl PR-2018-0156"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1410", "PR-Updates.nl PR-2018-0156", "VAAN-AR-Updates.nl 2018-1410", "PR-Updates.nl 2018-0156"]
 ---
 
 # ECLI:NL:RBROT:2018:10170 Rechtbank Rotterdam , 30-11-2018 / 7219616
