@@ -428,9 +428,17 @@ Internationale databank met alle rechtspraak van het EHRM.
 
 Zie noot van Nieuwenhuis bij EHRM 2 oktober 2012, nr. 57942/10, EHRC 2013/21.
 
-Zie o.m. KB 05-06-1986, ECLI:NL:XX:1986:AM9086 (https://www.navigator.nl/document/id109519860605admusp?h1=(vloekverboden)&anchor=id-ccdfdb13c70e7c33d42514d6487fd871), AB 1986, 569 m.nt. B.J. van der Net.
+Zie o.m. KB 05-06-1986, ECLI:NL:XX:1986:AM9086 (
 
-HR 9 februari 1993, ECLI:NL:HR:1993:ZC9229, NJ 1993, 646; HR 10 november 1992, ECLI:NL:HR:1992:ZC9136, NJ 1993, 197 m.nt. A.C. ’t Hart en KB 05-06-1986, ECLI:NL:XX:1986:AM9086 (https://www.navigator.nl/document/id109519860605admusp?h1=(vloekverboden)&anchor=id-ccdfdb13c70e7c33d42514d6487fd871), AB 1986, 569 m.nt. B.J. van der Net.
+https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:10493
+
+), AB 1986, 569 m.nt. B.J. van der Net.
+
+HR 9 februari 1993, ECLI:NL:HR:1993:ZC9229, NJ 1993, 646; HR 10 november 1992, ECLI:NL:HR:1992:ZC9136, NJ 1993, 197 m.nt. A.C. ’t Hart en KB 05-06-1986, ECLI:NL:XX:1986:AM9086 (
+
+https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2018:10493
+
+), AB 1986, 569 m.nt. B.J. van der Net.
 
 HR 09 januari 2001, ECLI:NL:HR:2001:AA9368, NJ 2001, 203 m. nt. J. de Hullu en HR 14 januari 2003, ECLI:NL:HR:2003:AE7632, NJ 2003, 261, m.nt. P.A.M. Mevis.
 
