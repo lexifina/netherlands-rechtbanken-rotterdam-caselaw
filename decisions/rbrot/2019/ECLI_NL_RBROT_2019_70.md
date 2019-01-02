@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:70"
-published_in: ["Rechtspraak.nl", "PJ 2019/22", "NTHR, 2019, afl.2/3, p. 154", "PR-Updates.nl PR-2019-0010"]
+published_in: ["Rechtspraak.nl", "PJ 2019/22", "NTHR, 2019, afl.2/3, p. 154", "PR-Updates.nl PR-2019-0010", "PR-Updates.nl 2019-0010"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:2899, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2019:70 Rechtbank Rotterdam , 02-01-2019 / C/10/542561 / HA ZA 18-31
