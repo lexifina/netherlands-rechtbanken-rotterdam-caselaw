@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:10871"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0173"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0173", "PR-Updates.nl 2020-0173"]
 ---
 
 # ECLI:NL:RBROT:2019:10871 Rechtbank Rotterdam , 08-03-2019 / 6827575 CV EXPL 18-13620
