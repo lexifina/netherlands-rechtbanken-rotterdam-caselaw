@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:3875"
-published_in: ["Rechtspraak.nl", "PJ 2019/73", "PR-Updates.nl PR-2019-0071"]
+published_in: ["Rechtspraak.nl", "PJ 2019/73", "PR-Updates.nl PR-2019-0071", "PR-Updates.nl 2019-0071"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:136, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
