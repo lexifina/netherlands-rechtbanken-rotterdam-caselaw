@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:4501"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0634", "JONDR 2019/849", "RAR 2019/143", "PR-Updates.nl PR-2019-0087"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0634", "JONDR 2019/849", "RAR 2019/143", "PR-Updates.nl PR-2019-0087", "VAAN-AR-Updates.nl 2019-0634", "PR-Updates.nl 2019-0087"]
 ---
 
 # ECLI:NL:RBROT:2019:4501 Rechtbank Rotterdam , 05-06-2019 / C/10/550855 / HA RK 18-521
