@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8139"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0163", "JOR 2020/92 met annotatie van Nuijten, S.M.C.", "JONDR 2020/456"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0163", "JOR 2020/92 met annotatie van Nuijten, S.M.C.", "JONDR 2020/456", "PR-Updates.nl 2019-0163"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2021:961, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2021:970, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2019:8139 Rechtbank Rotterdam , 12-06-2019 / ROT 18/1749 en ROT 18/1751
