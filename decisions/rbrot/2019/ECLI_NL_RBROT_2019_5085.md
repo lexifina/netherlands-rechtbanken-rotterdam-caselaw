@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:5085"
-published_in: ["Rechtspraak.nl", "JAR 2019/194", "AR-Updates.nl 2019-0782", "PR-Updates.nl PR-2019-0110"]
+published_in: ["Rechtspraak.nl", "JAR 2019/194", "AR-Updates.nl 2019-0782", "PR-Updates.nl PR-2019-0110", "VAAN-AR-Updates.nl 2019-0782", "PR-Updates.nl 2019-0110"]
 ---
 
 # ECLI:NL:RBROT:2019:5085 Rechtbank Rotterdam , 26-06-2019 / 7642702
