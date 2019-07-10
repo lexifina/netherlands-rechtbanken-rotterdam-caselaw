@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6752"
-published_in: ["Rechtspraak.nl", "PJ 2019/127", "PR-Updates.nl PR-2019-0116"]
+published_in: ["Rechtspraak.nl", "PJ 2019/127", "PR-Updates.nl PR-2019-0116", "PR-Updates.nl 2019-0116"]
 ---
 
 # ECLI:NL:RBROT:2019:6752 Rechtbank Rotterdam , 10-07-2019 / AWB - 18 _ 559
