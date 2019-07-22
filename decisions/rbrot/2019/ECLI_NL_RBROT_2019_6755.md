@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6755"
-published_in: ["Rechtspraak.nl", "PJ 2019/128 met annotatie van J.W. de Bruin", "PR-Updates.nl PR-2019-0178"]
+published_in: ["Rechtspraak.nl", "PJ 2019/128 met annotatie van J.W. de Bruin", "PR-Updates.nl PR-2019-0178", "PR-Updates.nl 2019-0178"]
 ---
 
 # ECLI:NL:RBROT:2019:6755 Rechtbank Rotterdam , 22-07-2019 / AWB - 18 _ 5378
