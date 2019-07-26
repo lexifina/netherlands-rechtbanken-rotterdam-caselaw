@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6053"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0860", "PJ 2019/117 met annotatie van E. Schop", "PR-Updates.nl PR-2019-0112"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0860", "PJ 2019/117 met annotatie van E. Schop", "PR-Updates.nl PR-2019-0112", "VAAN-AR-Updates.nl 2019-0860", "PR-Updates.nl 2019-0112"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:832, Bekrachtiging/bevestiging"]]
 ---
 
