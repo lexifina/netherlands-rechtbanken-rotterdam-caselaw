@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:6510"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0927", "PJ 2019/134", "PR-Updates.nl PR-2019-0126"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0927", "PJ 2019/134", "PR-Updates.nl PR-2019-0126", "VAAN-AR-Updates.nl 2019-0927", "PR-Updates.nl 2019-0126"]
 ---
 
 # ECLI:NL:RBROT:2019:6510 Rechtbank Rotterdam , 16-08-2019 / 7067083 \ CV EXPL  18-29182
