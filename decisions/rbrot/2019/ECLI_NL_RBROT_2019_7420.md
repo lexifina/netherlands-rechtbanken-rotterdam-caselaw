@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:7420"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0133"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0133", "PR-Updates.nl 2019-0133"]
 ---
 
 # ECLI:NL:RBROT:2019:7420 Rechtbank Rotterdam , 06-09-2019 / C/10/559580 / FA RK 18-7796
