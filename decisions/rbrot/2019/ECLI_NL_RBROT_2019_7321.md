@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:7321"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0124", "PJ 2020/34"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0124", "PJ 2020/34", "PR-Updates.nl 2019-0124"]
 ---
 
 # ECLI:NL:RBROT:2019:7321 Rechtbank Rotterdam , 06-09-2019 / C/10/546879 / FA RK 18-2141 en C/10/570471 / FA RK 19-2471
