@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8226"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1121", "PJ 2019/141", "PR-Updates.nl PR-2019-0160"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1121", "PJ 2019/141", "PR-Updates.nl PR-2019-0160", "VAAN-AR-Updates.nl 2019-1121", "PR-Updates.nl 2019-0160"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2022:16, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2019:8226 Rechtbank Rotterdam , 20-09-2019 / 7338394 CV EXPL 18-47952
