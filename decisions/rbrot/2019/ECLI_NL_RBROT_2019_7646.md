@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:7646"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1060", "PR-Updates.nl PR-2019-0142"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1060", "PR-Updates.nl PR-2019-0142", "VAAN-AR-Updates.nl 2019-1060", "PR-Updates.nl 2019-0142"]
 ---
 
 # ECLI:NL:RBROT:2019:7646 Rechtbank Rotterdam , 27-09-2019 / 7917401 VZ VERZ 19-15339
