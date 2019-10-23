@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8422"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1155", "PR-Updates.nl PR-2019-0173"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1155", "PR-Updates.nl PR-2019-0173", "VAAN-AR-Updates.nl 2019-1155", "PR-Updates.nl 2019-0173"]
 ---
 
 # ECLI:NL:RBROT:2019:8422 Rechtbank Rotterdam , 23-10-2019 / 8079087 / VV EXPL 19-64
