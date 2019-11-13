@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:8995"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0171", "FJR 2020/32.31"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0171", "FJR 2020/32.31", "PR-Updates.nl 2019-0171"]
 ---
 
 # ECLI:NL:RBROT:2019:8995 Rechtbank Rotterdam , 13-11-2019 / C/10/555824 / HA ZA 18-731
