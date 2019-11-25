@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:9396"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1302", "JAR 2020/5", "PR-Updates.nl PR-2020-0008", "XpertHR.nl 2019-20002895"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1302", "JAR 2020/5", "PR-Updates.nl PR-2020-0008", "VAAN-AR-Updates.nl 2019-1302", "Brightmine 2019-20002895", "PR-Updates.nl 2020-0008"]
 ---
 
 # ECLI:NL:RBROT:2019:9396 Rechtbank Rotterdam , 25-11-2019 / 8041000
