@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2019:9621"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1315", "PJ 2020/13", "PR-Updates.nl PR-2020-0002", "JONDR 2020/56", "JOR 2020/105 met annotatie van Tekstra, A.J.", "OR-Updates.nl 2020-0011"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1315", "PJ 2020/13", "PR-Updates.nl PR-2020-0002", "JONDR 2020/56", "JOR 2020/105 met annotatie van Tekstra, A.J.", "OR-Updates.nl 2020-0011", "VAAN-AR-Updates.nl 2019-1315", "PR-Updates.nl 2020-0002"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2022:1731, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2019:9621 Rechtbank Rotterdam , 04-12-2019 / C/10/561408 / HA ZA 18-1024
