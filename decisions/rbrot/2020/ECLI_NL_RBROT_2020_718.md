@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:718"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0143", "PR-Updates.nl PR-2020-0047"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0143", "PR-Updates.nl PR-2020-0047", "VAAN-AR-Updates.nl 2020-0143", "PR-Updates.nl 2020-0047"]
 ---
 
 # ECLI:NL:RBROT:2020:718 Rechtbank Rotterdam , 29-01-2020 / C/10/572543 / HA ZA 19-361
