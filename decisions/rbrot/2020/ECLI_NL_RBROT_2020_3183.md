@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:3183"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0084"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0084", "PR-Updates.nl 2020-0084"]
 ---
 
 # ECLI:NL:RBROT:2020:3183 Rechtbank Rotterdam , 20-03-2020 / 7846550 / CV EXPL 19-26730
