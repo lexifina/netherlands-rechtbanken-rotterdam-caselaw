@@ -1,0 +1,214 @@
+---
+ecli: "ECLI:NL:RBROT:2020:2405"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "AWB - 19 _ 6277"
+decided: "2020-03-20"
+published: "2020-03-20"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:2405"
+published_in: ["Rechtspraak.nl", "RF 2020/62", "JONDR 2020/566"]
+---
+
+# ECLI:NL:RBROT:2020:2405 Rechtbank Rotterdam , 20-03-2020 / AWB - 19 _ 6277
+
+## Inhoudsindicatie
+
+Vovo's, 3x bestuurlijke boete aan onderneming en twee feitelijk leidinggevenden ogv art. 4:11 lid 2 Wft. Overtreding beloningsregels en van klachtenafhandeling. Boetehoogte blijft in stand. Geen aanleiding publicatie te schorsen. Vovo's afgewezen.
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Bestuursrecht
+
+zaaknummers: ROT 19/6277, ROT 19/6278 en ROT 19/6279
+
+uitspraak van de voorzieningenrechter van 20 maart 2020 op de verzoeken om voorlopige voorziening in de zaken tussen
+
+[Onderneming], gevestigd te [plaats], verzoekster ([onderneming]),
+
+[naam 1]
+, wonend te [plaats], verzoeker I ([verzoeker I]) en
+
+[naam 2]
+, wonend te [plaats 2], verzoeker II ([verzoeker II]),
+
+tezamen verzoekers,
+
+gemachtigden: mr. G.P. Roth en mr. E.S. Sijmons,
+
+en
+
+Stichting Autoriteit Financiële Markten (AFM), verweerster,
+gemachtigden: mr. C. de Rond en mr. C.A. Geleijnse.
+
+Procesverloop
+
+Bij besluiten van 3 december 2019 (de bestreden besluiten) heeft de AFM aan [onderneming] een bestuurlijke boete van € 200.000,- opgelegd, aan [verzoeker I] een bestuurlijke boete van € 500.000,- en aan [verzoeker II] een bestuurlijke boete van € 125.000,-.
+
+Voorts heeft de AFM medegedeeld dat zij de besluiten openbaar zal maken door publicatie daarvan.
+
+Tegen deze besluiten hebben verzoekers bezwaar gemaakt. Ook hebben zij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+Het onderzoek ter zitting heeft met gesloten deuren plaatsgevonden op 10 maart 2020.
+
+De gemachtigden van verzoekers zijn verschenen evenals [verzoeker I] en [verzoeker II].
+
+De AFM heeft zich laten vertegenwoordigen door haar gemachtigden, vergezeld door [medewerker AFM I] en [medewerker AFM II].
+
+Overwegingen
+
+Feiten
+
+1.1
+
+[onderneming] is een financiële dienstverlener die van 9 januari 2012 tot 31 december 2017 heeft beschikt over een vergunning van de AFM. De vergunning van [onderneming] is op haar verzoek ingetrokken. Laatstelijk waren [verzoeker I], [verzoeker II] en [naam III] als beleidsbepalers van [onderneming] bij de AFM geregistreerd.
+
+[onderneming] was voornamelijk actief op het gebied van adviseren over en bemiddelen in hypothecair krediet. [onderneming] maakte gebruik van adviseurs, buitendienstmedewerkers, voornamelijk freelancers. Zij adviseerden consumenten over het af- dan wel oversluiten van hun hypotheek via [onderneming]. Ze werden per drie maanden ingehuurd.
+
+1.2.
+
+De AFM is op 7 november 2016 een onderzoek gestart naar [onderneming] om na te gaan of zij de bepalingen omtrent het voeren van een adequaat beleid dat een integere bedrijfsuitoefening waarborgt naleeft en heeft nageleefd. Daartoe heeft de AFM informatie opgevraagd bij [onderneming] en een aangekondigd onderzoek ter plaatse uitgevoerd op de locaties van [onderneming] in [plaats 2] en [plaats]. De resultaten van dit onderzoek heeft de AFM neergelegd in het onderzoeksrapport van 20 februari 2019.
+
+1.3
+
+Op grond van dit onderzoek heeft de AFM geconstateerd dat [onderneming] in de periode van 7 februari 2015 tot 31 december 2017 geen adequaat beleid heeft gevoerd dat een integere uitoefening van haar bedrijf waarborgt als bedoeld in artikel 4:11, tweede lid, van de Wet op het financieel toezicht (Wft). Dit blijkt volgens de AFM uit diverse overtredingen van de Wft en het BGfo door [onderneming]. Het gaat daarbij om overtreding van de beloningsregels en de wijze van klachtenafhandeling. Tevens heeft de AFM geconcludeerd dat [verzoeker I] en [verzoeker II] feitelijk leiding hebben gegeven aan de overtreding van artikel 4:11, tweede lid, van de Wft.
+
+1.4
+
+Naar aanleiding hiervan heeft de AFM bij brieven van 20 februari 2019 de voornemens kenbaar gemaakt tot boeteoplegging. Na kennis te hebben genomen van de zienswijze van verzoekers daarop, heeft de AFM bij de bestreden besluiten de bestuurlijke boetes opgelegd.
+
+Wettelijk kader voorlopige voorziening
+
+2. Op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb), voor zover hier van belang, kan, indien tegen een besluit voorafgaand aan een mogelijk beroep bij de rechtbank bezwaar is gemaakt, de voorzieningenrechter van de rechtbank die bevoegd kan worden in de hoofdzaak op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.
+
+Overdrachtsmemo
+
+3. Naar het oordeel van de voorzieningenrechter heeft de AFM zich terecht op het standpunt gesteld dat het overdrachtsmemo geen op de zaak betrekking hebbend stuk is dat zij diende te overleggen. Het memo dient slechts ter interne overdracht van het dossier van de toezichthouder aan de boetefunctionaris en ziet niet op de besluitvorming zelf.
+
+Overtredingen
+
+4. Verzoekers betogen dat geen sprake van een overtreding is.
+
+4.1
+
+Op grond van artikel 4:11, tweede lid, van de Wft voert een financiële dienstverlener een adequaat beleid dat een integere uitoefening van zijn bedrijf waarborgt. Hieronder wordt verstaan dat wordt tegengegaan dat de financiëledienstverlener of zijn werknemers strafbare feiten of andere wetsovertredingen begaan die het vertrouwen in de financiëledienstverlener of in de financiële markten kunnen schaden. Bij algemene maatregel van bestuur kunnen andere onderwerpen worden aangewezen die tot de integere uitoefening van het bedrijf van een financiëledienstverlener worden gerekend.
+
+4.2
+
+De voorzieningenrechter stelt bij de beoordeling van de vraag of [onderneming] artikel 4:11, tweede lid, van de Wft heeft overtreden voorop dat de AFM aan die gestelde overtreding ten grondslag heeft gelegd dat [onderneming] stelselmatig artikelen 1:118, 1:119, eerste en tweede lid, 1:121, eerste lid (regels omtrent het beloningsbeleid) en 4:17, aanhef en onder a, van de Wft en artikelen 42 en 44, van het Besluit Gedragstoezicht financiële ondernemingen Wft (BGfo) (regels omtrent het klachtenbeleid) heeft overtreden. Daaruit leidt de AFM af dat [onderneming] niet over een adequaat beleid beschikte om wetsovertredingen tegen te gaan. De voorzieningenrechter zal daarom eerst beoordelen of [onderneming] de genoemde artikelen heeft overtreden.
+
+Beloningsbeleid
+
+4.3
+
+Naar voorlopig oordeel van de voorzieningenrechter heeft de AFM terecht vastgesteld dat [onderneming] de in 4.2 genoemde regels omtrent het beloningsbeleid heeft overtreden.
+
+De wijze van berekening zoals deze door de AFM is geschetst wordt niet betwist. De AFM heeft voldoende gemotiveerd uitgelegd dat het basissalaris van de adviseurs van [onderneming] uitsluitend was gebaseerd op de netto omzet die de freelancer in het voorgaande kwartaal had behaald en dus volledig variabel. De AFM heeft dit gebaseerd op een analyse van het beloningsbeleid, zoals opgenomen in het Beheerst Beloningsbeleid van [onderneming] en het document [naam document], de freelanceovereenkomsten, e-mails van [verzoeker I] aan de adviseurs en Excell-bestanden van [onderneming]. De berekening vond niet plaats op een gewerkt aantal uren tegen een vast tarief. Ook is niet betwist dat de overige beloningscomponenten afhankelijk waren van door de adviseurs te behalen resultaten en dus volledig variabel waren. De AFM heeft zich terecht op het standpunt gesteld dat het toekennen van dergelijke beloningen (die voor meer dan 20% variabel is) in strijd is met artikel 1:121, eerste lid, van de Wft. Ook volgt de voorzieningenrechter hetgeen de AFM in de bestreden besluiten heeft overwogen met betrekking tot de artikelen 1:118 en 1:119 van de Wft.
+
+Klachtenafhandeling
+
+4.4
+
+De voorzieningenrechter onderschrijft eveneens het oordeel van de AFM met betrekking tot de overtreding door [onderneming] van de regels omtrent klachtenbeleid.
+
+De AFM heeft bij steekproef vijf klachten geselecteerd uit de periode van 7 januari 2015 tot 20 april 2017. Niet gebleken is dat de steekproef van vijf klachten niet representatief is. Door verzoekers is niet aannemelijk gemaakt en anderszins is daar ook geen aanwijzing voor gevonden dat de AFM geen random steekproef zou hebben genomen en zich bij het onderzoek specifiek zou hebben gericht op al bij de AFM bekende klagers.
+
+De AFM kan gevolgd worden in haar standpunt dat in geen van deze gevallen van een objectieve en zorgvuldige houding van [onderneming] ten aanzien van de klachten sprake is geweest. De dossiers wijzen op een ontmoedigingsbeleid. Zelfs ernstige en kennelijk gegronde klachten werden in beginsel afgewezen. Een inhoudelijke reactie op de klacht bleef vaak zeer lang uit en de klager kreeg geen duidelijkheid over de voortgang van de behandeling van de klacht. Toezeggingen met betrekking tot terugbellen van klanten/klagers werden niet nagekomen. Veel klachten zijn niet aantoonbaar door de klachtencommissie behandeld. Op papier waren er beleid en procedures voor klachtenafhandeling, maar in praktijk werden deze onvoldoende toegepast. De AFM heeft dit voldoende gemotiveerd uiteen gezet en is ook in het definitieve onderzoeksrapport en de bestreden besluiten voldoende ingegaan op hetgeen verzoekers hebben aangevoerd in hun reactie en zienswijze. Dat de reden van indiening van klachten volgens verzoekers vaak zijn oorsprong had in de omstandigheid dat klanten apart dienden te betalen voor de fase advisering en fase bemiddeling en niet voor de advisering wilden betalen als de bemiddeling niet door ging doet niet af aan de onzorgvuldige wijze van klachtafhandeling door [onderneming].
+
+4.5
+
+Voorts heeft de AFM [onderneming] kunnen tegenwerpen dat zij bij de afwijzing van de klachten niet expliciet wees op de mogelijkheid de klacht voor te leggen aan het Kifid of de burgerlijk rechter. Dat in artikel 42 van het BGfo sinds 9 juli 2015 de schriftelijkheidsvereiste niet langer is opgenomen heeft blijkens de toelichting op het artikel te maken met de invoering van artikel 12 van de implementatiewet dat de informatie altijd op papier of een andere duurzame drager verstrekt dient te worden. In artikel 12 van de implementatiewet is een nadere duiding gegeven. Zelfs als schriftelijkheid geen absoluut vereiste zou zijn, hetgeen naar de oordeel van de voorzieningenrechter niet het geval is, ook dan is door verzoekers niet aangetoond dat altijd telefonisch op de mogelijkheid werd gewezen. Handhaving door de AFM vond niet plaats op grond van artikel 42 van het BGfo, maar op grond van artikel 4:11, tweede lid, van de Wft.
+
+Artikel 4:11 van de Wft
+
+4.6
+
+Verzoekers betogen dat de regels omtrent het belonings- en klachtenbeleid geen uitwerking zijn van artikel 4:11, tweede lid, van de Wft en zij daarom niet op deze grond bestraft kunnen worden. De voorzieningenrechter volgt verzoekers niet in dat betoog.
+
+De voorzieningenrechter overweegt dat van een overtreding van artikel 4:11, tweede lid, van de Wft slechts sprake is als vaststaat dat de door [onderneming] begane wetsovertredingen het vertrouwen in [onderneming] of in de financiële markten kunnen schaden. Genoemde regels maken onderdeel uit van een wettelijk systeem dat de integriteit van de financiële markten in algemene zin beoogt te waarborgen. De AFM heeft terecht belang gehecht aan de omstandigheid dat de overtredingen structureel en stelselmatig waren. De bedrijfsvoering was zo ingericht dat een groot risico ontstond dat adviseurs zich zouden richten op het binnenhalen van opdrachten tot dienstverlening (OTD) ongeacht of het advies juist, haalbaar of passend was. Dergelijk beleid werkt de overtreding in de hand. Daarnaast was geen sprake van een objectieve en zorgvuldige houding ten aanzien van de afhandeling van klachten. Bij gedragingen die een overtreding opleveren ligt het naar het oordeel van de voorzieningenrechter voor de hand dat het vertrouwen in de financiële markten kan worden geschaad. Dat in een eerder stadium meer overtredingen waren tegengeworpen doet daar niet aan af. Ook hetgeen ter zitting door [verzoeker I] naar voren is gebracht, dat wel goede hypotheekadviezen werden gegeven en dat dit door de AFM zou zijn erkend, kan niet tot een ander oordeel leiden. Van belang is dat het verwijt met betrekking tot de bestuurlijke boetes daar niet op ziet. Het gaat hier om overtreding van de regelgeving betreffende beloningen en klachtafhandeling.
+
+4.7
+
+De voorzieningenrechter komt gelet op het voorgaande tot het oordeel dat de AFM terecht heeft geoordeeld dat [onderneming] artikel 4:11, tweede lid, van de Wft heeft overtreden. Hetgeen verzoekers overigens hierover hebben aangevoerd kan niet tot een ander oordeel leiden.
+
+Feitelijk leidinggeven
+
+5. [verzoeker II] betwist dat hij kan worden aangemerkt als feitelijke leidinggever aan de hiervoor vastgestelde overtreding door [onderneming]. De voorzieningenrechter overweegt dienaangaande het volgende.
+
+5.1
+
+Volgens vaste jurisprudentie (zie bijvoorbeeld de uitspraak van het College van beroep voor het bedrijfsleven (CBb) van 25 januari 2017, ECLI:NL:CBB:2017:14) kan van feitelijk leidinggeven aan verboden gedragingen onder omstandigheden sprake zijn indien de desbetreffende functionaris - hoewel daartoe bevoegd en redelijkerwijs gehouden - maatregelen ter voorkoming van deze gedragingen achterwege laat en bewust de aanmerkelijke kans aanvaardt dat de verboden gedragingen zich zullen voordoen. Daarbij is niet vereist dat sprake is van (voorwaardelijk) opzet gericht op de wederrechtelijkheid van de gedragingen. Met andere woorden: niet van belang is of [verzoeker II] wist dat de gedragingen een overtreding zouden opleveren.
+
+5.2
+
+Op grond van de feiten en omstandigheden van dit geval kan [verzoeker II], net als [verzoeker I], worden gezien als feitelijke leidinggever aan de verboden gedraging. De AFM heeft terecht vastgesteld dat [verzoeker II] op de hoogte was van de verboden gedragingen. Hij was beleidsbepaler en uit meerdere omstandigheden blijkt dat hij op de hoogte was van zowel het beloningsbeleid – hetgeen [verzoeker II] niet betwist – als de onzorgvuldige klachtenafhandeling. De AFM heeft het juridische kader niet onzorgvuldig toegepast. Wat betreft de klachtenafhandeling hoeft de AFM niet aan te tonen dat [verzoeker II] in detail op de hoogte was. Hij heeft bewust de aanmerkelijke kans aanvaard dat in het kader van deze klachtafhandeling overtredingen zouden worden begaan. Dit blijkt uit notulen van MT-overleggen, verschillende klachten die [verzoeker II] heeft ontvangen en het verbeterplan dat [verzoeker II] in november 2015 heeft opgesteld met maatregelen ter verbetering van de klachtenafhandeling. Hij heeft niet betwist dat hij bevoegd en redelijkerwijs gehouden was om de overtredingen te voorkomen dan wel te beëindigen. Daarnaast zijn de genomen maatregelen niet voldoende geweest. Het verbeterplan ziet niet op het beloningsbeleid. De genomen maatregelen voor afhandeling van de klachtendossiers zijn onvoldoende effectief gebleken. [verzoeker II] heeft ook niet op basis van het auditrapport SVC van 15 januari 2016 kunnen baseren dat [onderneming] geen overtredingen beging. In het rapport wordt immers geadviseerd het beloningsbeleid te herzien en zijn slechts 2 klachtdossiers bezien.
+
+Boeteoplegging
+
+6. Voor zover verzoekers betwisten dat de AFM heeft kunnen besluiten tot het opleggen van drie bestuurlijke boetes volgt de voorzieningenrechter hen daarin niet. [onderneming] heeft de haar verweten overtredingen gegaan en [verzoeker I] en [verzoeker II] hebben daaraan feitelijk leiding gegeven. Ook heeft de AFM het naar het oordeel van de voorzieningenrechter opportuun kunnen achten om gebruik te maken van haar bevoegdheid om bestuurlijke boetes op te leggen. Het Handhavingsbeleid van de AFM dwingt de AFM niet tot het eerst treffen van informele maatregen of het opleggen van andere bestuurlijke sancties dan een bestuurlijke boete.
+
+Boetehoogte
+
+7. Verzoekers voeren aan dat in alle drie de gevallen een veel te hoge boete is opgelegd. Het is juist dat verzoekers geen draagkrachtgegevens hebben overgelegd in de zienswijzefase zodat de AFM geen rekening heeft kunnen houden met de subjectieve draagkracht, maar de AFM heeft ten onrechte (ook) geen rekening gehouden met de objectieve draagkrachtgegevens en volgens verzoekers daarmee niet het Boetetoemetingsbeleid AFM (boetetoemetingsbeleid) gevolgd. Omdat [onderneming] gelet op het aantal werknemers ten tijde van de boeteoplegging in de 5% categorie hoorde te vallen, had de AFM aan zowel [verzoeker I] als [verzoeker II] nooit een boete kunnen opleggen van meer dan 5% van het basisbedrag, dat wil zeggen niet hoger dan € 100.000,-. Het beboeten van de feitelijke leidinggevenden heeft een accessoir karakter wat met zich meebrengt dat zij niet in een hogere categorie vallen dan de objectieve draagkrachtindeling van [onderneming], aldus steeds verzoekers.
+
+7.1.
+
+De AFM heeft er op gewezen dat het op de weg van een beboete rechtspersoon of natuurlijk persoon ligt om aannemelijk te maken dat de opgelegde boete onevenredig is gelet op de draagkracht. Daartoe dienen zij een betrouwbaar en volledig inzicht te geven in hun financiële positie. Het is onjuist dat [verzoeker I] en [verzoeker II] de categorie-indeling van [onderneming] volgen. In het boetetoemetingsbeleid is opgenomen dat voor financiële dienstverleners het aantal werknemers OF het eigen vermogen bepalend is, en dat het criterium waarmee de onderneming in de hoogste delingsfactor komt, doorslaggevend is. Voor natuurlijke personen, waaronder de feitelijk leidinggevenden, is volgens het beleid (slechts) het eigen vermogen bepalend voor de categorie-indeling.
+
+7.2.
+
+De voorzieningenrechter stelt vast dat de AFM in overeenstemming met het boetetoemetingsbeleid de hoogte van de boetes heeft vastgesteld.
+
+De AFM had geen inzage in de financiële gegevens van verzoekers. Wat het actuele eigen vermogen van [onderneming] was, was dus niet bekend. Met de AFM is de voorzieningenechter van oordeel dat de AFM dus over onvoldoende gegevens beschikte om [onderneming] met zekerheid in te delen in één van de categorieën en de indeling op basis van de wel beschikbare gegevens en met inachtneming van het algemene evenredigheidsbeginsel moest maken. Zoals ter zitting door de AFM is benadrukt, kan het niet zo zijn dat verzoekers -door het niet verstrekken van gegevens- het in eigen hand zouden hebben dat zij in een lagere categorie worden ingedeeld of dat zij, door in een later stadium wel inzage in de financiële gegevens te verstrekken, daarmee (kunnen) bewerkstelligen dat een voorlopige voorziening op grond van eerder onbekende gegevens wordt toegewezen. Ook voor [verzoeker I] en [verzoeker II] heeft te gelden dat de actuele financiële positie ten tijde van de boeteoplegging niet bekend was. En juist het eigen vermogen is volgens het boetetoemetingsbeleid bij natuurlijke personen bepalend voor de categorie-indeling.
+
+Ten aanzien van de stelling dat [onderneming] technisch failliet zou zijn, kan dit in de bezwaarfase mogelijk leiden tot een verlaging van de boete, maar leidt dat nu niet tot de conclusie dat op die grond sprake is van een onrechtmatig besluit.
+
+Niet in geschil is dat er voor de AFM geen verplichting bestaat om al in het voornemen de hoogte van de boete bekend te maken. Voor zover verzoekers stellen dat het nemo-tenetur-beginsel zich verzet tegen het overleggen van draagkrachtgegevens voorafgaand aan het boetebesluit, volgt de voorzieningenrechter hen daarin niet. Immers, reeds eerder (zie bijvoorbeeld de uitspraak van 7 augustus 2018 van het CBb, ECLI:NL:CBB:2018:413), heeft het CBb uitgesproken dat indien geen volledige openheid is gegeven over de financiële positie, de AFM de mogelijkheid wordt onthouden om de boetehoogte op de draagkracht af te stemmen. Dat het voor verzoekers veel werk zou zijn om de financiële gegevens te verstrekken overtuigt, gelet op de in te vullen formulieren bij een draagkrachtverweer, niet.
+
+7.3.
+
+De voorzieningenrechter concludeert dat er geen aanleiding is de bestreden besluiten te schorsen wegens onrechtmatigheid van de hoogte van de opgelegde boetes.
+
+Publicatie
+
+8.	Verzoekers voeren aan dat er aanleiding is het (vroegtijdige) publicatiebesluit te schorsen omdat de opgelegde boetes evident te hoog zijn. Uitstel van publicatie is op zijn plaats omdat niet kan worden ingezien welk redelijk belang zich ertegen verzet dat wordt gewacht tot de beslissing op bezwaar. Omdat [onderneming] niet meer actief is hoeft de markt niet te worden gewaarschuwd terwijl [verzoeker I] en [verzoeker II] er daarnaast belang bij hebben dat geanonimiseerd wordt gepubliceerd. Publicatie zal hoe dan ook diffamerend werken omdat de boete tot hen zal (kunnen) worden herleid, aldus steeds verzoekers.
+
+8.1.
+
+De voorzieningenrechter is van oordeel dat de AFM er niet ten onrechte op wijst dat het openbaar maken van bestuurlijke sancties verschillende doelen dient. Het publiek moet zo ruim mogelijk kennis nemen van het optreden van de AFM en het feit dat de wetgever op het belang wijst van generale preventie en het belang van personen die schade hebben geleden, zodat zij eventueel hun rechten jegens de overtreder geldend kunnen maken. Dat publicatie de daarmee beoogde doelen en belangen dient, wordt verondersteld en hoeft de AFM niet aannemelijk te maken. De AFM dient wel te beoordelen of aanleiding bestaat om de publicatie van de bestuurlijke boetes te anonimiseren, uit te stellen dan wel af te stellen. Daarbij wordt gekeken of sprake is van een individuele, bijzondere situatie waarbij de voor de overtreder als gevolg van de publicatie te verwachten schade zodanig uitzonderlijk is dat het belang van de bescherming van de markt, dat door de openbaarmaking wordt gediend, daarvoor moet wijken.
+
+Dat de vergunning van [onderneming] per 31 december 2017 is ingetrokken vormt geen omstandigheid die uitstel kan rechtvaardigen. De voormalige klanten van [onderneming] hebben er nog steeds belang bij om kennis te nemen van de overtredingen die de AFM verzoekers verwijt. Verder dient openbaarmaking de generale preventie.
+
+De AFM is op grond van de wet gehouden om zo spoedig mogelijk na het nemen van de boetebesluiten deze openbaar te maken. Hetgeen verzoekers hebben aangevoerd maakt niet dat de publicatieplicht niet langer geldt of dat de schade die verzoekers (vrezen te) lijden als gevolg van de openbaarmaking onevenredig moet worden geacht.
+
+Het is vaste rechtspraak dat reputatieschade onvoldoende is om de publicatie van een handhavingsbesluit onevenredig te achten. De gestelde diffamerende werking van de publicaties maakt niet dat sprake is van een individuele, bijzondere situatie die uitstel kan rechtvaardigen of tot anonimiseren aanleiding geeft.
+
+8.2.
+
+De voorzieningenrechter concludeert dat er geen aanleiding is de publicatie van de bestreden besluiten te schorsen.
+
+9.	De verzoeken om voorlopige voorziening worden afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De voorzieningenrechter wijst de verzoeken om voorlopige voorziening af.
+
+Deze uitspraak is gedaan door mr. L.A.C. van Nifterick, voorzieningenrechter, in aanwezigheid van mr. E. Naaijen-van Kleunen, griffier.
+
+De uitspraak is aan partijen bekend gemaakt op 20 maart 2020.
+
+De griffier is verhinderd de
+
+uitspraak te ondertekenen.
+
+griffier	voorzieningenrechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak staat geen rechtsmiddel open.
