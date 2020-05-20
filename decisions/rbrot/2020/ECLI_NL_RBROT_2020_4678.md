@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:4678"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0102", "PJ 2020/111"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0102", "PJ 2020/111", "PR-Updates.nl 2020-0102"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:2879, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2020:4678 Rechtbank Rotterdam , 20-05-2020 / C/10/577826 / HA ZA 19-634
