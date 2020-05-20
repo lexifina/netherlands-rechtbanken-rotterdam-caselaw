@@ -1,0 +1,193 @@
+---
+ecli: "ECLI:NL:RBROT:2020:5415"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "C/10/596678 / FA RK 20-3487"
+decided: "2020-05-20"
+published: "2020-06-19"
+type: "uitspraak"
+procedure: "Beschikking"
+subject: "Civiel recht; Personen- en familierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:5415"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2020:5415 Rechtbank Rotterdam , 20-05-2020 / C/10/596678 / FA RK 20-3487
+
+## Inhoudsindicatie
+
+zorgmachtiging in aansluiting op een voortzetting crisismaatregel, art, 7:11 Wvggz, opschalende zorg
+
+## Uitspraak
+
+RECHTBANK ROTTERDAM
+
+Team familie
+
+Zaak-/rekestnummer: C/10/596678 / FA RK 20-3487
+
+Betrokkenenummer: [nummer]
+
+Schriftelijke uitwerking van de mondelinge beslissing van 20 mei 2020 betreffende een zorgmachtiging in aansluiting op een voortzetting crisismaatregel als bedoeld in artikel 7:11 van de Wet verplichte geestelijke gezondheidszorg (hierna: Wvggz)
+
+op verzoek van:
+
+de officier van justitie in het arrondissement Rotterdam, hierna: de officier,
+
+met betrekking tot:
+
+[naam betrokkene]
+,
+
+geboren op [geboortedatum betrokkene] ,
+
+hierna: betrokkene,
+
+wonende aan de [adres betrokkene] , [woonplaats betrokkene] ,
+
+thans verblijvende in Erasmus Medisch Centrum te 's Gravedijkwal 230, 3051 CE te Rotterdam,
+
+advocaat mr. W. van der Sande te Goes.
+
+1.
+Procesverloop
+
+1.1.
+
+Het verloop van de procedure blijkt uit het verzoekschrift van de officier, ingekomen op 15 mei 2020.
+
+Bij het verzoekschrift zijn de volgende bijlagen gevoegd:
+
+ de medische verklaring opgesteld door [naam psychiater 1] , psychiater, van 7 mei 2020;
+
+ de zorgkaart van 29 april 2020;
+
+ het zorgplan van 29 april 2020;
+
+ de bevindingen van de geneesheer-directeur over het zorgplan;
+
+ de gegevens over eerder afgegeven machtigingen op grond van de Wet Bopz en de Wvggz;
+
+ de relevante politiegegevens en/of de strafvorderlijke- en justitiële gegevens.
+
+De mondelinge behandeling van het verzoek heeft plaatsgevonden op 20 mei 2020.
+
+Bij die gelegenheid zijn op grond van artikel 2 Tijdelijke wet COVID-19 Justitie en Veiligheid de navolgende personen telefonisch gehoord, omdat het houden van een fysieke zitting vanwege het coronavirus niet mogelijk was:
+
+ betrokkene in het bijzijn van [nam arts] , arts, en [naam psychiater 2] , psychiater;
+
+ de hiervoor genoemde advocaat van betrokkene.
+
+1.2.
+
+De officier is niet ter zitting verschenen, omdat hij een nadere toelichting op of motivering van het verzoek niet nodig achtte.
+
+2.
+Beoordeling
+
+2.1.
+
+Criteria zorgmachtiging
+
+2.1.1.
+
+Bij beschikking van deze rechtbank van 17 april 2020, is op grond van artikel 7:7 Wvggz een machtiging tot voortzetting van de crisismaatregel verleend. Tijdig, te weten op 8 mei 2020, is onderhavig verzoek ingediend.
+
+2.1.2.
+
+De rechter kan op verzoek van de officier een zorgmachtiging verlenen ten aanzien van de betrokkene wanneer wordt voldaan aan de criteria en de doelen van verplichte zorg als bedoeld in artikel 3:3 en 3:4 Wvggz. Verplichte zorg is zorg die ondanks verzet kan worden verleend.
+
+Indien het gedrag van de betrokkene als gevolg van een psychische stoornis leidt tot ernstig nadeel, kan als uiterste middel verplichte zorg worden verleend, indien er geen mogelijkheden voor zorg op basis van vrijwilligheid zijn, er voor betrokkene geen minder bezwarende alternatieven met het beoogde effect zijn, het verlenen van verplichte zorg gelet op het beoogde doel evenredig is en redelijkerwijs te verwachten is dat het verlenen van verplichte zorg effectief is.
+
+Verplichte zorg kan worden verleend om ernstig nadeel af te wenden, de geestelijke gezondheid van betrokkene te stabiliseren of dusdanig te herstellen dat hij zijn autonomie zoveel mogelijk herwint, of de fysieke gezondheid van betrokkene te stabiliseren of te herstellen in het geval diens gedrag als gevolg van zijn psychische stoornis leidt tot ernstig nadeel daarvoor.
+
+2.1.3.
+
+Uit de overgelegde stukken en de mondelinge behandeling blijkt dat betrokkene lijdt aan een psychische stoornis, te weten bipolaire-stemmingsstoornissen, schizofreniespectrum- en andere psychotische stoornissen.
+
+2.1.4.
+
+Het gedrag van betrokkene leidt als gevolg van haar psychische stoornis tot ernstig nadeel, gelegen in het bestaan van of het aanzienlijk risico op levensgevaar, ernstig lichamelijk letsel, ernstige psychische schade en de situatie dat de algemene veiligheid van personen of goederen in gevaar is. Betrokkene is momenteel hoogzwanger en kan elk moment bevallen. In aanloop naar de bevalling is zij manisch ontregeld en opgenomen geweest met een crisismaatregel. Inmiddels is de ontregeling iets teruggedrongen met behulp van medicatie. Het beeld is echter nog niet gestabiliseerd. Betrokkene put zichzelf mentaal en fysiek uit. Ze slaapt slecht en heeft regelmatig last van een  harde buik. Daarnaast is zij als gevolg van haar wanen erg ontremd. Ze loopt hiermee kans op sociale en maatschappelijke teloorgang en heeft haar steunsysteem hiermee overbelast, ook tijdens de opname. Hoewel de medicatie op het moment aanslaat blijft het beeld fragiel. Betrokkene heeft namelijk in september ook een manische ontregeling gehad. Daarnaast is bekend dat zwangerschappen een trigger kunnen vormen voor ontregelingen. Zowel in aanloop naar de bevalling bestaat een kans op een nieuwe ontregeling. Tevens bestaat er een grote kans op post partum psychose, dit is bij een eerdere bevalling ook voorgekomen. Betrokkene dient in het belang van het ongeboren kind zoveel mogelijk in staat worden gesteld om te hechten aan het kind. Daar staat tegenover dat het kind zoveel mogelijk moet worden beschermd als betrokkene ontregeld en manische symptomen toenemen.
+
+2.2.
+
+Verplichte zorg
+
+2.2.1.
+
+Om ernstig nadeel af te wenden, de geestelijke gezondheid van betrokkene te stabiliseren, de geestelijke gezondheid van betrokkene dusdanig te herstellen dat zij haar autonomie zoveel mogelijk herwint en de fysieke gezondheid van betrokkene te stabiliseren of te herstellen in het geval diens gedrag als gevolg van haar psychische stoornis leidt tot ernstig nadeel daarvoor heeft betrokkene verplichte zorg nodig.
+
+2.2.2.
+
+Ten aanzien van de verzochte verplichte zorg overweegt de rechtbank als volgt. Uit de toelichting van de wetgever blijkt dat in een zorgmachtiging sprake kan zijn van drie gradaties van verplichte zorg. Allereerst kan de reguliere verplichte zorg worden opgenomen in de zorgmachtiging waarvan de zorgverantwoordelijke steeds gebruik mag maken. Ten tweede kan in de zorgmachtiging worden opgenomen welke zorg in crisissituaties mag worden gegeven – niet te verwarren met verplichte zorg in noodsituaties. Verplichte zorg in noodsituaties komt immers op de derde plaats in het drietrapsmodel. Wanneer de zorgmachtiging niet in de noodzakelijke zorg voorziet, kan in noodsituaties verplichte zorg worden verleend voor drie dagen, waarna een wijzigingsverzoek kan worden gedaan door de officier. Per geval dient te worden beoordeeld welke verplichte zorg continu gegeven mag worden, welke zorg in crisissituaties gegeven mag worden en welke zorg niet wordt opgenomen in de zorgmachtiging en waar slechts in noodsituaties gebruik van mag worden gemaakt.
+
+‘Reguliere verplichte zorg’
+
+De rechtbank acht de volgende vormen van verplichte noodzakelijk gedurende zes maanden:
+
+ het toedienen van medicatie;
+
+ het verrichten van medische controles.
+
+De rechtbank acht tevens noodzakelijk in het geval van reguliere zorg met een beperkte duur van zes weken tot na de bevalling:
+
+ het beperken van de bewegingsvrijheid;
+
+ het aanbrengen van beperkingen in de vrijheid het eigen leven in te richten, die tot gevolg hebben dat betrokkene iets moet doen of nalaten, waaronder het gebruik van communicatiemiddelen;
+
+ het opnemen in een accommodatie.
+
+‘Verplichte zorg in crisissituaties’
+
+In crisissituaties mag na zes weken na de bevalling doch binnen de komende zes maanden gebruik worden gemaakt van de volgende vormen van verplichte zorg:
+
+ het beperken van de bewegingsvrijheid;
+
+ het aanbrengen van beperkingen in de vrijheid het eigen leven in te richten, die tot gevolg hebben dat betrokkene iets moet doen of nalaten, waaronder het gebruik van communicatiemiddelen;
+
+ het opnemen in een accommodatie.
+
+Bij betrokkene kan een crisissituatie als volgt worden gedefinieerd. Wanneer bij betrokkene na ontslag psychotische symptomen, manische symptomen, depressieve symptomen, het weigeren van medicatie en/of het weigeren van controles wordt geconstateerd.
+
+Het Europese Verdrag voor de Rechten van de Mens verlangt altijd een onafhankelijk psychiatrisch onderzoek bij vrijheidsbeneming als deze. De nadere uitleg gegeven door het Europese Hof voor de Rechten van de Mens bepaalt dat een onafhankelijk psychiater dit moet uitvoeren op basis van actuele informatie en persoonlijk onderzoek (zie onder meer EHRM 24 september 1992, Herczegfalvy v. Austria, 10533/83, r.o. 63 en EHRM 5 oktober 2000, Varbanov v. Bulgaria, 31365/96, r.o. 47. In de praktijk betekent dit dat bij een vrijheidsbeneming van betrokkene na drie maanden vanaf heden de zorgaanbieder uitvoering dient te geven aan een onafhankelijk psychiatrisch onderzoek. Dat mag door de geneesheer-directeur plaatsvinden, mits hij niet bij de behandeling betrokken is. Een overleg met de geneesheer-directeur zoals de psychiater tijdens de zitting voorstelt, voldoet niet aan een persoonlijk onderzoek waarbij sprake moet zijn van een observatie en spreken met betrokkene in een direct contact.
+
+‘Overige verzochte verplichte zorg ofwel verplichte zorg in noodsituaties’
+
+De overige verzochte vormen van verplichte zorg acht de rechtbank niet noodzakelijk. Dit is onder meer verplichte zorg die reeds is opgenomen in de huisregels bij een eventuele opname. Van betrokkene is niet bekend dat hij zich daartegen verzet. Voor andere verplichte zorg waarin deze zorgmachtiging niet voorziet, kan dit niet ofwel slechts in noodsituaties worden toegepast. Dit gaat om incidentele verplichte zorg onder strikte voorwaarden als bedoeld in artikel 8:11 Wvggz.
+
+2.2.3.
+
+Voorts bepaalt de rechtbank op grond van artikel 6:4 lid 2 Wvggz dat het zorgplan aangepast dient te worden, met inachtneming van de wijze van verplichte zorg zoals hiervoor wordt beschreven onder 2.2.2., zodat het voldoet aan de eisen die worden gesteld in de Wvggz en het Besluit verplichte geestelijke gezondheidszorg.
+
+2.2.4.
+
+Er zijn geen minder bezwarende alternatieven die hetzelfde beoogde effect hebben. De voorgestelde verplichte zorg is evenredig en naar verwachting effectief. Uit de stukken blijkt dat bij het bepalen van de juiste zorg rekening is gehouden met de voorwaarden die noodzakelijk zijn om deelname van betrokkene aan het maatschappelijk leven te bevorderen, alsmede met de veiligheid van betrokkene.
+
+2.2.5.
+
+Gelet op het voorgaande is voldaan aan de criteria voor en doelen van verplichte zorg als bedoeld in de Wvggz. De zorgmachtiging zal worden verleend voor de verzochte duur van zes maanden.
+
+3.
+Beslissing
+
+De rechtbank:
+
+3.1.
+
+verleent een zorgmachtiging ten aanzien van [naam betrokkene] voornoemd;
+
+3.2.
+
+bepaalt dat bij wijze van verplichte zorg de maatregelen zoals opgenomen in rechtsoverweging 2.2.2. kunnen worden getroffen;
+
+3.3.
+
+bepaalt dat het zorgplan aangepast wordt door de zorgverantwoordelijke met inachtneming van hetgeen overwogen onder 2.2.2. en 2.2.3.;
+
+3.4.
+
+bepaalt dat deze machtiging geldt tot en met 20 november 2020.
+
+Deze beschikking is op 20 mei 2020 mondeling gegeven door mr. A.C. Siemons, rechter, in tegenwoordigheid van mr. C.W. Wapenaar, griffier, en op 31 mei 2020 schriftelijk uitgewerkt en getekend.
+
+Tegen deze beschikking staat het rechtsmiddel van cassatie open.
