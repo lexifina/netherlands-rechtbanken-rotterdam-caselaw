@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:8423"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "CMI2179"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBROT:2020:756"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2022:3059"]]
 ---
 
 # ECLI:NL:RBROT:2020:8423 Rechtbank Rotterdam , 01-07-2020 / C/10/558729 / HA ZA 18-899
