@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:6350"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0848", "PR-Updates.nl PR-2020-0137", "TRA 2020/73 met annotatie van D.J. Buijs", "XpertHR.nl 2020-20004552"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0848", "PR-Updates.nl PR-2020-0137", "TRA 2020/73 met annotatie van D.J. Buijs", "VAAN-AR-Updates.nl 2020-0848", "Brightmine 2020-20004552", "PR-Updates.nl 2020-0137"]
 ---
 
 # ECLI:NL:RBROT:2020:6350 Rechtbank Rotterdam , 17-07-2020 / 8312569 HA VERZ 20-17
