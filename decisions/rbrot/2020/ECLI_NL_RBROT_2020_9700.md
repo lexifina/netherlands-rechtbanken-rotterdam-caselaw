@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:9700"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0177", "PJ 2020/148"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0177", "PJ 2020/148", "PR-Updates.nl 2020-0177"]
 ---
 
 # ECLI:NL:RBROT:2020:9700 Rechtbank Rotterdam , 23-10-2020 / Rot 20/2964, ROT 20/2965 en ROT 20/2966
