@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10180"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1349", "PS-Updates.nl 2020-0854", "PR-Updates.nl PR-2020-0191"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1349", "PS-Updates.nl 2020-0854", "PR-Updates.nl PR-2020-0191", "VAAN-AR-Updates.nl 2020-1349", "PR-Updates.nl 2020-0191"]
 ---
 
 # ECLI:NL:RBROT:2020:10180 Rechtbank Rotterdam , 09-11-2020 / 8348600 HA VERZ 20-26
