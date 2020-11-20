@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:10668"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0190"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0190", "PR-Updates.nl 2020-0190"]
 ---
 
 # ECLI:NL:RBROT:2020:10668 Rechtbank Rotterdam , 20-11-2020 / 8603839
