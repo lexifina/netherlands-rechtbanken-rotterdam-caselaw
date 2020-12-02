@@ -7,7 +7,7 @@ decided: "2020-12-02"
 published: "2020-12-10"
 type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
-subject: "Civiel recht"
+subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:11432"
 published_in: ["Rechtspraak.nl"]
 ---
