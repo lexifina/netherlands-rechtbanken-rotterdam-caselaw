@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2020:12395"
 published_in: ["Rechtspraak.nl", "Module Aanbesteding 2021/1537", "JAAN 2021/43 met annotatie van Meij, M.J. de, Verberne, G."]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:2681, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2020:12395 Rechtbank Rotterdam , 23-12-2020 / C/10/590814 / HA ZA 20-135
