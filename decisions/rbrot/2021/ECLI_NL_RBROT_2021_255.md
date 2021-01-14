@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:255"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0082", "JAR 2021/43", "PR-Updates.nl PR-2021-0024", "Jurisprudentie HSE 2021/9", "VAAN-AR-Updates.nl 2021-0082"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0082", "JAR 2021/43", "PR-Updates.nl PR-2021-0024", "Jurisprudentie HSE 2021/9", "VAAN-AR-Updates.nl 2021-0082", "PR-Updates.nl 2021-0024"]
 ---
 
 # ECLI:NL:RBROT:2021:255 Rechtbank Rotterdam , 14-01-2021 / 8826161 \ VZ VERZ 20-18492
