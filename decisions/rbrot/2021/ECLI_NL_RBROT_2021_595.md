@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:595"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0046", "PJ 2021/46 met annotatie van B.M.M. van der Goes"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0046", "PJ 2021/46 met annotatie van B.M.M. van der Goes", "PR-Updates.nl 2021-0046"]
 ---
 
 # ECLI:NL:RBROT:2021:595 Rechtbank Rotterdam , 20-01-2021 / C/10/595899 / HA ZA 20-435
