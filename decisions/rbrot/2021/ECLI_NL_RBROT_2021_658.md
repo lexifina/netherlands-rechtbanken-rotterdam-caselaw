@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:658"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0028", "PJ 2021/40"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0028", "PJ 2021/40", "PR-Updates.nl 2021-0028"]
 ---
 
 # ECLI:NL:RBROT:2021:658 Rechtbank Rotterdam , 28-01-2021 / 8638527 \ CV EXPL  20-3297
