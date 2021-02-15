@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:1392"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FutD 2021-0710", "Viditax (FutD) 2021022409"]
 ---
 
 # ECLI:NL:RBROT:2021:1392 Rechtbank Rotterdam , 15-02-2021 / 10/996552-17
