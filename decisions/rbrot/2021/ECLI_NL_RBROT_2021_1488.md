@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:1488"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0050"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0050", "PR-Updates.nl 2021-0050"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2021:1063, Overig"]]
 ---
 
