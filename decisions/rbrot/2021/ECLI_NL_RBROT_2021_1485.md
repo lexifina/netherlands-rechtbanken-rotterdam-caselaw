@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:1485"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0051", "PJ 2021/43"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0051", "PJ 2021/43", "PR-Updates.nl 2021-0051"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2022:204, Overig"]]
 ---
 
