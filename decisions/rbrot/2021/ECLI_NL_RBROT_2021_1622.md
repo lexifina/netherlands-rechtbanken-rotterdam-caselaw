@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:1622"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0056", "PJ 2021/76"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0056", "PJ 2021/76", "PR-Updates.nl 2021-0056"]
 ---
 
 # ECLI:NL:RBROT:2021:1622 Rechtbank Rotterdam , 10-03-2021 / C/10/576208 / HA ZA 19-560
