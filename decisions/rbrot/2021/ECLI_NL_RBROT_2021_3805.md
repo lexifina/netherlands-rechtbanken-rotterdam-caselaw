@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3805"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0563", "PJ 2021/84 met annotatie van E. Lutjens", "PR-Updates.nl PR-2021-0107", "VAAN-AR-Updates.nl 2021-0563"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0563", "PJ 2021/84 met annotatie van E. Lutjens", "PR-Updates.nl PR-2021-0107", "VAAN-AR-Updates.nl 2021-0563", "PR-Updates.nl 2021-0107"]
 ---
 
 # ECLI:NL:RBROT:2021:3805 Rechtbank Rotterdam , 25-03-2021 / 8448853 CV EXPL 20-1539
