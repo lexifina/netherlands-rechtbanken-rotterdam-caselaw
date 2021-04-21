@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:3790"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0090"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0090", "PR-Updates.nl 2021-0090"]
 ---
 
 # ECLI:NL:RBROT:2021:3790 Rechtbank Rotterdam , 21-04-2021 / C/10/604130 / HA ZA 20-872
