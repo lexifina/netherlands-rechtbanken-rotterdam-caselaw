@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:4261"
-published_in: ["Rechtspraak.nl", "PJ 2021/87", "PR-Updates.nl PR-2021-0098"]
+published_in: ["Rechtspraak.nl", "PJ 2021/87", "PR-Updates.nl PR-2021-0098", "PR-Updates.nl 2021-0098"]
 ---
 
 # ECLI:NL:RBROT:2021:4261 Rechtbank Rotterdam , 07-05-2021 / ROT 20/6164
