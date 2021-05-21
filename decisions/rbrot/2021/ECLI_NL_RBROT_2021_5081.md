@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:5081"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0762", "PR-Updates.nl PR-2021-0129", "VAAN-AR-Updates.nl 2021-0762"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0762", "PR-Updates.nl PR-2021-0129", "VAAN-AR-Updates.nl 2021-0762", "PR-Updates.nl 2021-0129"]
 ---
 
 # ECLI:NL:RBROT:2021:5081 Rechtbank Rotterdam , 21-05-2021 / 9098887 VZ VERZ 21-3933
