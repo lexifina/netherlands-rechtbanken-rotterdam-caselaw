@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:5536"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2644"]]
 ---
 
 # ECLI:NL:RBROT:2021:5536 Rechtbank Rotterdam , 26-05-2021 / 10/017411-21; 10/068011-20 (gev. ttz)
