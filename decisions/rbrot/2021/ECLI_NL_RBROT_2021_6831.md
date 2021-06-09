@@ -34,6 +34,7 @@ uitspraakdatum: 9 juni 2021
 Bij vonnis van deze rechtbank van 9 mei 2018 is de toepassing van de schuldsaneringsregeling uitgesproken ten aanzien van:
 
 [naam]
+,
 
 [straat]
 
@@ -63,7 +64,7 @@ De standpunten
 
 De rechter-commissaris heeft zich in haar voordracht tot tussentijdse beeindiging ten eerste op het standpunt gesteld dat schuldenaar één of meer van zijn uit de schuldsaneringsregeling voortvloeiende verplichtingen niet naar behoren nakomt of door zijn doen of nalaten de uitvoering van de schuldsaneringsregeling anderszins belemmert dan wel frustreert.
 
-Ten tweede heeft de rechter-commissaris gesteld dat er feiten en omstandigheden bekend zijn geworden die op het tijdstip van de indiening van het verzoek tot toelating tot de schuldsaneringsregeling reeds bestonden en die reden zouden zijn geweest het verzoek af te wijzen overeenkomstig artikel 288, eerste (https://www.navigator.nl/document/openCitation/id6a0aff6f72b60c75c573769e24cef7f7) en tweede lid (https://www.navigator.nl/document/openCitation/id6a0aff6f72b60c75c573769e24cef7f7).
+Ten tweede heeft de rechter-commissaris gesteld dat er feiten en omstandigheden bekend zijn geworden die op het tijdstip van de indiening van het verzoek tot toelating tot de schuldsaneringsregeling reeds bestonden en die reden zouden zijn geweest het verzoek af te wijzen overeenkomstig artikel 288, eerste (https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=288&z=2021-01-01&g=2021-01-01) en tweede lid (https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=288&z=2021-01-01&g=2021-01-01).
 
 De rechter-commissaris stelt hiertoe ten eerste dat schuldenaar bij aanvang van de regeling verzwegen heeft dat hij eigendom genoot over diverse appartementsrechten in [gebied] , [adres] , Duitsland (hierna: het onroerend goed). Volgens de rechter-commissaris valt niet uit te sluiten dat, indien schuldenaar wel openheid van zaken had gegeven, de eigendom van dit onroerend goed in de weg zou hebben gestaan aan toelating. De wijze waarop de aankoop van het onroerend goed is gefinancierd door schuldenaar  ̶  middels cashbetaling van € 40.000  ̶  draagt hieraan bij. Pas in het najaar van 2020 heeft de bewindvoerder een aanvang kunnen maken met de afwikkeling van de verkoop van het onroerend goed. De gemeente van Goch (hierna: de gemeente) heeft een bod van € 7.500 uitgebracht, wat ver beneden de aankoopprijs is. Anderzijds heeft diezelfde gemeente diverse vordering van in totaal € 9.283,84 op schuldenaar die voortvloeien uit het onroerend goed. Of de gemeente voornemens is om het een en ander met elkaar te verrekenen is vooralsnog onbekend.
 
@@ -87,7 +88,7 @@ De schuldsaneringsregeling biedt een schuldenaar in een problematische schuldens
 
 Vast is komen te staan dat schuldenaar eigenaar is van het onroerend goed.
 
-De rechtbank is daarbij van oordeel dat schuldenaar toerekenbaar tekort is geschoten in zijn inlichtingenverplichtinge door de eigendom van het onroerend goed niet te vermelden bij toelating tot de schuldsaneringsregeling. Het gevolg hiervan is dat de eigendom van het onroerend goed te kwalificeren is als een feit of omstandigheid die op het tijdstip van de indiening van het verzoek bestond en mogelijk reden zou zijn geweest het verzoek af te wijzen overeenkomstig artikel 288, eerste (https://www.navigator.nl/document/openCitation/id6a0aff6f72b60c75c573769e24cef7f7) en tweede lid (https://www.navigator.nl/document/openCitation/id6a0aff6f72b60c75c573769e24cef7f7) Faillissementswet (hierna: Fw).
+De rechtbank is daarbij van oordeel dat schuldenaar toerekenbaar tekort is geschoten in zijn inlichtingenverplichtinge door de eigendom van het onroerend goed niet te vermelden bij toelating tot de schuldsaneringsregeling. Het gevolg hiervan is dat de eigendom van het onroerend goed te kwalificeren is als een feit of omstandigheid die op het tijdstip van de indiening van het verzoek bestond en mogelijk reden zou zijn geweest het verzoek af te wijzen overeenkomstig artikel 288, eerste (https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=288&z=2021-01-01&g=2021-01-01) en tweede lid (https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=288&z=2021-01-01&g=2021-01-01) Faillissementswet (hierna: Fw).
 
 Het verweer van schuldenaar dat hij uit ging van openbare verkoop van het onroerend goed    ̶  ten tijde van de toelatingszitting en na toelating  ̶  overtuigt de rechtbank niet. Een aankondiging van verkoop is de rechtbank niet gebleken, maar zou de verwachting ook niet rechtvaardigen. Schuldenaar had dan immers over de uitkomst van verkoop en uitschrijving uit het kadastrale register moeten hebben vernomen. Schuldenaar had de gang van zaken kunnen en moeten vermelden bij zijn aanvraag toegelaten te worden tot de regeling.
 
