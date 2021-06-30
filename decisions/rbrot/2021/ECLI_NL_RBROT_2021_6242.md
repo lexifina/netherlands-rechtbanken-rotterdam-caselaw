@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:6242"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0134", "PJ 2021/152"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0134", "PJ 2021/152", "PR-Updates.nl 2021-0134"]
 ---
 
 # ECLI:NL:RBROT:2021:6242 Rechtbank Rotterdam , 30-06-2021 / 600449 HA ZA 20-682
