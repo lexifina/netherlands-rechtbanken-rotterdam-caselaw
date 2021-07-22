@@ -1,0 +1,126 @@
+---
+ecli: "ECLI:NL:RBROT:2021:7104"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "C/10/619578 / FT EA 21/681 en C/10/619580 / FT EA 21/682"
+decided: "2021-07-22"
+published: "2021-07-23"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht; Insolventierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:7104"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/faillissementswet/art-287a.md"]
+---
+
+# ECLI:NL:RBROT:2021:7104 Rechtbank Rotterdam , 22-07-2021 / C/10/619578 / FT EA 21/681 en C/10/619580 / FT EA 21/682
+
+## Inhoudsindicatie
+
+Dwangakkoord toegewezen
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team insolventie
+
+rekestnummer: [nummer]
+
+uitspraakdatum: 22 juli 2021
+
+in de zaak van:
+
+[naam 1]
+,
+
+wonende te [adres]
+
+[woonplaats] ,
+
+verzoekster.
+
+1
+De procedure
+
+Verzoekster heeft op 2 juni 2021, tezamen met een verzoek tot toepassing van de schuldsaneringsregeling, een verzoek ingevolge artikel 287a, eerste lid, Faillissementswet ingediend om één schuldeiser, te weten:
+
+- Gemeente Rotterdam, afdeling W&I (hierna: Gemeente Rotterdam);
+
+die weigert mee te werken aan een door verzoekster aangeboden schuldregeling, te bevelen in te stemmen met deze schuldregeling.
+
+Gemeente Rotterdam heeft voorafgaand aan de zitting een verweerschrift toegezonden.
+
+Ter zitting van 15 juli 2021 zijn telefonisch gehoord:
+
+verzoekster;
+
+de heer [naam 2] , werkzaam bij Kredietbank Rotterdam (hierna: schuldhulpverlening),
+
+De weigerende schuldeiser is, hoewel daartoe behoorlijk opgeroepen, niet verschenen.
+
+De uitspraak is bepaald op heden.
+
+2
+Het verzoek
+
+Verzoekster heeft volgens het ingediende verzoekschrift drieëndertig schuldeisers, waarvan twee preferente met drie vorderingen en eenendertig concurrente schuldeisers met vierendertig vorderingen. Deze schuldeisers hebben in totaal een bedrag van € 48.333,61 van verzoekster te vorderen.
+
+Verzoekster heeft bij brief van 11 maart 2021 een schuldregeling aangeboden aan haar schuldeisers, inhoudende een betaling van 64% aan de preferente schuldeisers en 32% aan de concurrente schuldeisers tegen finale kwijting. De startdatum van de schuldregeling is 28 januari 2021.
+
+Het aangeboden akkoord heeft de volgende inhoud en achtergrond. De aangeboden regeling is gebaseerd op de NVVK-norm. De aangeboden regeling is gebaseerd op de afloscapaciteit die verzoekster heeft op basis van haar dienstbetrekking. Verzoekster werkt fulltime en heeft een arbeidscontract voor bepaalde tijd. De arbeidsovereenkomst is in beginsel geldig tot augustus 2021, maar verzoekster heeft ter zitting verklaard dat de arbeidsovereenkomst verlengd wordt. De aangeboden regeling voorziet in uitkering van een prognosepercentage. Dat betekent dat de afloscapaciteit eventueel nog hoger of nog lager zal kunnen uitvallen. Verzoekster heeft zich op het standpunt gesteld dat zij al het mogelijke heeft gedaan om het aangeboden percentage aan haar schuldeisers aan te bieden. Verzoekster heeft sinds de aanmelding bij schuldhulpverlening geen nieuwe schulden of achterstanden meer laten ontstaan en haar vaste lasten worden inmiddels door haar budgetbeheerder voldaan.
+
+Tweeëndertig schuldeisers stemmen met de aangeboden schuldregeling in. Gemeente Rotterdam stemt voor één van haar vorderingen niet in met de aangeboden schuldregeling. Deze vordering bedraagt € 5.198,11, welke 10,8% van de totale schuldenlast beloopt.
+
+3
+Het verweer
+
+In haar verweerschrift heeft de gemeente Rotterdam te kennen gegeven dat zij bij vorderingen die na 1 januari 2013 zijn ontstaan, niet meewerkt aan de schuldregeling tegen finale kwijting voor zover die vorderingen niet te goeder trouw zijn ontstaan. Op deze vorderingen is artikel 60c Pw van toepassing, omdat verzoekster haar inlichtingenplicht niet volledig is nagekomen. De gemeente Rotterdam voert aan dat zij, gelet op het dwingendrechtelijk karakter van artikel 60c Pw, niet kan meewerken tegen finale kwijting.
+
+4
+De beoordeling
+
+Uitgangspunt is dat het iedere schuldeiser in beginsel vrij staat om te verlangen dat 100% van zijn vordering, vermeerderd met rente, wordt voldaan. Nu de aangeboden regeling voorziet in een lagere uitkering dan de volledige vordering, staat het belang van de gemeente Rotterdam bij haar weigering vast.
+
+De rechtbank ziet zich gesteld voor het beantwoorden van de vraag of de gemeente Rotterdam in redelijkheid niet tot weigering van instemming met de schuldregeling heeft kunnen komen, in aanmerking genomen de onevenredigheid tussen het belang dat zij heeft bij uitoefening van de bevoegdheid tot weigering en de belangen van verzoekster of de overige schuldeisers die door de weigering worden geschaad.
+
+Ten aanzien van hetgeen de gemeente Rotterdam heeft aangevoerd, namelijk dat zij op grond van artikel 60c Participatiewet niet kan meewerken aan een minnelijke regeling tegen finale kwijting, geldt dat dit onverlet laat dat de rechtbank haar op grond van artikel 287a Faillissementswet kan bevelen om met het voorstel in te stemmen na een weging van de belangen van de gemeente Rotterdam enerzijds en de overige schuldeisers en verzoekster anderzijds. Immers, dit artikel kent geen bijzondere positie toe aan bepaalde schuldeisers.
+
+De rechtbank stelt allereerst vast dat de vordering van de gemeente Rotterdam een aandeel vormt in de totale schuldenlast van 10,8%.
+
+Een ruime meerderheid van de schuldeisers, namelijk tweeëndertig van de drieëndertig schuldeisers, is met de aangeboden regeling akkoord gegaan.
+
+De rechtbank stelt ook vast dat het voorstel is getoetst door een deskundige en onafhankelijke partij, te weten de Kredietbank Rotterdam. Voorts is het voorstel naar het oordeel van de rechtbank goed en controleerbaar gedocumenteerd.
+
+De rechtbank is van oordeel dat het voorstel het uiterste is waartoe verzoekster in staat moet worden geacht. Uit het verzoekschrift en het verhandelde ter zitting is gebleken dat verzoekster beschikt over een fulltime baan, op basis van een arbeidsovereenkomst voor bepaalde tijd. De arbeidsovereenkomst is in beginsel geldig tot augustus 2021, maar deze wordt verlengd. Dat betekent dat verzoekster voldoet aan de in de schuldsaneringsregeling bestaande werkverplichting voor 36 uur per week.
+
+Door schuldhulpverlening is ter zitting verklaard dat aan alle waarborgen, die ervoor moeten zorgen dat verzoekster het maximale ten behoeve van haar schuldeisers zal afdragen, is voldaan. Verzoekster zit in budgetbeheer. Het ontstaan van nieuwe schulden ligt niet in de rede.
+
+Naar verwachting zal de uitwerking van het voorstel een gunstiger resultaat hebben voor de schuldeisers dan in de situatie dat de schuldsaneringsregeling op verzoekster van toepassing zou zijn, zoals subsidiair verzocht. Immers, de toepassing van de wettelijke schuldsaneringsregeling zal aanzienlijke kosten met zich brengen, bestaande uit salaris voor de bewindvoerder en griffierecht, die in mindering komen op hetgeen verzoekster zou kunnen afdragen in de schuldsaneringsregeling. Dat betekent dat toepassing van de schuldsaneringsregeling de schuldeisers minder zou opleveren dan bij het akkoord wordt aangeboden.
+
+Op grond van het voorgaande komt de rechtbank dan ook tot het oordeel dat de belangen van verzoekster die vanuit een stabiele situatie haar schuldenproblematiek wil oplossen en van de overige schuldeisers die hebben ingestemd met het aanbod, zwaarder wegen dan die van de gemeente Rotterdam, die geweigerd heeft in te stemmen.
+
+Het verzoek om de gemeente Rotterdam te bevelen in te stemmen met de schuldregeling wordt daarom toegewezen.
+
+De gemeente Rotterdam zal als de in het ongelijk gestelde partij worden veroordeeld in de kosten van de procedure. Nu voor het onderhavige verzoekschrift geen griffierecht verschuldigd is en verzoekster niet is bijgestaan door een advocaat, worden de kosten begroot op nihil.
+
+De rechtbank stelt vast dat er thans een gedwongen schuldregeling is afgekondigd, die in de plaats komt van de vrijwillige instemming van de schuldeisers. Hieruit volgt dat verzoekster zal kunnen voortgaan met het betalen van haar schulden en dat zij niet verkeert in de toestand dat zij heeft opgehouden te betalen zodat het subsidiaire verzoek tot toepassing van de schuldsaneringsregeling zal worden afgewezen.
+
+5
+De beslissing
+
+De rechtbank:
+
+- beveelt de gemeente Rotterdam om in te stemmen met de door verzoekster aangeboden schuldregeling;
+
+- veroordeelt de gemeente Rotterdam in de kosten van deze procedure, aan de zijde van verzoekster begroot op nihil;
+
+- bepaalt dat dit vonnis in de plaats treedt van de vrijwillige instemming;
+
+- wijst het verzoek tot toepassing van de schuldsaneringsregeling af;
+
+- verklaart dit vonnis uitvoerbaar bij voorraad.
+
+Dit vonnis is gewezen door mr. C.G.E. Prenger, rechter, en in aanwezigheid van mr. N.A. Masrom, griffier, in het openbaar uitgesproken op 22 juli 2021.
+
+Tegen deze uitspraak kan degene aan wie de Faillissementswet dat recht toekent, gedurende acht dagen na de dag van deze uitspraak, hoger beroep instellen. Het hoger beroep kan uitsluitend door een advocaat worden ingesteld bij een verzoekschrift, in te dienen ter griffie van het gerechtshof dat van deze zaak kennis moet nemen.
