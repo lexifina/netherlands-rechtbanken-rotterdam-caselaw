@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8649"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1128", "PR-Updates.nl PR-2021-0195", "VAAN-AR-Updates.nl 2021-1128"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1128", "PR-Updates.nl PR-2021-0195", "VAAN-AR-Updates.nl 2021-1128", "PR-Updates.nl 2021-0195"]
 ---
 
 # ECLI:NL:RBROT:2021:8649 Rechtbank Rotterdam , 23-07-2021 / 8494859 CV EXPL 20-13284
