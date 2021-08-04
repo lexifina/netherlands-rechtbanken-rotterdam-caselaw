@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:7604"
 published_in: ["Rechtspraak.nl", "M en R 2021/113 met annotatie van A. Collignon, D.C.M. Vleeskens"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5735, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2021:7604 Rechtbank Rotterdam , 04-08-2021 / ROT-19_04049 ROT-19_04062 ROT-19_05275
