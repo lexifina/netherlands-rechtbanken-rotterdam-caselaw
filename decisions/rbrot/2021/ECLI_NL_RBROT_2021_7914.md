@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:7914"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0173", "PJ 2021/127"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0173", "PJ 2021/127", "PR-Updates.nl 2021-0173"]
 ---
 
 # ECLI:NL:RBROT:2021:7914 Rechtbank Rotterdam , 05-08-2021 / 9135514 \ CV EXPL  21-1513
