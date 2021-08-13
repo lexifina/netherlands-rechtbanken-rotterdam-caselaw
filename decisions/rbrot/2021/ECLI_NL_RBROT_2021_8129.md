@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8129"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0160", "PJ 2021/132"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0160", "PJ 2021/132", "PR-Updates.nl 2021-0160"]
 ---
 
 # ECLI:NL:RBROT:2021:8129 Rechtbank Rotterdam , 13-08-2021 / ROT 20/1542, 20/2081, 20/4166, 20/4168, 20/4170, 20/6028, 20/6258, 21/1166
