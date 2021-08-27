@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8403"
-published_in: ["Rechtspraak.nl", "PJ 2021/129", "PR-Updates.nl PR-2021-0185"]
+published_in: ["Rechtspraak.nl", "PJ 2021/129", "PR-Updates.nl PR-2021-0185", "PR-Updates.nl 2021-0185"]
 ---
 
 # ECLI:NL:RBROT:2021:8403 Rechtbank Rotterdam , 27-08-2021 / 9309313
