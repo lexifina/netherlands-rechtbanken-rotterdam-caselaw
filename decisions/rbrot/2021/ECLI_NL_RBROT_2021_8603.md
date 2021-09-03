@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:8603"
 published_in: ["Rechtspraak.nl", "AB 2022/91 met annotatie van S.D.P. Kole"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2037"]]
 ---
 
 # ECLI:NL:RBROT:2021:8603 Rechtbank Rotterdam , 03-09-2021 / ROT 19/3809 e.a.
