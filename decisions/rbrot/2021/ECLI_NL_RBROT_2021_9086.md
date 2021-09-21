@@ -1,0 +1,1915 @@
+---
+ecli: "ECLI:NL:RBROT:2021:9086"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "10/960184-15"
+decided: "2021-09-21"
+published: "2021-09-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:9086"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2021:9086 Rechtbank Rotterdam , 21-09-2021 / 10/960184-15
+
+## Inhoudsindicatie
+
+Ennetcom Consumer Products BV:
+
+Ennetcom-zaak; bedrijf dat zich bezighield met de verkoop van PGP-telefoons. Bespreking van verweren over o.a. de start van het onderzoek, de rechtmatigheid van de verkrijging van de Ennetcomdata in Canada, strijd met de Prokuratuur-jurisprudentie, onrechtmatigheid van de ontsleuteling van de PGP-berichten, analyse van de Ennetcomdata met software Hansken, schending van privacyrechten, ne bis in idem en una via-beginsel. Bewezenverklaring van deelneming aan een criminele organisatie, valsheid in geschrift en gewoontewitwassen. Geen hoofdstraf opgelegd (na eis van een geldboete van € 100.000) in verband met oplegging van een vergrijpboete van ruim € 1,3 miljoen door de Belastingdienst. Medeverdachten [ECLI:NL:RBROT:2021:9085] en [ECLI:NL:RBROT:2021:9087].
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team straf 1
+
+Parketnummer: 10/960184-15
+
+Uitspraakdatum: 21 september 2021
+
+Tegenspraak
+
+Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak tegen de verdachte rechtspersoon:
+
+[naam verdachte] ,
+
+gevestigd te [vestigingsplaats verdachte] ,
+
+bezoekadres [adres verdachte] ,
+
+ter terechtzitting vertegenwoordigd door haar middellijk bestuurder [naam medeverdachte 1] ,
+
+bijgestaan door mr. I.N. Weski, mr. S. Boersma, advocaten te Rotterdam, en mr. Th.O.M. Dieben, advocaat te Amsterdam.
+
+Kern van het vonnis
+
+De verdachte, [naam verdachte] ( [naam verdachte] ), wordt verdacht van – kort samengevat – deelname aan een criminele organisatie, betrokkenheid bij witwassen (de omzet van 2013 en 2014) en valsheid in geschrift (vier facturen en een aangifte omzetbelasting).
+
+Algemene verweren
+
+De verdediging heeft een groot aantal algemene verweren gevoerd die zien op verzuimen in het strafrechtelijk vooronderzoek, met name ten aanzien van de start van het onderzoek en de verkrijging en de verwerking van de in Canada gekopieerde data van de [servers] .
+
+De rechtbank ziet geen onrechtmatigheden in de start van het onderzoek en is van oordeel dat de vervolging niet willekeurig of in strijd met het gelijkheidsbeginsel heeft plaatsgevonden. De verdediging heeft haar stelling dat het Openbaar Ministerie de [data] slechts heeft gekopieerd om inzage te verkrijgen in alle inhoudelijke communicatie van gebruikers van [telefoons] niet kunnen onderbouwen, zodat de rechtbank niet van oordeel is dat de dataset door middel van machtsmisbruik of in strijd met fundamentele rechtsbeginselen is verkregen.
+
+De verdediging heeft verder onder meer aangevoerd dat bij de verkrijging van de [data] in strijd met de Europese Prokuratuur-jurisprudentie is gehandeld. De rechtbank vindt deze jurisprudentie echter niet van toepassing op deze zaak, omdat in deze zaak de Europese Richtlijn 2002/58 niet geldt. Wel is de rechtbank van oordeel dat het Openbaar Ministerie ten onrechte vooraf geen machtiging heeft gevraagd bij de rechter-commissaris. Voor [naam verdachte] heeft dit verzuim echter geen concreet nadeel opgeleverd en haar recht op een eerlijk proces is niet geschonden. Weliswaar is de privacy van duizenden andere gebruikers geschonden (met vérstrekkende gevolgen), maar dit kan in de zaak van [naam verdachte] geen rol spelen. De rechtbank volstaat daarom met de enkele constatering van dit verzuim, zonder daar een rechtsgevolg aan te verbinden. Anders dan de verdediging ziet de rechtbank niet dat dit volgens de Europese jurisprudentie ontoelaatbaar zou zijn.
+
+Het verweer dat de verdediging niet in de gelegenheid is gesteld om de data-analyse inhoudelijk te controleren, verwerpt de rechtbank, omdat de verdediging meer dan eens keren is uitgenodigd om specifiek te benoemen welke data men wenste in te zien, dan wel onder toezicht toegang tot de volledige [data] te krijgen. De rechtbank onderkent dat het verkrijgen en onderzoeken van dergelijke grote datasets een bedreiging kan vormen van het recht op gelijke proceskansen. Anders dan de verdediging leidt de rechtbank uit de Europese jurisprudentie echter niet af dat de verdediging de beschikking dient te krijgen over de volledige Ennetcomdataset.
+
+De verdediging heeft ook aangevoerd dat de mogelijkheden om de tool Hansken te controleren onvoldoende zijn. De rechtbank onderkent het door de verdediging geschetste gevaar dat bij de analyse van bulkdata door complexe algoritmische systemen de resultaten van het systeem leidend worden zonder dat de achterliggende algoritmen kunnen worden gecontroleerd. De rechtbank is het ook eens met de verdediging dat zij in het kader van het recht op een eerlijk proces (en dus gelijke proceskansen) moet kunnen controleren of de door Hansken geproduceerde resultaten betrouwbaar zijn. Daartoe mag van de verdediging echter wel worden verwacht dat zij concreet maakt op welke punten deze controle – al dan niet door een deskundige – moet plaatsvinden en dat heeft de verdediging nagelaten. Manipulatie van de data of invloed van een ‘worm’ op de authenticiteit van de berichten en notities is niet aannemelijk geworden.
+
+Aan [naam verdachte] is door de Belastingdienst een vergrijpboete opgelegd van ruim 1,3 miljoen euro vanwege het niet-betalen van omzetbelasting over verzwegen omzet. Volgens de verdediging mag [naam verdachte] niet voor de tweede keer vervolgd worden voor hetzelfde feit. De rechtbank ziet dat anders en vindt dat er geen sprake is van ‘hetzelfde feit’. Wel verklaart de rechtbank de officier van justitie niet-ontvankelijk voor het onder feit 4 subsidiair tenlastegelegde gebruik van valse documenten, gelet op artikel 69 lid 4 AWR.
+
+De algemene verweren van de verdediging kunnen dus voor het grootste deel niet slagen.
+
+Witwassen
+
+De rechtbank heeft vervolgens eerst de verweren en de bewijsoverwegingen ten aanzien van het witwassen (feiten 2, 3 en 6) besproken. De vraag is of de omzet van [naam verdachte] een vorm van witwassen betreft.
+
+De rechtbank stelt voorop dat het ontwikkelen, aanbieden en verhandelen van cryptotelefoons (PGP en S/MIME) in beginsel geen illegale activiteit is. Dat ligt echter anders wanneer die telefoons in overwegende mate worden gebruikt door personen die bij dat gebruik als doel hebben om de nasporing van misdrijven te voorkomen en een dergelijk doel binnen de organisatie bekend was. De rechtbank weegt mee dat [naam verdachte] de volledige anonimiteit van gebruikers faciliteerde (door geen gegevens te noteren, anonieme gebruikersnamen toe te kennen en contante betalingen te accepteren), verzoeken tot wipen na aanhouding door de politie meteen uitvoerde en een aangepast retentiebeleid hanteerde (automatisch wissen van berichten na 24 dan wel 48 uur). Ook speelt een rol dat [naam verdachte] in overleg met het Nationaal Forensisch Onderzoeksbureau en strafrechtadvocaten probeerde de werkwijze van het NFI bij het ‘kraken’ van telefoons te achterhalen. Kennelijk was de productontwikkeling van [naam verdachte] er dus op gericht om de opsporingsinstanties voor te blijven. Deze factoren tezamen maken dat [naam verdachte] een product heeft ontwikkeld dat aantrekkelijk was voor criminelen en ook in het bijzonder voor hen bedoeld was. Het aanbieden van een dergelijk product maakt administratieve vastlegging van de gegevens van de koper en girale betaling eens te meer noodzakelijk en dit werd nu juist niet gedaan.
+
+Dat de telefoons daadwerkelijk door criminelen werden gebruikt volgt uit het feit dat in een flink aantal andere strafrechtelijke onderzoeken is geconstateerd dat de verdachten gebruik maakten van producten van [naam verdachte] . Daarnaast blijkt uit een analyse van de Nederlandstalige berichten in de [data] dat bij een steekproef van de inhoud gemiddeld zo’n 75% van de berichten crimineel gerelateerd bleek te zijn. Voorts bleek dat de gebruikers van de 800 e-mailadressen die op het moment van de analyse geïdentificeerd waren vrijwel allemaal bekend waren in de politiesystemen op basis van langdurige betrokkenheid bij diverse vormen van zware en georganiseerde criminaliteit.
+
+Deze omstandigheden, in onderlinge samenhang bezien, rechtvaardigen de conclusie dat het niet anders kan zijn dan dat de geleverde producten en diensten van [naam verdachte] betaald werden door personen die criminele activiteiten verrichten en daar hun geld mee verdienen, waardoor de omzet – in elk geval gedeeltelijk – afkomstig is uit enig misdrijf en dat [naam verdachte] dat wisten. Gelet op de omvang van het witgewassen bedrag en de lange periode dat er is witgewassen vindt de rechtbank dat sprake is geweest van gewoontewitwassen.
+
+Valsheid in geschrift
+
+[naam verdachte] wordt verweten dat zij het wegsluizen van contant geld naar Dubai heeft afgedekt met valse stukken (feit 4). De verklaring van de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van [naam verdachte] , dat de contante geldbedragen via geldkanalen giraal werden overgemaakt naar [naam bedrijf 1] (een vennootschap van de medeverdachte in Dubai) klopt met het dossier. Dat deze bedragen zijn toe te rekenen aan de bedrijfsvoering van [naam bedrijf 1] acht de rechtbank echter niet geloofwaardig. De rechtbank acht bewezen dat de facturen vals zijn opgemaakt om een groot deel van de omzet buiten de reguliere boekhouding te houden. Voor de aangifte omzetbelasting volgt vrijspraak wegens gebrek aan bewijs.
+
+Deelname aan een criminele organisatie
+
+Tot slot is de rechtbank van oordeel dat [naam verdachte] deel heeft uitgemaakt van een criminele organisatie (feit 1), die als oogmerk had criminelen te begunstigen (door het wipen), witwassen en valsheid in geschrift. Ten aanzien van het wipen heeft de rechtbank overwogen dat, als er een reden voor een wipe-verzoek werd vermeld, het er meestal op neerkwam dat de eigenaar van de telefoon door de politie was aangehouden en/of de telefoon daarmee in handen van de politie was. Het wipen kwam bovendien meer dan incidenteel voor. De rechtbank stelt vast dat [naam verdachte] hiervan op de hoogte was.
+
+Voorwaardelijke verzoeken
+
+De verdediging heeft voorwaardelijk verzocht om alsnog getuigen te horen en om prejudiciële vragen te stellen aan het Hof van Justitie van de EU. De rechtbank acht zich echter voldoende voorgelicht en wijst deze verzoeken af.
+
+Strafmaat
+
+[naam verdachte] belichaamde het bedrijf van de medeverdachte [naam medeverdachte 1] ; de hiervoor genoemde strafbare feiten heeft hij als feitelijke leidinggever en middellijk bestuurder van de rechtspersoon mede gepleegd. Bij het begaan van de feiten was [naam verdachte] een onmisbare schakel tussen het [naam verdachte] -concern en de natuurlijke personen die daarin werkzaam waren. Mede door het toedoen van [naam verdachte] is de Staat voor een aanzienlijk geldbedrag gedupeerd. De door de officier van justitie gevorderde geldboete van € 100.000 is daarom in beginsel passend en geboden.
+
+Aan [naam verdachte] is door de Belastingdienst een 100% vergrijpboete van ruim € 1,3 miljoen opgelegd voor een opgelegde en onbetaald gebleven naheffingsaanslag omzetbelasting over de periode 2013 tot en met 2015. Gelet op de omvang van de opgelegde vergrijpboete komt een strafrechtelijke boete, ook al betreft die niet exact dezelfde feiten als waarvoor de vergrijpboete is opgelegd, de rechtbank niet opportuun voor. Daarom zal zij toepassing geven aan artikel 9a van het Wetboek van Strafrecht en aan [naam verdachte] geen hoofdstraf of maatregel opleggen.
+
+Inhoudsopgave
+
+1
+Onderzoek op de terechtzitting6
+
+2
+Tenlastelegging6
+
+3
+Eis officier van justitie6
+
+4
+Inleiding
+5 Bespreking van de algemene verweren6
+
+5.1
+
+Verweren inzake vormverzuimen	6
+
+A.	Start van het onderzoek	9
+
+A.1 Rechtmatigheid aanvang onderzoek	9
+
+A.2 Détournement de pouvoir	10
+
+A.3 Gelijkheidsbeginsel	11
+
+B.	Verkrijging van de [data]	12
+
+B.2 Détournement de pouvoir	12
+
+B.3 Opsporing in strijd met fundamentele rechtsbeginselen	12
+
+B.5 Strijd met internationale wet- en regelgeving en jurisprudentie	13
+
+B.4 Buitenwettelijke opsporing	18
+
+B.6 Misleiding van de Canadese autoriteiten en schending vertrouwensbeginsel	25
+
+B.7 Onvoldoende naleving van artikel 125l Sv	26
+
+C.	Verwerking van de [data]	27
+
+C.2 Onrechtmatige ontsleuteling van de data	27
+
+C.3 Onvoldoende waarborgen voor geheimhoudersbelangen	28
+
+C.4 Analyse [data]	28
+
+C.5 Buitenwettelijke toestemmingsprocedures	32
+
+C.6 Strijd met (internationale) privacyregels en jurisprudentie	33
+
+C.7 Tactische en technische verwerking [data]	34
+
+D.	Tot slot: de conclusies van de verdediging	37
+
+5.2
+
+Het redelijke-termijnverweer	39
+
+5.3
+
+Het una via/ne bis in idem-verweer	39
+
+5.4
+
+Eindconclusie rechtbank over alle algemene verweren	42
+
+6 Bewijsoverwegingen en bespreking van de bewijsverweren43
+
+6.1.
+
+Ten aanzien van feit 2 (valsheid in geschrift)	43
+
+6.1.1.
+
+De ontvankelijkheid van de officier van justitie	43
+
+6.1.2
+
+Waardering van het bewijs	43
+
+6.2.
+
+Ten aanzien van feit 3 (witwassen)	47
+
+6.2.1
+
+Geldigheid van de dagvaarding	48
+
+6.2.2.
+
+Waardering van het bewijs	48
+
+6.2.3.
+
+Tussenconclusie	52
+
+6.2.4
+
+Gewoontewitwassen	52
+
+6.2.5.
+
+Toerekening aan de rechtspersoon	52
+
+6.3.
+
+Ten aanzien van feit 1 (deelname aan een criminele organisatie)	52
+
+7 Beslissingen op voorwaardelijke verzoeken58
+
+7.1.
+
+Beslissing op voorwaardelijke getuigenverzoeken	58
+
+7.2.
+
+Beslissing op een voorwaardelijk verzoek tot het stellen van prejudiciële vragen	58
+
+7.3.
+
+Aanvullende verweren, verzoeken en nagekomen stukken	59
+
+8
+Bewezenverklaring59
+
+9
+Strafbaarheid feiten61
+
+10
+Strafbaarheid verdachte61
+
+11
+Motivering straf61
+
+12
+In beslag genomen voorwerpen62
+
+13
+Toepasselijke wettelijke voorschriften62
+
+14
+Bijlagen62
+15 Beslissing62
+Bijlage I	67
+
+1.
+Onderzoek op de terechtzitting
+
+Gelet is op het onderzoek op de terechtzitting van 25, 27 mei, 1, 3 en 8 juni 2021. Het onderzoek is gesloten op de terechtzitting van 21 september 2021.
+
+2.
+Tenlastelegging
+
+Aan de verdachte rechtspersoon is ten laste gelegd hetgeen is vermeld in de dagvaarding. De tekst van de tenlastelegging is als bijlage I aan dit vonnis gehecht.
+
+3.
+Eis officier van justitie
+
+De officieren van justitie mr. M.M. Egberts en mr. N.M. Smits (hierna: de officier van justitie) hebben gevorderd:
+
+bewezenverklaring van de onder 1, 2 primair en 3 primair ten laste gelegde feiten;
+
+veroordeling van de verdachte rechtspersoon tot een geldboete van € 100.000,00.
+
+4
+Inleiding
+
+1. De medeverdachte [naam medeverdachte 1] was (via een holding) bestuurder en aandeelhouder van de verdachte rechtspersoon [naam verdachte] ( [naam verdachte] ). Daarnaast was de medeverdachte bestuurder en aandeelhouder van een aantal andere rechtspersonen in binnen- en buitenland, waaronder [naam bedrijf 1] , gevestigd in [vestigingsplaats] . Voor de verkoop maakte [naam verdachte] gebruik van een netwerk van resellers.
+
+2. De belangrijkste producten die [naam verdachte] verkocht, waren BlackBerry’s waarmee versleutelde e-mailberichten konden worden verzonden via PGP en S/MIME versleuteling. De meeste functies op deze telefoons – zoals de camera, de microfoon en de bel- en sms-functie – waren uitgeschakeld. De berichten werden na 24 dan wel 48 uur automatisch gewist en daarnaast kon men de helpdesk van [naam verdachte] op verzoek de inhoud van de telefoon laten wissen (‘wipen’). De verzonden e-mailberichten werden – ter versleuteling en ontsleuteling – omgeleid via een server, die fysiek bij een bedrijf in Toronto (Canada) was ondergebracht.
+
+3. Op 16 april 2016 zijn de data op deze server door de Canadese politie (op basis van een rechtshulpverzoek vanuit Nederland) gekopieerd. Bij analyse van de data bleken deze 3,7 miljoen berichten en notities te bevatten. Daarnaast bevatte de server de private sleutels van de gebruikers van [naam verdachte] , zodat de politie de berichten en notities kon ontsleutelen en kennis kon nemen van de inhoud daarvan. De politie heeft voor het ontsleutelen en de analyse van de data gebruik gemaakt van het door het Nederlands Forensisch Instituut (NFI) ontwikkelde hulpmiddel ‘Hansken’.
+
+5.
+Bespreking van de algemene verweren
+
+5.1
+
+Verweren inzake vormverzuimen
+
+4. De verdediging heeft op onderscheiden punten verweren gevoerd die tot de conclusie moeten leiden dat in diverse stadia van het strafrechtelijk onderzoek vormverzuimen als bedoeld in artikel 359a van het Wetboek van Strafvordering (Sv) zijn begaan. Deze vormverzuimen zouden primair tot de slotsom moeten leiden dat de officier van justitie niet-ontvankelijk is in de vervolging, subsidiair dat algehele bewijsuitsluiting volgt, meer subsidiair dat onderzoeksresultaten afkomstig uit de middels een rechtshulpverzoek uit Canada verkregen data (hierna: de [data] ) worden uitgesloten van het bewijs en meest subsidiair dat er nihilstelling van de straf volgt.
+
+5. Voordat de rechtbank toekomt aan de bespreking van de verweren, zal eerst het juridisch kader van artikel 359a Sv worden uiteengezet.
+
+Juridisch kader 359a Sv
+
+6. De rechtbank stelt voorop dat toepassing van artikel 359a Sv is beperkt tot onherstelbare vormverzuimen die zijn begaan bij het voorbereidend onderzoek tegen de verdachte ter zake het aan hem ten laste gelegde feit. De Hoge Raad heeft bepaald dat onder omstandigheden ook buiten de gevallen van artikel 359a Sv (dus buiten het voorbereidend onderzoek en/of buiten het onderzoek tegen deze verdachte) een rechtsgevolg kan worden verbonden aan een vormverzuim als dit een onrechtmatige handeling jegens de verdachte oplevert. In dat geval moet het betreffende vormverzuim echter van bepalende invloed zijn geweest op het verloop van het opsporingsonderzoek naar en/of de (verdere) vervolging van de verdachte.
+
+7. Indien binnen deze grenzen sprake is van een vormverzuim en voor zover de rechtsgevolgen daarvan niet uit de wet blijken, moet de rechter beoordelen of aan dat vormverzuim enig rechtsgevolg dient te worden verbonden en, zo ja, welk rechtsgevolg in aanmerking komt.
+
+Beoordelingsfactoren
+
+8. Bij deze beoordeling zal de rechter rekening dienen te houden met de in het tweede lid van artikel 359a Sv genoemde factoren, te weten: het belang dat het geschonden voorschrift dient, de ernst van het verzuim en het nadeel dat daardoor wordt veroorzaakt. Bij de beoordeling van de ernst van het verzuim zijn de omstandigheden waaronder het verzuim is begaan van belang. Bij de beoordeling van het nadeel dat door het verzuim is veroorzaakt, is onder meer van belang of en in hoeverre de verdachte door het verzuim daadwerkelijk in zijn verdediging is geschaad. Vaste rechtspraak is tevens dat het belang van de verdachte dat het gepleegde feit niet wordt ontdekt niet kan worden aangemerkt als een rechtens te respecteren belang dat een nadeel oplevert als bedoeld in artikel 359a, tweede lid, Sv. Indien het niet de verdachte is die door de niet-naleving van het voorschrift is getroffen in het belang dat de overtreden norm beoogt te beschermen, zal ‘als regel’ geen rechtsgevolg behoeven te worden verbonden aan het vormverzuim. Dit kan onder omstandigheden, zoals hierboven geschetst, anders zijn als er sprake is van een onrechtmatige handeling jegens de verdachte die van bepalende invloed is geweest op het verloop van het opsporingsonderzoek naar en/of de (verdere) vervolging.
+
+9. De vraag of een en zo ja welk rechtsgevolg aan een vormverzuim moet worden verbonden, dient te worden beoordeeld op grond van een weging en waardering van de wettelijke beoordelingsfactoren en aan de hand van alle omstandigheden van het geval.
+
+Rechtsgevolgen
+
+10. Indien de rechter tot het oordeel komt dat niet kan worden volstaan met de vaststelling dat een onherstelbaar vormverzuim is begaan, en dat het verzuim niet zonder consequenties kan blijven, zal hij daaraan een van de in art. 359a, eerste lid, Sv genoemde rechtsgevolgen verbinden, te weten strafvermindering, bewijsuitsluiting of niet-ontvankelijkverklaring van het Openbaar Ministerie in de vervolging.
+
+11. Binnen de grenzen die de toepassingsvoorwaarden van artikel 359a Sv stellen, komt strafvermindering slechts in aanmerking indien aannemelijk is dat (a) de verdachte daadwerkelijk nadeel heeft ondervonden, (b) dit nadeel is veroorzaakt door het verzuim, (c) het nadeel geschikt is voor compensatie door middel van strafvermindering en (d) strafvermindering ook in het licht van het belang van het geschonden voorschrift en de ernst van het verzuim gerechtvaardigd is. Het moet dus gaan om een voldoende ernstig vormverzuim dat concreet de belangen van de verdachte in de strafzaak heeft aangetast.
+
+12. Voor toepassing van bewijsuitsluiting als een op grond van artikel 359a Sv voorzien rechtsgevolg geldt allereerst de voorwaarde dat het bewijsmateriaal door het verzuim is verkregen. De bewijsverkrijging zal dus het rechtstreeks gevolg van de onrechtmatigheid moeten zijn. De Hoge Raad onderscheidt twee categorieën van bewijsuitsluiting met bijbehorende criteria en motiveringseisen. Ten eerste kan toepassing van bewijsuitsluiting noodzakelijk zijn ter verzekering van het recht van de verdachte op een eerlijk proces in de zin van artikel 6 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM). Daarnaast is onder strikte voorwaarden bewijsuitsluiting mogelijk in geval van een ernstige schending van andere (strafvorderlijke) voorschriften of rechtsbeginselen, waarbij de uitsluiting noodzakelijk is als rechtsstatelijke waarborg en als middel om te voorkomen dat vergelijkbare vormverzuimen in de toekomst zullen plaatsvinden.
+
+13. Ingevolge vaste jurisprudentie van de Hoge Raad komt niet-ontvankelijkheid van het Openbaar Ministerie in de vervolging als een in artikel 359a Sv voorzien rechtsgevolg slechts in uitzonderlijke gevallen in aanmerking. Daarvoor is alleen plaats ingeval het vormverzuim daarin bestaat dat er een zodanig ernstige inbreuk op het recht van de verdachte op een eerlijke behandeling van zijn zaak is gemaakt, dat er geen sprake meer kan zijn van een eerlijk proces in de zin van artikel 6 EVRM.Het moet dan gaan om een ernstige onherstelbare inbreuk op het recht op een eerlijk proces die niet op een aan de eisen van een behoorlijke en effectieve verdediging beantwoordende wijze is of kan worden gecompenseerd. Daarbij moet die inbreuk het vérstrekkende oordeel kunnen dragen dat “the proceedings as a whole were not fair".
+
+Overzicht van de verweren met betrekking tot vormverzuimen
+
+14. Voor de leesbaarheid heeft de rechtbank de door de verdediging gehanteerde indeling aangehouden, te weten:
+
+A. Start van het onderzoek,
+
+B. Verkrijging van de [data] en
+
+C. Verwerking van de [data] .
+
+A. Start van het onderzoek
+
+A.1 Rechtmatigheid aanvang onderzoek
+
+Standpunt van de verdediging
+
+15. De verdediging heeft betoogd dat de start van het opsporingsonderzoek
+
+onrechtmatig is geweest. Daartoe is aangevoerd dat er ten tijde van de start van het onderzoek onvoldoende redelijk vermoeden van schuld bestond jegens de verdachte rechtspersoon. Er is actief onderzoek verricht naar de [naam verdachte] -entiteiten, waaronder de verdachte rechtspersoon, om zo tot een verdenking te komen. Het proces-verbaal van verdenking bevat, op het WODC-rapport na, uitsluitend elementen die het resultaat zijn van de inzet van bijzondere opsporingsbevoegdheden en dwangmiddelen na aanvang van het onderzoek naar de [naam verdachte] -entiteiten en kan reeds daarom geen grondslag bieden voor dan wel bijdragen aan een redelijke verdenking. Nu er nog geen verdenking bestond, zijn de aangewende opsporingsbevoegdheden in strijd met de wet ingezet en heeft de vooraankoop van twee PGP-telefoons bij de [naam winkel] in [vestigingsplaats winkel] in februari 2015, waar overigens geen bevel ex artikel 126i Sv voor was afgegeven, onrechtmatig plaatsgevonden.
+
+Beoordeling
+
+16. De rechtbank is van oordeel dat onvoldoende is gebleken dat de hiervoor bedoelde situatie zich heeft voorgedaan. Om de volgende redenen mist het verweer namelijk feitelijke grondslag. Vast staat dat het opsporingsonderzoek 26DeVink in 2015 is gestart. Het dossier is niet eenduidig over de precieze datum van de start van het onderzoek, maar in ieder geval volgt uit het dossier dat het proces-verbaal van verdenking gedateerd is op 28 oktober 2015 en dat er vóór oktober 2015 geen BOB-vorderingen zijn ingediend. Met andere woorden: er zijn geen bijzondere opsporingsbevoegdheden ingezet voorafgaand aan het opmaken van het proces-verbaal van verdenking.
+
+17. Uit het proces-verbaal van verdenking komt vervolgens naar voren dat het onderzoek is gestart naar aanleiding van in diverse TCI-processen-verbaal neergelegde -informatie, inhoudende dat criminelen BlackBerry’s af zouden nemen van [naam verdachte] -entiteiten waarmee ze versleuteld konden communiceren en dat men binnen [naam verdachte] wetenschap droeg van de criminele achtergrond van deze afnemers, alsmede de constatering dat in opvallend veel strafrechtelijke onderzoeken naar liquidaties, de handel in verdovende middelen en witwassen de verdachten en/of slachtoffers gebruik maakten van producten van [naam verdachte] . Het opsporingsonderzoek heeft zich vervolgens gericht op de strafrechtelijke hypothese dat de medeverdachte [naam medeverdachte 1] als (indirect) bestuurder en aandeelhouder van de [naam verdachte] -entiteiten de georganiseerde criminaliteit faciliteerde en in die wetenschap crimineel geld verdiende.
+
+18. De verdenking van een strafbaar feit kan volgens vaste jurisprudentie van de Hoge Raad worden aangenomen op basis van TCI-informatie. De rechtbank is van oordeel dat de in deze zaak beschikbare TCI-informatie op zichzelf al, maar zeker in combinatie met het gegeven dat in opvallend veel zaken die betrekking hadden op ernstige delicten verdachten en/of slachtoffers gebruik maakten van [naam verdachte] -producten, voldoende concreet en specifiek was om verder onderzoek naar te verrichten, mede gelet op de ernst van de feiten. Logischerwijs richtte dit onderzoek zich op de verificatie dan wel falsificatie van de verkregen TCI-informatie en daarmee op de medeverdachte [naam medeverdachte 1] en zijn bedrijven.
+
+19. Van een onrechtmatige start van het opsporingsonderzoek is aldus geen sprake. Het verweer wordt in zoverre verworpen.
+
+20. Dat zou anders kunnen zijn waar het de pseudokoop betreft. Vast staat dat ten tijde van de pseudokoop op 27 februari 2015, waarbij in een vestiging van [naam verdachte] te [vestigingsplaats verdachte] twee PGP-telefoons zijn aangekocht, geen bevel ex artikel 126i Sv was afgegeven. Nu deze pseudokoop echter heeft plaatsgevonden binnen het onderzoek 26Splash, dat voorafging aan 26De Vink en dat niet rechtstreeks tegen de verdachte rechtspersoon was gericht, is er geen sprake van een vormverzuim in de zin van artikel 359a Sv. Ook een onrechtmatigheid jegens de verdachte rechtspersoon buiten dat voorbereidend onderzoek zou gesanctioneerd kunnen worden, maar dan moet de handeling van bepalende invloed zijn geweest op het verloop van het opsporingsonderzoek. Daarvan is in dit geval geen sprake. De rechtbank acht aannemelijk dat de koop – zoals de officier van justitie heeft opgemerkt – slechts was bedoeld om te achterhalen hoe de verkoop van telefoons door [naam verdachte] in zijn algemeenheid te werk ging. Het verweer wordt dan ook verworpen.
+
+A.2 Détournement de pouvoir
+
+Standpunt van de verdediging
+
+21. De verdediging heeft bepleit dat het strafrechtelijk onderzoek jegens de verdachte rechtspersoon enkel is ingesteld teneinde toegang te verkrijgen tot de inhoud van de [naam verdachte] -servers en daarmee tot de berichten van de gebruikers van de diensten van [naam verdachte] . Het doel was het verkrijgen van informatie over vermeende criminelen die gebruik maakten van de diensten van [naam verdachte] . Het Openbaar Ministerie heeft daarmee een aan hem toekomende strafrechtelijke bevoegdheid gebruikt voor een ander doel dan waarvoor deze is gegeven en daarmee het verbod op détournement de pouvoir overtreden.
+
+Standpunt van de officier van justitie
+
+22. De officier van justitie heeft gesteld dat het doel van onderzoek 26DeVink niet was het veiligstellen van (onderlinge) communicatie tussen de klanten van [naam verdachte] , maar dat het  opsporingsonderzoek zich richtte op de verdachte rechtspersoon en op de rol van de medeverdachte [naam medeverdachte 1] als (indirect) bestuurder en aandeelhouder van de [naam verdachte] -entiteiten bij het op wereldwijde schaal faciliteren van georganiseerde criminaliteit en het in die wetenschap verdienen van crimineel geld. Teneinde die strafrechtelijke hypothese te onderzoeken, is het onderzoek gericht op de geldstromen en de digitale infrastructuur van de [naam verdachte] -entiteiten; de servers daaronder begrepen. Voor de verdenking en vervolging van witwassen is het immers van belang dat komt vast te staan dat (een groot deel van) de klanten van [naam verdachte] in de criminaliteit actief zijn en dat dus de omzet van [naam verdachte] direct of indirect afkomstig is uit (enig) misdrijf.
+
+Beoordeling
+
+23. In artikel 167, eerste lid, Sv is aan het Openbaar Ministerie de bevoegdheid toegekend zelfstandig te beslissen of naar aanleiding van een ingesteld opsporingsonderzoek vervolging moet plaatsvinden. De beslissing om tot vervolging over te gaan leent zich slechts in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing, in die zin dat slechts in uitzonderlijke gevallen plaats is voor een niet-ontvankelijkverklaring van het Openbaar Ministerie in de vervolging. Dit kan alleen op de grond dat het instellen of voortzetten van die vervolging onverenigbaar is met beginselen van een goede procesorde om de reden dat geen redelijk handelend lid van het Openbaar Ministerie heeft kunnen oordelen dat met (voortzetting van) de vervolging enig door strafrechtelijke handhaving beschermd belang gediend kan zijn.
+
+24. De rechtbank benadrukt nogmaals dat uit het dossier blijkt dat tegen de verdachte rechtspersoonvoldoende verdenking bestond ten tijde van de aanvang van het strafrechtelijk onderzoek. De officier van justitie heeft ter terechtzitting de aanleiding van het strafrechtelijk onderzoek en de vervolgingsbeslissing nader gemotiveerd. Dat het Openbaar Ministerie, gelet op de resultaten van het ingestelde opsporingsonderzoek, heeft besloten om tot vervolging over te gaan, is zonder meer begrijpelijk. De rechtbank is aldus van oordeel dat niet gezegd kan worden dat geen redelijk denkend lid van het Openbaar Ministerie tot strafvervolging zou zijn overgegaan. Voor zover de verdediging heeft willen betogen dat de officier van justitie de vervolgingsbeslissing met een onzuiver oogmerk heeft genomen, heeft zij dat niet met concrete feiten en omstandigheden kunnen onderbouwen en is dat niet aannemelijk geworden. Het verweer wordt verworpen.
+
+A.3 Gelijkheidsbeginsel
+
+Standpunt van de verdediging
+
+25. De verdediging heeft zich op het standpunt gesteld dat het Openbaar Ministerie in strijd heeft gehandeld met het gelijkheidsbeginsel door – naast de verdachte rechtspersoon – uitsluitend de medeverdachte [naam medeverdachte 1] en twee medewerkers van zijn bedrijf te vervolgen. Dit terwijl anderen die een gelijksoortige rol als de medeverdachte [naam medeverdachte 1] in de bedrijfsvoering hadden, resellers die in directe relatie tot de gebruikers van de diensten stonden, de leveranciers van de telefoons en de SIM-kaarten zoals T-Mobile, Vodafone, KPN en O2, en de bedenker van het product ( [naam 1] ), niet zijn vervolgd.
+
+Beoordeling
+
+26. Zoals hiervoor in alinea 23 overwogen kan de discretionaire bevoegdheid van het Openbaar Ministerie om tot vervolging van een verdachte over te gaan worden beperkt door de werking van de beginselen van een goede procesorde, het gelijkheidsbeginsel daaronder begrepen. Het feit dat derden aan wie dezelfde gedragingen als de verdachte rechtspersoon verweten kunnen worden, niet zijn vervolgd, leidt niet zonder meer tot niet-ontvankelijkheid van de officier van justitie in de strafvervolging tegen de verdachte rechtspersoon. Gelet op hetgeen hiervoor is overwogen zou niet-ontvankelijkverklaring van het Openbaar Ministerie op grond van schending van het gelijkheidsbeginsel alleen dan in aanmerking komen wanneer geen redelijk handelend lid van het Openbaar Ministerie heeft kunnen oordelen dat met de vervolging van deze verdachte rechtspersoon enig door strafrechtelijke handhaving beschermd belang gediend kan zijn, een en ander beschouwd tegen de achtergrond dat anderen voor dezelfde feiten niet vervolgd worden. Gesteld noch gebleken is dat die situatie zich hier heeft voorgedaan. Reeds om die reden faalt het verweer en wordt het verworpen.
+
+Verkrijging van de [data]
+
+B.2 Détournement de pouvoir
+
+Standpunt van de verdediging
+
+27. De verdediging heeft betoogd dat het Openbaar Ministerie bij de verkrijging van de [data] het verbod op détournement de pouvoir heeft geschonden. Daartoe is aangevoerd dat het onderzoek naar de BES-infrastructuur er uitsluitend op was gericht om de inhoud van de mail- en keyservers te bemachtigen teneinde inzage te verkrijgen in alle inhoudelijke communicatie op die servers, alsmede de berichten van reeds in andere onderzoeken in beslag genomen PGP-telefoons te kunnen ontsleutelen. Het rechtshulpverzoek aan Canada was aldus, evenals de digitale opsporingshandelingen die in Nederland zijn uitgevoerd, uitsluitend ingegeven door de wens om de data van gebruikers te verkrijgen ten behoeve van andere onderzoeken. Het Openbaar Ministerie heeft daarmee zijn strafrechtelijke bevoegdheden en het rechtshulpverzoek oneigenlijk ingezet. Door de onrechtmatige toepassing van die opsporingsmiddelen zijn miljoenen inhoudelijke berichten en andere persoonsgegevens van niet-verdachten verkregen. Dat levert een buitenproportionele schending van de grondrechten van vele onbekende derden op, heeft geresulteerd in de doodsteek voor het bedrijf en heeft ertoe geleid dat de communicatie van de medeverdachte [naam medeverdachte 1] in talloze andere opsporingsonderzoeken is terechtgekomen.
+
+Beoordeling
+
+28. Hierboven is reeds overwogen dat de beslissing van het Openbaar Ministerie om tot vervolging over te gaan zich slechts in zeer beperkte mate leent voor inhoudelijke toetsing. Het Openbaar Ministerie was, gelet op de hem in het kader van zijn wettelijke taakstelling toekomende bevoegdheden, bevoegd om onderzoek te doen naar de BES-infrastructuur van de verdachte rechtspersoon en het inzetten van het rechtshulpverzoek. Dat daarbij op enigerlei wijze misbruik is gemaakt van bevoegdheden is de rechtbank niet gebleken. Ook hier geldt dat niet aannemelijk is geworden dat het Openbaar Ministerie zijn bevoegdheden met een onzuiver oogmerk heeft ingezet.
+
+29. Daar komt bij dat de door de verdediging gestelde schending van grondrechten van onbekende derden en het gegeven dat de communicatie van de medeverdachte [naam medeverdachte 1] in andere onderzoeken terecht is gekomen, geen van alle schending opleveren van enig concreet belang van de verdachte rechtspersoon in deze zaak. Het moge ten slotte juist zijn dat er een oorzakelijk verband bestaat tussen het ingrijpen van politie en justitie en de déconfiture van het door de verdachte rechtspersoon uitgeoefende bedrijf, de rechtstreekse oorzaak voor de ondergang van het van het bedrijf is echter veeleer te zoeken in de samenstelling van het klantenbestand dat van de diensten van de rechtspersoon gebruik maakte.
+
+Het verweer wordt dan ook verworpen.
+
+B.3 Opsporing in strijd met fundamentele rechtsbeginselen
+
+Standpunt van de verdediging
+
+30. De verdediging heeft betoogd dat de inzet van de bijzondere opsporingsbevoegdheden en beslagmiddelen bij de zoektocht naar de BES-servers buitenproportioneel is geweest en daarmee in strijd is met beginselen van proportionaliteit en subsidiariteit. Daarnaast is sprake van een gebrek aan zorgvuldige verantwoording omtrent de verkrijging en verwerking van de aangetroffen gegevens. In een groot aantal vorderingen tot inzet van bijzondere opsporingsbevoegdheden is telkens volstaan met algemene bewoordingen zonder concreet het doel en de noodzaak van de methodieken te verantwoorden. De processtukken bevatten onvoldoende begrijpelijke informatie, waardoor de rechter-commissaris bij het afgeven van de gevorderde machtigingen onvoldoende is voorgelicht. Het gebrek aan verantwoording over de daadwerkelijke aard en omvang van het (digitale) onderzoek in het kader van de zoektocht naar de [servers] , de resultaten daarvan en de eventuele verwerking van de daarbij verkregen gegevens in het door het Openbaar Ministerie samengestelde procesdossier maakt dat niet wordt voldaan aan artikel 149a Sv en het beginsel van effectieve rechterlijke controle.
+
+Beoordeling
+
+31. De bevoegdheid tot het bevelen van opnemen van telecommunicatie met een technisch hulpmiddel zoals geregeld in artikel 126m Sv is verleend aan de officier van justitie. De rechter-commissaris dient tevoren een schriftelijke machtiging te hebben verstrekt. Het staat daarbij in eerste instantie ter beoordeling van de officier van justitie of sprake is van een verdenking als bedoeld in artikel 126m, eerste lid, Sv en of het onderzoek dringend vordert dat gegevensverkeer wordt opgenomen. Bij deze laatste toetsing spelen de beginselen van proportionaliteit en subsidiariteit een rol. De rechter-commissaris dient vervolgens bij de vraag of een machtiging kan worden verstrekt, te toetsen of aan bovenstaande wettelijke voorwaarden is voldaan. Aan de zittingsrechter ten slotte staat de rechtmatigheid van de toepassing van de bevoegdheid ter beoordeling. In het wettelijk systeem houdt die beoordeling, in een geval als het onderhavige waarin de rechter-commissaris tevoren een machtiging heeft verstrekt, slechts een beantwoording in van de vraag of de rechter-commissaris in redelijkheid tot zijn oordeel omtrent die machtiging heeft kunnen komen.
+
+32. De rechtbank stelt vast dat voor de inzet van de door de verdediging in haar pleidooi genoemde opsporingsbevoegdheden telkens op vordering van de officier van justitie een machtiging is verleend.
+
+33. Met toepassing van eerdergenoemd criterium is de rechtbank van oordeel dat de rechters-commissarissen die de machtigingen hebben afgegeven in redelijkheid tot het oordeel dat de vorderingen telkens konden worden toegewezen, hebben kunnen komen. De vorderingen zijn specifiek, concreet en wijzen eenduidig in de richting van de medeverdachte [naam medeverdachte 1] en/of de verdachte rechtspersoon. Aldus konden zij dienen als grondslag voor de toewijzing van de daarop gegronde vorderingen. Voor een verdergaande toetsing, zoals door de verdediging bepleit, is geen ruimte. Het verweer wordt verworpen.
+
+34. De processen-verbaal en andere stukken in het dossier die de bevindingen van het onderzoek weergeven, zijn naar het oordeel van de rechtbank voldoende duidelijk, zodat het verweer inzake de onbegrijpelijkheid van de processtukken dezelfde uitkomst heeft.
+
+B.5 Strijd met internationale wet- en regelgeving en jurisprudentie
+
+Standpunt van de verdediging
+
+35. De verdediging heeft aangevoerd dat de verkrijging van de [data] onrechtmatig is geweest op grond van het Unierecht. Uit de zogenoemde Prokuratuur-jurisprudentie van het Hof van Justitie van de Europese Unie (HvJ EU) volgt dat dit een onherstelbaar vormverzuim oplevert.
+
+Standpunt van de officier van justitie
+
+36. De officier van justitie stelt zich op het standpunt dat de Prokuratuur-jurisprudentie niet van toepassing is, omdat artikel 1 lid 3 van Richtlijn 2002/58 activiteiten van een lidstaat op strafrechtelijk gebied volledig van de werkingssfeer van deze Richtlijn uitsluit.
+
+Beoordeling
+
+37. De rechtbank stelt voorop dat de Nederlandse politie en justitie met het kopiëren van de gegevens op de BES-server van [naam verdachte] in Canada toegang hebben gekregen tot een grote hoeveelheid gegevens van de gebruikers. Dit betrof niet alleen metadata, maar ook de versleutelde inhoud van verzonden berichten en notities van de gebruikers. Nadat toegang was verkregen tot de private key-server, werd ook de ontsleutelde inhoud van deze berichten en notities toegankelijk. De Nederlandse politie heeft daarmee toegang gekregen tot de volledige communicatie tussen een groot aantal gebruikers, hoewel de verzenders en ontvangers slechts werden weergegeven met een bijnaam of met het volledige e-mailadres, bestaande uit willekeurige cijfers en letters. Daarmee was dus nog niet meteen duidelijk welke persoon de verzender of ontvanger was, tenzij de politie uit (andere) onderzoeken wist wie van welke bijnaam of e-mailadres gebruikt maakt. Het behoeft geen betoog dat met het kennis (kunnen) nemen van de metadata en zelfs de inhoud van de 3,7 miljoen aangetroffen berichten de gebruikers in hun recht op privacy zijn geschaad. Het recht op eerbiediging van het privéleven (en communicatie) is onder meer vastgelegd in artikel 7 van het Handvest van de grondrechten van de Europese Unie (hierna: het Handvest), in artikel 8 EVRM en artikel 10 van de Grondwet. Het recht op bescherming van persoonsgegevens wordt expliciet verwoord in artikel 8 van het Handvest.
+
+38. De verdediging heeft betoogd dat de wijze waarop de [data] zijn verkregen in strijd is met artikelen 7 en 8 van het Handvest. Met de verdediging is de rechtbank van oordeel dat de toepasselijkheid van het Handvest in deze zaak in beginsel gegeven is, omdat er sprake is van het ‘ten uitvoer brengen van Unierecht’ als bedoeld in artikel 51, lid 1, van het Handvest. De opsporing en vervolging zien immers onder meer op de verdenking van witwassen, een strafbaar feit dat op grond van uit het Unierecht voortvloeiende verplichtingen vervolgd moet worden, zeker nu in de betreffende richtlijn minimumsancties zijn opgenomen.
+
+39. Volgens de verdediging moet de toetsing aan het Handvest plaatsvinden aan de hand van de zogenoemde Prokuratuur-jurisprudentie. De rechtbank is echter van oordeel dat dit arrest en de daaraan voorafgaande jurisprudentie in deze zaak niet van toepassing is en legt dat hierna uit.
+
+40. Het HvJ EU heeft op 2 maart 2021 een arrest gewezen in de zaak H.K. tegen de Estse Prokuratuur. In dit arrest beantwoordt het HvJ EU prejudiciële vragen die zien op de uitleg van Richtlijn 2002/58/EG. Het bevat in feite een verdere uitwerking van de eerdere jurisprudentie van het HvJ EU over dit onderwerp. Met de officier van justitie is de rechtbank van oordeel dat Richtlijn 2002/58 in deze zaak echter niet van toepassing is en daarmee ook deze jurisprudentie niet toepasbaar is in deze zaak. Nog los van de vraag of [naam verdachte] is aan te merken als een ‘openbare elektronische communicatiedienst’ als bedoeld in artikel 3 van de Richtlijn, is de rechtbank van oordeel dat de verkrijging van de [data] door de Nederlandse politie is uitgezonderd van de werkingssfeer van de Richtlijn.
+
+41. Voor dat oordeel is van belang dat Richtlijn 2002/58 beoogt de rechten (met name de privacyrechten) van burgers en rechtspersonen te beschermen, specifiek in de sector elektronische communicatie. Daartoe legt de Richtlijn de lidstaten verplichtingen op met betrekking tot de verwerking van persoonsgegevens door aanbieders van elektronische communicatiediensten. Zo bevat artikel 5 de verplichting dat de lidstaten via nationale wetgeving het vertrouwelijke karakter van communicatie en de daarbij behorende verkeersgegevens garanderen en artikel 6 schrijft voor dat verkeersgegevens zo snel mogelijk moeten worden gewist. Tegelijkertijd biedt de Richtlijn de lidstaten in artikel 15 de mogelijkheid wettelijke regelingen te treffen om de reikwijdte van de beschermingsbepalingen te beperken, onder meer voor het onderzoeken, opsporen en vervolgen van strafbare feiten. De in het Prokuratuur-arrest behandelde zaak en de daaraan voorafgaande jurisprudentie gaat over de uitleg van artikel 15, namelijk over nationale wetgeving die telecomaanbieders verplicht gegevens te bewaren voor gebruik in strafrechtelijke onderzoeken.
+
+42.	In Prokuratuur en in daaraan voorafgaande zaken is door regeringen van lidstaten aangevoerd dat het verkrijgen van toegang tot dergelijke verkeersgegevens door politie en justitie niet valt onder de beperkingsbevoegdheid van artikel 15, maar onder de ‘activiteiten van de staat op strafrechtelijk gebied’, die in artikel 1, lid 3, van de werkingssfeer van deze Richtlijn zijn uitgezonderd. Over de verhouding tussen deze twee artikelen heeft het HvJ EU zich het meest uitvoerig uitgelaten in het arrest La Quadrature du Net e.a.,dat slechts enkele maanden voorafgaand aan het Prokuratuur-arrest werd gewezen. Het HvJ EU licht in dat arrest toe dat met de ‘activiteiten van de staat op strafrechtelijk gebied’ wordt gedoeld op specifieke activiteiten van staten of overheidsdiensten die niets van doen hebben met de gebieden waarop particulieren activiteiten ontplooien. Er moet dus volgens het HvJ EU onderscheid gemaakt worden naar gelang van de persoon die de gegevensverwerkingshandeling uitvoert. Dit leidt tot de conclusie dat wanneer lidstaten op strafrechtelijk gebied rechtstreeks maatregelen toepassen die inbreuk maken op het beginsel van de vertrouwelijkheid van elektronische communicatie zonder dat zij verwerkingsverplichtingen opleggen aan aanbieders van elektronische-communicatiediensten, de bescherming van de gegevens van de betrokken personen niet wordt beheerst door Richtlijn 2002/58. Dit betekent dus niet, zoals de officier van justitie heeft betoogd, dat álle activiteiten van de Staat op strafrechtelijk gebied van de werkingssfeer van Richtlijn 2002/58 zijn uitgesloten. In de gevallen waarin de aanbieders van elektronische-communicatiediensten door de lidstaten verplicht worden een gegevensverwerkingshandeling uit te voeren, worden strafrechtelijke opsporingsactiviteiten wel degelijk beheerst door deze Richtlijn.
+
+43. De Nederlandse politie heeft bij het verkrijgen van de [data] gebruik gemaakt van haar bevoegdheid op grond van artikel 125i Sv, te weten een doorzoeking voor het vastleggen van gegevens. Daarbij is geen sprake geweest van een verwerkingshandeling door een aanbieder van elektronische-communicatiediensten; de Canadese Toronto Police heeft – op rechtshulpverzoek van de Nederlandse politie – deze gegevens gekopieerd van de dataserver. Richtlijn 2002/58 is dan ook niet van toepassing op deze opsporingshandelingen. Het standpunt van de verdediging dat dit wel het geval is, omdat [naam bedrijf 2] (het Canadese bedrijf dat de server verhuurde, hierna: [naam bedrijf 2] ) en diens eigenaar [naam 2] zijn verplicht om mee te werken aan de uitvoering van het rechtshulpverzoek en daarmee tot het verlenen van toegang tot de gegevens, kan geen stand houden. Voor zover [naam verdachte] al is aan te merken als ‘aanbieder van elektronische-communicatiediensten’ en [naam 2] als ‘bewerker’ in de zin van de Richtlijn, is het immers niet de Nederlandse staat die een verwerkingsverplichting heeft opgelegd.
+
+44. In de ‘Search Warrant and Assistance Order’ draagt de Canadese rechter [naam 3] de Toronto Police Service op om de kopie van de server van [naam verdachte] te maken en [naam 2] om daartoe onder andere de locatie van de servers aan te wijzen en “administrative access” te verlenen. Dat is ook feitelijk gebeurd. Dat is niet opmerkelijk, want het alternatief zou zijn geweest dat men alle servers (ook van andere huurders) had moeten kopiëren of in beslag had moeten nemen. [naam 2] was volgens de Assistance Order eveneens verplicht om de servers los te koppelen van internet. Anders dan de verdediging stelt, blijkt uit het dossier niet dat [naam 2] zelf gekopieerd heeft. Dat hoefde hij ook niet op grond van de Assistance Order. Hoewel het verlenen van”‘administrative access” mogelijk moet worden opgevat als ‘toegang verlenen’ tot de gegevens en er daarmee sprake zou zijn van ‘verwerken’ in de zin van de Richtlijn 2002/58, dan betreft het verplichtingen die door de Canadese rechter aan [naam bedrijf 2] en/of [naam 2] zijn opgelegd in de uitvoering van het Canadese nationale recht. Op grond van het Rechtshulpverdrag wordt in Canada een rechtshulpverzoek namelijk in overeenstemming met het recht van de aangezochte Staat uitgevoerd.De Assistance Order berust op § 10 van de Canadese Mutual Legal Assistance Act jo. artikel 487.02 van de Criminal Code. Dat laatste artikel luidt: “If […] a warrant is issued under this Act, the judge or justice who […] issues the warrant may order a person to provide assistance, if the person’s assistance may reasonably be considered to be required to give effect to the […] warrant.” Voor zover er al over ‘verwerkingsverplichtingen’ kan worden gesproken, zijn deze dus niet door de Nederlandse overheid (“de lidstaat”) aan [naam bedrijf 2] en/of [naam 2] opgelegd. Het verkrijgen van de [data] valt daarmee buiten de werkingssfeer van Richtlijn 2002/58. Dit doet uiteraard niet af aan de verplichting van de  Nederlandse rechter om marginaal te toetsen of de uitvoering van het rechtshulpverzoek in Canada voldoet aan het recht op een eerlijk proces, maar het maakt niet dat het Unierecht van toepassing is.
+
+45. Dit leidt dan ook tot de conclusie dat de Prokuratuur-jurisprudentie, die specifiek ziet op de uitleg van Richtlijn 2002/58, niet toepasbaar is in deze zaak.
+
+46. Overigens gaat de rechtbank ook niet mee met het standpunt van de verdediging dat het handelen van [naam 2] en/of [naam bedrijf 2] een verwerkingshandeling is geweest die onder EU-Verordening 2016/679 (hierna: de AVG) of diens voorganger valt. Op de dag van verkrijging van de [data] (16 april 2016) was de AVG nog niet tot stand gekomen, zodat diens voorganger Richtlijn 95/46/EG op dat moment van toepassing was. Richtlijn 2002/58 vormt een specificatie en aanvulling op Richtlijn 95/46/EG en in artikel 3, tweede lid, van Richtlijn 95/46/EG wordt de werkingssfeer op overeenkomstige wijze afgebakend. Laatstgenoemde Richtlijn was in Nederland geïmplementeerd in de toenmalige Wet bescherming persoonsgegevens (Wbp). De rechtbank gaat ervan uit dat de afbakening van de werkingssfeer van de Wbp in artikel 2, tweede lid sub c, Wbp, op dezelfde wijze moet worden beschouwd als in de Richtlijn, hoewel de uitzondering van strafrechtelijke opsporing daar op enigszins afwijkende wijze is geformuleerd. Voor de toepasselijkheid van de Wbp op de verkrijging van de [data] geldt echter hetzelfde als hiervoor in alinea 45 ten aanzien van Richtlijn 2002/58 over het handelen van [naam bedrijf 2] en/of [naam 2] is overwogen: voor zover er al over ‘verwerkingsverplichtingen’ kan worden gesproken, dan zijn deze niet door de Nederlandse overheid (“de lidstaat”) aan [naam bedrijf 2] en/of [naam 2] opgelegd.
+
+47. Nu het verkrijgen van de [data] niet valt onder de Richtlijnen 2002/58 of 95/46/EG, moet uitsluitend worden getoetst aan nationaal recht, wat betekent dat deze opsporingsactiviteiten met name in overeenstemming moeten zijn met het nationale constitutionele recht en met de vereisten van het EVRM, aldus het HvJ EU. Tegelijkertijd blijft, zoals hiervoor overwogen, het Handvest van toepassing.
+
+48. Zowel de Grondwet als het EVRM en het Handvest staan beperkingen toe op de daarin erkende rechten en vrijheden. De voorwaarden waaronder dat is toegestaan verschillen op onderdelen, maar de gemene deler is dat dergelijke beperkingen bij wet moeten zijn voorzien en noodzakelijk moeten zijn voor het algemeen (of meerdere) belang(en) of voor de bescherming van de rechten en vrijheden van anderen. De wettelijke grondslag waarop het Openbaar Ministerie de verkrijging van de [data] heeft gebaseerd, is artikel 125i Sv. De verdediging heeft aangevoerd dat het Openbaar Ministerie daarbij ten onrechte de wettelijke vereisten van artikel 125la Sv niet in acht heeft genomen, waardoor ook aan de vereisten uit het Handvest en het EVRM niet is voldaan. Op dit standpunt wordt hierna nader ingegaan bij de bespreking van de verweren waarin wordt gesteld dat sprake is geweest van buitenwettelijke opsporing.
+
+B.4 Buitenwettelijke opsporing
+
+Standpunt van de verdediging
+
+49. De verdediging heeft aangevoerd dat artikel 125i Sv onvoldoende grondslag biedt voor de verkrijging van de [data] . Het doel van de inzet was immers de verkrijging van onder meer inhoudelijke communicatie tussen de gebruikers en hun contacten. Het Openbaar Ministerie heeft ten onrechte artikel 125la Sv niet in acht genomen, waarin een voorafgaande rechterlijke toetsing is voorgeschreven en beperkingen ten aanzien van de vast te leggen gegevens zijn opgenomen. Artikel 125la Sv biedt nu juist de waarborgen die noodzakelijk zijn in het licht van artikelen 7 en 8 Handvest, 8 EVRM en 10 en 13 Grondwet.
+
+Standpunt van de officier van justitie
+
+50. De officier van justitie heeft zich op het standpunt gesteld dat [naam verdachte] geen ‘aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst’ is als bedoeld in artikel 125la Sv, zodat dit artikel toepassing mist. Voor de uitleg van deze begrippen moet worden aangesloten bij de definities in artikel 1.1 van de Telecommunicatiewet, die op hun beurt implementaties betreffen van de begrippen uit Europese richtlijnen. Gelet op de HvJ EU-arresten SkypeOut en Gmail valt [naam verdachte] niet onder deze definitie, maar betreft het een zogenoemde Over-The-Top-dienst. Bovendien is PGP geen ‘openbare’ dienst, omdat de gebruikers alleen konden communiceren binnen de gesloten groep van andere PGP-gebruikers. [naam verdachte] heeft zich ook nooit geregistreerd bij de ACM als telecomaanbieder en is nooit aftapbaar geweest, terwijl dit vereisten zijn voor aanbieders in de zin van de Telecommunicatiewet.
+
+Beoordeling
+
+51. De rechtbank moet allereerst vaststellen of artikel 125la Sv op het kopiëren van de dataserver van [naam verdachte] van toepassing is. Artikel 125la Sv schrijft beperkingen voor in de vast te leggen gegevens die worden aangetroffen bij een doorzoeking op grond van artikel 125i Sv en vergt bovendien een machtiging van de rechter-commissaris. Deze voorwaarden bieden, analoog aan het briefgeheim, extra bescherming aan de verzenders en ontvangers van berichten, die ervan uit mogen gaan dat hun berichten tijdens het ‘transport’ niet zomaar mogen worden gelezen. Het artikel is alleen van toepassing in het geval van een doorzoeking bij ‘een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst’, aldus de tekst van artikel 125la Sv.
+
+52. De vraag is allereerst bij wie in deze zaak de doorzoeking als bedoeld in dit artikel heeft plaatsgevonden. De rechtbank stelt vast dat de feitelijke doorzoeking weliswaar heeft plaatsgevonden in de serverruimte van [naam bedrijf 2] in Toronto (Canada), de verhuurder van de server, maar dat het de server van [naam verdachte] betreft. De rechtbank is dan ook van oordeel dat de doorzoeking in het kader van dit artikel heeft te gelden als een doorzoeking bij [naam verdachte] . Deze wetsbepaling beoogt, gelet op de wetsgeschiedenis, immers het briefgeheim van aangetroffen e-mails van abonnees van aanbieders te beschermen, zodat de rechtbank ervan uitgaat dat de locatie waar de server van een dergelijke aanbieder fysiek is ondergebracht van ondergeschikt belang is.
+
+53. De vervolgvraag luidt of [naam verdachte] kan worden aangemerkt als een ‘aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst’ als bedoeld in artikel 125la Sv. Daarbij is van belang dat [naam verdachte] als verkoper van cryptotelefoons een bijzondere plaats inneemt. [naam verdachte] biedt een product aan dat niet alleen bestaat uit de combinatie van een aangepaste telefoon en een telefoonabonnement van een serviceprovider (bijvoorbeeld KPN of O2), maar ook uit specifieke PGP-faciliteiten, met name de versleuteling,  het op afstand wipen en de retentie-policy. Deze faciliteiten maken dat [naam verdachte] zich onderscheidt van een serviceprovider of internetaanbieder, maar ook van een doorsnee telefoonverkoper die telefoons met een abonnement aanbiedt. Voor het faciliteren van de PGP-functies leidde [naam verdachte] alle communicatie via een eigen BES-server, met daarop de mailserver en ook een server met private keys ter ontsleuteling van berichten.
+
+54. De officier van justitie heeft voor de uitleg van het begrip ‘aanbieder’ als bedoeld in artikel 125la Sv aansluiting gezocht bij de definities uit de Telecommunicatiewet en deze uitgelegd aan de hand van de Richtlijn (EU) 2002/21/EG en Europese jurisprudentie. De rechtbank is het echter met de verdediging eens dat een dergelijke – vrij beperkte – definiëring van dit begrip vanuit de Telecommunicatiewet niet zonder meer volgt uit de wetsgeschiedenis van artikel 125la Sv of de wetssystematiek. Uit de wetsgeschiedenis blijkt dat de wetgever voor ogen heeft gehad om e-mails die zijn opgeslagen bij een internetaanbieder dezelfde bescherming te bieden als een brief die is toevertrouwd aan een vervoerder. Ook is helder dat volgens de wetgever de artikelen 126ng, tweede lid, en 125la Sv beide de inhoud van dergelijke e-mails met dat doel beschermen; artikel 126ng Sv betreft de variant waarin de gegevens worden gevorderd en artikel 125la Sv het geval waarin de opsporingsinstantie zelf de gegevens vastlegt tijdens een doorzoeking. De tekst van de twee artikelen was bij inwerkingtreding op 1 januari 2006 op dat punt gelijk; ook artikel 126ng, tweede lid (juncto het eerste lid) Sv sprak van ‘de aanbieder van een openbaar telecommunicatienetwerk, onderscheidenlijk de aanbieder van een openbare telecommunicatiedienst’. Dit duurde echter slechts een paar maanden. Bij inwerkingtreding van de Wet Computercriminaliteit II op 1 september 2006 werd dit begrip in artikel 126ng Sv aangepast naar ‘aanbieder van een communicatiedienst’, met verwijzing naar een definitie daarvan in artikel 126la (oud) Sv. Bij deze wetswijziging werd ook in een flink aantal andere artikelen het begrip ‘aanbieder van een openbaar telecommunicatienetwerk of telecommunicatiedienst’ gewijzigd in ‘aanbieder van een communicatiedienst’, om aan te kunnen sluiten bij de begripsbepaling in het Cybercrime Verdrag, dat inmiddels in 2001 tot stand was gekomen. In de Nota van wijziging wordt toegelicht dat de reden voor deze aanpassing was dat het oude begrip te beperkt werd bevonden, omdat ‘het verdrag geen onderscheid [maakt] tussen openbare elektronische communicatiediensten en niet-openbare elektronische communicatiediensten en zich ook [richt] op aanbieders die gebruik maken van deze netwerken om hun diensten aan te bieden.’ Bij inwerkingtreding van de Wet Computercriminaliteit III in maart 2019 werd artikel 126la (oud) Sv omgenummerd naar artikel 138g Sv en sindsdien verwijst artikel 126ng Sv naar de definitie in artikel 138g Sv. Artikel 125la Sv maakte geen deel uit van deze wetswijzigingen en is sinds de inwerkingtreding op 1 januari 2006 niet meer aangepast.
+
+55. De rechtbank gaat ervan uit dat dit een onbedoelde omissie is geweest van de wetgever. Het is in elk geval geen gemotiveerde keuze geweest van de wetgever om artikel 125la Sv in de Wet Computercriminaliteit II ongewijzigd te laten en in dit artikel niet, tegelijk met alle andere artikelen, de nieuwe definitie op te nemen. In de tekst van de artikelen waar expliciet de keuze is gemaakt om het begrip ‘openbaar telecommunicatienetwerk’ of ‘openbare telecommunicatiedienst’ te handhaven, is daar steeds de zinsnede aan toegevoegd ‘in de zin van de Telecommunicatiewet.’ De wetgever heeft daarmee naar het oordeel van de rechtbank willen aanduiden dat het dan om een kleinere groep van aanbieders gaat voor wie afzonderlijke verplichtingen gelden, bijvoorbeeld op het gebied van aftappen. Dat de wetgever artikel 125la Sv abusievelijk ‘over het hoofd heeft gezien’ wordt ook aangenomen in het concept wetsvoorstel voor het nieuwe Wetboek van Strafvordering, waar in het nieuwe artikel 2.7.43 (ter vervanging van het huidige artikel 125la Sv) alsnog wordt voorgesteld het begrip te wijzigen in ‘aanbieder van een communicatiedienst.’
+
+56. Als de rechtbank het standpunt van de officier van justitie zou volgen, zou dat betekenen dat de gebruikers van [naam verdachte] in het geval van het vorderen van de inhoudelijke berichten een ruimere bescherming toekomt dan bij het vastleggen van dezelfde gegevens. De officier van justitie heeft immers ter zitting gesteld dat, als de politie de [data] niet zelf had gekopieerd maar gevorderd, artikel 126ng, tweede lid, Sv van toepassing was geweest. Volgens de officier van justitie voldoet [naam verdachte] namelijk wel aan de definitie ‘aanbieder van een communicatiedienst’ als bedoeld in artikel 126la (oud) Sv. Naar het oordeel van de rechtbank kan het dan niet zo zijn dat de gebruikers van [naam verdachte] diezelfde bescherming niet toekomt nu de officier van justitie – overigens vanwege begrijpelijke redenen – gekozen heeft voor het zelf kopiëren van de dataservers. Dat is in strijd met de geest van de wetsbepaling en met de wetgeschiedenis. Dit geldt temeer nu de wetgever juist aandacht heeft gehad voor de gespannen verhouding tussen de vorderingsbevoegdheid en de bevoegdheid om tijdens een doorzoeking zelf gegevens vast te leggen. Bij een doorzoeking is in de wetssystematiek namelijk – anders dan bij de vorderingsbevoegdheden – geen onderscheid gemaakt naar categorieën gegevens (identificerende gegevens, andere dan identificerende gegevens en gevoelige gegevens). Daarom is door de wetgever opgemerkt dat de zwaardere bevoegdheid tot doorzoeking pas mag worden toegepast als andere bevoegdheden, zoals het vorderen van gegevens, niet effectief zijn. Als er zwaardere voorwaarden gelden voor de vorderingsbevoegdheden dan voor de doorzoekingsbevoegdheid, dan zou het bewust passeren van deze voorwaarden door te kiezen voor een doorzoeking misbruik van bevoegdheid opleveren, zo stelt de wetgever. Dit onderstreept de gedachte dat bij gebruikmaking van de doorzoekingsbevoegdheid van artikel 125i Sv geen lichtere voorwaarden of eisen mogen gelden dan bij de bevoegdheid tot vorderen van dezelfde gegevens.
+
+57. De rechtbank zal dan ook het begrip ‘een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst’ in artikel 125la Sv uitleggen aan de hand van het begrip ‘aanbieder van een communicatiedienst’ als bedoeld in artikel 126la (oud) Sv (nu 138g Sv). Met de officier van justitie en de verdediging is de rechtbank van oordeel dat [naam verdachte] als een dergelijke aanbieder is aan te merken, nu [naam verdachte] in de uitoefening van een bedrijf aan de gebruikers van haar dienst de mogelijkheid bood te communiceren met behulp van een geautomatiseerd werk. Dit betekent dan ook dat de e-mails op de servers van [naam verdachte] dezelfde bescherming toekomt als het ‘briefgeheim’. Als dat niet het geval zou zijn, zou het enkele feit dat men via PGP-toestellen communiceert afbreuk doen aan het recht op vertrouwelijke communicatie. Dit zou op zichzelf overigens wel ironisch zijn gelet op het doel van de gebruikte versleuteling.
+
+58. Dit leidt tot de conclusie dat het Openbaar Ministerie bij de verkrijging van de [data] artikel 125la Sv in acht had moeten nemen. Bij het aantreffen van deze e-mails mocht de politie dus slechts kennis nemen van de inhoud daarvan voor zover deze klaarblijkelijk van de verdachte rechtspersoon afkomstig waren, voor hem bestemd waren, op hem betrekking hebben of tot het begaan van het strafbare feit hebben gediend, ofwel klaarblijkelijk met betrekking tot die gegevens het strafbare feit is gepleegd. Bovendien was een machtiging van een rechter-commissaris noodzakelijk voorafgaand aan kennisname van de inhoud van de berichten.
+
+59. Het staat vast dat de officier van justitie een dergelijke machtiging niet heeft gevraagd. Het standpunt van de officier van justitie dat men van tevoren niet had verwacht miljoenen e-mails van gebruikers aan te treffen, gelet op de door [naam verdachte] gehanteerde retentie-policy, kan de rechtbank volgen, maar dat neemt niet weg dat het Openbaar Ministerie wist dat er inhoudelijke berichten op de server zouden staan. In het requisitoir doet de officier van justitie het voorkomen alsof het verzoek vooral gericht was op metadata, contactenlijsten en private sleutels (om berichten via eerdere datataps te kunnen ontsleutelen). In het rechtshulpverzoek aan Canada wordt echter wel vermeld dat men verwacht op de BES-server versleutelde e-mailberichten aan te treffen, met de opmerking dat het Openbaar Ministerie zelf al over een aantal private keys beschikt waarmee berichten ontsleuteld konden worden. De officier van justitie wist dus van tevoren dat inhoudelijke berichten van gebruikers verkregen zouden worden en dat het Openbaar Ministerie ook – zelfs als de private key-server niet zou worden aangetroffen – kennis van de inhoud van (in elk geval een deel van) de berichten zou gaan nemen. In elk geval had het Openbaar Ministerie om een machtiging van de rechter-commissaris moeten verzoeken toen duidelijk werd dat de 3,7 miljoen aangetroffen berichten met behulp van de aangetroffen private keys ontsleuteld konden gaan worden. Ook dat heeft de officier van justitie niet gedaan.
+
+60. Het Openbaar Ministerie heeft uiteindelijk zonder enige beperking kennis kunnen nemen van de inhoud van miljoenen berichten van de gebruikers van [naam verdachte] , terwijl artikel 125la Sv ook voorwaarden stelt aan de categorieën van berichten waarvan kennis mag worden genomen. Waar het berichten van, aan en over de verdachte rechtspersoon of de medeverdachte [naam medeverdachte 1] betreft, is aan de voorwaarden voldaan. Voor de overige berichten geldt de voorwaarde dat “klaarblijkelijk met betrekking tot die gegevens” het strafbare feit is gepleegd. Het Openbaar Ministerie heeft aan het rechtshulpverzoek onder meer witwassen ten grondslag gelegd, met de toelichting dat kennisname van de inhoud van de server noodzakelijk is om de omvang van het klantenbestand vast te kunnen stellen en om te achterhalen wie de gebruikers zijn. Het Openbaar Ministerie wilde, om aan te kunnen tonen dat de omzet van misdrijf afkomstig is, vaststellen in welke mate de gebruikers als ‘crimineel’ zijn aan te merken. Het moet worden toegegeven dat het Openbaar Ministerie geen andere mogelijkheid had om vast te stellen of het klantenbestand uit criminele gebruikers bestond, gelet op het ontbreken van een klantenadministratie, zowel bij [naam verdachte] als bij de resellers. Het is echter de vraag of daarvoor kennisname van alle 3,7 miljoen berichten inclusief metadata benodigd was. Dit betreft immers een vérgaande inbreuk op het recht op vertrouwelijke communicatie en op de onschuldpresumptie van de overige gebruikers van [naam verdachte] , zodat proportionaliteit en subsidiariteit daarbij leidende beginselen moeten zijn. De voorwaarden van artikel 125la Sv (en de vorderingsvariant in artikel 126ng Sv) vergen daarom ook een directe link met de verdachte of tenminste met het strafbare feit. De berichten waarvan de politie kennis heeft kunnen nemen, betreffen veelal berichten van gebruikers waarbij een dergelijke directe link niet valt te leggen. Daar staat tegenover dat de verdenking van witwassen binnen onderzoek 26De Vink juridisch gezien een heel ruime grondslag biedt voor justitie om – zowel via de inhoud van de berichten als via de identificatie van gebruikers – te achterhalen of de PGP-telefoons van [naam verdachte] voor criminele doeleinden werden ingezet. In dat kader was het kennisnemen van de inhoud van zoveel mogelijk berichten en het identificeren van zoveel mogelijk gebruikers noodzakelijk. Daarmee is een – weliswaar indirecte – link met het strafbare feit gegeven. De rechtbank kan in het kader van dit onderzoek dan ook niet concluderen dat het Openbaar Ministerie zich niet aan de beperkende voorwaarden van artikel 125la Sv heeft gehouden dan wel de beginselen van proportionaliteit en subsidiariteit heeft geschonden. Dat zou wel aan de orde kunnen zijn bij het delen van deze gevoelige informatie met andere opsporingsonderzoeken, maar dat valt buiten het beoordelingskader van de rechtbank in deze zaak.
+
+Vormverzuim en rechtsgevolgen
+
+61. De rechtbank stelt vast dat het ontbreken van de machtiging van de rechter-commissaris is aan te merken als een onherstelbaar vormverzuim in het voorbereidend onderzoek tegen de verdachte rechtspersoon als bedoeld in artikel 359a Sv. De vraag die nu voorligt is of daaraan een rechtsgevolg moet worden verbonden en zo ja, welk gevolg. Daarbij houdt de rechtbank rekening met de factoren van lid 2 van artikel 359a Sv, namelijk het belang dat het geschonden voorschrift dient, de ernst van het verzuim en het nadeel dat daardoor wordt veroorzaakt. In de kern komt het daarbij neer op een afweging van belangen, zoals de Hoge Raad stelt. Enerzijds de met vervolging en berechting van strafbare feiten gemoeide belangen – waaronder de belangen van waarheidsvinding en van de bestraffing van de daders van strafbare feiten – en anderzijds de belangen die verband houden met de handhaving van grondrechten en de bevordering van een normconform verloop van het voorbereidend onderzoek.
+
+62. Anders dan de verdediging heeft aangevoerd blijkt uit het dossier en het besprokene op zitting niet dat het Openbaar Ministerie artikel 125la Sv buiten toepassing heeft gelaten met als doel om (eventuele restricties van) een rechterlijke machtiging te omzeilen. Evenmin is gebleken dat het Openbaar Ministerie de Canadese rechter op dit punt doelbewust heeft misleid, zoals de verdediging eveneens heeft aangevoerd. De rechtbank gaat ervan uit dat, als de officier van justitie om een machtiging had verzocht, de rechter-commissaris deze had afgegeven. Voor zover de rechter-commissaris in een dergelijke machtiging beperkingen had opgenomen voor het doorzoeken van de data, dan zouden dergelijke beperkingen vermoedelijk zien op het verstrekken van data aan andere onderzoeken en niet zozeer op het doorzoeken van de dataset in het kader van onderzoek 26De Vink, gelet op de ruime grondslag die de verdenking van witwassen – en de daarbij gegeven motivering in het rechtshulpverzoek – met zich brengt. Zo heeft ook de Canadese rechter in de “Order to send evidence to the Kingdom of the Netherlands” van het Superior Court of Justice Toronto Region d.d. 19 september 2016 (hierna: Sending Order) voorwaarden gesteld aan het gebruik van de [data] in andere onderzoeken en niet in 26De Vink. Het belang dat het geschonden voorschrift dient, te weten rechterlijk toezicht op het verkrijgen van gevoelige gegevens, is groot, maar nakoming van het voorschrift zou in dit geval voor deze zaak geen andere uitkomst hebben gehad.
+
+63. De verdachte rechtspersoon is niet in haar verdedigingsbelangen geschaad, anders dan dat belastende berichten en notities in het dossier zijn gebruikt. Dat is echter in dit kader niet relevant, omdat het belang van de verdachte rechtspersoon dat het gepleegde feit niet wordt ontdekt niet kan worden aangemerkt als een rechtens te respecteren belang. Een eventuele schending van dit belang als gevolg van een vormverzuim levert dan ook niet een nadeel op als bedoeld in artikel 359a, tweede lid, Sv.
+
+64. Ook een mogelijk faillissement van de verdachte rechtspersoon kan niet als een dergelijk nadeel worden aangemerkt. Hierboven in alinea 29 is immers reeds geoordeeld dat de ondergang van het bedrijf niet zozeer het gevolg is van justitieel ingrijpen maar samenhangt met de clientèle van de verdachte rechtspersoon.
+
+65. De verdediging heeft ook uitvoerig aangevoerd dat een inbreuk is gemaakt op de privacyrechten en de onschuldpresumptie van alle gebruikers van [telefoons] . De rechtbank kan deze gedachte volgen, maar uit de jurisprudentie van de Hoge Raad blijkt dat, als het niet de verdachte is die door de niet-naleving van een voorschrift is getroffen in het belang dat de overtreden norm beoogt te beschermen, geen rechtsgevolg behoeft te worden verbonden aan het verzuim. De opvatting van de verdediging dat de Hoge Raad in recente jurisprudentie deze zogenoemde Schutznorm geheel zou hebben losgelaten, deelt de rechtbank niet. De Hoge Raad heeft inderdaad geoordeeld dat ook buiten de gevallen van artikel 359a Sv (dus buiten het voorbereidend onderzoek en/of buiten het onderzoek tegen deze verdachte) onder omstandigheden een rechtsgevolg kan worden verbonden aan een vormverzuim. In dat geval moet het betreffende vormverzuim echter van bepalende invloed zijn geweest op het verloop van het opsporingsonderzoek naar en/of de (verdere) vervolging van de verdachte srechtspersoon. Daarvan is in dit geval geen sprake; de schending van de privacyrechten van derden heeft geen invloed gehad op het opsporingsonderzoek tegen en de vervolging van de verdachte rechtspersoon.
+
+66. Ook overigens ziet de rechtbank geen aanleiding voor bewijsuitsluiting. Zoals overwogen is er geen sprake van een schending van het recht op een eerlijk proces als bedoeld in artikel 6 EVRM. De andere categorie die volgens de Hoge Raad in aanmerking komt voor bewijsuitsluiting betreft gevallen waarin dit rechtsgevolg noodzakelijk is als rechtsstatelijke waarborg en als middel om met de opsporing en vervolging belaste ambtenaren te weerhouden van onrechtmatig optreden en daarmee als middel om te voorkomen dat vergelijkbare vormverzuimen in de toekomst zullen plaatsvinden. De rechtbank heeft geen aanleiding om te veronderstellen dat het verzuim om geen machtiging te vragen een structureel karakter heeft en er een krachtige stimulans nodig is om vergelijkbare vormverzuimen in de toekomst te voorkomen.
+
+67. Nu de rechtbank van oordeel is dat onvoldoende is gebleken van een concreet nadeel voor de verdachte rechtspersoon, vindt de rechtbank strafvermindering geen passend rechtsgevolg.
+
+68. De rechtbank vindt het, gelet op het ontbreken van dat nadeel, passend om te volstaan met de enkele constatering dat sprake is van een vormverzuim. Het standpunt van de verdediging dat uit de jurisprudentie van het HvJ EU volgt dat bij een vormverzuim waarbij Unierecht is geschonden niet mag worden volstaan met een dergelijke enkele constatering deelt de rechtbank niet. Het is vaste jurisprudentie van zowel het HvJ EU als het EHRM dat de rechtsgevolgen (met name de toelaatbaarheid van bewijs) die aan vormverzuimen moeten worden verbonden naar nationaal recht worden vastgesteld. Daaraan is door het HvJ EU inderdaad onder meer de voorwaarde verbonden dat de uitoefening van de door het Unierecht verleende rechten in de praktijk niet onmogelijk of uiterst moeilijk moet worden gemaakt (het doeltreffendheidsbeginsel). Anders dan de verdediging leest de rechtbank in de uitleg van dit beginsel door het HvJ EU niet dat de enkele constatering van een vormverzuim niet volstaat. Daarbij is vooral van belang dat het HvJ EU aangeeft dat de nationale regels over rechtsgevolgen van vormverzuimen tot doel hebben om “in overeenstemming met de in het nationale recht gemaakte keuzen te voorkomen dat onrechtmatig verkregen informatie en bewijzen ongerechtvaardigd nadeel toebrengen aan een persoon die ervan wordt verdacht strafbare feiten te hebben gepleegd.” Dit doel heeft de rechtbank, zoals hiervoor overwogen, juist steeds expliciet voor ogen gehad. De rechtbank heeft echter geconstateerd dat van een nadeel voor de verdachte (anders dan ontdekking van haar strafbare feiten) niet is gebleken.
+
+69. Het HvJ EU beschrijft voorts dat het hiervoor vermelde doel van het sanctioneren van vormverzuimen (te weten het voorkomen van ongerechtvaardigd nadeel voor de verdachte) met verschillende middelen kan worden bereikt, zoals bewijsuitsluiting en strafvermindering of regels inzake ‘de beoordeling en weging van het bewijs.’ De rechtbank leidt daaruit niet af dat het HvJ EU een limitatieve opsomming heeft willen geven en de ‘enkele constatering’ als bedoeld in artikel 359a Sv heeft willen uitsluiten. Slechts voor de beoordeling of bewijsuitsluiting aan de orde is, schrijft het HvJ EU expliciet voor dat moet worden nagegaan of de aanvaarding van dergelijke informatie en bewijzen schending van het beginsel van hoor en wederhoor en dus ook van het recht op een eerlijk proces tot gevolg kan hebben. Van een dergelijke schending is in elk geval sprake als de verdediging niet in de gelegenheid is om doeltreffend commentaar te leveren op een bewijsmiddel dat betrekking heeft op een gebied waarvan de rechters geen kennis hebben en dat een doorslaggevende invloed kan hebben op de beoordeling van de feiten.
+
+70. Zoals hierna, bij de bespreking van de verweren onder C, uitvoeriger wordt beschreven, is de rechtbank van oordeel dat de verdediging voldoende toegang tot de dataset heeft gekregen en voldoende in de gelegenheid is gesteld om ‘doeltreffend commentaar’ te leveren. Bovendien heeft de dataset geen doorslaggevende invloed gehad op de beoordeling van de verschillende feiten, maar veeleer een marginale rol gespeeld in de beoordeling van de vraag of de omzet van [naam verdachte] witgewassen gelden betreft. Voor zover er al berichten of notities voor het bewijs zijn gebruikt, dan zijn deze van de medeverdachte [naam medeverdachte 1] en/of diens medeverdachten afkomstig. Ook toepassing van het doeltreffendheidsbeginsel leidt dus niet tot bewijsuitsluiting.
+
+71. De rechtbank is daarom van oordeel dat moet worden volstaan met de enkele constatering van het vormverzuim, zonder daar nadere rechtsgevolgen aan te verbinden.
+
+72. Dit leidt tot de conclusie dat de verweren van de verdediging (zowel B4 als B5 en de verweren onder D die zien op de rechtsgevolgen) worden verworpen.
+
+B.6 Misleiding van de Canadese autoriteiten en schending vertrouwensbeginsel
+
+Standpunt van de verdediging
+
+73. De verdediging heeft betoogd dat de Canadese autoriteiten opzettelijk onjuist zijn geïnformeerd door het Openbaar Ministerie over de aan het rechtshulpverzoek ten grondslag liggende bevoegdheid en feiten en omstandigheden. Een en ander heeft plaatsgevonden met het doel om de Canadese autoriteiten te misleiden. De onderzoeken Rendlia, Koper en Rooibos zijn in het rechtshulpverzoek genoemd met het kennelijke doel om het rechtshulpverzoek kracht bij te zetten. Er is aldus niets onbeproefd gelaten om de Canadese autoriteiten te overtuigen van de noodzaak en urgentie om over de [data] te beschikken. Dit handelen van het Openbaar Ministerie heeft erin geresulteerd dat de [data] op onrechtmatige wijze en in bulk zijn verkregen, met fundamentele schending van rechtsbeginselen tot gevolg.
+
+Beoordeling
+
+74. Vast staat dat het Openbaar Ministerie op 8 april 2016 de Canadese autoriteiten door middel van een rechtshulpverzoek heeft verzocht te assisteren bij het strafrechtelijk onderzoek tegen de verdachte rechtspersoon en de medeverdachte [naam medeverdachte 1] . In het rechtshulpverzoek is de aanleiding van het onderzoek uiteengezet, te weten – kort gezegd – dat sinds mei 2012 diverse (pogingen tot) liquidaties zijn gepleegd in Amsterdam en dat de betrokkenen daarbij geregeld gebruik maakten van BlackBerry crypto-telefoons van het bedrijf [naam verdachte] . Daarbij is vermeld dat het gebruik van deze telefoons is gericht op het verhullen van de communicatie door versleuteling. In dit verband zijn de feiten en omstandigheden uit de onderzoeken 26Koper , 13Rooibos , 13Redlia – onderzoeken waarin de betrokkenen, zo begrijpt de rechtbank, eveneens gebruik maakten van versleutelde PGP-telefoons van [naam verdachte] – en 26DeVink beschreven. De rechtbank is niet gebleken van een feitelijk onjuiste weergave in het rechtshulpverzoek van de feiten en omstandigheden die aan onderzoek 26DeVink ten grondslag liggen. Evenmin is de rechtbank gebleken van het bewust verstrekken van onjuiste informatie dan wel misleiding van de betrokken buitenlandse autoriteiten. Door de verdediging is niet concreet onderbouwd waaruit blijkt dat de Canadese autoriteiten zijn misleid door het Openbaar Ministerie, zodat van een ernstige inbreuk op de beginselen van een behoorlijk procesorde geen sprake is. Het verweer wordt verworpen.
+
+75. Daarnaast heeft de verdediging betoogd dat het vertrouwensbeginsel is geschonden nu het Openbaar Ministerie de buitenproportionele omvang van het verkregen materiaal niet heeft gemeld bij de Canadese rechter. Naar het oordeel van de rechtbank brengt de omstandigheid dat het Openbaar Ministerie de omvang van het verkregen materiaal niet heeft gemeld bij de Canadese rechter niet met zich dat het (interstatelijk) vertrouwensbeginsel is geschonden, temeer daar de Canadese rechter geen voorwaarde van die strekking aan het gebruik van de data heeft gesteld. Deze heeft juist onderkend dat de inhoud van berichten tussen alle gebruikers en hun contacten doorzocht zou kunnen worden. Het verweer wordt verworpen.
+
+76. Tot slot is aangevoerd dat de tekst rondom de doorzoeking ter vastlegging van gegevens als bedoeld in de artikelen 125i-125p Sv niet bij het rechtshulpverzoek is gevoegd. De rechtbank overweegt dat het Verdrag die eis niet stelt. Uit artikel 5, eerste lid sub b, van het Verdrag volgt dat het rechtshulpverzoek een beschrijving van de aard van het onderzoek of de vervolging dient te bevatten, met inbegrip van een uiteenzetting van de desbetreffende feiten en de toepasselijke wetten. Nu de artikelen waarin deelname aan een criminele organisatie en witwassen in Nederland strafbaar zijn gesteld zijn opgenomen in het rechtshulpverzoek, is voldaan aan deze eis. Dit verweer wordt eveneens verworpen.
+
+B.7 Onvoldoende naleving van artikel 125l Sv
+
+Standpunt van de verdediging
+
+77. De verdediging heeft betoogd dat sprake is van schending van artikel 125l Sv. Daartoe is aangevoerd dat het Openbaar Ministerie noch het onderzoeksteam zich bij de verkrijging van de [data] rekenschap heeft gegeven van het bepaalde in dat artikel en de geheimhoudersbelangen. Hoewel voorzienbaar was dat ook geheimhouders gebruik maken van versleutelde PGP-communicatie, heeft men voorafgaand aan de doorzoeking en het onderzoek aan de data niet genoeg gedaan om de communicatie van professioneel verschoningsgerechtigden adequaat te waarborgen. Een en ander heeft erin geresulteerd dat het professioneel verschoningsrecht structureel is geschonden.
+
+Beoordeling
+
+78. Vast staat dat het Openbaar Ministerie inspanningen heeft verricht teneinde te bewerkstelligen dat mogelijke geheimhouderscommunicatie ontoegankelijk werd gemaakt voor onbevoegden. Zo is op de dag van het veiligstellen van de [data] in Canada naar alle PGP-gebruikers van [naam verdachte] het bericht uitgegaan dat de serverinhoud in beslag is genomen en zijn professioneel verschoningsgerechtigden opgeroepen zich te melden bij de politie. Deze oproep heeft er evenwel niet toe geleid dat enig professioneel verschoningsgerechtigde zich heeft gemeld als Ennetcomgebruiker. Hierop heeft het Openbaar Ministerie getracht zelf professioneel verschoningsgerechtigden te identificeren. door de [data] te doorzoeken op 18 relevant geachte zoektermen. Deze zoekslag heeft geleid tot de vondst van berichten die herleidbaar waren naar vijf e-mailadressen die mogelijk in gebruik waren bij professioneel verschoningsgerechtigden. Die e-mailadressen en de bijbehorende data zijn hierop onzichtbaar en ontoegankelijk gemaakt in de [data] .
+
+79. Voorts is een procedure in het leven geroepen die inhoudt dat indien bij het doorzoeken van de [data] toch op mogelijke informatie van professioneel verschoningsgerechtigden wordt gestuit, deze informatie ontoegankelijk wordt gemaakt en door personen buiten het onderzoeksteam wordt beoordeeld of ook de andere communicatie die herleidbaar is naar dat e-mailadres mogelijk onder het verschoningsrecht valt. De beoordeling of in een dergelijk geval sprake is van geheimhouderscommunicatie, wordt gedaan door een niet-betrokken officier van justitie. In afwachting van diens beslissing wordt de aangetroffen communicatie steeds zekerheidshalve onzichtbaar gemaakt.
+
+80. Naar het oordeel van de rechtbank heeft het Openbaar Ministerie met deze benadering de in acht te nemen zorgvuldigheid ter zake de communicatie van professioneel verschoningsgerechtigden voldoende gewaarborgd. Van schending van het professioneel verschoningsrecht is dan ook niet gebleken. De rechtbank overweegt ten overvloede dat hetgeen door de verdediging is aangevoerd – ware het juist – ook overigens niet zou kunnen leiden tot het door de verdediging beoogde rechtsgevolg, nu het niet de verdachte rechtspersoon is die door de niet-naleving van het voorschrift is getroffen in het belang dat de overtreden norm beoogt te beschermen. De verdachte rechtspersoon is immers geen professioneel verschoningsgerechtigde.
+
+Verwerking van de [data]
+
+C.2 Onrechtmatige ontsleuteling van de data
+
+Standpunt van de verdediging
+
+81. De verdediging heeft bepleit dat de ontsleuteling van de [data] onrechtmatig heeft plaatsgevonden. Daartoe is aangevoerd dat de gehele dataset zonder enige beperking is ontsleuteld, terwijl dat niet had gehoeven en gemogen. De bevoegdheid tot de ontsleuteling is niet verwoord in het dossier. Artikel 94 Sv biedt geen toereikende wettelijke grondslag, nu met de ontsleuteling een vergaande inbreuk op de privélevens van de [naam verdachte] -gebruikers en hun contacten is gemaakt. De ontsleuteling voldoet daarenboven niet aan het vereiste van proportionaliteit. Een en ander heeft geresulteerd in vergaande negatieve en onomkeerbare gevolgen voor de verdedigingspositie van de verdachte rechtspersoon.
+
+Standpunt van de officier van justitie
+
+82. De officier van justitie heeft zich op het standpunt gesteld dat van een ontoereikende wettelijke grondslag geen sprake is. Het verweer moet worden verworpen. Geen rechtsregel verzet zich ertegen dat na inbeslagname onderzoek wordt gedaan aan een in beslag genomen goed. Het ontsleutelen van de [data] was in het kader van de waarheidsvinding noodzakelijk en bovenal proportioneel.
+
+Beoordeling
+
+83. De wettelijke grondslag waarop het Openbaar Ministerie de verkrijging van de [data] heeft gebaseerd is artikel 125i Sv, te weten het doorzoeken van een plaats voor het vastleggen van gegevens. Hierboven in alinea 51 e.v. is reeds geoordeeld dat de uitoefening van de bevoegdheid veeleer op artikel 125la had moeten worden gebaseerd, maar ook daarvoor geldt dat de bevoegdheid om voorwerpen ten behoeve van de waarheidsvinding in beslag te nemen tevens de bevoegdheid omvat om daaraan onderzoek te verrichten en kennis te nemen van de daarop opgeslagen gegevens. Zoals hiervoor onder alinea 60 overwogen was kennisname van de inhoud van de [data] ingevolge artikel 125la Sv weliswaar aan (niet-nageleefde) voorwaarden onderhevig, maar desondanks noodzakelijk om vast te stellen in welke mate gebruikers als crimineel zijn aan te merken. Ook geldt dat de verdenking van witwassen binnen onderhavig onderzoek juridisch gezien een heel ruime grondslag biedt om dergelijke gegevens te achterhalen. Naar het oordeel van de rechtbank kan de ontsleuteling van alle [data] in het kader van dit onderzoek dan ook niet tot de slotsom leiden dat het Openbaar Ministerie de beginselen van proportionaliteit en subsidiariteit heeft geschonden. De rechtbank verwerpt het verweer.
+
+Voorts is eveneens onder alinea 65 geoordeeld dat de inbreuk op de privacy-rechten van [naam verdachte] -gebruikers niet van dien aard is geweest dat hieraan een rechtsgevolg dient te worden verbonden, zodat ook dit verweer wordt verworpen.
+
+C.3 Onvoldoende waarborgen voor geheimhoudersbelangen
+
+Standpunt van de verdediging
+
+84. De verdediging heeft betoogd dat ook na de verkrijging van de [data] , bij de verdere verwerking ervan, vergaand onzorgvuldig is gehandeld met betrekking tot de geheimhoudersbelangen. Daarbij zou artikel 125l Sv zijn geschonden. De data waren kennelijk vanaf oktober 2016 al toegankelijk voor het onderzoeksteam en men heeft vanaf november 2016 kennis kunnen nemen van de berichten. Niettemin heeft de geheimhouderszoekslag pas in december 2016 plaatsgevonden, waardoor onnodig risico heeft bestaan dat van geheimhoudersdata kennis werd genomen door het onderzoeksteam. De resultaten zijn inhoudelijk beoordeeld door het onderzoeksteam. Dit brengt per definitie kennisname van geheimhoudersberichten en dus een schending van het beroepsgeheim met zich. Tot slot zijn de berichten die mededelingen van of aan geheimhouders behelzen ten onrechte niet vernietigd maar omkeerbaar ontoegankelijk gemaakt. Dit zijn ernstige verzuimen in het kader van het waarborgen van het verschoningsrecht.
+
+Beoordeling
+
+85. De rechtbank verwerpt de verweren. Zoals hiervoor in alinea 78 e.v. overwogen, kan hetgeen door de verdediging is aangevoerd – voor zover het al juist is – niet leiden tot het door de verdediging beoogd rechtsgevolg, nu het niet de verdachte rechtspersoon is die door de niet-naleving van het voorschrift is getroffen in het belang dat de overtreden norm beoogt te beschermen.
+
+C.4 Analyse [data]
+
+86. Bij het eerste onderzoek van de [data] bleken ruim 1,5 van de 3,7 miljoen aangetroffen berichten geschikt voor tekstanalyse. De Nederlandstalige berichten van deze dataset zijn geanalyseerd aan de hand van zogenaamde ‘topiclijsten’, die volgens de politie woorden bevatten die specifiek geassocieerd kunnen worden met een bepaald type delict of crimineel fenomeen. Vervolgens zijn er conclusies getrokken over het aantal gebruikers waarvan de communicatie scoort op één of meer woorden in de topiclijsten én hun contacten. De officier van justitie heeft deze analyse gebruikt voor het bewijs van de feiten 1 (criminele organisatie) en 3 (witwassen).
+
+87. De tweede tekstanalyse betreft een steekproef van 458 Nederlandstalige en een aantal Engels-, Frans- en Spaanstalige berichten, waarbij de inhoud van de berichten is gelezen in de bestaande context. Volgens de politie bevatten van de 458 berichten er 359 (78,4%) crimineel gerelateerde conversaties. Met hantering van een betrouwbaarheidsinterval van 95% is het resultaat dat 74,6% tot 82,2% van de gesprekken ‘crimineel relevant’ is, grofweg driekwart van de berichten dus. Verder heeft de politie nader onderzoek gedaan naar berichten (naar de rechtbank aanneemt ook buiten de steekproef) om gebruikers te kunnen identificeren. Dit heeft geleid tot circa 800 identificaties. Vrijwel al deze gebruikers zijn in de politiesystemen bekend op basis van langdurige betrokkenheid bij diverse vormen van zware en georganiseerde criminaliteit, aldus de politie.
+
+Standpunt verdediging
+
+88. De verdediging heeft onder meer aangevoerd dat het nader onderzoek aan de [data] heeft plaatsgevonden in strijd met algemene rechtsbeginselen en met de voorwaarden die de Canadese rechter aan het gebruik van de data heeft gesteld. Door het gebruik van een ruime ‘topiclijst’ zijn veel gebruikers ten onrechte gecriminaliseerd, hetgeen in strijd is met de onschuldpresumptie van artikel 6 EVRM. Het Openbaar Ministerie heeft zoveel mogelijk berichten en gebruikers als crimineel bestempeld om al die berichten en contactenlijsten inhoudelijk te kunnen onderzoeken en in andere strafzaken te kunnen gebruiken. De verdediging is bovendien niet in de gelegenheid gesteld om de data-analyse inhoudelijk te controleren. Niet alleen mocht de verdediging geen eigen analyse laten uitvoeren, ook de 500 berichten van de steekproef heeft de verdediging niet mogen zien en dus niet kunnen controleren op betrouwbaarheid. Dit is in strijd met het recht op ‘equality of arms’ en dus in strijd met artikel 6 EVRM.
+
+Standpunt officier van justitie
+
+89. De officier van justitie bestrijdt dat de data slechts zijn doorzocht om zoveel mogelijk gegevens voor andere strafzaken te vinden. Ten aanzien van het controleren van de data heeft de verdediging nagelaten een duidelijk verzoek te formuleren om inzage te krijgen in de [data] om deze te kunnen controleren. Wel is verzocht om algehele verstrekking van de data, maar daarop bestaat geen absoluut recht.
+
+Beoordeling
+
+90. De rechtbank merkt op dat zowel de eerste als de tweede tekstanalyse van de dataset ziet op de tekstuele inhoud van de berichten, namelijk of het een crimineel getint gesprek betreft, al dan niet scorend op een topiclijst. Weliswaar wordt in het proces-verbaal opgemerkt dat daarbij ook gebruik is gemaakt van ‘de eerder opgedane kennis over identificaties van gebruikers’, maar de rechtbank gaat ervan uit dat ook in dat geval de inhoud van de tekst leidend is en niet elk bericht van een ‘bekende crimineel’ als crimineel relevant wordt geduid. Op basis van deze tekstanalyse worden conclusies getrokken over de inhoud van de conversaties tussen gebruikers en dus of de [telefoons] voor criminele doeleinden worden gebruikt. Opvallend is overigens dat de officier van justitie alleen de eerste tekstanalyse voor het bewijs gebruikt.
+
+91. Uit de processen-verbaal volgt echter dat de politie daarnaast ‘zoekstrategieën’ heeft toegepast om berichten te vinden die mogelijk betrekking hebben op concrete incidenten in de sfeer van (georganiseerde) criminaliteit, zodat deze aan personen kunnen worden gelinkt en tot identificatie van gebruikers kunnen leiden. Ook is er ‘sociale netwerk analyse’ toegepast, waarbij vanuit een e-mailadres waarvan de gebruiker aantoonbaar betrokken is bij criminele feiten het communicatienetwerk in beeld wordt gebracht aan de hand van adresboeken en metadata en verdere analyse van het inhoudelijke berichtenverkeer. De rechtbank begrijpt dat dergelijke zoekslagen en analyses ook op berichten buiten de resultaten van de hiervoor beschreven eerste en tweede tekstanalyse zijn toegepast. Dit betekent dat in feite niet alleen de inhoud van de berichten is bekeken, maar dat de volledige dataset –voor zover mogelijk – is geanalyseerd, waarbij ook de gebruikers zoveel als mogelijk zijn geïdentificeerd en van hun communicatie is kennisgenomen, ook als zij niet op ‘topiclijsten’ scoorden of binnen de steekproef vielen. De stelling van de verdediging dat de topiclijsten alleen met het doel van kennisname van alle berichten zijn opgesteld kan dus geen standhouden. Evenmin is gebleken dat er in strijd met de voorwaarden van de Canadese rechter is gehandeld, nu deze binnen het kader van onderzoek 26De Vink heeft toegestaan de dataset te doorzoeken en – gelet op de inhoud van het rechtshulpverzoek – op de hoogte was van het doel van deze doorzoeking. Met de grondslag van de verdenking van witwassen en het met dat doel beoogde vaststellen van de klantenkring van [naam verdachte] is het doorzoeken van de dataset vanuit opsporingsdoeleinden te rechtvaardigen.
+
+92. De rechtbank is het eens met de verdediging dat het kennisnemen van de inhoud van de berichten van geïdentificeerde gebruikers, die geen verdachten zijn in deze zaak en die niet binnen de tekstanalyse of steekproef vielen, in feite een inbreuk is op hun recht op privacy, zonder dat daaraan een toets van de rechter-commissaris voorafging.
+
+93. Zoals eerder in alinea 61 ten aanzien van de verkrijging van de [data] is overwogen, merkt de rechtbank dit aan als vormverzuim, maar zal daar, nu het geen nadeel voor de verdachte rechtspersoon heeft opgeleverd, geen rechtsgevolgen aan verbinden.
+
+94. De verdediging heeft verder aangevoerd dat zij de inhoud van de dataset niet heeft mogen controleren en dat dit in strijd is met het beginsel van ‘equality of arms’. Uit het dossier blijkt echter dat de verdediging slechts meerdere malen heeft verzocht om verstrekking van een digitale kopie van alle [data] , dan wel de data die voor de analyses zijn gebruikt. De rechter-commissaris heeft in haar beschikking van 5 september 2018 al overwogen dat de verdediging moet kunnen nagaan hoe de tekstanalyse tot stand is gekomen, omdat het proces-verbaal waarin die analyse is gerelateerd kan worden gebruikt als bewijsmiddel. De rechter-commissaris heeft het daarbij aan de verdediging overgelaten om aan te geven of er behoefte bestaat aan inzage in de [data] in aanwezigheid van opsporingsambtenaren en/of de rechter-commissaris, omdat zij ongelimiteerde toegang tot de data in strijd achtte met de voorwaarden van de Canadese rechter en een schending van de privacybelangen van de gebruikers. De verdediging heeft een dergelijk verzoek tot inzage echter nimmer ingediend. Meerdere keren is slechts herhaald dat de verdediging de beschikking wenste te krijgen over alle [data] , om deze zelfstandig te kunnen doorzoeken. Kort voor de inhoudelijke behandeling van de zaak heeft de verdediging alsnog verzocht om inzage in de [data] , waartoe zij op 21 mei 2021 in staat is gesteld.
+
+95. Onder het recht op een eerlijk proces wordt ook begrepen het recht op gelijke proceskansen (‘equality of arms’) als invulling van artikel 6 lid 3 onder b EVRM. De verdachte moet zijn verdediging kunnen organiseren om zo ‘in staat te zijn alle relevante verweren aan de rechter voor te leggen en op die manier de uitkomst van het strafproces te beïnvloeden.’ De rechten van de verdediging met betrekking tot ‘klassiek’ bewijsmateriaal zoals getuigenbewijs en fysiek bewijsmateriaal zijn inmiddels in de jurisprudentie steeds nader uitgewerkt. Dat geldt in mindere mate ten aanzien van het gebruik van relatief nieuwe opsporingsbevoegdheden waarbij de beschikking wordt gekregen over grote (digitale) datasets en de wijze waarop deze data worden geanalyseerd. In de literatuur is aandacht gevraagd voor de groeiende kloof tussen de kennis- en machtspositie van het Openbaar Ministerie en die van de verdediging, omdat laatstgenoemde meestal geen vrije toegang heeft tot de volledige dataset en/of het instrument waarmee de data worden geanalyseerd. De rechtbank onderkent dat het verkrijgen en onderzoeken van dergelijke grote datasets een bedreiging kunnen vormen van het recht op gelijke proceskansen en dat erop moet worden toegezien dat de procesgang van de verdachte rechtspersoon als geheel eerlijk verloopt.
+
+96. Anders dan de verdediging leidt de rechtbank uit de Europese jurisprudentie niet af dat de verdediging de beschikking dient te krijgen over de volledige Ennetcomdataset. Vaste jurisprudentie van het EHRM is immers dat het recht van de verdediging tot belastend en ontlastend bewijsmateriaal geen absoluut recht is. Integendeel, het EHRM overweegt ten aanzien van grote datasets juist dat het beginsel van ‘equality of arms’ niet inhoudt dat de verdediging het ongeclausuleerde recht heeft op toegang tot de volledige dataset, zelfs al zou die ‘mogelijk’ ontlastend bewijs bevatten. Het kan bijvoorbeeld noodzakelijk zijn, zo overweegt het Hof meermalen, om de verdediging toegang tot materiaal te ontzeggen om de fundamentele rechten van anderen of een belangrijk algemeen belang te waarborgen. Als de opsporingsinstantie niet op de hoogte is van de inhoud van de totale dataset – zoals ook bij de [data] het geval is – en de verdediging niet duidelijk aangeeft welke specifieke kwesties in de data onderzocht moeten worden en daarvoor redenen aandraagt of specifieke zoekopdrachten voorstelt, is er geen sprake van het achterhouden van bewijs. Het Openbaar Ministerie heeft dan immers geen voorsprong op de verdediging. Dat is uiteraard anders als het OM wel specifieke datasets heeft onderzocht en zeker ten aanzien van de data die door het OM als belastend bewijsmateriaal worden aangedragen.
+
+97. In deze zaak heeft het OM een tweetal specifieke analyses uitgevoerd op de ontsleutelde data en de resultaten van de eerste analyse aangedragen als belastend bewijs. Naar de rechtbank begrijpt zijn ook buiten deze datasets (de ‘topicscorende’ data en de steekproef) ontsleutelde berichten gelezen en gebruikers geïdentificeerd. Voor zover het belastend bewijsmateriaal betreft moet de verdediging uiteraard in staat worden gesteld dit bewijs te controleren. Ten aanzien van de overige ontsleutelde data zou kunnen worden gezegd dat de verdediging in elk geval in staat moet worden gesteld zoekopdrachten uit te voeren. In deze zaak zijn de berichten die van en naar de medeverdachte [naam medeverdachte 1] en het personeel van [naam verdachte] zijn verzonden integraal aan de verdediging verstrekt. Daarnaast is de verdediging door de rechter-commissaris (en dit is daarna door de zittingsrechter herhaald) nadrukkelijk uitgenodigd om specifiek te benoemen welke data men wenste in te zien, dan wel onder toezicht toegang tot de volledige [data] te krijgen. Dat dergelijke beperkingen – met name gelet op de privacyrechten van derden – gerechtvaardigd kunnen zijn, heeft het EHRM overigens expliciet onderkend. De verdediging heeft van deze uitnodiging gedurende de jaren voorafgaand aan de inhoudelijke behandeling geen gebruik gemaakt. Slechts enkele dagen voor de start van de inhoudelijke behandeling heeft de verdediging, zoals hiervoor aangegeven, alsnog gebruik gemaakt van het aanbod en bij het NFI vrijelijk (zonder toezicht en ongelogd) inzage gehad in de ontsleutelde berichten van de [data] .
+
+98. De rechtbank concludeert dan ook dat het niet-verstrekken van de algehele Ennetcomdataset geen schending oplevert van artikel 6, lid 3 onder b, EVRM. Voor het overige is de rechtbank van oordeel dat de verdediging voldoende in de gelegenheid is gesteld om inzage te krijgen in de [data] en de door haar gewenste zoekopdrachten uit te voeren. Dat de verdediging van deze gelegenheid slechts beperkt gebruik heeft gemaakt kan zij nu niet aan het Openbaar Ministerie als schending van de rechten van de verdachte rechtspersoon tegenwerpen. De rechtbank is van oordeel dat er geen sprake is van schending van het recht op een eerlijk proces.
+
+C.5 Buitenwettelijke toestemmingsprocedures
+
+Standpunt van de verdediging
+
+99. De verdediging heeft aangevoerd dat de toestemmingsprocedures die in het leven zijn geroepen om uitvoering te geven aan de door de Canadese rechter gestelde voorwaarden voor het gebruik van de [data] in andere strafzaken geen recht doen aan de eisen die op grond van internationale regelgeving en jurisprudentie worden gesteld aan dergelijke procedures. De Nederlandse wet voorziet immers niet in de door de Canadese rechter bedoelde procedure voor die rechterlijke toestemming. De gehanteerde buitenwettelijke constructies ontberen effectief voorafgaand rechterlijk toezicht. Het gebruik van de [data] in andere strafzaken is aldus in strijd met artikel 1 Sv, nu een voorzienbare en met voldoende waarborgen omgeven procedure ontbreekt. Het gebruik van die data in andere onderzoeken is onderdeel van het structureel en ernstig negeren en onherstelbaar schenden van de (inter)nationale wet- en regelgeving en dus de structurele schending van de rule of law door het Openbaar Ministerie.
+
+Beoordeling
+
+100.	Zoals hiervoor overwogen is in onderhavig strafrechtelijk onderzoek op 8 april 2016 een rechtshulpverzoek gedaan aan de bevoegde autoriteiten in Canada om forensische kopieën te maken van de data op de BES-servers in Toronto. Aan dit verzoek is mede ten grondslag gelegd dat in drie andere strafrechtelijke onderzoeken ernstige vermoedens bestonden dat personen die betrokken waren bij onder meer liquidaties gebruik maakten van PGP-telefoons die werden geleverd door [naam verdachte] . Op 19 september 2016 heeft het Superior Court of Justice in Toronto een Sending Order afgegeven, waarin is bepaald dat alle in beslag genomen data konden worden overgedragen aan Nederland. Een en ander geschiedde onder de voorwaarde dat de [data] uitsluitend mochten worden gebruikt in de onderzoeken 26Koper , 26Rooibos, 26Rendlia en 26DeVink . De Canadese rechter heeft voorts bepaald dat de [data] onder aanvullende voorwaarden ook beschikbaar konden worden gesteld aan andere strafrechtelijke onderzoeken dan die in het rechtshulpverzoek waren genoemd, indien daarvoor tevoren een rechterlijke machtiging zou worden afgegeven.
+
+101.	De rechtbank stelt met de verdediging vast dat het Wetboek van Strafvordering, noch enige andere wet, een procedure kent tot het afgeven van een machtiging zoals door de Canadese rechter is bepaald. Vast staat echter dat de Canadese rechter in de Sending Order voorwaarden heeft gesteld aan het gebruik van de [data] in andere opsporingsonderzoeken dan in 26DeVink . In onderhavige zaak zijn die voorwaarden niet gesteld. Dat betekent dat hetgeen de verdediging heeft aangevoerd buiten het beoordelingskader van deze zaak valt en niet tot de gevolgtrekking kan leiden dat in de onderhavige strafprocedure een belangrijk strafvorderlijk voorschrift of rechtsbeginsel is geschonden. Het verweer wordt verworpen.
+
+C.6 Strijd met (internationale) privacyregels en jurisprudentie
+
+Standpunt van de verdediging
+
+102.	De verdediging heeft betoogd dat de Nederlandse wetgeving niet voorziet in een wettelijk kader voor het verwerken van bulkdata. Dat maakt dat de verwerking van de bulkdata van [naam verdachte] in strijd is met de artikelen 8 EVRM, 7 (eerbiediging van het privéleven) en 8 (bescherming van persoonsgegevens) van het Handvest en met Richtlijn 2016/680. Ook lijkt, op de gronden die zijn opgenomen in de pleitnotitie, de conclusie gerechtvaardigd dat de verwerking van de PGP-data via Hansken niet voldoet aan de AVG en de Wet politiegegevens.
+
+Standpunt van de officier van justitie
+
+103.	De officier van justitie heeft zich op het standpunt gesteld dat de verwerking van de [data] rechtmatig heeft plaatsgevonden. Daartoe is aangevoerd dat Richtlijn 2016/680, zoals die in Nederland in de Wet politiegegevens is geïmplementeerd, voldoet aan de vereisten van het Handvest en de vereisten van de grondwettelijke waarborgen die daarbij in acht moeten worden genomen.
+
+Beoordeling
+
+104.	De rechtbank stelt voorop dat Richtlijn 2016/680 van toepassing is op de verwerking van persoonsgegevens door bevoegde autoriteiten ten behoeve van de voorkoming, de opsporing en de vervolging van strafbare feiten en de tenuitvoerlegging van straffen. De Richtlijn beoogt te waarborgen dat gegevens die door autoriteiten worden verzameld op een legitieme wijze worden verwerkt, voor legitieme doelen worden verzameld en verwerkt, en op passende wijze worden beschermd tegen ongeoorloofde en onrechtmatige verwerking.
+
+105.	Een Richtlijn heeft geen rechtstreekse werking, maar deze Richtlijn is in Nederland geïmplementeerd in de Wet politiegegevens (Wpg) en de Wet justitiële en strafvorderlijke gegevens (Wjsg) en de daaronder vallende besluiten. De rechtbank leidt uit het verweer van de verdediging af dat zij stelt dat de verwerking van de [data] onrechtmatig heeft plaatsgevonden omdat de Nederlandse wetgeving onvoldoende grondslag zou bieden voor de verwerking van bulkdata. Het pleidooi van de verdediging bevat echter geen concrete begrijpelijke onderbouwing dat daarvan sprake zou zijn. Evenmin onderbouwt de verdediging waarom de verwerking van de [data] in onderhavige zaak in strijd is met de door Richtlijn 2016/680 (of aan de Nederlandse implementatie daarvan) gestelde eisen. De enkele omstandigheid dat de Nederlandse wetgeving geen specifieke procedure kent voor de verwerking van bulkdata maakt niet dat het wettelijke systeem daarin tekortschiet.
+
+106.	Daarnaast heeft de verdediging gesteld dat de verwerking van de [data] via Hansken in strijd zou zijn met de Wpg en de AVG. De rechtbank zal deze stelling als onvoldoende onderbouwd passeren.
+
+107.	Nu ook overigens niet is gebleken van feiten of omstandigheden op grond waarvan aangenomen moet worden dat sprake is van een schending van het in artikel 8 EVRM (en in het Handvest) gegarandeerde recht op eerbiediging van de persoonlijke levenssfeer en voorts een conclusie met een door de verdediging beoogd rechtsgevolg ontbreekt, wordt het verweer verworpen.
+
+C.7 Tactische en technische verwerking [data]
+
+108.	Voor de ontsleuteling en verdere analyse van de [data] heeft de politie gebruik gemaakt van de forensische dienst Hansken, in beheer bij het Nederlands Forensisch Instituut (hierna: NFI). Hansken is in staat om te zoeken in grote hoeveelheden data, maar ook om structuren bloot te leggen en data te extraheren en analyseren.
+
+Standpunt verdediging
+
+109.	De verdediging heeft niet zelfstandig de beschikking gekregen over de software van Hansken teneinde aldus het bronmateriaal te kunnen toetsen. De verdediging heeft de resultaten van de analyse dus onvoldoende effectief kunnen betwisten, hetgeen in strijd is met het recht op ‘equality of arms’ en dus op een eerlijk proces als bedoeld in artikel 6 EVRM. Bovendien zijn de controlemogelijkheden met betrekking tot de rol en
+
+functionaliteit van Hansken in het digitaal-forensische onderzoeksproces onvoldoende. De ontwikkeling en het gebruik van Hansken zijn niet gereguleerd, er is geen mogelijkheid tot contra-expertise. Ook dit is in strijd met artikel 6 EVRM, gelet op de EHRM-zaken Mantovanelli en Jasper. Bovendien heeft Hansken concrete beperkingen, bijvoorbeeld het niet kunnen zoeken op minder dan drie tekens, waardoor de verdachte rechtspersoon in zijn verdedigingsrechten wordt geschaad bij het zoeken naar wipe-verzoeken.
+
+De data zijn voorts onvolledig en onbetrouwbaar. Er waren zwakheden in het systeem, de data kunnen zijn gemanipuleerd en vormen mogelijk geen correcte weerspiegeling van alle verzonden berichten. Hansken is ook nog eens een buitenwettelijk technisch hulpmiddel, want zij voldoet niet aan de eisen die daaraan in het Besluit technische hulpmiddelen strafvordering (hierna: het Besluit) worden gesteld, waardoor zij niet had mogen worden gebruikt.
+
+Standpunt officier van justitie
+
+110.	De verdediging heeft niet het recht om toegang tot de volledige data te krijgen, en de verdediging heeft het recht op contra-expertise zelf niet ingeroepen. In de onderwerpregel van berichten zou wel op minder dan drie tekens gezocht moeten kunnen worden, zodat de wipe-verzoeken (aangeduid met de letters ‘W’ of ‘WP’) gevonden zouden moeten kunnen worden.
+
+Beoordeling
+
+111.	Deze verweren zien met name op de betrouwbaarheid van de forensische tool Hansken en daarmee ook op de betrouwbaarheid van de in dit onderzoek gebruikte data. Bij de bespreking van de verweren over de analyse van de [data] heeft de rechtbank al geoordeeld dat de verdediging geen absoluut recht op toegang tot de volledige dataset heeft en dat dat oordeel  juist volledig in lijn is met de door de verdediging aangehaalde jurisprudentie. Voor zover de verdediging wel toegang tot (een deel van) de dataset moet krijgen, dan geldt dat uiteraard ook voor de toegang tot de geavanceerde zoek- en analyse-instrumenten die daarvoor worden gebruikt. Dit betekent echter niet dat de verdediging op elk moment en op elke locatie toegang tot een dergelijk instrument moet worden geboden. Gelet op de blijkbaar ontbrekende technische mogelijkheden om recht te doen aan de concurrerende belangen, waaronder het respecteren van de privacy van de gebruikers en de integriteit van de data – beide belangen die de verdediging ook hoog in het vaandel heeft – is het gerechtvaardigd dat de verdediging alleen binnen het pand van het NFI toegang is geboden tot Hansken. Overigens heeft de verdediging wel de beschikking gekregen over de ontsleutelde berichten van de verdachten in onderzoek 26De Vink in de vorm van een Excelbestand; daarvoor was toegang tot Hansken dus niet nodig. Van schending van het recht op een eerlijk proces is dan ook niet gebleken.
+
+112.	De verdediging heeft aangevoerd dat de mogelijkheden om Hansken te controleren onvoldoende zijn. De rechtbank onderkent het door de verdediging geschetste gevaar dat bij de analyse van bulkdata door complexe algoritmische systemen de resultaten van het systeem leidend worden zonder dat de achterliggende algoritmen kunnen worden gecontroleerd. De rechtbank is het ook eens met de verdediging dat de verdediging in het kader van het recht op een eerlijk proces (en dus gelijke proceskansen) moet kunnen controleren of de door Hansken geproduceerde resultaten betrouwbaar zijn. Daartoe mag van de verdediging echter wel worden verwacht dat zij concreet maakt op welke punten deze controle moet plaatsvinden. Het in algemene zin stellen dat ‘de controlemogelijkheden onvoldoende zijn’ kan niet als zodanig gelden. De door de verdediging geciteerde rapporten van [naam 4] van 15 januari en 4 maart 2018 zijn opgesteld in het kader van onderzoek Tandem II. Zijn bevindingen over controlemogelijkheden en contra-expertise zien dan ook met name op het samenstellen en sporenbeeld van de dataset in dat onderzoek, zodat dit geen directe relevantie heeft voor deze zaak. De officier van justitie heeft bovendien bij herhaling aangegeven dat de mogelijkheid tot contra-expertise wel degelijk bestaat, maar dat de verdediging dan dient aan te geven wat, op welke wijze en door wie er onderzocht moet worden. Zelfs toegang tot de ruwe data behoorde tot de mogelijkheden. Met het Openbaar Ministerie is de rechtbank van oordeel dat de verdediging tijdens het voorbereidend onderzoek – en overigens ook tijdens de inhoudelijke behandeling – deze punten niet concreet heeft gemaakt. De rechter-commissaris heeft dus in redelijkheid het algemeen geformuleerde verzoek van de verdediging tot benoeming van een deskundige kunnen afwijzen. De verdediging heeft bovendien zelf toegang gehad tot de dataset via Hansken. De rechtbank is van oordeel dat de verdediging dan ook voldoende controlemogelijkheden heeft gehad, maar het recht op gelijke proceskansen kennelijk niet volledig heeft willen benutten. De rechtbank ziet hierin geen schending van het recht op een eerlijk proces.
+
+113.	Daarbij speelt overigens ook een rol dat het in deze zaak uiteindelijk met name gaat om de analyses die op de dataset zijn uitgevoerd in het kader van de verdenking van witwassen (de vraag of het klantenbestand van [naam verdachte] als crimineel is aan te merken). In dat kader is de (aard van de) inhoud van de berichten van belang en niet zozeer de combinatie van metadata met de inhoud van de berichten (bijvoorbeeld locatie- of verkeersgegevens). Het verweer van de verdediging dat de dataset mogelijk incompleet zou zijn – er zouden berichten ontbreken – snijdt daarom al geen hout. Dat geldt ook voor eventuele technische gebreken in de routering. Dit betekent wel dat de ontsleuteling van de inhoud van de berichten correct moet zijn. Naar aanleiding van vragen en onderzoekswensen van de verdediging in onderzoek Tandem II, heeft [naam 5] van het NFI daarover vragen beantwoord en is hij uitgebreid gehoord. Daarbij heeft hij aangegeven dat als de ontsleuteling niet correct zou zijn, dit een onsamenhangende en onleesbare tekst zou moeten opleveren. Nu dat niet het geval is, ziet de rechtbank geen reden om aan de correctheid van de ontsleuteling te twijfelen.
+
+114.	[naam 5] heeft ook uiteengezet dat de door de verdediging gestelde mogelijke manipulatie van de inhoud van de berichten (bijvoorbeeld door middel van een worm) in beginsel mogelijk zou zijn maar  praktisch eigenlijk onmogelijk is, gelet op de PGP-versleuteling. Ook medewerkers van de recherche hebben een aantal zuiver theoretische scenario’s doorgenomen rondom de integriteit en betrouwbaarheid van de gegevens van de [naam verdachte] -servers. Zij stellen dat manipulatie van de inhoud van berichten tot inconsistenties in de berichtenuitwisseling of zelfs onleesbaarheid van de berichten zou moeten leiden, waarvan niet is gebleken. Ook merken zij terecht op dat configuratiefouten of technische gebreken het bedrijfsmodel van [naam verdachte] zouden raken en het onaannemelijk is dat dergelijke gebreken door de beheerders niet onmiddellijk zouden worden opgelost. Het onderzoeksteam heeft geen indicaties aangetroffen voor sporen van technische gebreken in de berichtenuitwisseling of in de BES-systemen. De verdediging heeft, in het licht van het voorgaande, niet aannemelijk gemaakt dat er sprake was van enig integriteitsprobleem dat de inhoud van deze berichten zou kunnen raken. Voor zover het gaat om de berichten van en aan de medeverdachte [naam medeverdachte 1] en de andere medeverdachten heeft te gelden dat de verdediging over de volledige inhoud en metadata van deze berichten beschikt. Ook ten aanzien van deze berichten heeft de verdediging niet gesteld dat en op welke wijze de inhoud van deze berichten onjuist of onvolledig zou zijn.
+
+115.	Het Openbaar Ministerie heeft toegelicht dat de zoekfunctie in Hansken is beperkt tot woorden van tenminste drie tekens. De verdediging heeft aangevoerd dat dit een beperking vormde in het zoeken naar de zogenoemde wipe-verzoeken, gericht aan de helpdesk van [naam verdachte] , die door het Openbaar Ministerie zijn aangedragen als belastend bewijsmateriaal. Ter zitting is door de officier van justitie gesteld dat in de onderwerpregel van berichten wél op minder dan drie tekens gezocht zou moeten kunnen worden. Dit is door de verdediging echter stellig betwist. Volgens de verdediging kon tijdens het bezoek aan het NFI niet op die wijze worden gezocht en werd dit bevestigd door de aanwezige medewerker van het NFI. De rechtbank stelt vast dat deze beperking de verdediging kennelijk heeft gehinderd in het zoeken naar de wipe-verzoeken. Deze beperking gold echter evenzeer voor het Openbaar Ministerie, zodat er sprake is van gelijke proceskansen in dezen. Van een schending van artikel 6 EVRM is dan ook geen sprake. Deze beperking in het zoeken naar wipe-verzoeken kan wel een rol spelen bij de bruikbaarheid van het door het Openbaar Ministerie aangedragen bewijs, maar dat zal bij de inhoudelijke bespreking van de ten laste gelegde feiten aan de orde komen.
+
+116.	Tot slot is de rechtbank van oordeel dat Hansken niet kan worden aangemerkt als technisch hulpmiddel in de zin van artikel 126ee, aanhef en onder a, Sv, zodat de eisen zoals genoemd in het Besluit daarop niet van toepassing zijn. Dat maakt Hansken nog niet tot een buitenwettelijk technisch hulpmiddel. Het Besluit ziet overigens op de plaatsing, verwijdering en inzet van een technisch hulpmiddel voor observatie en voor het opnemen van vertrouwelijke communicatie en telecommunicatie, zodat toepasselijkheid van het Besluit op Hansken ook niet in de rede ligt.
+
+117.	De verweren van de verdediging worden dan ook verworpen.
+
+Tot slot: de conclusies van de verdediging
+
+Standpunt verdediging
+
+118.	De verdediging heeft bepleit dat de opeenstapeling van vormverzuimen daarin bestaat dat de opsporingsambtenaren ernstige inbreuken hebben gemaakt op beginselen van een behoorlijke procesorde, waardoor doelbewust, althans met grove veronachtzaming van de belangen van cliënt aan diens recht op een eerlijke behandeling van zijn zaak tekort is gedaan. Als de rechtbank van oordeel is dat er geen sprake is van een schending van de belangen van de verdachte rechtspersoon, meent de verdediging dat alle vormverzuimen tezamen maken dat sprake is van zeer ernstige schendingen van de fundamentele beginselen van een behoorlijke procesorde, waardoor het wettelijk systeem in zijn kern wordt geraakt. De verdediging heeft deze gestelde gang van zaken bestempeld als een overtreding van het zogenoemde Karman-criterium. Het Openbaar Ministerie heeft in het onderhavige strafrechtelijk onderzoek willens en wetens op structurele en onherstelbaar wijze de wet (met name de regelgeving rondom de verkrijging en het gebruik van persoonsgegevens in de opsporing en vervolging van strafbare feiten) en dus het wettelijk systeem zelf waarop het strafproces is gebaseerd naast zich neergelegd in de kennelijke overtuiging dat zijn taak als vervolgingsinstantie er belang bij heeft dat desnoods buiten de wet om alles in het werk wordt gesteld om misdrijven op te lossen en verdachten te vervolgen.
+
+Beoordeling
+
+119.	De verdediging heeft aan het slot van haar pleidooi omtrent de algemene verweren aangeknoopt bij het criterium uit het zogenoemde Zwolsman-arrest, waarin de Hoge Raad oordeelde dat niet-ontvankelijkheid van de officier van justitie kan volgen als sprake is van ernstige inbreuken op de beginselen van een behoorlijke procesorde, waardoor doelbewust of met grove veronachtzaming van de belangen van de verdachte rechtspersoon aan zijn recht op een eerlijke behandeling van zijn zaak tekort is gedaan.
+
+120.	Inmiddels heeft de Hoge Raad de toepassing van deze maatstaf bijgesteld. In het recente overzichtsarrest van 1 december 2020 is nog eens benadrukt dat niet-ontvankelijkverklaring van het Openbaar Ministerie alleen in uitzonderlijke gevallen in aanmerking komt. Er moet dan een zodanig ernstige onherstelbare inbreuk op het recht van de verdachte op een eerlijke behandeling van zijn zaak zijn gemaakt dat geen sprake meer kan zijn van een eerlijk proces (“the proceedings as a whole”) in de zin van artikel 6 EVRM. In een dergelijk zeer uitzonderlijk geval hoeft echter niet – in zoverre stelt de Hoge Raad de eerder gehanteerde maatstaf bij – daarnaast nog te worden vastgesteld dat de betreffende inbreuk op het recht op een eerlijk proces doelbewust of met grove veronachtzaming van de belangen van de verdachte heeft plaatsgevonden.
+
+121.	De rechtbank heeft hiervoor al geoordeeld dat in geen van de gevoerde verweren sprake is van schending van het recht op een eerlijk proces als bedoeld in artikel 6 EVRM, zodat niet-ontvankelijkverklaring van het Openbaar Ministerie niet aan de orde is.
+
+De verdediging heeft subsidiair een beroep gedaan op wat zij als het Karman-criterium heeft aangemerkt. De rechtbank stelt voorop dat het zgn. Karman-arrest ziet op een zeer specifieke en geheel andere situatie, namelijk een waarin het Openbaar Ministerie geen notie nam van de wettelijk geregelde bevoegdheidsverdeling tussen de rechter en het Openbaar Ministerie. In de zaak die tot het Karman-arrest heeft geleid had het Openbaar Ministerie aan een verdachte toegezegd dat hij, ook al zou hij door de rechter worden veroordeeld, deze gevangenisstraf niet zou hoeven uit te zitten, waarna het Openbaar Ministerie deze verdachte strafrechtelijk heeft vervolgd. Hoewel de verdachte dus niet in zijn belangen was geschaad, achtte de Hoge Raad deze gang van zaken in strijd met de grondslagen van het strafproces en in het bijzonder met de wettelijk voorziene verdeling van bevoegdheden tussen het Openbaar Ministerie en de rechter. Dit vormt een ernstige inbreuk op beginselen van een behoorlijke strafvervolging en raakt het wettelijk systeem (van de verdeling tussen het Openbaar Ministerie en rechter) in de kern, omdat de gemeenschap belang heeft bij de inachtneming van dit wettelijk systeem bij de berechting van strafzaken. Zo’n ernstige schending kan een rol gaan spelen bij de beoordeling van de ontvankelijkheid van het Openbaar Ministerie, ook als de belangen van de verdachte niet zijn geschaad, gelet op het fundamentele karakter van de gemaakte inbreuk. Bij een dergelijk ernstige inbreuk is niet-ontvankelijkheid niet uitgesloten, maar bij toepassing van dit zwaarste rechtsgevolg is een grote mate van terughoudendheid geboden, aldus de Hoge Raad.
+
+122.	Nog afgezien van de vraag of het Karman-criterium naar de huidige stand van de jurisprudentie überhaupt nog zelfstandige betekenis heeft – gelet op het hiervoor besproken recente overzichtsarrest van de Hoge Raad van 1 december 2020 waarin dit arrest niet eens wordt genoemd en de Hoge Raad de sanctionering van vormverzuimen geheel in de sleutel van het door de verdachte geleden nadeel heeft geplaatst –, heeft de Hoge Raad in zijn arrest van 3 juli 2001 er al nadrukkelijk op gewezen dat het Karman-arrest zeer beperkt moet worden uitgelegd en een specifieke uitzondering vormt op de – toen geldende – maatstaf in het Zwolsman-arrest.
+
+123.	Naar het oordeel van de rechtbank is door de verdediging onvoldoende onderbouwd dat in onderhavige zaak sprake is van die specifieke uitzondering, te weten een schending die het wettelijk systeem van de verdeling van bevoegdheden raakt, zodat het verweer wordt verworpen.
+
+5.2
+
+Het redelijke-termijnverweer
+
+Standpunt verdediging
+
+124.	De verdediging heeft betoogd dat de officier van justitie niet-ontvankelijk in de vervolging van de verdachte rechtspersoon moet worden verklaard, nu de redelijke termijn waarbinnen de zaak behandeld dient te worden, als bedoeld in artikel 6, eerste lid, EVRM is overschreden.
+
+Beoordeling
+
+125.	De rechtbank verwerpt het verweer en overweegt daartoe dat de Hoge Raad in het arrest van 17 juni 2008 al heeft bepaald dat overschrijding van de redelijke termijn niet tot niet-ontvankelijkheid van het Openbaar Ministerie in de strafvervolging leidt, ook niet in uitzonderlijke gevallen. Regel is dat overschrijding van de redelijke termijn wordt gecompenseerd door vermindering van de straf die zou zijn opgelegd indien de termijn niet zou zijn overschreden.
+
+5.3
+
+Het una via/ne bis in idem-verweer
+126.	De Belastingdienst heeft op 28 augustus 2018 een naheffingsaanslag omzetbelasting over 2013 tot en met 2015 en een vergrijpboetebeschikking van € 1.314.471 opgelegd aan [naam verdachte] .
+
+Standpunt verdediging
+
+127.	De verdediging heeft bij pleidooi aangevoerd dat de officier van justitie niet-ontvankelijk dient te worden verklaard in de vervolging voor valsheid in geschrift (feit 2), omdat op grond van artikel 69 lid 4 van de Algemene Wet inzake Rijksbelastingen (hierna: AWR) strafvervolging is uitgesloten. Bij e-mailbericht van 5 augustus 2021 heeft de verdediging ten aanzien van de feiten 1 (voor zover dit ziet op witwassen en valsheid in geschrift), 2 en 3 een aanvullend beroep gedaan op het una via-/ne bis in idem-beginsel. De onderliggende feiten en omstandigheden betreffen wezenlijk hetzelfde feitencomplex en dezelfde periode met het zelfde onderzoeksdossier als waarvoor de bestuurlijke boete is opgelegd. Op grond van artikel 243 Sv mag de verdachte rechtspersoon daarom niet nogmaals worden vervolgd voor hetzelfde feit.
+
+Standpunt officier van justitie
+
+128.	De officier van justitie heeft zich met betrekking tot het eerste verweer op het standpunt gesteld dat strafvervolging op grond van artikel 69 lid 4 AWR slechts is uitgesloten voor het onder feit 2 subsidiair ten laste gelegde gebruik maken van een vals geschrift. Nu de verdachte voor het primair ten laste gelegde kan worden veroordeeld, is niet-ontvankelijkheid om die reden niet aan de orde.
+
+Ten aanzien van de samenloop met het fiscale traject heeft de officier van justitie in een e-mailbericht van 9 augustus 2021 gemeld dat er overleg heeft plaatsgevonden tussen het Openbaar Ministerie en de Belastingdienst. De Belastingdienst wilde zich richten op het nader onderzoeken van mogelijk verzwegen omzetbelasting door [naam verdachte] en wenste daar eventueel ook een verzuim- of vergrijpboete voor op te leggen. Het Openbaar Ministerie heeft daarom besloten geen vervolging in te stellen voor het verzwijgen van omzetbelasting of enig ander in de AWR strafbaar gesteld feit, evenmin als voor witwassen van gelden waarvan het grondmisdrijf dan de verzwegen omzetbelasting betrof. Het Openbaar Ministerie heeft een ‘una via-situatie’ dus juist vermeden en de tenlastelegging van de strafbare feiten zo ingericht dat het witwassen betrekking heeft op de omzet die wél is opgegeven. Ook bij de criminele organisatie gaat het niet om de verzwegen omzetbelasting. Ten aanzien van de ten laste gelegde valsheid in geschrift verwijst de officier van justitie naar hetgeen in reactie op het eerste verweer is gesteld.. Het una via-beginsel is hier dan ook niet aan de orde.
+
+Beoordeling
+
+129.	Onder feit 2 is aan de verdachte rechtspersoon  subsidiair ten laste gelegd het in artikel 225 lid 2 Sr strafbaar gestelde gebruik maken van valse geschriften, te weten een aantal facturen en een of meer aangiften omzetbelasting over 2015.
+
+130.	Artikel 69 lid 4 AWR bepaalt dat strafvervolging op grond van artikel 225 lid 2 Sr is uitgesloten indien de verdachte tevens kan worden vervolgd voor (onder meer) het niet doen of onjuist of onvolledig doen van aangifte waartoe hij op grond van de wet verplicht is (artikel 69 leden 1 en 2 AWR). Uit de door de verdediging nagestuurde uitspraak van de rechtbank Gelderland volgt dat de naheffingsaanslag en de vergrijpboete zien op het niet betalen van door [naam verdachte] niet verantwoorde omzet. Naar het oordeel van de rechtbank had de verdachte ten aanzien van de aangifte omzetbelasting over 2015 dus ook vervolgd kunnen worden voor het onjuist of onvolledig doen van aangifte als bedoeld in artikel 69 lid 2 AWR. Ook voor het gebruik maken van de valse facturen had de verdachte strafrechtelijk kunnen worden vervolgd op grond van de AWR. In artikel 68 lid 1, aanhef en onder c, AWR is immers het in valse of vervalste vorm ter raadpleging beschikbaar stellen van boeken strafbaar gesteld, zodat de verdachte voor de opzetvariant vervolgd had kunnen worden op grond van artikel 69 lid 2 AWR. Uit meergenoemd vonnis van de rechtbank Gelderland volgt immers dat bij [naam verdachte] vanaf 18 februari 2016 een boekenonderzoek is ingesteld, op grond waarvan zij verplicht was de boeken ter inzage te geven. Vervolging op grond van artikel 225 lid 2 Sr is dus uitgesloten. Anders dan de officier van justitie heeft betoogd, brengt de dwingende volgorde van de beslissingen zoals neergelegd in de artikelen 348 en 350 Sv met zich dat de officier van justitie niet-ontvankelijk zal worden verklaard voor het onder feit 2 subsidiair ten laste gelegde.
+
+131.	De verdediging heeft een beroep gedaan op het una via-beginsel voor de feiten 1 (deels), 2 en 3. De verdediging heeft bepleit dat de verdachte rechtspersoon nu ten onrechte twee keer wordt vervolgd. Gelet op artikel 243 lid 2 Sv kan er immers geen strafvervolging plaatsvinden nadat een bestuurlijke boete is opgelegd voor het feit. Nu er kennelijk eerst gekozen is voor de bestuursrechtelijke weg, is de strafrechtelijke weg afgesloten, aldus de verdediging (‘una via’-beginsel). Bij de beantwoording van de vraag of zowel via de bestuursrechtelijke als de strafrechtelijke weg wordt vervolgd voor ‘het feit’, wordt aangesloten bij het begrip ‘hetzelfde feit’ als bedoeld in artikel 313 Sv en 68 Sr (het zogenoemde ‘ne bis in idem’-beginsel). Volgens vaste jurisprudentie van de Hoge Raad moeten daarbij zowel de juridische aard van de te vergelijken feiten – in het bijzonder het beschermd belang en de strafmaxima – en de tenlastegelegde gedragingen van de verdachte worden betrokken. De rechtbank stelt daarbij voorop dat, hoewel bij het opleggen van de bestuurlijke boete is gekozen voor de grondslag van artikel 67f AWR (het niet betalen van omzetbelasting), dit gelijk te stellen is  aan het verzwijgen van omzet voor de omzetbelasting, zoals ook blijkt uit de gedragingen die de fiscus aan de vergrijpboete ten grondslag heeft gelegd: kort samengevat het via geldkanalen wegsluizen van omzet naar Dubai en het daartoe bijhouden van een schaduwboekhouding. Bij een aangiftebelasting is het niet volledig aangifte doen (minder aangeven dan verschuldigd) onlosmakelijk verbonden met het niet betalen van de verschuldigde belasting (minder betalen dan verschuldigd). Ofwel: wie omzet verzwijgt, betaalt de over die omzet verschuldigde belasting vanzelfsprekend ook niet. De Belastingdienst had de vergrijpboete – in elk geval waar het het feitencomplex aangaat – dus ook kunnen gronden op artikel 67d of 67e AWR. Dat betekent dat bij de strafrechtelijke bepalingen in de AWR niet alleen moet worden gekeken naar artikel 69a AWR (het opzettelijk niet betalen van omzetbelasting), maar ook naar artikel 69 lid 2 AWR (opzettelijk onjuist of onvolledig doen van aangifte).
+
+Witwassen
+
+132.	Voor wat betreft het witwassen (feit 3) is de rechtbank van oordeel dat zowel de juridische aard van de feiten als de gedragingen uiteenlopen. Artikel 67f AWR ziet – kort samengevat – op het niet betalen van omzetbelasting, terwijl artikel 420bis/ter Sr neerkomt op het (een gewoonte maken van) voorhanden hebben etc. van gelden van criminele herkomst. De strafmaxima verschillen in die zin dat op de strafrechtelijke pendant van 67f AWR, 69a AWR, net als op witwassen een maximum van zes jaar gevangenisstraf is gesteld. Hier is echter gewoontewitwassen tenlastegelegd, waarop een maximale gevangenisstraf van acht jaar is gesteld. De beschermde belangen lopen in elk geval wel sterk uiteen: het belang van een juiste belastingheffing enerzijds en de integriteit van het economische verkeer anderzijds. Maar vooral de verweten feitelijke gedragingen verschillen van elkaar: het niet betalen van omzetbelasting (wegens het verzwijgen van omzet) betreft een wezenlijk andere gedraging dan het witwassen van omzet. Bij de verdenking van witwassen is de herkomst van het geld dat is ontvangen van belang, terwijl het bij de vergrijpboete gaat om het verzwijgen van omzet. De rechtbank ziet dan ook geen aanknopingspunten om ervan uit te gaan dat hier sprake is van ‘hetzelfde feit’.
+
+Valsheid in geschrift
+
+133.	Voor de verdenking van valsheid in geschrift (feit 2 primair) verschillen de strafmaxima niet (evenals de artikelen 69 AWR en 69a AWR kent valsheid in geschrift een maximum van zes jaar gevangenisstraf) maar het beschermde belang van valsheid is in zijn algemeenheid ruimer dan het fiscale belang van een juiste aangifte. Het raakt immers ook het openbaar vertrouwen en het heeft een ruimere kring van mogelijke benadeelden, bijvoorbeeld in het geval van een faillissement de gezamenlijke crediteuren.
+
+134.	Voor wat betreft de gedragingen maakt de rechtbank onderscheid tussen de ten laste gelegde facturen en de aangifte omzetbelasting 2015. Ten aanzien van de facturen is de rechtbank van oordeel dat de ten laste gelegde gedragingen teveel van elkaar verschillen om te spreken van hetzelfde feit. Het vals opmaken van facturen impliceert immers niet het gebruik ervan alleen ten opzichte van de fiscus. Ze kunnen bijvoorbeeld ook gebruikt zijn voor de administratie van resellers. Ten aanzien van de aangifte omzetbelasting over 2015 liggen de feitelijke gedragingen wel dicht bij elkaar. Het vals opmaken van deze aangifte ziet immers op het vermeende wegsluizen van een deel van de omzet via geldkanalen naar Dubai, hetgeen ook aan het verwijt van het niet betalen van de omzet (dat eigenlijk is gebaseerd op het verzwijgen van deze omzet) ten grondslag heeft gelegen, zoals volgt uit de fiscale uitspraak van de rechtbank Gelderland. De opmerking van de officier van justitie dat de strafrechtelijke vervolging slechts ziet op de aangegeven omzet en de bestuursrechtelijke boete op de verzwegen omzet doet dan ook wat gekunsteld aan: het betreft immers hetzelfde achterliggende feitencomplex, temeer nu de belastingrechter kennelijk beschikte over het strafdossier.
+
+135.	De rechtbank vindt bij de beoordeling echter van groot belang dat in artikel 69 lid 4 AWR al een specifieke una via-regeling is vastgelegd voor de samenloop tussen valsheid in geschrift en het niet, onvolledig of onjuist doen van aangifte, zoals hiervoor in alinea 130 is besproken. In deze una via-regeling is alleen het gebruik van valse geschriften (artikel 225 lid 2 Sr) gelijkgesteld aan het niet, onvolledig of onjuist doen van aangifte. De Hoge Raad heeft tot nu toe het standpunt van verschillende Advocaten-Generaal dat het vals opmaken (artikel 225 lid 1 Sr) niet onder deze una via-regeling geschaard moet worden, met toepassing van het criterium bedoeld bij artikel 81 lid 1 RO overgenomen. Blijkens de wetsgeschiedenis is er namelijk bewust voor gekozen om het vals opmaken niet in de uitzonderingsbepaling van artikel 69 lid 4 AWR op te nemen; de fiscale strafbepalingen stellen – voor zover in verband met valse of vervalste stukken van belang – immers niet het opmaken maar het gebruik jegens de fiscus strafbaar. Kennelijk is het de uitdrukkelijke bedoeling van de wetgever geweest om vervolging wegens het vals opmaken van – in dit geval – een aangifteformulier te laten bestaan naast het vervolgen wegens niet, onjuist of onvolledig aangifte doen. Naar het oordeel van de rechtbank is er dan ook geen schending van het una via-beginsel of het ne bis in idem-beginsel in de vervolging van de verdachte rechtspersoon.
+
+De verweren worden dan ook verworpen.
+
+5.4
+
+Eindconclusie rechtbank over alle algemene verweren
+
+136.	Uit het vorenstaande volgt dat de verschillende gronden – elk op zich genomen – niet leiden tot het oordeel van niet-ontvankelijkheid van het Openbaar Ministerie. Alle daarop gerichte verweren worden verworpen. Uit het onderzoek ter terechtzitting zijn de rechtbank ook anderszins geen feiten of omstandigheden gebleken die aan de ontvankelijkheid van het Openbaar Ministerie in de weg staan. De officier van justitie is dus ontvankelijk. Evenmin is de rechtbank gebleken van omstandigheden die nopen tot algehele bewijsuitsluiting dan wel de uitsluiting van de [data] van het bewijs en/of nihilstelling van de eventueel op te leggen straf.
+
+6.
+Bewijsoverwegingen en bespreking van de bewijsverweren
+
+6.1.
+
+Ten aanzien van feit 2 (valsheid in geschrift)
+
+6.1.1.
+
+De ontvankelijkheid van de officier van justitie
+
+Standpunt verdediging
+
+137.	De verdediging stelt dat het specialiteitsbeginsel aan strafvervolging in de weg staat, gelet op het bepaalde in de voorwaarden van de Sending Order.
+
+Standpunt van de officier van justitie
+
+138.	Dit verweer kan niet tot niet-ontvankelijkheid leiden, omdat de onder feit 2 ten laste gelegde valsheid in geschrift direct gerelateerd is aan het onderzoek in 26DeVink en de in de Sending Order genoemde strafbare feiten. Bovendien steunt het bewijs voor de valsheid in geschrift in belangrijke mate op andere onderzoeksresultaten dan op de ingevolge de Sending Order verkregen documenten.
+
+Beoordeling
+
+139.	Dit verweer kan niet slagen. In de Sending Order is namelijk de volgende voorwaarde opgenomen:
+
+‘The evidence may only be used for the purposes of investigating and prosecuting offences contrary to Articles 45 (Attempt), 46 (Preparation), 140 (Participation in Criminal Organization), 157 (Cause Explosion), 287 (Manslaughter), 289 (Murder), 420bis, 420ter and 420quater (Money Laundering) of the Dutch Penal Code arising from the following investigations in this matter and any other matters and offences directly related to these investigations:
+
+a. 26KOPER
+
+b. 13ROOIBOS
+
+c. 13RENDLIA
+
+d. 26DEVINK .’
+
+Met de officier van justitie is de rechtbank van oordeel dat de tekst ‘and any other matters and offences directly related to these investigations’ mede de ten laste gelegde valsheid in geschrift omvat, zodat het verweer zal worden verworpen.
+
+6.1.2
+
+Waardering van het bewijs
+
+Standpunt van de officier van justitie
+
+140.	De onder feit 2 primair ten laste gelegde valsheid in geschrift kan wettig en overtuigend worden bewezen.
+
+Standpunt van de verdediging
+
+141.	De verdediging heeft aangevoerd dat de verdachte rechtspersoon moet worden vrijgesproken van het onder feit 2 ten laste gelegde, in de eerste plaats omdat er geen gebruik is gemaakt in de zin van artikel 225 lid 2 Sr van de in de tenlastelegging genoemde facturen, aangezien ze niet aan een derde zijn verstrekt. Daarnaast is er onvoldoende bewijs voorhanden dat [naam verdachte] aangifte voor de omzetbelasting heeft gedaan in de periode van 1 januari 2015 tot en met 31 december 2015, zodat niet kan worden bewezen dat deze aangifte of aangiften vals was of waren. In de tweede plaats dient de verdachte rechtspersoon te worden vrijgesproken, omdat de genoemde facturen niet vals zijn. De eerste en derde factuur zien op de Nederlandse bedrijfsvoering van [naam verdachte] . Voor het overige vallen de gelden binnen de bedrijfsvoering van [naam bedrijf 1] (hierna: [naam bedrijf 1] ), de vestiging in Dubai, en deze bedragen zijn dan ook naar haar overgemaakt. [naam bedrijf 1] activeerde namelijk de simkaarten van de door [naam verdachte] verkochte telefoons. Op verzoek van de resellers werden de aan [naam bedrijf 1] toe te rekenen bedragen contant overgebracht naar onder meer Suriname, waarna ze giraal werden overgeboekt naar [naam bedrijf 1] .
+
+Beoordeling
+
+142.	Op 19 april 2016 zijn in het pand van [naam verdachte] diverse gegevensdragers in beslag genomen, waaronder de laptop van medeverdachte [naam medeverdachte 2] . Op deze laptop zijn twee Excelbestanden aangetroffen, genaamd ‘ [bestandsnaam 1] ’ en ‘ [bestandsnaam 2] ’. In deze bestanden werden de bestellingen en betalingen van de resellers van [naam verdachte] bijgehouden.
+
+[naam bedrijf 3] - factuur 20150407 en factuur [nummer]
+
+143.	Een van de resellers van wie de bestellingen werden bijgehouden in de aangetroffen Excelbestanden betrof [naam bedrijf 3] , binnen [naam verdachte] bekend als Samsonite.
+
+144.	In [bestandsnaam 1] zijn de bestellingen en betalingen van Samsonite voor de maanden november en december opgenomen. In het overzicht voor de maand november staat een bedrag van in totaal € 133.400,- aan bestellingen vermeld. Daarnaast wordt in het groen als post ‘banking voor nov’ een bedrag van € 92.650,- in de kolom ‘betaald’ genoemd. Dit bedrag wordt, samen met een aantal andere crediteringen, in mindering gebracht op het bedrag van € 133.400,-. De resterende € 36.707,- is onderverdeeld in een bedrag van € 26.357,- (de rechtbank begrijpt: € 26.375,-) met als omschrijving ‘op bank te betalen 25xSMIME NOV’ en een bedrag van € 10.350,- met als omschrijving ‘nog te voldoen’. Daaronder staat in groen de opmerking ‘25xSMIME van 18-12 wordt ook op bank betaald’, met daarachter het bedrag van € 26.375,-.
+
+145.	Op de in beslag genomen laptop van medeverdachte [naam medeverdachte 2] werd ook de onder feit 2 als eerste genoemde factuur aangetroffen. Dit betreft een factuur van [naam verdachte] , gericht aan [naam bedrijf 3] , gedateerd op 20 december 2015, met nummer 20150407 en voor een bedrag van € 26.375,-. Het bedrag van € 26.375,- is eveneens terug te vinden in de boekhouding van [naam verdachte] . De in [bestandsnaam 1] vermelde bedragen € 92.650,- en € 10.350,- komen daar echter niet in voor. Uit een bankafschrift van [naam verdachte] blijkt dat [naam bedrijf 3] op 13 januari 2016 een bedrag van € 26.375,- heeft overgemaakt naar [naam verdachte] onder vermelding van het factuurnummer 20150407.
+
+146.	In een notitie van het gebruikersaccount van medeverdachte [naam medeverdachte 2] met als titel ‘Samsonite New’ is een van haar afkomstige e-mail aangetroffen. In de e-mail staat de volgende tekst:
+
+Rek van NOV was [..]134.050
+
+[..] 92.650. Aan [afkorting] betaald
+
+[..] 1.200 tegoed van sims 4x4maanden
+
+[..] 26.357 SMIME op bank factuur:2010407
+
+Blijft staan: [..] 13.843
+
+147.	Ter zitting heeft de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van de verdachte rechtspersoon, verklaard dat ‘ [afkorting] ’ [naam 6] betreft, een werknemer van [naam verdachte] die zorgdroeg voor de verzameling en het vervoer van de contante bedragen naar Suriname.
+
+148.	Voorts is in de administratie de onder feit 2 als tweede genoemde factuur aangetroffen, een factuur van [naam bedrijf 1] met nummer [nummer] , gericht aan [naam bedrijf 4] / [naam 7] in Suriname, gedateerd op 4 januari 2016 en voor een bedrag van € 90.000,-. Op 19 januari 2016 heeft [naam bedrijf 1] een bedrag van € 40.000 en een bedrag van € 50.000 ontvangen van [naam bedrijf 4] / [naam 7] .
+
+149.	De rechtbank stelt vast dat van de verkopen aan reseller [naam bedrijf 3] ter hoogte van € 133.400,- slechts € 26.375,- op factuur via de bank is betaald en dat het grootste deel (€ 92.650,-) buiten de boekhouding van [naam verdachte] is gebleven en aan ‘ [afkorting] ’ is betaald voor contante overdracht naar Suriname. Rond dezelfde tijd is een bedrag van € 90.000,- vanuit Suriname op de bankrekening van [naam bedrijf 1] gestort.
+
+[naam bedrijf 5] - factuur 20150320
+
+150.	In [bestandsnaam 1] zijn daarnaast ook de bestellingen en betalingen van reseller [naam bedrijf 5] voor de maanden september tot en met december 2015 opgenomen. [naam bedrijf 5] stond binnen [naam verdachte] bekend onder de bijnaam [bijnaam] . Ook bij deze reseller wordt een totaalbedrag aan bestellingen genoemd, namelijk € 440.086,-. Daarvan is kennelijk een bedrag van € 110.800,- reeds betaald, want dit wordt in groen in de kolom ‘betaald’ vermeld.
+
+151.	In de notities van het gebruikersaccount van medeverdachte [naam medeverdachte 2] staat onder meer een e-mail van 23 november 2015 met daarin door [naam bedrijf 5] nog te betalen bedragen. In deze e-mail wordt vermeld dat een bedrag van € 110.800,- reeds is betaald, waarvan € 75.000 aan ‘ [naam 8] ’, € 25.000,- aan ‘ [naam 9] ’ en € 10.800,- per bank. Het bedrag van € 10.800,- is weer terug te vinden in de boekhouding van [naam verdachte] , de overige bedragen niet. Voor het bedrag van € 10.800,- is ook de onder feit 2 als derde genoemde factuur opgemaakt, gericht aan [naam bedrijf 5] en met factuurnummer 20150320. Deze factuur is blijkens een bankafschrift van [naam verdachte] op 30 oktober 2015 betaald. [naam bedrijf 5] heeft rond die datum immers geen andere bedragen overgemaakt naar [naam verdachte] .
+
+152.	Op 28 oktober 2015 heeft [naam bedrijf 1] een bedrag van € 75.000,- ontvangen van Lion International FZCO. Er is geen factuur aan Lion International FZCO voor dit bedrag aangetroffen.
+
+153.	De rechtbank stelt vast dat van de verkopen aan [naam bedrijf 5] ter hoogte van € 440.086,- slechts € 10.800,- op factuur via de bank is betaald en dat in elk geval € 75.000,- buiten de boekhouding van [naam verdachte] is gebleven en aan ‘ [naam 8] ’ is betaald.
+
+Valsheid van de facturen
+
+154.	Ter zitting heeft de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van de verdachte rechtspersoon, verklaard dat het klopt dat slechts een deel van de door [naam verdachte] verstuurde rekeningen op factuur en per bank werden voldaan, maar dat de resterende bedragen zagen op bestellingen die toe te rekenen waren aan omzet van [naam bedrijf 1] . Deze bedragen werden vaak contant betaald. Op verzoek van de resellers werden deze contante bedragen onder meer naar Suriname overgebracht, waarna ze per bank werden overgemaakt naar [naam bedrijf 1] . [naam bedrijf 1] factureerde voor die bedragen. Voor deze route diende wel een provisie te worden betaald van 5 of 6 procent van het te versturen bedrag, en [naam verdachte] betaalde dit.
+
+155.	De verklaring van de medeverdachte [naam medeverdachte 1] dat de contante geldbedragen via het ‘geldkanaal [afkorting] ’ naar Suriname werden overgebracht en vervolgens giraal werden overgemaakt naar [naam bedrijf 1] vindt steun in het dossier. Over ‘ [naam 8] ’ heeft de medeverdachte [naam medeverdachte 1] geen verklaring af willen leggen, maar uit het dossier volgt dat via het ‘ [naam kanaal] ’ op dezelfde wijze contante bedragen door [naam 8] ( ‘ [naam 8] ’) werden verzameld en later gestort op de bankrekening van [naam bedrijf 1] . Dat deze bedragen zijn toe te rekenen aan de bedrijfsvoering van [naam bedrijf 1] acht de rechtbank echter niet geloofwaardig. In de eerste plaats heeft de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van de verdachte rechtspersoon, ter zitting verklaard dat al het personeel van [naam verdachte] in Nederland werkte en van enige verdere activiteiten van [naam bedrijf 1] is ook niet gebleken. Het personeel in Nederland maakte ook de facturen voor [naam bedrijf 1] op. Onduidelijk is dus waarom bestellingen van Nederlandse resellers deels door een Nederlandse vennootschap gefactureerd zouden moeten worden en deels door een vennootschap in Dubai, die ook nog eens geen onderdeel was van het [naam verdachte] -concern. Dat [naam verdachte] overal ter wereld klanten had, is daarvoor geen afdoende verklaring. Dat betekent immers nog steeds dat voor toerekening aan [naam bedrijf 1] daaraan een reële overeenkomst tot levering van goederen of diensten door [naam bedrijf 1] aan deze buitenlandse klanten ten grondslag moet liggen. Het feit dat [naam bedrijf 1] facturen betaalde die verband hielden met de bedrijfsvoering van [naam verdachte] betekent nog niet dat ANG te gelden heeft als de leverancier van de resellers. Het bij dupliek overgelegde overzicht, waaruit zou moeten blijken dat [naam bedrijf 1] simkaarten activeerde, biedt evenmin onderbouwing voor die stelling. Het was immers [naam verdachte] die de ‘activaties’ bij de resellers in rekening bracht. In dat geval zouden er boekingen tussen [naam verdachte] en [naam bedrijf 1] moeten zijn terug te vinden in de boekhouding, maar dat is niet het geval. Bovendien zijn de bedragen die via de geldkanalen bij [naam bedrijf 1] terecht kwamen, niet te relateren aan het aantal verkochte activaties zoals vermeld in het Excelbestand. Ter zitting heeft de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van de verdachte rechtspersoon, daarover verklaard dat hij aan het einde van de maand ongeveer inschatte hoeveel activaties er verrekend zouden moeten worden met [naam bedrijf 1] en dat hij dan een afgerond bedrag het geldkanaal in stuurde. Dit onderstreept het oordeel van de rechtbank dat er geen concrete leveringen of diensten door [naam bedrijf 1] geleverd werden, anders zou er geen kloppende boekhouding te maken zijn.
+
+Daarnaast geldt dat het vervoer van zeer grote contante geldbedragen bijzonder ongebruikelijk is vanwege de risico’s waarmee dit gepaard gaat. Nu [naam verdachte] ook nog provisie diende te betalen voor deze bewerkelijke route, valt al helemaal niet in te zien welke bedrijfseconomische reden hieraan ten grondslag kan hebben gelegen. De verklaring van de medeverdachte [naam medeverdachte 1] , als vertegenwoordiger van de verdachte rechtspersoon, dat hij voor deze route koos op verzoek van de resellers volstaat in ieder geval niet.
+
+156.	Gelet op het bovenstaande is de rechtbank van oordeel dat de onder feit 2 als eerste en als derde genoemde facturen valselijk zijn opgemaakt door medeverdachte [naam medeverdachte 2] , werkzaam bij [naam verdachte] , met als doel een groot deel van de door [naam verdachte] gemaakte omzet buiten haar reguliere boekhouding te houden. Weliswaar betreffen deze facturen werkelijke omzet, maar deze bevatten niet de gehele omzet en zijn daarom vals. Dat betekent dat de in de tenlastelegging als tweede genoemde factuur van [naam bedrijf 1] eveneens vals is. Deze factuur ziet immers op het in de boekhouding van [naam bedrijf 1] verantwoorden van een bedrag van € 90.000 dat eigenlijk onderdeel uitmaakt van de omzet van [naam verdachte] .
+
+157.	Het vals opmaken van de facturen kan aan de verdachte rechtspersoon worden toegerekend. Het gaat om een handelen van medeverdachte [naam medeverdachte 2] , die voor de verdachte rechtspersoon werkzaam was. De gedraging paste in de normale bedrijfsvoering van de verdachte rechtspersoon en is de verdachte rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf. Tot slot vermocht de verdachte rechtspersoon erover te beschikken of de gedraging al dan niet zou plaatsvinden en zodanig gedrag werd blijkens de feitelijke gang van zaken door de verdachte rechtspersoon aanvaard.
+
+158.	Blijkens zijn verklaring ter zitting was de medeverdachte [naam medeverdachte 1] immers op de hoogte van de valse facturen en heeft hij daar ook opdracht toe gegeven. De rechtbank acht derhalve bewezen  het primair ten laste gelegde in vereniging opzettelijk vervalsen van de onder feit 2 genoemde facturen.
+
+159.	Het verweer dat geen gebruik is gemaakt van de facturen behoeft geen bespreking, nu dit verweer ziet op het onder feit 2 subsidiair ten laste gelegde.
+
+160.	De verdachte rechtspersoon zal worden vrijgesproken van het vervalsen van de eveneens in de tenlastelegging opgenomen aangifte(n) omzetbelasting. Nu de betreffende aangifte zich niet in het dossier bevindt, ontbreekt het wettig en overtuigend bewijs daarvoor.
+
+6.2.
+
+Ten aanzien van feit 3 (witwassen)
+
+161.	De tenlastelegging van de verdachte rechtspersoon ter zake van het witwassen bestaat, kort samengevat, uit het van gewoontewitwassen van de omzet van [naam verdachte] van 2013 en 2014.
+
+6.2.1
+
+Geldigheid van de dagvaarding
+
+Standpunt van de verdediging
+
+162.	De verdediging heeft aangevoerd dat de tenlastelegging ten aanzien van feit 3 onduidelijk is, omdat bij het daaronder ten laste gelegde gewoontewitwassen niet blijkt uit welke feiten die gewoonte bestaat.
+
+Beoordeling
+
+163.	Ingevolge artikel 261 Sv dient de tenlastelegging in te houden ‘een opgave van het feit dat ten laste wordt gelegd, met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn.’ Tevens dienen ‘de omstandigheden waaronder het feit zou zijn begaan’ in de tenlastelegging te worden vermeld.
+
+164.	De eis dat een tenlastelegging ter zake van ‘een gewoonte maken’ steeds alle onderliggende handelingen die de gewoonte constitueren moet vermelden, vindt geen steun in het recht (CAG mr. Vegter voor HR 30.06.2015, ECLI:NL:PHR:2015:978, onder 17). Bij de uitleg van artikel 261 Sv staat de vraag centraal of de verdachte zich op basis van de tenlastelegging goed kan verdedigen. Een van de factoren die bij de beoordeling daarvan een rol speelt, is de vraag of er bij kennisneming van het strafdossier redelijkerwijs twijfel kan bestaan welke specifieke gedragingen de verdachte worden verweten. Daarvan is in het geheel niet gebleken. De vertegenwoordiger van de verdachte rechtspersoon en zijn raadslieden hebben uitgebreid verweer gevoerd en zijn daarbij ook veelvuldig ingegaan op specifieke gedragingen. De rechtbank ziet derhalve geen aanleiding om de dagvaarding nietig te verklaren.
+
+6.2.2.
+
+Waardering van het bewijs
+
+Standpunt van de officier van justitie
+
+165.	Het onder feit 2 primair ten laste gelegde medeplegen van witwassen kan wettig en overtuigend worden bewezen.
+
+Standpunt van de verdediging
+
+166.	Het bewijs dat de producten en diensten van [naam verdachte] werden aangeschaft met crimineel geld ontbreekt en voor zover dat wel mocht komen vast te staan, had de verdachte rechtspersoon daar geen wetenschap van. Daarnaast ontving de verdachte rechtspersoon  ook geen contant geld van de kopers van zijn producten, het bedrijfij leverde slechts aan de resellers.
+
+Beoordeling
+
+167.	Vast staat dat de omzet van [naam verdachte] in 2013 € 838.171,= bedroeg en in 2014 € 2.133.600,=.
+
+168.	De vraag die nu voorligt, is of de ten laste gelegde omzetbedragen geheel of gedeeltelijk uit enig misdrijf afkomstig waren.
+
+169.	De verdachte rechtspersoon en de medeverdachte [naam medeverdachte 1] en zijn overige bedrijven handelden in zogenaamde PGP-telefoons waarmee door middel van e-mail versleutelde informatie kon worden verzonden. Daarbij werd gebruik gemaakt van het PGP- dan wel het S/MIME-protocol. De overige bij mobiele telefoons gangbare functies, in het bijzonder de belfunctie en de mogelijkheid om een sms-bericht te versturen, waren uitgeschakeld. De verzonden berichten konden uitsluitend door de verzender en ontvanger worden gelezen. De anonimiteit van de gebruikers stond daarbij centraal.
+
+170.	De rechtbank stelt voorop dat het ontwikkelen, aanbieden en verhandelen van dit soort telefoons in beginsel geen illegale activiteit is. Dat ligt echter anders wanneer die telefoons uitsluitend of in overwegende mate worden gebruikt door lieden wier doel het bij dat gebruik is om de nasporing van door hen gepleegde of nog te plegen misdrijven te verijdelen en een dergelijk doel binnen de organisatie bekend was.
+
+171.	Allereerst is van belang dat is vast komen te staan dat de anonimiteit van de gebruikers van de telefoons centraal stond: de gebruiker moest in geen geval aan een specifieke account of sim-kaart gekoppeld kunnen worden. Dat wordt ook ondersteund door het feit dat bij de aanschaf geen gegevens van de koper werden genoteerd en de abonnementskosten voor de komende maanden vooruit werden betaald, zodat registratie voor facturering niet noodzakelijk was. Ook het gebruik was anoniem: de gebruikersnaam was een willekeurige combinatie van letters en cijfers en men gebruikte bijnamen om zichzelf mee aan te duiden.
+
+172.	Voorts werd er in principe contant afgerekend, terwijl het daarbij om aanzienlijke bedragen ging (de telefoon kostte € 1.000,- à € 1.500,- inclusief het abonnement voor de komende 6 maanden). Weliswaar werden deze telefoons niet door [naam verdachte] zelf rechtstreeks aan de gebruiker verkocht maar door de resellers, maar de medeverdachte [naam medeverdachte 1] was hiervan op de hoogte en faciliteerde dit ook: de contante opbrengst van (een deel van) de resellers werd naar [naam verdachte] gebracht of opgehaald en vervolgens door medewerkers van [naam verdachte] afgestort op de bankrekening. Voor het vervoer van deze grote geldbedragen waren binnen [naam verdachte] voertuigen beschikbaar met daarin aangebrachte verborgen ruimtes. Ook vlogen medewerkers van [naam verdachte] naar het buitenland om zo de contante weekopbrengst op te halen. Hierboven in alinea 142 e.v.is al ingegaan op het gegeven dat de medeverdachte [naam medeverdachte 1] de door de resellers gegenereerde omzet contant naar Suriname liet overbrengen om deze geldbedragen vervolgens te laten overmaken op de bankrekening van zijn onderneming [naam bedrijf 1] .
+
+173.	Daarnaast bood [naam verdachte] de mogelijkheid tot op afstand wipen (wissen) van een telefoon: de helpdesk was in staat om op verzoek van de gebruiker van een telefoon de inhoud van die telefoon op afstand te wissen. Bij de bespreking van feit 1 zal de rechtbank hierna uitvoeriger stilstaan bij deze wipe-functie, omdat dit ten grondslag ligt aan het onderdeel van de tenlastelegging van dat feit dat ziet op artikel 189 Sr. De rechtbank concludeert in alinea’s 199-200 dat het wipen klaarblijkelijk vooral gebeurde indien het gevaar bestond dat opsporingsinstanties achter de inhoud van een inbeslaggenomen PGP-telefoon zouden komen. In elk geval werd het wipe-verzoek zonder problemen uitgevoerd wanneer de gebruiker een probleem had met de politie.
+
+174.	Daarnaast werd op de telefoons van [naam verdachte] een aangepast retentiebeleid gehanteerd. Anders dan bij gewone telefoons, waarop e-mails in beginsel bewaard blijven tot de gebruiker deze verwijdert, werden e-mails op telefoons met het PGP-protocol binnen 48 uur automatisch gewist. Bij telefoons met het S/MIME-protocol gebeurde dit al na 24 uur.
+
+175.	Dergelijke functies en het faciliteren van contante betalingen duiden er naar oordeel van de rechtbank op dat de medeverdachte [naam medeverdachte 1] met [naam verdachte] niet slechts telefoons wenste aan te bieden aan mensen die sterk hechten aan anonimiteit, maar doelbewust een product heeft gecreëerd dat in het bijzonder aantrekkelijk was voor criminelen. Dat oordeel wordt nog versterkt door het gegeven dat uit het dossier blijkt dat [naam verdachte] het Nationaal Forensisch Onderzoeksbureau (NFO) heeft ingeschakeld met, zoals blijkt uit de tapgesprekken tussen de medeverdachte [naam medeverdachte 1] en de opdrachtnemer, als kennelijk doel de handelswijze van het Nederlands Forensisch Instituut (hierna: NFI) en andere opsporingsinstanties te achterhalen. Zo zegt een medewerker van het NFO in een gesprek met de medeverdachte [naam medeverdachte 1] over het gegeven dat het NFI kennelijk in staat is om de ‘private key 2’ uit de geheugendump van het flash-geheugen te extraheren: ‘Kijk op het moment dat wij weten hoe het NFI er in slaagt om het te vinden, dan wordt het natuurlijk ook vele malen eenvoudiger voor jullie om die deur dan goed op slot te zetten.’ Ook leggen zowel de medeverdachte [naam medeverdachte 1] als het NFO contact met verschillende strafrechtadvocaten die betrokken zijn bij strafrechtelijke onderzoeken waarin een PGP-BlackBerry is gekraakt. [naam verdachte] heeft op die manier processen-verbaal in handen gekregen waarmee klaarblijkelijk gepoogd werd te achterhalen hoe het NFI precies te werk gaat. Ook werd besproken dat men het NFO in die strafzaken door de rechtbank als contra-expert kan laten inschakelen, waardoor men de data ter beschikking zou krijgen en de NFI-onderzoekers hun vragen wel zouden moeten beantwoorden. Kennelijk was de productontwikkeling van [naam verdachte] er dus specifiek op gericht dat de PGP-telefoons ook in de toekomst niet zouden kunnen worden gekraakt door het NFI en de opsporingsinstanties.
+
+176.	Deze factoren tezamen maken naar oordeel van de rechtbank dat [naam verdachte] een product heeft ontwikkeld dat aantrekkelijk was voor criminelen en ook in het bijzonder voor hen bedoeld was. Het aanbieden van een dergelijk product maakt administratieve vastlegging van de gegevens van de koper en girale betaling eens te meer noodzakelijk, omdat zo de betrouwbaarheid van de klant en de legitieme herkomst van zijn vermogen kan worden geverifieerd. Dit werd nu juist niet gedaan binnen [naam verdachte] .
+
+177.	Dat de telefoons daadwerkelijk door criminelen werden gebruikt, volgt in de eerste plaats uit de aanleiding voor het onderzoek in deze zaak: in tenminste vijftien andere strafrechtelijke onderzoeken bleek dat gebruik gemaakt werd van telefoons, bakens/trackers en spyware van [naam verdachte] . Daarnaast blijkt uit een analyse van de Nederlandse berichten in de [data] dat bij een willekeurige steekproef 359 van de 458 beoordeelde gesprekken crimineel gerelateerd waren, oftewel 78,4%. De verwachting is dat bij herhalingen van de steekproef gemiddeld zo’n 75% crimineel gerelateerd zou zijn. Voorts bleek dat de gebruikers van de 800 e-mailadressen die op het moment van de analyse geïdentificeerd waren, vrijwel allemaal bekend waren in de politiesystemen op basis van langdurige betrokkenheid bij diverse vormen van zware en georganiseerde criminaliteit.
+
+178.	De officier van justitie heeft in zijn requisitoir een eerdere, daaraan voorafgaande, uitgevoerde analyse aan hun standpunt ten grondslag gelegd. Naar het oordeel van de rechtbank kan deze analyse echter niet voor het bewijs worden gebruikt. Het betreft immers een zeer algemene analyse met gebruik van een groot aantal zoekwoorden (‘topics’), die op zichzelf niet altijd crimineel van aard zijn. Het enkele aantreffen van een dergelijk woord in een bericht, zonder de context daarbij te betrekken, kan niet bewijzen dat het bericht ‘crimineel getint’ is. Hoewel in het proces-verbaal wordt gesproken over ‘verdiepende analyses en identificaties’ zijn de resultaten van deze eerste data-analyse – zo begrijpt de rechtbank tenminste uit het proces-verbaal – slechts gebaseerd op de hits van de topiclijsten. Met gebruik van dergelijke algemene zoekwoorden is de conclusie dat de berichten ‘crimineel getint’ zijn niet gerechtvaardigd. Nog minder gerechtvaardigd is de conclusie dat de e-mailadressen “waarbij in communicatie een hit is gevonden” en dus hun gebruikers “conversaties voeren die betrekking hebben op een of meer vormen van criminaliteit.” Dit zou immers betekenen dat iemand die van een ander een bericht ontvangt met daarin de woorden ‘boer’ en ‘draf’, al ‘met criminele activiteiten in verband kan worden gebracht’. Deze conclusies zijn in alle opzichten onverantwoord.
+
+179.	Deze omstandigheden, in onderlinge samenhang bezien, rechtvaardigen naar oordeel van de rechtbank de conclusie dat het niet anders kan zijn dan dat de geleverde producten en diensten van [naam verdachte] betaald werden door personen die criminele activiteiten verrichten en daar hun geld mee verdienen, waardoor de omzet – in elk geval gedeeltelijk – afkomstig is uit enig misdrijf.
+
+180.	De door de verdediging aangevoerde stelling dat de PGP-telefoons ook werden verkocht aan legale instellingen als het Ministerie van Defensie en Greenpeace maakt dat oordeel niet anders. Afgezien van het gegeven dat bewijs voor de totstandkoming van daadwerkelijke koopovereenkomsten met dergelijke instanties of andere legitieme kopers ontbreekt, maakt dit gegeven - bezien tegen de achtergrond van de hierboven geschetste omstandigheden en gegeven het feit dat ook dan sprake is geweest van vermenging van crimineel en niet-crimineel vermogen, waardoor in beginsel het gehele vermogen van [naam verdachte] besmet is  nog niet dat daarmee alle of vrijwel alle door [naam verdachte] verkregen gelden een legale herkomst hebben.
+
+181.	De verdediging heeft betwist dat de verdachte rechtspersoon  wetenschap had van de criminele herkomst van de omzet. De hierboven geschetste communicatie met het NFO laat echter zien dat de verdachte rechtspersoon (geleid door de medeverdachte [naam medeverdachte 1] ) doelbewust bezig was om de opsporingsinstanties voor te blijven en dat de producten en diensten van [naam verdachte] voor criminelen bedoeld waren. Daar komt nog bij dat de medeverdachte [naam medeverdachte 1] in 2011 in een ander onderzoek reeds is gehoord vanwege de verdenking van deelname aan een criminele organisatie vanwege het leveren van encryptietelefoons, en in dat onderzoek verklaarde: ‘Dit is de eerste keer dat ik hiervoor vast zit. Ik ga met mijn advocaat bespreken hoe ik kan voorkomen dat ik door mijn werkzaamheden in verband wordt gebracht met eventuele criminele activiteiten van mijn klanten.’ Hij wist dus toen al dat de klanten van [naam verdachte] zich met ‘eventuele criminele activiteiten’ bezig hielden. Ook was hij op de hoogte van het ‘wipen’. Sterker nog, de medeverdachte [naam medeverdachte 1] heeft in een e-mailbericht opgemerkt: ‘Wipen doen we voor 1 ongeschreven regel. Dat is de enige reden.’ Zoals hierna in alinea 200 verder uiteen wordt gezet, is de rechtbank van oordeel dat de bedoelde ‘enige reden’ kennelijk was het gevaar dat opsporingsinstanties achter de inhoud van een inbeslaggenomen PGP-telefoon zouden komen. De rechtbank is dan ook van oordeel dat de verdachte rechtspersoon wist dat de omzet van misdrijf afkomstig was.
+
+6.2.3.
+
+Tussenconclusie
+
+182.	Bewezen is derhalve dat de in de tenlastelegging genoemde omzetbedragen geheel of gedeeltelijk van enig misdrijf afkomstig waren en dat de verdachte rechtspersoon daarvan wetenschap had. De andersluidende verweren van de verdediging worden verworpen.
+
+6.2.4
+
+Gewoontewitwassen
+
+183.	Ten laste is gelegd het een gewoonte maken van witwassen. Gelet op de periode van twee jaar en de omvang van de geldbedragen acht de rechtbank bewezen dat daarvan sprake is.
+
+6.2.5.
+
+Toerekening aan de rechtspersoon
+
+184.	Het gewoontewitwassen van de omzet kan aan de verdachte rechtsperesoon worden toegerekend. Het gaat om een handelen van de medeverdachte [naam medeverdachte 1] en andere voor de verdachte rechtspersoon werkzame personen. De gedraging paste in de normale bedrijfsvoering van de verdachte rechtspersoon en is de verdachte rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf. Tot slot vermocht de verdachte rechtspersoon erover te beschikken of de gedraging al dan niet zou plaatsvinden en zodanig gedrag werd blijkens de feitelijke gang van zaken door de verdachte rechtspersoon aanvaard.
+
+6.3.
+
+Ten aanzien van feit 1 (deelname aan een criminele organisatie)
+
+185.	Aan de verdachte rechtspersoon wordt, kort samengevat, verweten dat hij in de periode van 1 januari 2013 tot en met 19 april 2016 samen met een ander of anderen heeft deelgenomen aan een organisatie die het plegen van misdrijven tot oogmerk had. Het zou daarbij gaan om de misdrijven strafbaar gesteld bij de artikelen 189 (‘begunstiging’), 420 bis, ter en quater ([gewoonte]witwassen) en 225 (valsheid in geschrift) van het Wetboek van Strafrecht (Sr).
+
+Standpunt van de verdediging
+
+186.	De verdediging heeft vrijspraak bepleit, kort gezegd omdat de verdachte rechtspersoon geen wetenschap had van het feit dat de door hem verkochte telefoons voornamelijk door criminele gebruikers werden aangeschaft. Verder zou – zo begrijpt de rechtbank de strekking van het verweer – het ‘wipen’ van telefoons niet onder de delictsomschrijving van artikel 189 Sr vallen. Ten derde zou het dossier slechts een incompleet beeld van de wipe-verzoeken bieden. De verdachte rechtspersoon kende de inhoud van de wipe-verzoeken niet.
+
+Op deze verweren komt de rechtbank hieronder terug, een en ander voor zover zij niet reeds hun weerlegging vinden in de gemotiveerde bewezenverklaring.
+
+Het oordeel van de rechtbank
+
+187.	De rechtbank stelt voorop dat van deelneming aan een organisatie als bedoeld in artikel 140 Sr slechts dan sprake kan zijn, indien de verdachte rechtspersoon behoort tot het samenwerkingsverband en een aandeel heeft in, dan wel ondersteunt, gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het in dat artikel bedoelde oogmerk.
+
+188.	Aan de hand van het dossier en het onderzoek ter terechtzitting stelt de rechtbank de volgende feiten en omstandigheden vast.
+
+Samenwerkingsverband
+
+189.	De medeverdachte [naam medeverdachte 1] was sinds de oprichting bestuurder en enig aandeelhouder van [naam bedrijf 6] (KvK-nummer [KvK nummer 1] ), gevestigd te [vestigingsplaats bedrijf] , die op haar beurt bestuurder en aandeelhouder was van de verdachte rechtspersoon  (KvK-nummer [KvK nummer 2] ), tot 1 januari 2014 geheten [naam bedrijf 7] , gevestigd te [vestigingsplaats bedrijf 7] . Beide rechtspersonen waren actief sinds 24 december 2008. De medeverdachte [naam medeverdachte 1] was tevens sinds de oprichting enig bestuurder en aandeelhouder van de rechtspersoon [naam bedrijf 8] (KvK-nummer [KvK nummer 3] ), gevestigd te [vestigingsplaats bedrijf 8] en opgericht op 23 juni 2014. [naam bedrijf 6] was sinds de oprichting enig bestuurder en aandeelhouder van [naam bedrijf 9] (KvK-nummer [KvK nummer 4] ), gevestigd te [vestigingsplaats bedrijf 9] en opgericht op 22 juli 2014.
+
+190.	De medeverdachte [naam medeverdachte 1] was tevens enig aandeelhouder van de rechtspersoon naar het recht der Verenigde Arabische Emiraten [naam bedrijf 1] , opgericht in januari 2014.
+
+191.	Volgens de inschrijving in het handelsregister was de bedrijfsactiviteit van [naam bedrijf 8] het ‘ontwikkelen, produceren en uitgeven van software’ en ‘de verkoop van beveiligde communicatie-platformen aan de zakelijke markt’. Bij de verdachte rechtspersoon ging het onder meer om een ‘winkel in telecommunicatieapparatuur.’ De activiteiten van [naam bedrijf 9] waren volgens het handelsregister ‘dienstverlening aan met haar in een groep verbonden rechtspersonen alsmede aan derden op het gebied van telecommunicatieapparatuur en (elektronische) apparatuur in het algemeen.’
+
+192.	Bij een doorzoeking op 19 april 2016 is een bij medeverdachte [naam medeverdachte 2] in gebruik zijnde laptop in beslag genomen, waarop een lijst met de persoonsgegevens van tien toen in dienst zijnde medewerkers van de hiervoor genoemde bedrijven is aangetroffen. Daarnaast maakte het bedrijf gebruik van een aantal resellers, waarmee distributieovereenkomsten waren afgesloten.
+
+193.	Uit het voorgaande volgt dat de verdachte rechtspersoon deel uitmaakte van een duurzaam en gestructureerd samenwerkingsverband, bestaande uit een aantal rechtspersonen en natuurlijke personen.
+
+Oogmerk
+
+194.	De medeverdachte [naam medeverdachte 1] en zijn bedrijven, inclusief de verdachte rechtspersoon, handelden in zogenaamde PGP-telefoons waarmee door middel van e-mail versleutelde informatie kon worden verzonden. Daarbij werd gebruik gemaakt van het PGP- dan wel het S/MIME-protocol. De overige bij mobiele telefoons gangbare functies, in het bijzonder de belfunctie en de mogelijkheid om een sms-bericht te versturen, waren uitgeschakeld. De verzonden berichten konden uitsluitend door de verzender en ontvanger worden gelezen. De anonimiteit van de gebruikers stond daarbij centraal. In dat kader was ook de door de [naam verdachte] -entiteiten geleverde zogenaamde wipe-dienst van belang: de helpdesk was in staat om op verzoek van de gebruiker van een telefoon de inhoud van die telefoon op afstand te wissen.
+
+195.	De rechtbank stelt voorop dat het ontwikkelen, aanbieden en verhandelen van dit soort telefoons in beginsel geen illegale activiteit is. Dat ligt echter anders wanneer die telefoons uitsluitend of in overwegende mate worden gebruikt door lieden wier doel het bij dat gebruik is om de nasporing van door hen gepleegde of nog te plegen misdrijven te verijdelen en een dergelijk doel binnen de organisatie bekend was. In dit verband overweegt de rechtbank het volgende.
+
+196.	De politie heeft onderzoek gedaan naar de op de Canadese server aangetroffen e-mailberichten waarin sprake is van wipe-verzoeken. Dit onderzoek heeft geleid tot een aantal bevindingen die hierna aan de orde komen.
+
+197.	Op een laptop in gebruik bij een van de medewerkers van de [naam verdachte] -entiteiten is een handboek aangetroffen waarin de wijze van dienstverlening van het bedrijf beschreven wordt. Het stuk draagt de titel ‘Reseller Manual’ en bevat een voorwoord ondertekend door de medeverdachte [naam medeverdachte 1] ; uit de tekst van dat voorwoord kan worden afgeleid dat [naam medeverdachte 1] een van de auteurs/samenstellers van het handboek is.
+
+198.	Onder de vanuit Canada verkregen bestanden bevindt zich een deels identiek exemplaar van de ‘Reseller Manual’, dat ook een gedeelte bevat dat betrekking heeft op zogenaamde wipe-verzoeken. De reseller krijgt daarin de instructie dergelijke verzoeken door te sturen naar een van de ‘service workers’ van de helpdesk van de [naam verdachte] -entiteiten met in de onderwerpregel ‘WP’. De inhoud van het bericht dient het te wissen e-mailaccount te vermelden; de reden van het verzoek mag echter niet vermeld worden.
+
+199.	Uit onderzoek is gebleken dat de resellers zich met enige regelmaat niet aan dit voorschrift hielden en wel de reden van het wipe-verzoek in de e-mail aan de helpdesk vermeldden, wat hun dan weer van tijd tot tijd op een reprimande zijdens de helpdesk kwam te staan. Uit die terechtwijzingen komt onder meer naar voren dat ‘wij dit [= de reden van het wissen] niet willen weten.’Waarom de helpdesk die reden niet wenst te weten, blijft onuitgesproken, maar opvallend is dat wanneer de resellers zich niet aan de regel houden en wel de reden van het verzoek vermelden, dit er meestal op neerkomt dat de eigenaar van de telefoon door de politie is aangehouden en/of de telefoon daarmee in handen van de politie is. Duidelijk is eveneens dat de helpdesk juist deze reden niet wenst te vernemen. Ten slotte merkt de rechtbank op dat uit de bewijsmiddelen volgt dat met de wipe-verzoeken ‘altijd haast’ is gemoeid.
+
+200.	De medeverdachte [naam medeverdachte 1] heeft in een e-mailbericht het volgende opgemerkt: ‘Wipen doen we voor 1 ongeschreven regel. Dat is de enige reden.’ Uit de context van dat bericht kan worden afgeleid dat daaronder in elk geval niet valt het ertoe dwingen van klanten om een niet-betaalde telefoon weer in te leveren. Op de vraag van de rechtbank wat die ongeschreven regel dan wel inhield, heeft de medeverdachte [naam medeverdachte 1] geen duidelijk antwoord gegeven, anders dan dat het de anonimiteit van de gebruiker zou moeten waarborgen. Uit het voorgaande, in het bijzonder de inhoud van de e-mailberichten van en aan de helpdesk, leidt de rechtbank echter af dat de bedoelde ‘enige reden’ voor de medewerkers van de [naam verdachte] -entiteiten om een wipe-verzoek te honoreren klaarblijkelijk was het gevaar dat opsporingsinstanties achter de inhoud van een inbeslaggenomen PGP-telefoon zouden komen. Uit de verdere inhoud van de hiervoor genoemde berichten volgt immers duidelijk dat wipe-verzoeken waarin werd medegedeeld dat de eigenaar van de telefoon was aangehouden en soortgelijke noodsituaties steeds aanleiding waren tot een (al dan niet geslaagde) poging om de telefoon te wissen.
+
+201.	Uit de aangetroffen ‘tickets’ volgt dat in een periode van iets meer dan vijftien maanden (3 januari 2015 tot 15 april 2016) 1512 wipe-verzoeken bij de [naam verdachte] -entiteiten zijn ingekomen, derhalve ongeveer honderd per maand. In ongeveer diezelfde periode (beginnend op 16 november 2014, eindigend op dezelfde datum) werden ruim 29.000 simkaarten geactiveerd dan wel verlengd, derhalve ongeveer 1700 per maand. Daaruit volgt dat bij ongeveer 1 op de 17 verkochte toestellen een wipe-verzoek werd gedaan. Daarmee staat vast dat het wipen van telefoons in elk geval meer dan incidenteel plaatsvond.
+
+202.	Hierboven kwam reeds ter sprake dat de verdediging erover heeft geklaagd dat zij ten gevolge van de beperkingen van de zoekmachine Hansken niet in staat is geweest om te zoeken naar woorden of lettercombinaties van minder dan drie opeenvolgende tekens en dat als gevolg daarvan een niet nader te bepalen aantal wipe-verzoeken aan haar onbekend is gebleven. De rechtbank leidt daaruit af dat de verdediging hier het oog heeft op wipe-verzoeken met uitsluitend de letter ‘w’ in de onderwerpregel. Daarbij gaat het dus om wipe-verzoeken die wél conform de regels van het ‘Reseller Manual’ zijn afgehandeld. Niet valt echter in te zien waarom het niet kunnen kennis nemen van dat soort verzoeken de verdediging op achterstand heeft gezet of het door het Openbaar Ministerie aangedragen bewijsmateriaal kwalitatief ongunstig heeft beïnvloed. Immers, indien en voor zover onbekend gebleven wipe-verzoeken conform de daarvoor opgestelde procedure werden afgehandeld, staat meteen vast dat over de achtergrond en inhoud van die verzoeken geen enkele verdere conclusie kan worden getrokken: noch dat de verzender door de politie was aangehouden en/of zijn telefoon in beslag was genomen, noch dat hij een andere reden had om de inhoud van zijn telefoon te laten wissen. Zoals eerder opgemerkt, gaat het bij het wel analyseerbare materiaal in overgrote meerderheid om gevallen waarin de verzoeker is aangehouden of zijn telefoon in handen van de politie is gevallen. De veronderstelling ligt voor de hand dat dit bij de ‘volgens het boekje’ afgewikkelde verzoeken niet anders was. Bovendien is het bewijsmateriaal met behulp van dezelfde (kennelijk beperkte) zoekfunctie verkregen, zodat niet kan worden gesteld dat de verdediging geen gelijke proceskansen heeft gehad.
+
+203.	De rechtbank acht hiermee het begaan van het misdrijf, strafbaar gesteld bij art. 189, eerste lid onder 3 Sr – te weten het opzettelijk voorwerpen (in dit geval: e-mailberichten) die kunnen dienen om de waarheid aan de dag te brengen met het oogmerk om de inbeslagneming daarvan te beletten, belemmeren of verijdelen, verbergen, vernietigen, wegmaken en aan het onderzoek van opsporingsambtenaren te onttrekken – als oogmerk van de organisatie wettig en overtuigend bewezen. Zij zal de verdachte rechtspersoon vrijspreken van de andere onder de delictsomschrijving van genoemd artikel vallende variant – te weten het nadat enig misdrijf is gepleegd met het oogmerk de nasporing en vervolging van dat misdrijf te beletten of te bemoeilijken sporen van het misdrijf wegmaken of aan het onderzoek van de opsporingsambtenaren onttrekken - nu in geen enkel geval de gewiste inhoud van de telefoons is komen vast te staan. Daarom is immers ook niet duidelijk of er sporen van enig misdrijf en, zo ja, van welk zijn weggemaakt.
+
+204.	Over hetgeen de verdediging heeft opgemerkt omtrent de uitleg van artikel 189 Sr overweegt de rechtbank nog het volgende. Daarbij zal op de verweren voor zover die zien op de bij lid 1 onder 2 strafbaar gestelde variant niet worden ingegaan in verband met de daarvoor te geven vrijspraak.
+
+205.	Allereerst is aangevoerd dat uit de wetsgeschiedenis blijkt dat ‘het grootste kwaad waartegen dit artikel waakt, is de tegenwerking van justitie bij aanvang van het onderzoek,’ een situatie die zich hier niet zou voordoen. Deze logica ontgaat de rechtbank. Het wegmaken van de inhoud van een door een zojuist aangehouden verdachte bij zich gedragen telefoon is naar haar opvatting veeleer een schoolvoorbeeld voor tegenwerking van justitie bij aanvang van een strafrechtelijk onderzoek.
+
+206.	Verder is aangevoerd dat het moet gaan om handelingen na het plegen van het misdrijf en om hulp die niet van tevoren is afgesproken. Dit onderdeel van het verweer ziet er allereerst aan voorbij dat het beramen van ernstige misdrijven met een strafbedreiging boven een bepaald minimum al dan niet bij afzonderlijke strafbepaling strafbaar is gesteld. Ook het voor justitie verdonkeremanen van berichten waarin over nog te plegen (bijvoorbeeld levens-) delicten overleg wordt gepleegd valt dus onder de strafbaarstelling van het artikel.
+
+Het moge voorts zo zijn dat de wipe-functie ‘van te voren afgesproken’ was, dat neemt niet weg dat niet het maken van die afspraak, maar het reageren op een wipe-verzoek onder de strafbaarstelling van art. 189 Sr valt. Ook in dit opzicht faalt het verweer dus.
+
+207.	De strekking van de stelling, ten slotte, dat de strafuitsluitingsgrond van lid 3 van toepassing is, omdat de verdachte rechtspersoon (dan wel zijn bestuurder) door het uitvoeren van wipe-verzoeken gevaar voor zichzelf afwendde, is de rechtbank niet duidelijk. De wipe-verzoeken waren immers de (criminele) klanten van de verdachte rechtspersoon dienstig, niet hemzelf.
+
+208.	De verweren worden verworpen.
+
+209.	Uit de bespreking van de feiten 2 en 3 valt af te leiden dat de verdachte rechtspersoon , al dan niet tezamen en in vereniging met de andere rechtspersonen binnen [naam verdachte] zich schuldig heeft gemaakt aan (gewoonte-)witwassen en valsheid in geschrift. Daaruit kan worden afgeleid dat de organisatie ook tot oogmerk had het plegen van de beide voornoemde delicten.
+
+Deelneming
+
+210.	Volgens vaste rechtspraak is van deelneming sprake indien een (rechts)persoon behoort tot de organisatie en een aandeel heeft in, dan wel gedragingen ondersteunt die strekken tot of rechtstreeks verband houden met de verwezenlijking van het oogmerk van de organisatie. De verdachte dient in dat verband in zijn algemeenheid te weten dat de organisatie tot oogmerk heeft het plegen van misdrijven; in zoverre is voorwaardelijk opzet niet voldoende. Niet is vereist dat de verdachte enige vorm van opzet heeft gehad op de door de organisatie beoogde concrete misdrijven, aan enig concreet misdrijf heeft deelgenomen of van enig concreet misdrijf wetenschap heeft gehad. Ook is niet nodig dat de verdachte moet hebben samengewerkt of bekend moet zijn geweest met alle personen die deel uitmaken van de organisatie. Elke bijdrage aan een organisatie kan strafbaar zijn. Een dergelijke bijdrage kan bestaan uit het (mede)plegen van enig misdrijf, maar ook uit het verrichten van hand- en spandiensten en (dus) het verrichten van handelingen die op zichzelf niet strafbaar zijn, zolang niet van bovenbedoeld aandeel of ondersteuning kan worden gesproken.
+
+211.	Uit de hiervoor weergegeven bewijsmiddelen en de bewezenverklaring van de feiten 2 en 3 volgt dat de medeverdachte [naam medeverdachte 1] behoorde tot de organisatie [naam verdachte] , deze ook had opgericht en leidde en dat hij handelingen heeft verricht die hebben bijgedragen aan het verwezenlijken van het oogmerk van die organisatie. Hij wist dat deze delicten door de organisatie werden gepleegd. Ten aanzien van de zogenaamde begunstiging (artikel 189 Sr) wijst de rechtbank op onder andere het door de medeverdachte [naam medeverdachte 1] van een voorwoord voorziene handboek en het kennelijk vooral door hem bepaalde beleid inzake de wipes.
+
+212.	Daarom is bewezen dat de verdachte rechtspersoon heeft deelgenomen aan een organisatie als bedoeld in artikel 140 Sr.
+
+7.
+Beslissingen op voorwaardelijke verzoeken
+
+7.1.
+
+Beslissing op voorwaardelijke getuigenverzoeken
+
+213.	De verdediging heeft bij pleidooi verzocht om (alsnog) de volgende personen als getuige/deskundige te horen: 1. [naam getuige 1]2. [naam getuige 2]
+
+3. [naam getuige 3]4. [naam getuige 4]5. [naam getuige 5]6. [naam getuige 6]7. Een onafhankelijke deskundige, voor een onderzoek naar (de verkrijging van) het bewijsmateriaal en de bejegening van de geheimhouders, zoals verzocht bij brief van 5 januari 2021.
+
+8. De Canadese rechter [naam 3] van het Superior Court of Justice in Toronto, omtrent de uitleg van de door hem geformuleerde voorwaarden.
+
+214.	De rechtbank acht zich voldoende ingelicht op basis van het dossier en de uitvoerige behandeling daarvan ter zitting. Van de noodzaak tot het horen van de door de verdediging verzochte personen is daarom niet gebleken. De verzoeken worden afgewezen.
+
+7.2.
+
+Beslissing op een voorwaardelijk verzoek tot het stellen van prejudiciële vragen
+
+215.	De verdediging heeft bij dupliek verzocht dat de rechtbank prejudiciële vragen zal stellen aan het HvJ EU indien de rechtbank haar niet volgt in een of meer van de door haar ingenomen standpunten over de uitleg van het Unierecht.
+
+De rechtbank deelt niet alle standpunten van de verdediging over dit onderwerp, bijvoorbeeld waar het gaat om het aan een vormverzuim te verbinden rechtsgevolg. Toch ziet de rechtbank geen aanleiding om prejudiciële vragen te stellen aan het HvJ EU. Dat heeft niet te maken met een gebrek aan dapperheid of durf, zoals de verdediging heeft gesuggereerd, noch met vrees voor vertraging. De rechtbank heeft in de bespreking van de verweren (met name B4, B5 en C4) aan de hand van de Europese jurisprudentie uitvoerig gemotiveerd waarom het oordeel van de rechtbank op onderdelen afwijkt van het standpunt van de verdediging. De rechtbank is dan ook van oordeel dat – voor zover de door de verdediging voorgestelde vragen al relevant zijn voor het beslissingskader in deze zaak – antwoorden op dergelijke vragen al kunnen worden gevonden aan de hand van eerdere rechtspraak van het HVJ EU. De rechtbank wijst het verzoek dan ook af.
+
+7.3.
+
+Aanvullende verweren, verzoeken en nagekomen stukken
+
+216.	Tussen de laatste zittingsdag en de sluiting van het onderzoek ter terechtzitting heeft de verdediging een aantal e-mailberichten aan de rechtbank gestuurd, waarin onderwerpen ter sprake komen die in direct of iets verder verwijderd verband staan tot de rechtsvragen die in dit vonnis aan de orde komen. Tevens heeft de verdediging in die berichten een aantal aanvullende stukken in het geding gebracht; die maken daarmee onderdeel uit van het dossier. De officier van justitie is in de gelegenheid gesteld om op de in die e-mails vervatte verweren, verzoeken en stukken te reageren, waarop de verdediging nog de gelegenheid tot het nemen van een repliek heeft aangegrepen.
+
+De rechtbank heeft het niet nodig gevonden om de onderwerpen die in die e-mails aan de orde komen ook nog op een nadere terechtzitting te behandelen. Zij acht zich door de genoemde – uitvoerige – e-mailwisseling namelijk voldoende voorgelicht. In dit vonnis komen uit die e-mailwisseling slechts die stellingen van de verdediging aan de orde die direct betrekking hebben op de door de rechtbank te beantwoorden vragen in het kader van de artikelen 348 en 350 Sv. Van de overige door de verdediging aan de orde gestelde punten heeft de rechtbank kennisgenomen; zij geven haar echter geen aanleiding tot een nadere reactie.
+
+8.
+Bewezenverklaring
+
+Op grond van de redengevende inhoud van het voorgaande, is wettig en overtuigend bewezen dat de verdachte rechtspersoon het onder 1, 2 primair en 3 primair ten laste gelegde heeft begaan op die wijze dat:
+
+1.
+
+zij in de periode van 1 januari 2013
+
+tot en met 19 april 2016 in Nijmegen, Arnhem en elders in Nederland,
+
+heeft
+
+deelgenomen aan een organisatie,welke organisatie tot oogmerk had het plegen
+
+van misdrijven, namelijk het
+
+- opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te
+
+brengen  met het oogmerk om de inbeslagneming daarvan te beletten, te
+
+belemmeren of te verijdelen vernietigen, wegmaken of aan het
+
+onderzoek van de ambtenaren van de justitie of politie onttrekken, dan wel door
+
+het opzettelijk verstrekken van gegevens of inlichtingen aan derden die
+
+inbeslagneming beletten, belemmeren of verijdelen (artikel 189 lid 1 sub 3) en,
+
+- valselijk opmaken of vervalsen van enig geschrift dat is bestemd om tot
+
+bewijs van enig feit te dienen, met het oogmerk om het als echt en onvervalst
+
+te gebruiken of door anderen te doen gebruiken (WvSr 225 lid 1 ),
+
+- witwassen (strafbaar gesteld in artikel 420bis en/of 420ter en/of 420 quater
+
+Wetboek van Strafrecht).
+
+2.
+
+zij in de periode van 1 januari 2013
+
+tot en met 19 april 2016, in Nijmegen, Arnhem, en elders in Nederland,
+
+tezamen en in vereniging met anderen,
+
+meermalen
+
+facturen, te weten:
+
+-Factuur van [naam verdachte] met nummer 20150407, met
+
+factuurdatum 20 december 2015,
+
+-Factuur van [naam bedrijf 1] met nummer [nummer] , factuurdatum 4 januari 2016,
+
+-Factuur van [naam verdachte] met nummer 20150320, met
+
+factuurdatum 11 oktober 2015,
+
+- elk zijnde een geschrift dat bestemd was om tot bewijs van enig feit te
+
+dienen - valselijk heeft opgemaakt ,
+
+immers hebben zij en haar mededaders,
+
+telkens valselijk op die facturen onjuiste geldbedragen en/of geleverde aantallen goederen
+
+vermeld en/of doen vermelden,
+
+zulks telkens met het oogmerk om die geschriften als echt en
+
+onvervalst te gebruiken of door anderen te doen gebruiken.
+
+3.
+
+zij in de periode van 1 januari 2013 tot en met 19 april 2016 te Nijmegen,
+
+van voorwerpen, te weten geldbedragen, met een totale waarde van in totaal:
+
+- Euro 838.171,- (omzet [naam verdachte] 2013);
+
+- Euro 2.133.600,- (omzet [naam verdachte] 2014);
+
+- heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of
+
+heeft omgezet ,
+
+terwijl zij wist dat die voorwerpen geheel of
+
+gedeeltelijk - onmiddellijk of middellijk - afkomstig waren uit enig
+
+misdrijf en zij van het plegen van dit feit een gewoonte heeft gemaakt.
+
+9.
+Strafbaarheid feiten
+
+De bewezen feiten leveren op:
+
+1.
+
+deelnemen aan een organisatie die tot oogmerk heeft het plegen van misdrijven, begaan door een rechtspersoon.
+
+2. primair
+
+medeplegen van valsheid in geschrift, meermalen gepleegd, begaan door een rechtspersoon.
+
+3. primair
+
+gewoontewitwassen, begaan door een rechtspersoon.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. De feiten zijn dus strafbaar.
+
+10.
+Strafbaarheid verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte rechtspersoon uitsluit. De verdachte rechtspersoon is dus strafbaar.
+
+11.
+Motivering straf
+
+217.	De straf die aan de verdachte rechtspersoon wordt opgelegd, is gegrond op de ernst van de feiten, de omstandigheden waaronder de feiten zijn begaan en de persoon en de persoonlijke omstandigheden van de verdachte rechtspersoon. Daarbij wordt het volgende in aanmerking genomen.
+
+218.	Ten laste van de verdachte rechtspersoon is bewezenverklaard dat hij – telkens samen met andere natuurlijke en rechtspersonen – heeft deelgenomen aan een criminele organisatie die zich bezighield met handel in cryptotelefoons ten behoeve van criminelen, valsheid in geschrift en witwassen. Daarnaast heeft de verdachte rechtspersoon zich schuldig gemaakt aan valsheid in geschrift met betrekking tot een aantal facturen uit haar administratie en het plegen van gewoontewitwassen van haar omzet over de jaren 2013 en 2014.
+
+219.	De verdachte rechtspersoon belichaamde het bedrijf van de medeverdachte [naam medeverdachte 1] ; de hiervoor genoemde strafbare feiten heeft hij als feitelijke leidinggever en middellijk bestuurder van de rechtspersoon mede gepleegd. Bij het begaan van de feiten was de rechtspersoon een onmisbare schakel tussen het [naam verdachte] -concern en de natuurlijke personen die daarin werkzaam waren. Mede door het toedoen van de rechtspersoon is de Staat voor een aanzienlijk geldbedrag gedupeerd. Op dergelijke feiten verdient gereageerd te worden met een financiële sanctie van aanzienlijke omvang. De door de officier van justitie gevorderde geldboete van € 100.000 is daarom in beginsel passend en geboden.
+
+220.	De rechtbank zal echter afzien van het opleggen van een geldboete. Daarvoor is het volgende redengevend. Aan de rechtspersoon is door de Belastingdienst een 100% vergrijpboete van ruim € 1,3 miljoen opgelegd voor een opgelegde en onbetaald gebleven naheffingsaanslag omzetbelasting over de periode 2013 tot en met 2015. Gelet op met name de omvang van de opgelegde vergrijpboete komt een strafrechtelijke boete, ook al betreft die niet exact dezelfde feiten als waarvoor de vergrijpboete is opgelegd, de rechtbank niet opportuun voor. Daarom zal zij toepassing geven aan artikel 9a van het Wetboek van Strafrecht en aan de verdachte geen hoofdstraf opleggen.
+
+12.
+In beslag genomen voorwerpen
+
+Over de onder de verdachte rechtspersoon in beslag genomen en niet teruggegeven voorwerpen worden de volgende beslissingen genomen.De cryptophones, telefoons en onderdelen, laptops en harddisks zullen verbeurd worden verklaard. De bewezen feiten zijn met behulp van deze voorwerpen begaan, nu deze zijn gebruikt om te communiceren, onder andere binnen de criminele organisatie (feit 1).De contante geldbedragen van in totaal € 56.442,17 zullen worden verbeurd verklaard nu dit voorwerpen zijn die aan de verdachte toebehoren en die grotendeels zijn verkregen door middel van of uit de baten van het onder 3 bewezen verklaarde strafbare feit, te weten de omzet van ECP.
+
+De cryptophones zullen worden onttrokken aan het verkeer. Het ongecontroleerde bezit van deze voorwerpen is in strijd met de wet en het algemeen belang.
+
+13.
+Toepasselijke wettelijke voorschriften
+
+Gelet is op de artikelen 23, 33, 33a, 36b, 36d, 47, 51, 57, 140, 225, 420bis en 420ter van het Wetboek van Strafrecht.
+
+14
+.Bijlagen
+
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+15.
+Beslissing
+
+De rechtbank:
+
+verklaart de officier van justitie niet-ontvankelijk in de vervolging ten aanzien van het onder feit 2 subsidiair ten laste gelegde;
+
+verklaart bewezen, dat de verdachte rechtspersoon de onder 1, 2 primair en 3 primair tenlastegelegde feiten, zoals hiervoor omschreven, heeft begaan;
+
+verklaart niet bewezen hetgeen aan de verdachte rechtspersoon meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte rechtspersoon daarvan vrij;
+
+stelt vast dat het bewezenverklaarde oplevert de hiervoor vermelde strafbare feiten;
+
+verklaart de verdachte rechtspersoon strafbaar;
+
+bepaalt dat aan de verdachte rechtspersoon geen hoofdstraf wordt opgelegd;
+
+beslist ten aanzien van de voorwerpen, geplaatst op de lijst van inbeslaggenomen en nog niet teruggegeven voorwerpen, als volgt:- verklaart verbeurd als bijkomende straf:
+
+1a.	Geld Euro
+
+-
+
+Geld 4250 euro
+
+2a.	Geld Euro
+
+-
+
+Geld 3450 euro
+
+3a.	Geld Euro
+
+-
+
+48.575 euro
+
+4a.	Geld buitenlands	Waarde
+
+-
+
+200 Zwitserse Frank	167.17
+
+5.	106.00 STK GSM zaktelefoon
+
+BLACKBERRY Z30
+
+106 stuks Blackberry Z30/LERDA15008_324968
+
+6.	40.00 STK GSM zaktelefoon
+
+BLACKBERRY Z10
+
+LERDA15008_324969/40 stuks Blackberry Z10
+
+7.	508.00 STK GSM zaktelefoon
+
+BLACKBERRY Q10
+
+LERDA15008_324971/508 stuks Blackberry Q10
+
+8.	362.00 STK GSM zaktelefoon
+
+BLACKBERRY Leap
+
+LERDA15008_324972 / 362 stuks Blackberry Leap
+
+9.	355.00 STK GSM zaktelefoon
+
+BLACKBERRY Q5
+
+LERDA15008_324976 / 355 stuks Blackberry Q5
+
+10.	34.00 STK GSM zaktelefoon
+
+BLACKBERRY Classic
+
+LERDA15008_324978 / 34 stuks Blackberry Classic
+
+11.	61.00 STK GSM zaktelefoon
+
+BLACKBERRY P9900
+
+LERDA15008_324980 / 61 stuks Blackberry P9900
+
+12.	206.00 STK GSM zaktelefoon
+
+BLACKBERRY P9982
+
+LERDA15008_324981 / 206 stuks Blackberry P9982
+
+13.	252.00 STK GSM zaktelefoon
+
+BLACKBERRY P9983
+
+LERDA15008_324982 / 252 stuks Blackberry P9983
+
+14.	644.00 STK GSM zaktelefoon
+
+BLACKBERRY P9720
+
+LERDA15008_324984 / 644 stuks Blackberry P9720
+
+15.	10.00 STK GSM zaktelefoon
+
+BLACKBERRY P9100
+
+LERDA15008 324985 / 10 stuks Blackberry P9100
+
+16.	10.00 STK GSM zaktelefoon
+
+BLACKBERRY P9981
+
+LERDA15008_324987 / 10 stuks Blackberry P9981
+
+17.	42.00 STK GSM zaktelefoon
+
+BLACKBERRY P9790
+
+LERDA15008_324988 / 42 stuks Blackberry P9790
+
+18.	21.00 STK GSM zaktelefoon
+
+BLACKBERRY P9360
+
+LERDA15008_324989 / 21 stuks Blackberry P9360
+
+19.	43.00 STK GSM zaktelefoon
+
+-
+
+LERDA15008_324991 / defecte GSM, div merken en mode
+
+20.	51.00 STK GSM zaktelefoon
+
+NOKIA 6021
+
+LERDA15008_324992 / 51 stuks Nokia 6021
+
+21.	299.00 STK GSM zaktelefoon
+
+NOKIA 5000
+
+LERDA15008_324993 / 299 stuks Nokia 5000
+
+22.	5.00 STK Onderdelen
+
+BLACKBERRY
+
+LERDA15008_324996 / 5 achterkantjes van diverse Bl
+
+23.	786.00 STK Onderdelen Kl:zwart+wit
+
+BLACKBEERY
+
+LERDA15008_324998 / 786 stuks kabels/stekkers Blac
+
+24.	8.00 STK GSM zaktelefoon
+
+-
+
+LERDA15008_32500/8 stuks Mini Phone/voice chang
+
+25.	6.00 STK Telefoontoestel
+
+-
+
+LERDA15008_325007/6 stuks Cryptophone
+
+26.	6.00 STK GSM zaktelefoon
+
+SAMSUNG Galaxy S5
+
+LERDA15008_325009/Samsung Galaxy S5 Cryptophone.
+
+27.	1.00 STK Laptop Kl:Zilver
+
+APPLE MacBk Pro
+
+PL2600-15008_323043/MacBk Pro KE075.02.04.003
+
+28.	1.00 STK GSM zaktelefoon Kl: Wit
+
+BLACKBERRY 9900
+
+PL2600-LERDA15008_323076/Blackberry 9900 wit IMEI
+
+29.	1.00 STK Harddisk
+
+APPLE MacBk Air
+
+PL2600-LERDA_323083/SD kaartje met Windows Macboo
+
+30.	1.00 STK Laptop
+
+-
+
+PL2600-LERDA15008_323089/Mabook Pro 15 inch
+
+Dit vonnis is gewezen door:
+
+mr. E. Rabbie, voorzitter,
+
+mr. J.C. Tijink en mr. T.M. Riemens, rechters,
+
+in tegenwoordigheid van mr. D. Ince, griffier,
+
+en uitgesproken op de openbare terechtzitting van deze rechtbank op 21 september 2021.
+
+Bijlage I
+
+Tekst tenlastelegging
+
+Aan de verdachte rechtspersoon wordt ten laste gelegd dat
+
+1.
+
+zij op een of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2013
+
+tot en met 19 april 2016 in Nijmegen, Arnhem, althans in Nederland,
+
+tezamen en in vereniging met (een) ander(en), althans alleen, heeft
+
+deelgenomen aan een organisatie, welke organisatie tot oogmerk had het plegen
+
+van misdrijven, namelijk het
+
+- nadat enig misdrijf is gepleegd, met het oogmerk om dat misdrijf te bedekken
+
+of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen
+
+waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf
+
+vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de
+
+justitie of politie onttrekt (189 lid 1 sub 2) en/of,
+
+- opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te
+
+brengen of om wederrechtelijk verkregen voordeel als bedoeld in artikel 36e
+
+aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te
+
+belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het
+
+onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door
+
+het opzettelijk verstrekken van gegevens of inlichtingen aan derden die
+
+inbeslagneming belet, belemmert of verijdelt (artikel 189 lid 1 sub 3) en/of
+
+- valselijk opmaken of vervalsen van enig geschrift dat is bestemd om tot
+
+bewijs van enig feit te dienen, met het oogmerk om het als echt en onvervalst
+
+te gebruiken of door anderen te doen gebruiken (WvSr 225 lid 1 en/of 225 lid
+
+2),
+
+- witwassen (strafbaar gesteld in artikel 420bis en/of 420ter en/of 420quater
+
+Wetboek van Strafrecht).
+
+2.
+
+zij op een of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2013
+
+tot en met 19 april 2016, in Nijmegen, en/of Arnhem, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+meermalen, althans eenmaal,
+
+één of meer (kopieën van) facturen, te weten:
+
+-Factuur van [naam verdachte] met nummer 20150407, met
+
+factuurdatum 20 december 2015,
+
+-Factuur van [naam bedrijf 1] met nummer [nummer] , factuurdatum 4 januari 2016,
+
+-Factuur van [naam verdachte] met nummer 20150320, met
+
+factuurdatum 11 oktober 2015,
+
+en/of
+
+één of meer opgave(s) omzetbelasting over periode 1 januari 2015 tot en met 31
+
+december 2015 van [naam verdachte] ,
+
+- ( elk) zijnde een geschrift dat bestemd was om tot bewijs van enig feit te
+
+dienen - valselijk heeft opgemaakt of vervalst,
+
+immers heeft/hebben zij en/of zijn mededader(s),
+
+(telkens) valselijk op/in die factuur/facturen en/of opgave(s) omzetbelasting
+
+onjuist(e) (geld)bedragen en/of geleverde aantallen goederen en/of omzet
+
+vermeld en/of doen vermelden,
+
+zulks (telkens) met het oogmerk om die/dat geschrift(en) als echt en
+
+onvervalst te gebruiken of door anderen te doen gebruiken.
+
+Subsidiair, voorzover het vorenstaande niet tot een veroordeling mocht of zou
+
+kunnen leiden:
+
+Zij op een of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2013
+
+tot en met 19 april 2016 in Nijmegen en/of Arnhem en/of Ottersum, althans in
+
+Nederland,tezamen en in vereniging met (een) ander(en), althans alleen,
+
+meermalen, althans eenmaal,
+
+(telkens) opzettelijk,
+
+heeft/hebben gebruikt en/of heeft/hebben afgeleverd en/of heeft/hebben doen
+
+afleveren en/of voorhanden heeft gehad (telkens),
+
+één of meer (kopieën van) facturen, te weten:
+
+-Factuur van [naam verdachte] met nummer 20150407, met
+
+factuurdatum 20 december 2015,
+
+-Factuur van [naam bedrijf 1] met nummer [nummer] , factuurdatum 4 januari 2016,
+
+-Factuur van [naam verdachte] met nummer 20150320, met
+
+factuurdatum 11 oktober 2015,
+
+en/of
+
+-één of meer opgave(s) omzetbelasting over periode 1 januari 2015 tot en met
+
+31 december 2016 van [naam verdachte] ,
+
+zijnde (een) geschrift(en) dat/die bestemd is/zijn om tot bewijs van enig feit
+
+te dienen,
+
+terwijl zij wist(en) en/althans redelijkerwijs moest(en) vermoeden dat
+
+dit/deze geschrift/geschriften bestemd is/zijn voor gebruik, als ware(n)
+
+dit/deze echt en onvervalst,
+
+bestaande dat gebruik en/of afleveren en/of voorhanden hebben hierin dat
+
+[naam bedrijf 6] (KvK [KvK nummer 1] ) en/of [naam verdachte] (KvK
+
+[KvK nummer 2] ) en/of [naam bedrijf 8] (KvK [KvK nummer 3] ) en/of [naam bedrijf 9]
+
+(KvK [KvK nummer 5] ) en/of [naam bedrijf 1] en/of haar mededader(s)
+
+voornoemde factu(u)r(en) heeft/hebben gebruikt en/of voorhanden heeft/hebben
+
+gehad voor het doen van (een) opgave(s) omzetbelasting bij de Belastingdienst
+
+en/of (die) opgave(s) omzetbelasting heeft/hebben afgeleverd en/of
+
+heeft/hebben doen afleveren aan/bij ((een) medewerker(s) van) de
+
+Belastingdienst,
+
+bestaande die valshe(i)d(en) en/of vervalsing(en) in/van één of meer van
+
+voormelde geschriften (telkens) hierin - zakelijk weergegeven -
+
+(telkens) valselijk op/in die factuur/facturen en/of opgave(s) omzetbelasting
+
+onjuist(e) (geld)bedragen en/of geleverde aantallen goederen en/of omzet zijn
+
+vermeld en/of doen worden vermelden.
+
+3.
+
+zij op een of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2013
+
+tot en met 19 april 2016 te Nijmegen, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+(van) voorwerpen, te weten (van) een (groot) aantal  geldbedrag(en), met een
+
+totale waarde van in totaal:
+
+- ( ongeveer) Euro 838.171,- (omzet [naam verdachte] 2013);
+
+- ( ongeveer) Euro 2.133.600,- (omzet [naam verdachte] 2014);
+
+althans (van) (een) geldbedrag(en)
+
+- de werkelijke aard, de herkomst, de vindplaats, de vervreemding, de
+
+verplaatsing heeft verborgen en/of verhuld, en/of heeft verborgen en/of
+
+verhuld wie de rechthebbende op die voorwerpen waren, en/of heeft verborgen
+
+en/of verhuld wie die voorwerpen voorhanden heeft/hebben gehad
+
+en/of
+
+- heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of
+
+heeft omgezet en/of gebruik heeft gemaakt,
+
+terwijl zij en/of haar mededader(s) wist(en) dat die voorwerpen geheel of
+
+gedeeltelijk - onmiddellijk of middellijk - afkomstig was/waren uit enig
+
+misdrijf en zij van het plegen van dit feit een gewoonte heeft/hebben gemaakt.
+
+Subsidiair, voorzover het vorenstaande niet tot een veroordeling mocht of zou
+
+kunnen leiden:
+
+[naam medeverdachte 1] Holding BV (KvK [KvK nummer 1] ) en/of [naam verdachte] (KvK
+
+[KvK nummer 2] ) en/of [naam bedrijf 8] (KvK [KvK nummer 3] ) en/of [naam bedrijf 9]
+
+(KvK [KvK nummer 5] ) en/of [naam bedrijf 1] ,
+
+op een of meer tijdstip(pen) in of omstreeks de periode van 1 januari 2013 tot
+
+en met 19 april 2016 te Nijmegen, althans in Nederland,
+
+tezamen en in vereniging met een ander of anderen, althans alleen,
+
+(van) voorwerpen, te weten (van) een (groot) aantal  geldbedrag(en), met een
+
+totale waarde van in totaal:
+
+- ( ongeveer) Euro 838.171,- (omzet [naam verdachte] 2013);
+
+- ( ongeveer) Euro 2.133.600,- (omzet [naam verdachte] 2014);
+
+althans (van) (een) geldbedrag(en)
+
+- de werkelijke aard, de herkomst, de vindplaats, de vervreemding, de
+
+verplaatsing heeft verborgen en/of verhuld, en/of heeft verborgen en/of
+
+verhuld wie de rechthebbende op die voorwerpen waren, en/of heeft verborgen
+
+en/of verhuld wie die voorwerpen voorhanden heeft/hebben gehad
+
+en/of
+
+- heeft verworven en/of voorhanden heeft gehad en/of heeft overgedragen en/of
+
+heeft omgezet en/of gebruik heeft gemaakt,
+
+terwijl zij en/of haar mededader(s) redelijkerwijs moest(en) vermoeden dat die
+
+voorwerpen geheel of gedeeltelijk - onmiddellijk of middellijk - afkomstig
+
+was/waren uit enig misdrijf.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1890.
+
+HR 30 maart 2004, ECLI:NL:HR:2004:AM2533.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1889 en HR 1 december 2020, ECLI:NL:HR:1890.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1890.
+
+HR 6 november 2012, ECLI:NL:HR:2012:BX4280.
+
+Uit HvJ EU, 7 mei 2013, Åkerberg Fransson, nr. C-617/10, ECLI:EU:C:2013:105 volgt dat van ‘ten uitvoer brengen van Unierecht’ als bedoeld in artikel 51, lid 1, van het Handvest ook sprake is als op grond van nationale wettelijke regelingen strafbare feiten worden vervolgd, als daarmee wordt beoogd schending van een richtlijn te bestraffen en dus uitvoering te geven aan de door het EU-Verdrag aan de lidstaten opgelegde verplichtingen. Richtlijn (EU) 2018/1673 van het Europees Parlement en de Raad van 23 oktober 2018 inzake de strafrechtelijke bestrijding van het witwassen van geld is een dergelijke richtlijn.
+
+HvJ EU, 2 maart 2021, Prokuratuur, nr. C-746/18, ECLI:EU:C:2021:152
+
+Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (richtlijn betreffende privacy en elektronische communicatie), zoals gewijzigd bij richtlijn 2009/136/EG van het Europees Parlement en de Raad van 25 november 2009.
+
+HVJ EU, 6 oktober 2020, La Quadrature du Net e.a., nrs. C-511/18, C-512/18 en C-520/18, EU:C:2020:791.
+
+HvJ EU, 6 oktober 2020, La Quadrature du Net e.a., rov. 92 onder verwijzing naar het arrest HvJ EU, 2 oktober 2018, Ministerio Fiscal, C-207/16, EU:C:2018:788, rov. 32.
+
+HvJ EU, 6 oktober 2020, La Quadrature du Net e.a., rov. 103.
+
+‘Warrant to search and assistance order’ van Mr. Justice [naam 3] , Superior Court of Justice (Toronto region), 18 april 2016
+
+Report by detective constable [naam 10] to the Superior Court of Justice (Toronto region), 26 april 2016.
+
+Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken, Den Haag, 1 mei 1991, artikel 7, eerste volzin.
+
+Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
+
+Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
+
+Richtlijn 2002/58 legt verplichtingen op voor specifiek de aanbieders van openbare elektronische-communicatiediensten, alle andere gegevensverwerkers vielen op dat moment onder Richtlijn 95/46/EG (zie ook de preambule onder 10 van de Richtlijn).
+
+HvJ EU, 6 oktober 2020, La Quadrature du Net e.a., rov. 103.
+
+Zie artt. 10, tweede lid, van de Grondwet, 52, eerste lid, van het Handvest en 8, tweede lid, EVRM.
+
+Kamerstukken II, 2003-2004, 29441, nr. 3 (MvT), p. 19
+
+Onder verwijzing naar [naam 11] / [naam 12] e.a., Archief Wetboek van Strafvordering, commentaar bij artikel 125la Sv, aant. 3.
+
+Richtlijn 2002/21/EG van het Europees Parlement en de Raad van 7 maart 2002 inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (Kaderrichtlijn)
+
+Kamerstukken II, 2003-2004, 29 441, nr. 3 (MvT), p. 14
+
+Kamerstukken II, 2003-2004, 29 441, nr. 3 (MvT), p. 19
+
+Stb. 2006, 300.
+
+Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, 23 november 2001, Trb. 2002, 18.
+
+Kamerstukken II, 2004-2005, 26 671, nr. 7 (Tweede nota van wijziging), p. 26.
+
+Dit artikel wordt in de hiervoor genoemde Tweede nota van wijziging immers onbesproken gelaten.
+
+Onder meer de artikelen 126m en 126t.
+
+Wetsvoorstel tot vaststelling van het nieuwe Wetboek van Strafvordering (ambtelijke versie juli 2020), p.97 en Memorie van toelichting nieuwe Wetboek van Strafvordering (ambtelijke versie juli 2020), p. 422-423, beide gepubliceerd op https://www.rijksoverheid.nl/documenten/publicaties/2020/07/30/ambtelijke-versiejuli-
+
+2020-wetsvoorstel-wetboek-van-strafvordering.
+
+Requisitoir, p. 18.
+
+Toepasselijke wetgeving op het moment van toepassen van deze bevoegdheid op 16 april 2016 (inmiddels is dit artikel omgenummerd naar 138g Sv; de inhoud is ongewijzigd gebleven).
+
+Kamerstukken II, 2003-2004, 29441, nr. 3 (MvT), p. 12.
+
+Idem.
+
+Inhoudende dat de berichten 48 uur (‘gewone’ telefoons) of 24 uur (S/MIME) na aanmaken of ontvangst automatisch verwijderd worden en na 14 dagen volledig van de server verdwijnen, zie LERDA15008-1513, p. 605 van zaaksdossier 2.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1890, rov. 2.1.3.
+
+HR 19 februari 2013, ECLI:NL:HR:2013:BY5321, rov. 2.4.1.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1890, rov. 2.2.2.
+
+Idem, rov. 2.4.1 e.v.
+
+O.a. HVJ EU, 6 oktober 2020, La Quadrature du Net e.a, rov. 223 en HvJ EU, 2 maart 2021, Prokuratuur, rov. 42, EHRM 12 juli 1988, Appl. Nr. 10862/84 (Schenk v. Zwitserland), rov. 45-46
+
+HVJ EU, 6 oktober 2020, La Quadrature du Net e.a, rov. 225.
+
+Idem.
+
+HVJ EU, 6 oktober 2020, La Quadrature du Net e.a, rov. 226, HvJ EU, 10 april 2003, Steffensen, nr. C-276/01, ECLI:EU:C:2003:228,  rov. 75-77 en EHRM 18 maart 1997(Mantovanelli v. Frankrijk), rov. 34.
+
+Zoals vastgelegd in proces-verbaal LERDA15008-1568.
+
+Er is gekozen voor berichten die tenminste drie woorden bevatten en ontsleuteld zijn.
+
+Naar de rechtbank begrijpt, kan het hier om zowel de afzender als de geadresseerde van het bericht gaan. Of er dubbel geteld is (afzenders/geadresseerden) per bericht, is niet bekend.
+
+Zoals vastgelegd in proces-verbaal LERDA15008-1716.
+
+In oktober 2019.
+
+LERDA15008-1716, p. 7.
+
+Te weten in de onderzoekswensen die zijn behandeld ter zitting van 10 maart 2020 en in de onderzoekswensen die zijn behandeld ter zitting van 11 juni 2020 en waarop door de rechtbank is beslist op 30 juli 2020.
+
+EHRM 31 maart 2009, nr. 21022/04, (Natunen v. Finland), par. 42 en de daar aangehaalde jurisprudentie.
+
+EHRM 23 mei 2017,Van Wesenbeeck v. Belgium (nrs. 67496/10 en 52936/12, par. 67-68) en de daarin aangehaalde jurisprudentie.
+
+EHRM 4 juni 2019, ECLI:CE:ECHR:2019:0604JUD003975715 (Sigurður Einarsson e.a. v. IJsland), par. 89-92.
+
+Zie bijvoorbeeld EHRM 16 februari 2000, nr. 27052/95 (Jasper v. United Kingdom), par. 52.
+
+EHRM 4 juni 2019, ECLI:CE:ECHR:2019:0604JUD003975715 (Sigurður Einarsson e.a. v. IJsland), par. 90, maar ook al voor bewijsmateriaal in zijn algemeenheid in o.a. EHRM 31 maart 2009, nr. 21022/04, (Natunen v. Finland), par. 43 en EHRM 24 februari 1994, nr. 12547/86 (Bendenoun v. France), par. 52.
+
+EHRM 4 juni 2019, ECLI:CE:ECHR:2019:0604JUD003975715 (Sigurður Einarsson e.a. v. IJsland), par. 92.
+
+EHRM 4 juni 2019, ECLI:CE:ECHR:2019:0604JUD003975715 (Sigurður Einarsson e.a. v. IJsland), par. 91.
+
+Zie alinea 90 t/m 98.
+
+Onder meer in de brief van 12 februari 2021, in reactie op de onderzoekswensen van de verdediging neergelegd in een brief van 5 januari 2021.
+
+‘Beantwoording vragen van mr. Weski inzake onderzoek 26TandemII’ van [naam 5] d.d. 5 februari 2018 en het proces-verbaal van verhoor van deskundige door de rechter-commissaris in strafzaken van de rechtbank Amsterdam van [naam 5] d.d. 12 februari 2018, beide onderdeel van de bundel ‘Algemene achtergrondinformatie inzake [data] , PGP Safe-data en de Hansken zoekmachine’, verstrekt door het Openbaar Ministerie op 15 oktober 2019 (hierna: de bundel).
+
+Proces-verbaal van verhoor van [naam 5] , p. 8, onderdeel van de bundel.
+
+LERDA15008-1698, proces-verbaal van bevindingen van verbalisanten [verbalisantnummer 1] en [verbalisantnummer 2] , werkzaam bij de Landelijke Eenheid van de politie, d.d. 20 november 2018, onderdeel van de bundel.
+
+LERDA15008-1698, p. 9.
+
+HR 19 december 1995, ECLI:NL:HR:1995:ZD0328.
+
+HR 1 december 2020, ECLI:NL:HR:2020:1890.
+
+HR 1 juni 1999, ECLI:NL:HR:1999:ZD1143.
+
+HR 3 juli 2001, ECLI:NL:HR:2001:AB2732.
+
+HR 17 juni 2008, ECLI:NL:HR:2008:BC6913.
+
+Zie rov. 29 en 46 van voormeld vonnis.
+
+Hof ’s-Hertogenbosch 17 februari 2015, ECLI:NL:GHSHE:2015:481.
+
+Zie rov. 29 en 46 van voormeld vonnis.
+
+Zie CAG Hofstee ECLI:NL:PHR:2021:166 (en de in voetnoten 9-11 vermelde CAG’s en arresten van de Hoge Raad) en het bijbehorende 81.1 RO-arrest ECLI:NL:HR:2021:559.
+
+Kamerstukken II 1995/96, 23 470, nr. 11, p. 12.
+
+LERDA15008-1118, p. 241 van het doorgenummerde algemeen dossier.
+
+LERDA15008-680, p 2 van 4, derde van boven: laptop macbook Pro KE075.02.04.003.
+
+LERDA15008-1615, p. 55 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1615, p. 58 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1615, p. 59 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1572, p. 313 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1545, p. 270 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1545, p. 270 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1545, p. 271 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1592, p. 292 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+Verklaring van de verdachte ter terechtzitting op 25 mei 2021.
+
+LERDA15008-1545, p. 321 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1545, p. 791-792 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 567 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 567 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 582 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 569 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 588 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 590 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1573, p. 28 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1588, p. 592 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1573, p. 28 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+Verklaring van de verdachte ter terechtzitting d.d. 25 mei 2021.
+
+LERDA15008-1539, p. 150 e.v. van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1397, p. 497 e.v. van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1573, p. 38 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1532, p. 785 van het doorgenummerde zaaksdossier valsheid in geschrift.
+
+LERDA15008-1425, p. 19 van het algemeen dossier.
+
+LERDA15008-27, p. 253.
+
+LERDA15008-1321, p. 836.
+
+LERDAI 5008-1459, p. 1032, in een e-mailbericht van 11 januari 2016 dat ondertekend is met ‘ [naam 9] ’, volgens verdachte [naam medeverdachte 1] eigen verklaring ter terechtzitting een van diens bijnamen: ‘MOST important for us and for you also is the anonimity. When you ask for a wipe nobody wants to be linked with that specific account and or sim card.’
+
+LERDA15008-1395, p. 914 e.v..
+
+LERDA15008-727, p. 107 van het doorgenummerde persoonsdossier van de verdachte.
+
+LERDA15008-1365, p. 79 van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-808, p. 267 van het doorgenummerde zaaksdossier witwassen en LERDA15008-1515, p. 443 van het doorgenummerde supplement identificatie pv’s.
+
+LERDA15008-1365, p. 79 van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-808, p. 270 van het doorgenummerde zaaksdossier witwassen.
+
+LERDA15008-1367, p. 889 e.v. en LERDA15008-1381, p. 895 t/m 897.
+
+LERDA15008-727, p. 107 van het doorgenummerde persoonsdossier van de verdachte.
+
+LERDA15008-1395, p. 455 e.v. van het doorgenummerde zaaksdossier witwassen.
+
+LERDA15008-1395, p. 455-482 van het doorgenummerde zaaksdossier witwassen.
+
+LERDA15008-1513, p. 161 van het doorgenummerde algemeen dossier.
+
+LERDA15008-1513, p. 162 van het doorgenummerde algemeen dossier.
+
+LERDA15008-958, p. 678 e.v. van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-958, p. 709 van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-958, p. 685 en 686 van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-958, p. 709 van het doorgenummerde zaaksdossier criminele organisatie.
+
+LERDA15008-27, p. 108-109 van het doorgenummerde zaaksdossier witwassen.
+
+LERDA15008-1716, p. 7.
+
+LERDA15008-1716, p. 8.
+
+HR 23 november 2010, ECLI:NL:HR:2010:BN0578, rov 3.6.1.
+
+Bijlage bij LERDA15008-944, p. 315 van het doorgenummerde zaaksdossier witwassen.
+
+LERDA15008-1548, p. 1132 van het doorgenummerde zaaksdossier criminele organisatie.
+
+Tenzij anders vermeld zijn alle verwijzingen in dit onderdeel naar het zaaksdossier ‘criminele organisatie’.
+
+LERDA15008-1365, p. 10; LERDA15008-27, p. 241.
+
+LERDA15008-818, p. 594.
+
+LERDA15008-1626 (Algemeen dossier, p. 44).
+
+LERDA15008-1627 (Algemeen dossier, p. 50).
+
+LERDA15008-1628 (Algemeen dossier, p. 57).
+
+LERDA15008-1617, p. 1269.
+
+LERDA15008-1563, p. 1166-1167.
+
+LERDA15008-27, p. 253.
+
+LERDA15008-1321, p. 836.
+
+LERDAI 5008-1459, p. 1032, in een e-mailbericht van 11 januari 2016 dat ondertekend is met ‘ [naam 9] ’, volgens verdachte [naam medeverdachte 1] ’s eigen verklaring ter terechtzitting een van diens bijnamen: ‘MOST important for us and for you also is the anonimity. When you ask for a wipe nobody wants to be linked with that specific account and or sim card.’
+
+LERDA15008-1395, p. 914 e.v.
+
+LERDA15008-1548, p. 1126-1127, o.a.: ‘we have created the " [naam verdachte] Handbook".’
+
+LERDA15008-1548, p. 1128.
+
+LERDA15008-1548, p. 1130.
+
+LERDA15008-1395, p. 914-940, o.a.: ‘jongen net aangehouden aub wipen zsm!!’; ‘aub zsm wipen de politie heeft hem’; ‘kan je aub deze d mn maatje is gepakt’; ‘Resten [de rechtbank leest: resetten]. Nu. Aub Is gepakt’; ‘I need to cancel one phone and erased because the guy was grab by police and they got the phone’; ‘Tu peux wiper eet adresse alerte police’; ‘Ik heb vorige week een tel laten wipen... Die jongen werd achtervolgd door politie’; ‘He got arrested can you cut this sim please’; ‘Deze uit de lucht halen bro crashen aub is gepakt door politie’; ‘Wil je deze aub resten [de rechtbank leest: resetten] want de jongen is gepakt’; Denis aus arnheim wurde festgenommen. […] Maak seine pgp bitte aus’; ‘Please wipe this phones now!!! Important! They still online and the cops have them so we can wipe before they turn it off’; ‘Bro zo snel mogelijk zijn net geplukt en de tels staan nog aan’; ‘moet snel gewiped worden. Is opgepakt’; ‘Deze persoon is opgepakt kan je wipen aub’; ‘Kan je deze mail wipen aub maat Me vriend is net opgepakt’; ‘Bro haal dit mail adress zo snel mogelijk uit de lucht die is opgepakt vandaag’.
+
+LERDA15008-1395, p. 920: ‘Hahaha kan die gozer nou niet gewoon doen?? :-). Even een "w" in subject met adres ipv een subject van 10 zinnen en een verhaal over de politie?’
+
+LERDA15008-1548, p. 1128.
+
+LERDA15008-1548, p. 1132.
+
+LERDA15008-1365, p. 31.
+
+CAG voor HR 29 januari 2013, ECLI:NL:PHR:2013:BY9005, onder 9.
