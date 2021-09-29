@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:9344"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0204"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0204", "PR-Updates.nl 2021-0204"]
 ---
 
 # ECLI:NL:RBROT:2021:9344 Rechtbank Rotterdam , 29-09-2021 / C/10/614697 / HA ZA 21-217
