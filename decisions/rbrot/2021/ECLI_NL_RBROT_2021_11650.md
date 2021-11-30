@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:11650"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0011", "PJ 2022/36"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0011", "PJ 2022/36", "PR-Updates.nl 2022-0011"]
 ---
 
 # ECLI:NL:RBROT:2021:11650 Rechtbank Rotterdam , 30-11-2021 / AWB - 20 _ 394
