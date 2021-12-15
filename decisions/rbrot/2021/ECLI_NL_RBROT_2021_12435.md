@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2021:12435"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2937"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2938"]]
 ---
 
 # ECLI:NL:RBROT:2021:12435 Rechtbank Rotterdam , 15-12-2021 / C/10/505706 / HA ZA 16-691
