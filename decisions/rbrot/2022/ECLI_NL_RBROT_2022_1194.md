@@ -48,11 +48,11 @@ tegen
 
 1.
 
-[naam gedaagde 1], en
+[naam gedaagde 1] , en
 
 2. [naam gedaagde 2],
 
-beiden wonende te [woonplaats gedaagden],
+beiden wonende te [woonplaats gedaagden] ,
 
 gedaagden,
 
@@ -92,11 +92,11 @@ De feiten
 
 2.1.
 
-[eisers] enerzijds en [gedaagden] anderzijds, en met name [naam eiser 1] en [naam gedaagde 2], zijn vele jaren bevriend geweest. Medio 2012 hebben [gedaagden] met [naam eiser 1] gesproken over de financiering van een door hen aan te kopen woning aan de [adres] (hierna: de woning).
+[eisers] enerzijds en [gedaagden] anderzijds, en met name [naam eiser 1] en [naam gedaagde 2] , zijn vele jaren bevriend geweest. Medio 2012 hebben [gedaagden] met [naam eiser 1] gesproken over de financiering van een door hen aan te kopen woning aan de [adres] (hierna: de woning).
 
 2.2.
 
-Op 8 juli 2012 heeft [naam gedaagde 1] de details van zijn bankrekening aan [naam eiser 1] doorgegeven en op 9 juli 2012 is een bedrag van € 90.000,- overgemaakt van de bankrekening van [naam eiser 2] naar de bankrekening van [naam gedaagde 1], met als omschrijving: “Pret pour un ami”.
+Op 8 juli 2012 heeft [naam gedaagde 1] de details van zijn bankrekening aan [naam eiser 1] doorgegeven en op 9 juli 2012 is een bedrag van € 90.000,- overgemaakt van de bankrekening van [naam eiser 2] naar de bankrekening van [naam gedaagde 1] , met als omschrijving: “Pret pour un ami”.
 
 2.3.
 
@@ -170,13 +170,13 @@ Verder blijkt uit de door [eisers] overgelegde, beëdigde vertaling uit het Fran
 
 en
 
-“Maak je geen zorgen [naam eiser 1], zodra het mogelijk is komen we onze afspraak na”.
+“Maak je geen zorgen [naam eiser 1] , zodra het mogelijk is komen we onze afspraak na”.
 
 De inhoud van deze WhatsApp-berichten duidt op een afspraak en een terugbetalingsverplichting en derhalve een leningsovereenkomst. Dat [naam gedaagde 2] hier doelde op een door haar gevoelde morele verplichting om [naam eiser 1] terug te betalen als dat zou kunnen en wanneer dat zou kunnen, zoals [naam gedaagde 1] ter zitting heeft verklaard, is niet overtuigend. De door [naam gedaagde 2] genoemde verklaringen van [naam eiser 1] ten overstaan van getuigen duiden er juist op dat [naam eiser 1] terugbetaald wenste te worden (zij het kennelijk niet eerder dan wanneer [naam gedaagde 2] en [naam gedaagde 1] daartoe in staat zouden zijn) en dit ook aan [naam gedaagde 2] had medegedeeld. Bovendien valt in dat geval moeilijk te verklaren dat [naam gedaagde 2] spreekt over “een afspraak”. Wederom geldt dat dan een andere woordkeuze voor de hand had gelegen.
 
 4.8.
 
-Tot slot is ter zitting gebleken dat [naam eiser 1] in maart 2012 een bedrag van € 20.000,- heeft geleend aan [naam gedaagde 2] en haar zus voor kosten van onderhoud van de door hen geërfde woning in Frankrijk, en in september 2015 nog eens een bedrag van € 10.000,- met hetzelfde doel. Van deze leningen is niets op schrift gesteld. Het was dus niet ongebruikelijk dat [naam eiser 1] geld leende aan [naam gedaagde 2], en evenmin dat dit gebeurde zonder iets op schrift te stellen.
+Tot slot is ter zitting gebleken dat [naam eiser 1] in maart 2012 een bedrag van € 20.000,- heeft geleend aan [naam gedaagde 2] en haar zus voor kosten van onderhoud van de door hen geërfde woning in Frankrijk, en in september 2015 nog eens een bedrag van € 10.000,- met hetzelfde doel. Van deze leningen is niets op schrift gesteld. Het was dus niet ongebruikelijk dat [naam eiser 1] geld leende aan [naam gedaagde 2] , en evenmin dat dit gebeurde zonder iets op schrift te stellen.
 
 4.9.
 
@@ -184,7 +184,7 @@ Op grond van het voorgaande acht de rechtbank voorshands bewezen dat sprake is v
 
 4.10.
 
-Voor het leveren van tegenbewijs door [gedaagden] is voldoende dat zij het vermoeden dat volgt uit hetgeen onder 4.6 tot 4.9 is overwogen, ontzenuwen. Indien zij hierin slagen, is het aan [eisers] om alsnog te bewijzen dat sprake is van een geldlening. Volledigheidshalve wordt erop gewezen dat de rechtbank niet eerst het tegenbewijs zal evalueren en dan pas een bewijsopdracht zal geven aan [eisers]; eventuele aanvullende bewijsvoering aan de zijde van [eisers] dient in het kader van de reactie op de bewijslevering door [gedaagden] plaats te vinden, zodat eventuele op verzoek van [eisers] te horen getuigen bij gelegenheid van de contra-enquête dienen te worden voorgebracht.
+Voor het leveren van tegenbewijs door [gedaagden] is voldoende dat zij het vermoeden dat volgt uit hetgeen onder 4.6 tot 4.9 is overwogen, ontzenuwen. Indien zij hierin slagen, is het aan [eisers] om alsnog te bewijzen dat sprake is van een geldlening. Volledigheidshalve wordt erop gewezen dat de rechtbank niet eerst het tegenbewijs zal evalueren en dan pas een bewijsopdracht zal geven aan [eisers] ; eventuele aanvullende bewijsvoering aan de zijde van [eisers] dient in het kader van de reactie op de bewijslevering door [gedaagden] plaats te vinden, zodat eventuele op verzoek van [eisers] te horen getuigen bij gelegenheid van de contra-enquête dienen te worden voorgebracht.
 
 Zijn [naam eiser 2] en [naam gedaagde 2] partij bij de overeenkomst?
 
@@ -198,9 +198,9 @@ De stelling van [eisers] dat [naam eiser 2] partij is bij de overeenkomst, verho
 
 4.13.
 
-Voor de beantwoording van de vraag of [naam gedaagde 2] partij is bij de overeenkomst, zijn, naast de in 4.7 genoemde WhatsApp-berichten van [naam gedaagde 2], de volgende feiten en omstandigheden van belang:
+Voor de beantwoording van de vraag of [naam gedaagde 2] partij is bij de overeenkomst, zijn, naast de in 4.7 genoemde WhatsApp-berichten van [naam gedaagde 2] , de volgende feiten en omstandigheden van belang:
 
-de vriendschappelijke relatie tussen partijen is van oorsprong een relatie tussen [naam eiser 1] en [naam gedaagde 2]; [naam gedaagde 1] is hier pas later bij betrokken geraakt;
+de vriendschappelijke relatie tussen partijen is van oorsprong een relatie tussen [naam eiser 1] en [naam gedaagde 2] ; [naam gedaagde 1] is hier pas later bij betrokken geraakt;
 
 [naam eiser 1] heeft eerder leningen aan [naam gedaagde 2] verstrekt;
 
@@ -228,11 +228,11 @@ Indien sprake is van een lening: Heeft [naam eiser 1] afstand gedaan van zijn re
 
 4.17.
 
-[gedaagden] voeren aan, voor het geval komt vast te staan dat sprake is van een lening, dat [naam eiser 1] afstand heeft gedaan van zijn recht op terugbetaling. Volgens [gedaagden] heeft [naam eiser 1] herhaaldelijk verklaard – ook in aanwezigheid van getuigen – geen aanspraak te zullen maken op terugbetaling. Ter onderbouwing van deze stelling hebben [gedaagden] verklaringen overgelegd van [naam 1], een neef van [naam gedaagde 2], en van [naam 2], een zus van [naam gedaagde 2]. Die verklaren beiden dat zij [naam eiser 1] tegen [naam gedaagde 2] hebben horen zeggen (respectievelijk in augustus 2014 en meerdere malen tussen 2014 en 2016) dat zij zich geen zorgen moest maken over het geld dat hij haar gegeven had. Ook verklaart [naam 1] dat hij [naam eiser 1] heeft horen zeggen dat het een schenking was en geen lening.
+[gedaagden] voeren aan, voor het geval komt vast te staan dat sprake is van een lening, dat [naam eiser 1] afstand heeft gedaan van zijn recht op terugbetaling. Volgens [gedaagden] heeft [naam eiser 1] herhaaldelijk verklaard – ook in aanwezigheid van getuigen – geen aanspraak te zullen maken op terugbetaling. Ter onderbouwing van deze stelling hebben [gedaagden] verklaringen overgelegd van [naam 1] , een neef van [naam gedaagde 2] , en van [naam 2] , een zus van [naam gedaagde 2] . Die verklaren beiden dat zij [naam eiser 1] tegen [naam gedaagde 2] hebben horen zeggen (respectievelijk in augustus 2014 en meerdere malen tussen 2014 en 2016) dat zij zich geen zorgen moest maken over het geld dat hij haar gegeven had. Ook verklaart [naam 1] dat hij [naam eiser 1] heeft horen zeggen dat het een schenking was en geen lening.
 
 4.18.
 
-[naam eiser 1] betwist afstand te hebben gedaan van zijn recht op terugbetaling en wijst hierbij op de WhatsApp-berichten van [naam gedaagde 2] zoals onder 4.7. geciteerd. Deze berichten zijn van na 2016 en zijn niet te rijmen met een eerder prijsgeven van de aanspraak op terugbetaling door [naam eiser 1] . Ook wijst [naam eiser 1] op de door hem als producties 6 en 7 bij akte ingediende schriftelijke verklaringen van [naam 3] en [naam 4]. [naam 3] verklaart ervan getuige te zijn geweest dat [naam gedaagde 1] en [naam gedaagde 2] tegen [naam eiser 1] hebben gezegd dat zij de lening die hij hen had toegezegd zo spoedig mogelijk zouden terugbetalen. [naam 4] verklaart dat [naam eiser 1] hem na 2012 meerdere keren heeft verteld dat hij € 90.000,- aan [naam gedaagde 2] heeft geleend en dat de terugbetaling plaats zou vinden bij de verkoop van de woning van de overleden ouders van [naam gedaagde 2]. Tot slot stelt [naam eiser 1] dat uit de schakelbepaling van artikel 6:160 lid 3 BW volgt dat [naam eiser 1] de kwijting zou moeten hebben bevestigd, wat niet is gebeurd. Wat betreft dit laatste merkt de rechtbank op dat het ontbreken van een kwitantie niet kan dienen als bewijs dat geen afstand van recht is gedaan. Voor afstand van recht is geen vorm voorgeschreven. Dat betekent dat geen uitdrukkelijke verklaring vereist is. Zelfs door opgewekt vertrouwen door de schuldeiser kan een vordering tenietgaan (zie MvA II, Parl. Gesch. BW Boek 6, p. 177).
+[naam eiser 1] betwist afstand te hebben gedaan van zijn recht op terugbetaling en wijst hierbij op de WhatsApp-berichten van [naam gedaagde 2] zoals onder 4.7. geciteerd. Deze berichten zijn van na 2016 en zijn niet te rijmen met een eerder prijsgeven van de aanspraak op terugbetaling door [naam eiser 1] . Ook wijst [naam eiser 1] op de door hem als producties 6 en 7 bij akte ingediende schriftelijke verklaringen van [naam 3] en [naam 4] . [naam 3] verklaart ervan getuige te zijn geweest dat [naam gedaagde 1] en [naam gedaagde 2] tegen [naam eiser 1] hebben gezegd dat zij de lening die hij hen had toegezegd zo spoedig mogelijk zouden terugbetalen. [naam 4] verklaart dat [naam eiser 1] hem na 2012 meerdere keren heeft verteld dat hij € 90.000,- aan [naam gedaagde 2] heeft geleend en dat de terugbetaling plaats zou vinden bij de verkoop van de woning van de overleden ouders van [naam gedaagde 2] . Tot slot stelt [naam eiser 1] dat uit de schakelbepaling van artikel 6:160 lid 3 BW volgt dat [naam eiser 1] de kwijting zou moeten hebben bevestigd, wat niet is gebeurd. Wat betreft dit laatste merkt de rechtbank op dat het ontbreken van een kwitantie niet kan dienen als bewijs dat geen afstand van recht is gedaan. Voor afstand van recht is geen vorm voorgeschreven. Dat betekent dat geen uitdrukkelijke verklaring vereist is. Zelfs door opgewekt vertrouwen door de schuldeiser kan een vordering tenietgaan (zie MvA II, Parl. Gesch. BW Boek 6, p. 177).
 
 4.19.
 
@@ -256,9 +256,9 @@ van de partner van [naam gedaagde 1] hadden een woning in Frankrijk. Deze woning
 
 stond te koop. Met de verkoop van deze woning werd verwacht dat de nodige
 
-liquiditeiten konden worden gegenereerd. De liquiditeitskrapte aan de zijde van Van
+liquiditeiten konden worden gegenereerd. De liquiditeitskrapte aan de zijde van [naam gedaagde 1]
 
-Wijngaarden zou met de verkoop van deze woning worden opgelost. Er zou dus een
+zou met de verkoop van deze woning worden opgelost. Er zou dus een
 
 relatie zijn met de verkoop van onroerend goed in Frankrijk. Ook hieruit blijkt de
 
@@ -307,11 +307,11 @@ bepaalt dat de zaak weer op de rol zal komen van 16 februari 2022 voor uitlating
 
 5.4.
 
-bepaalt dat [gedaagden], indien zij geen tegenbewijs dan wel bewijs door getuigen willen leveren maar wel bewijsstukken willen overleggen, die stukken direct in het geding moeten brengen;
+bepaalt dat [gedaagden] , indien zij geen tegenbewijs dan wel bewijs door getuigen willen leveren maar wel bewijsstukken willen overleggen, die stukken direct in het geding moeten brengen;
 
 5.5.
 
-bepaalt dat [gedaagden], indien zij getuigen willen laten horen, de getuigen en de verhinderdagen van de partijen en hun advocaten op maandagen, dinsdagen, woensdagen en donderdagen in de maanden april tot en met juli 2022 direct moeten opgeven, waarna dag en uur van de getuigenverhoren zullen worden bepaald;
+bepaalt dat [gedaagden] , indien zij getuigen willen laten horen, de getuigen en de verhinderdagen van de partijen en hun advocaten op maandagen, dinsdagen, woensdagen en donderdagen in de maanden april tot en met juli 2022 direct moeten opgeven, waarna dag en uur van de getuigenverhoren zullen worden bepaald;
 
 5.6.
 
