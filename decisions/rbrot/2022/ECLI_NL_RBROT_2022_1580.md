@@ -938,9 +938,9 @@ artikel 3:44 lid 4 BW
 
 artikel 3:44 lid 2 BW
 
-HR 8 januari 1999, NJ 1999/342 (https://www.navigator.nl/document/id157619990108r98039nj1999342dosred)
+HR 8 januari 1999, NJ 1999/342
 
-HR 2 november 1979, NJ 1980, 429 (https://www.navigator.nl/document/id15761979110211444nj1980429dosred)
+HR 2 november 1979, NJ 1980, 429
 
 Zie rechtsoverweging 6.7
 
