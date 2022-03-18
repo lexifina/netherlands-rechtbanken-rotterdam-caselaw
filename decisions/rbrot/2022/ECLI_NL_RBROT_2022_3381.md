@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:3381"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0543", "PR-Updates.nl PR-2022-0107", "VAAN-AR-Updates.nl 2022-0543"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0543", "PR-Updates.nl PR-2022-0107", "VAAN-AR-Updates.nl 2022-0543", "PR-Updates.nl 2022-0107"]
 ---
 
 # ECLI:NL:RBROT:2022:3381 Rechtbank Rotterdam , 18-03-2022 / 9431940 / CV EXPL 21-29732
