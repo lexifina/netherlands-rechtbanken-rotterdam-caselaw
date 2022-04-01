@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:2484"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0394", "PR-Updates.nl PR-2022-0098", "VAAN-AR-Updates.nl 2022-0394"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0394", "PR-Updates.nl PR-2022-0098", "VAAN-AR-Updates.nl 2022-0394", "PR-Updates.nl 2022-0098"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2022:2331"]]
 ---
 
