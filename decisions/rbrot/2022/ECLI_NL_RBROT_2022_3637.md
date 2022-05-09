@@ -30,14 +30,14 @@ zaaknummer: ROT 21/1985
 
 uitspraak van de enkelvoudige kamer in de zaak tussen
 
-[naam eiseres], uit [woonplaats eiseres], eiseres
+[naam eiseres] , uit [woonplaats eiseres] , eiseres
 (gemachtigde: mr. C.J.M.M. Verwijmeren),
 
 en
 
 de Raad van bestuur van het Uitvoeringsinstituut Werknemersverzekeringen (het UWV), verweerder
 
-(gemachtigde: [naam]).
+(gemachtigde: [naam] ).
 
 Procesverloop
 
@@ -121,4 +121,4 @@ Het medisch onderzoek is getoetst en akkoord bevonden door een verzekeringsarts.
 
 Het medisch onderzoek is getoetst en akkoord bevonden door een verzekeringsarts.
 
-Bijvoorbeeld CRvB 2 februari 2015, ECLI:NL:CRVB:2015:251 (https://www.navigator.nl/document/id0fa01f7a99af42338d96f615252fa5c5?anchor=id-366590f2-d32e-4280-89c6-5e6f11e0e61c). Of: CRvB 2 februari 2015, ECLI:NL:CRVB:2015:251 (https://www.navigator.nl/document/id0fa01f7a99af42338d96f615252fa5c5?anchor=id-366590f2-d32e-4280-89c6-5e6f11e0e61c).
+Bijvoorbeeld CRvB 2 februari 2015, ECLI:NL:CRVB:2015:251 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2015:251). Of: CRvB 2 februari 2015, ECLI:NL:CRVB:2015:251 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2015:251).
