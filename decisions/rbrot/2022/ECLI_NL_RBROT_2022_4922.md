@@ -204,7 +204,7 @@ Artikel 7:274 lid 1 c BW
 
 Artikel 274 lid 3 BW
 
-ECLI:NL:HR: 1996:ZC2065 (Bijlmermeerarrest) en ECLI:NL:HR:2010:BL0683 (https://www.navigator.nl/document/idf6fe821953872e73f1befe71a8c3adb9?anchor=id-3fcf655ba62bad099d5e5309d6fb852a)(Herenhuisarrest)
+ECLI:NL:HR: 1996:ZC2065 (Bijlmermeerarrest) en ECLI:NL:HR:2010:BL0683 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BL0683)(Herenhuisarrest)
 
 ECLI:NL:GHDHA:2021:2358
 
