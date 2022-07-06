@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:5474"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0770", "S&S 2022/130", "VAAN-AR-Updates.nl 2022-0770"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:648"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:648"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2026, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2940"]]
 ---
 
 # ECLI:NL:RBROT:2022:5474 Rechtbank Rotterdam , 06-07-2022 / C/10/599847 / HA ZA 20-648
