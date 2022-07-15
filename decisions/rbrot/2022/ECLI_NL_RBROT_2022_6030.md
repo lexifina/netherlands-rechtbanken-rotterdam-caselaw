@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:6030"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0871", "PR-Updates.nl PR-2022-0150", "PJ 2022/130", "VAAN-AR-Updates.nl 2022-0871"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0871", "PR-Updates.nl PR-2022-0150", "PJ 2022/130", "VAAN-AR-Updates.nl 2022-0871", "PR-Updates.nl 2022-0150"]
 ---
 
 # ECLI:NL:RBROT:2022:6030 Rechtbank Rotterdam , 15-07-2022 / 9609796 CV EXPL 21-43392
