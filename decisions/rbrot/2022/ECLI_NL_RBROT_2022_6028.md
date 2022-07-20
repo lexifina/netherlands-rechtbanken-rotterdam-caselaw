@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:6028"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0148"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0148", "PR-Updates.nl 2022-0148"]
 ---
 
 # ECLI:NL:RBROT:2022:6028 Rechtbank Rotterdam , 20-07-2022 / C/10/627457 / HA ZA 21-929
