@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7367"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0168", "PJ 2022/113"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0168", "PJ 2022/113", "PR-Updates.nl 2022-0168"]
 ---
 
 # ECLI:NL:RBROT:2022:7367 Rechtbank Rotterdam , 31-08-2022 / C/10/618257 / HA ZA 21-411
