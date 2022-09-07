@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:7599"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1043", "PR-Updates.nl PR-2022-0185", "VAAN-AR-Updates.nl 2022-1043"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1043", "PR-Updates.nl PR-2022-0185", "VAAN-AR-Updates.nl 2022-1043", "PR-Updates.nl 2022-0185"]
 ---
 
 # ECLI:NL:RBROT:2022:7599 Rechtbank Rotterdam , 07-09-2022 / 9897877 / VZ VERZ 22-7184
