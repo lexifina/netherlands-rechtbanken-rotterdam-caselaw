@@ -362,6 +362,6 @@ Dit vonnis is gewezen door mr. M. Fiege en in het openbaar uitgesproken.
 
 47636
 
-HR 14 januari 2011, ECLI:NL:HR:2011:BO3534 (https://www.navigator.nl/document/id163115c1804f4b4197ff8c3435efcb29?anchor=id-5b1293b7-01db-46b3-890b-9f21560aba94).
+HR 14 januari 2011, ECLI:NL:HR:2011:BO3534 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BO3534).
 
-Zie Hof Amsterdam 15 juli 1993, NJ 1994/399 (https://www.navigator.nl/document/id157519930715nj1994399dosred).
+Zie Hof Amsterdam 15 juli 1993, NJ 1994/399.
