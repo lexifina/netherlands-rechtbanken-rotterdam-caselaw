@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:8445"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0194"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0194", "PR-Updates.nl 2022-0194"]
 ---
 
 # ECLI:NL:RBROT:2022:8445 Rechtbank Rotterdam , 07-10-2022 / C/10/644088 / KG ZA 22-751
