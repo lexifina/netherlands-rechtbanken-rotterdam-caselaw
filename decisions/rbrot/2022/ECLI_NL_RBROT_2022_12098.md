@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:12098"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0538", "PR-Updates.nl PR-2023-0100", "VAAN-AR-Updates.nl 2023-0538"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0538", "PR-Updates.nl PR-2023-0100", "VAAN-AR-Updates.nl 2023-0538", "PR-Updates.nl 2023-0100"]
 ---
 
 # ECLI:NL:RBROT:2022:12098 Rechtbank Rotterdam , 11-11-2022 / 9798001 - tussenvonnis
