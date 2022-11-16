@@ -1,0 +1,1049 @@
+---
+ecli: "ECLI:NL:RBROT:2022:9987"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "10/141049-22"
+decided: "2022-11-16"
+published: "2022-11-18"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:9987"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2022:9987 Rechtbank Rotterdam , 16-11-2022 / 10/141049-22
+
+## Inhoudsindicatie
+
+Medeplegen van negen diefstallen en een poging daartoe door middel van een babbeltruc, waarbij de verdachte zich voordeed als medewerkster van de thuiszorg en de bejaarde slachtoffers aan de praat hield, terwijl de medeverdachte de woningen kon insluipen om daar de buit weg te nemen. Oplegging van een deels voorwaardelijke gevangenisstraf van 28 maanden met bijzondere voorwaarden zoals geadviseerd door de reclassering. Toewijzing van de vorderingen van de benadeelde partijen.
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team straf 2
+
+Parketnummer: 10/141049-22
+
+Datum uitspraak: 16 november 2022
+
+Tegenspraak
+
+Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak tegen de verdachte:
+
+[verdachte01]
+
+,
+
+geboren te [geboorteplaats01] op [geboortedatum verdachte01] 2000,
+
+ingeschreven in de basisregistratie personen op het adres:
+
+[adres01] [postcode01] [plaats01] ,
+
+ten tijde van het onderzoek op de terechtzitting preventief gedetineerd in de
+
+P.I. Utrecht, locatie Nieuwersluis,
+
+raadsman mr. K. Durdu, advocaat te Rotterdam.
+
+1.
+
+Onderzoek op de terechtzitting
+
+Gelet is op het onderzoek op de terechtzitting van 2 november 2022.
+
+2.
+
+Tenlastelegging
+
+Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding. De tekst van de tenlastelegging is als bijlage I aan dit vonnis gehecht.
+
+Kort weergegeven wordt de verdachte verweten dat zij met een medeverdachte negen diefstallen uit een woning heeft gepleegd en eenmaal een poging daartoe heeft gedaan, steeds door middel van een babbeltruc.
+
+3.
+
+Eis officier van justitie
+
+De officier van justitie mr. R.W.J. Kerckhoffs heeft gevorderd:
+
+bewezenverklaring van het onder 1, 2, 3, 4, 5, 6, 7, 8, 9 (diefstal uit een woning in vereniging) en 10 (poging tot diefstal uit een woning in vereniging) ten laste gelegde;
+
+veroordeling van de verdachte tot een gevangenisstraf voor de duur van 24 maanden, met aftrek van voorarrest, waarvan 6 maanden voorwaardelijk, met een proeftijd van 2 jaren en de bijzondere voorwaarden zoals geadviseerd door de reclassering.
+
+4.
+
+Waardering van het bewijs
+
+4.1.
+
+Bewezenverklaring zonder nadere motivering
+
+Het onder 1, 2, 4, 5, 6, 7, 8, 9 en 10 ten laste gelegde is door de verdachte bekend. Deze feiten zullen zonder nadere bespreking bewezen worden verklaard.
+
+4.2.
+
+Bewijswaardering
+
+4.2.1.
+
+Standpunt verdediging
+
+De raadsman heeft aangevoerd dat de verdachte dient te worden vrijgesproken van het onder 3 ten laste gelegde feit, nu het feit niet is gepleegd in Rotterdam.
+
+4.2.2.
+
+Beoordeling en conclusie
+
+De rechtbank oordeelt dat in de gegeven omstandigheden met het opnemen van de straatnaam en het huisnummer het onder 3 tenlastegelegde feit voor wat betreft de locatie voldoende specifiek is omschreven. Het in de tenlastelegging genoemde adres komt in de wijde omgeving namelijk niet anders voor dan als adres in de gemeente Vlaardingen. In Rotterdam bestaat dit adres niet. Voor de verdachte is het, zoals ook ter zitting is gebleken, steeds voldoende duidelijk geweest om welk voorval het is gegaan en zij heeft ook bekend dit feit te hebben gepleegd. De rechtbank verwerpt het verweer van de verdediging en acht het ten laste gelegde feit onder 3 op de wijze als hieronder weergegeven wettig en overtuigend bewezen.
+
+4.3.
+
+Bewezenverklaring
+
+In bijlage II heeft de rechtbank de inhoud van wettige bewijsmiddelen opgenomen, houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Op grond daarvan is wettig en overtuigend bewezen dat de verdachte het onder 3 ten laste gelegde heeft begaan.
+
+In bijlage III heeft de rechtbank een opgave gedaan van wettige bewijsmiddelen, houdende voor de bewezenverklaring redengevende feiten en omstandigheden. Met deze opgave wordt volstaan, nu de verdachte het bewezenverklaarde heeft bekend en geen verweer is gevoerd dat strekt tot vrijspraak. Op grond daarvan is wettig en overtuigend bewezen dat de verdachte het onder 1, 2, 4, 5, 6, 7, 8, 9 en 10 ten laste gelegde heeft begaan.
+
+De verdachte heeft de bewezenverklaarde feiten op die wijze begaan dat:
+
+1
+
+zij op 6 juni 2022 te Maassluis,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres02] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+- sieraden, die aan [slachtoffer01] (geboren op [geboortedatum01] 1930), toebehoorden terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+2
+
+zij op 21 maart 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres03] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag,
+
+dat aan [slachtoffer02] (geboren op [geboortedatum02] 1941), toebehoorde terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+3
+
+zij op of omstreeks 23 maart 2022 ,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres04] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag,
+
+dat aan [slachtoffer03] (geboren op [geboortedatum03] 1942), toebehoorde
+
+terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling T-Zorg;
+
+4
+
+zij op 31 maart 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres05] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag,
+
+dat aan [slachtoffer04] (geboren op [geboortedatum04] 1933), toebehoorde terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van de gemeente;
+
+5
+
+zij op 2 april 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres06] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+besteksets (van het merk Keltum Pleet of Christofle), die aan [slachtoffer05] (geboren op [geboortedatum05]
+
+1935), toebehoorden,
+
+terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+6
+
+zij op 2 april 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres07] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag van (ongeveer) 50 euro, en
+
+meerdere bankpassen en meerdere klantenkaarten,
+
+die aan [slachtoffer06]
+
+(geboren op [geboortedatum06] 1941), toebehoorden,
+
+terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+7
+
+zij op 5 april 2022 te Spijkenisse,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres08] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+sieraden, die
+
+aan [slachtoffer07] (geboren op [geboortedatum07] 1942), toebehoorden,
+
+terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+8
+
+zij op 12 april 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan het [adres09]
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+sieraden, die
+
+aan [slachtoffer08] (geboren op [geboortedatum08] 1928) toebehoorden,
+
+terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van Zorginstelling “Aafje”;
+
+9
+
+zij op 22 april 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in een woning gelegen aan de [adres10] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag en sieraden, dat/die aan [slachtoffer09] , geboren op [geboortedatum09]
+
+1936), toebehoorde(n), terwijl verdachte en haar mededader zich de toegang tot de plaats van het
+
+misdrijf hebben verschaft door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, door zich voor te doen als een medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+10
+
+zij op 23 mei 2022 te Rotterdam,
+
+ter uitvoering van het door verdachte en haar mededader voorgenomen misdrijf
+
+om goederen van hun gading, die aan een ander toebehoorden, te weten aan
+
+[slachtoffer10] (geboren op [geboortedatum010] 1930), weg te nemen,
+
+met het oogmerk om het zich wederrechtelijk toe te eigenen
+
+- zich heeft voorgedaan als medewerker van Zorginstelling “Aafje” en
+
+- vervolgens de kamer/woonruimte van die [slachtoffer10] is binnen gelopen,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid.
+
+Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+5.
+
+Strafbaarheid feiten
+
+De bewezen feiten leveren op:
+
+Ten aanzien van de feiten 1 tot en met 9
+
+Diefstal, door twee of meer verenigde personen, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van een valse hoedanigheid, meermalen gepleegd;
+
+Ten aanzien van feit 10
+
+Poging tot diefstal door twee of meer verenigde personen, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van een valse hoedanigheid.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten.
+
+De feiten zijn dus strafbaar.
+
+6.
+
+Strafbaarheid verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit.
+
+De verdachte is dus strafbaar.
+
+7.
+
+Motivering straf
+
+7.1.
+
+Algemene overweging
+
+De straf die aan de verdachte wordt opgelegd is gegrond op de ernst van de feiten, de omstandigheden waaronder de feiten zijn begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+
+7.2.
+
+Feiten waarop de straf is gebaseerd
+
+De verdachte heeft zich in een periode van drie maanden samen met een ander schuldig gemaakt aan een reeks van ten minste negen diefstallen uit woningen door middel van een babbeltruc en één poging daartoe. Zij hebben hiervoor steeds alleenstaande vrouwelijke slachtoffers op (ver gevorderde) leeftijd uitgekozen. Door aan te bellen en zich vervolgens voor te doen als een medewerkster van de thuiszorg heeft de verdachte zich de toegang tot de woningen verschaft, waarna zij de slachtoffers aan de praat hield en er voor heeft gezorgd dat de medeverdachte de woningen kon insluipen om daar ongemerkt geld, sieraden of andere goederen van hun gading te kunnen meenemen.
+
+De rechtbank acht het bijzonder kwalijk dat de verdachte en haar mededader bij het plegen van deze feiten doelbewust kwetsbare slachtoffers hebben uitgekozen, die vanwege hun leeftijd vaak in toenemende mate van de zorg van anderen afhankelijk zijn. Van deze afhankelijkheidspositie hebben de verdachte en haar mededader op een laffe manier misbruik gemaakt. Dat de gevolgen voor de slachtoffers zeer ingrijpend zijn, blijkt uit de aangiften en de verklaringen die door of namens hen ter zitting zijn afgelegd. De slachtoffers voelen zich zonder uitzondering angstig, aangetast in hun veiligheidsgevoel en hebben mede door toedoen van de verdachte voor hen dierbare, onvervangbare voorwerpen met vaak grote emotionele waarde verloren. Ook is hun vertrouwen in de medemens aangetast en hebben zij nog dagelijks te kampen met de nadelige en ingrijpende gevolgen van de bewezen delicten.
+
+Dit zijn ernstige feiten, waarbij de verdachte kennelijk slechts oog had voor eigen financieel gewin. Door haar handelen heeft zij geen enkel respect getoond voor de privacy van de slachtoffers en heeft zij veel financiële schade en overlast veroorzaakt. Hoewel de verdachte heeft verklaard zich “vaak genoeg” te hebben gerealiseerd dat wat zij deed niet goed was, is aan de reeks diefstallen pas door ingrijpen van de politie een einde gekomen. Zij heeft uiteindelijk tot op zekere hoogte openheid van zaken gegeven met betrekking tot de feiten, maar heeft ook veel vragen onbeantwoord gelaten over haar motieven hierbij, de verhouding tot haar mededader en haar verdere handelwijze met betrekking tot de gestolen goederen. Een opmerking van de verdachte ter terechtzitting over de grote emotionele waarde van een door de politie in beslag genomen ring die zij cadeau kreeg van haar ouders, getuigt bovendien van weinig inlevingsvermogen in de gevolgen van haar daden voor de slachtoffers.
+
+De rechtbank rekent haar dit alles zwaar aan..
+
+7.3.
+
+Persoonlijke omstandigheden van de verdachte
+
+De rechtbank heeft gelet op een uittreksel uit de justitiële documentatie van 18 augustus 2022, waaruit blijkt dat de verdachte niet recent is veroordeeld voor soortgelijke strafbare feiten.
+
+Reclassering Nederland, afdeling reclassering heeft een rapport over de verdachte opgemaakt, gedateerd 21 oktober 2022. Dit rapport houdt het volgende in.
+
+De reclassering ziet een beperkte en kwetsbare jonge vrouw met een psychisch belast verleden. Een stevig plan van aanpak wordt geïndiceerd geacht om de kans op recidive te verkleinen, de mate van kwetsbaarheid en beïnvloedbaarheid te verlagen en de verdachte te ondersteunen bij het op orde krijgen van haar leven. De verdachte staat open voor (gedwongen) hulpverlening. De volgende bijzondere voorwaarden worden geadviseerd:
+
+een meldplicht bij reclassering;
+
+ambulante behandeling, waaronder meewerken aan diagnostiek, bij De Waag of een soortgelijke zorgverlener, te bepalen door de reclassering;
+
+begeleid wonen of maatschappelijke opvang;
+
+meewerken aan middelencontrole op het gebruik van alcohol en drugs;
+
+een contactverbod met de slachtoffers.
+
+De rechtbank heeft acht geslagen op dit rapport.
+
+7.4.
+
+Conclusies van de rechtbank
+
+Gelet op hetgeen de rechtbank hierboven heeft overwogen, komt zij tot de volgende conclusies.
+
+Gezien de ernst van de feiten kan niet anders worden gereageerd dan met het opleggen van een gevangenisstraf. Bij de bepaling van de duur van de gevangenisstraf heeft de rechtbank gekeken naar straffen die in soortgelijke zaken worden opgelegd.
+
+Voor insluiping wordt bij recidive een gevangenisstraf van drie maanden als oriëntatiepunt gegeven en bij veelvuldige recidive een gevangenisstraf van zes maanden. In deze zaak gaat het om negen gekwalificeerde diefstallen en een poging daartoe, waarbij de verdachte met haar medeverdachte de woningen van de slachtoffers is binnengedrongen door middel van een babbeltruc.
+
+Als strafverzwarend heeft de rechtbank meegewogen dat het in alle gevallen gaat om oudere slachtoffers in kwetsbare situaties. Dit maakt dat de rechtbank van oordeel is dat een hogere gevangenisstraf passend is, dan door de officier van justitie is geëist.
+
+In het voordeel van de verdachte houdt de rechtbank rekening met het feit dat zij door te verklaren over haar rol in de bewezen delicten enige verantwoordelijkheid lijkt te nemen voor haar handelen. Voor een beperking van de op te leggen gevangenisstraf tot hooguit enkele maanden, zoals door de verdediging is bepleit met het oog op het behoud van het gezag over haar dochter, ziet de rechtbank vanwege de ernst van de gepleegde delicten echter geen ruimte.
+
+Omdat de reclassering begeleiding en bijzondere voorwaarden noodzakelijk acht, zal de rechtbank een deel van de voorgenomen straf voorwaardelijk opleggen, met de voorwaarden die hierna worden genoemd. Dit voorwaardelijk strafdeel dient er tevens toe de verdachte ervan te weerhouden in de toekomst opnieuw strafbare feiten te plegen.
+
+Alles afwegend acht de rechtbank een gevangenisstraf van 28 maanden, waarvan 8 maanden voorwaardelijk, passend en geboden.
+
+Tenuitvoerlegging van de op te leggen gevangenisstraf zal plaatsvinden binnen de penitentiaire inrichting, tot het moment dat de veroordeelde in aanmerking komt voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet, dan wel de regeling van voorwaardelijke invrijheidsstelling, als bedoeld in artikel 6:2:10 Wetboek van Strafvordering, aan de orde is.
+
+8.
+
+Vorderingen benadeelde partijen/schadevergoedingsmaatregelen
+
+Als benadeelde partij heeft zich in het geding gevoegd: [slachtoffer01] ter zake van het onder 1 ten laste gelegde feit. De benadeelde partij vordert, een vergoeding van € 5.000,- aan materiële schade en een vergoeding van € 1.000,- aan immateriële schade.
+
+Als benadeelde partij heeft zich in het geding gevoegd: [slachtoffer02] ter zake van het onder 2 ten laste gelegde feit. De benadeelde partij vordert een vergoeding van € 1.000,- aan materiële schade.
+
+Als benadeelde partij heeft zich in het geding gevoegd: [slachtoffer07] ter zake van het onder 7 ten laste gelegde feit. De benadeelde partij vordert een vergoeding van € 950,- aan materiële schade.
+
+Als benadeelde partij heeft zich in het geding gevoegd: [slachtoffer08] ter zake van het onder 8 ten laste gelegde feit. De benadeelde partij vordert een vergoeding van € 2.731,- aan materiële schade en een vergoeding van € 500,- aan immateriële schade.
+
+Als benadeelde partij heeft zich in het geding gevoegd: [slachtoffer09] ter zake van het onder 9 ten laste gelegde feit. De benadeelde partij vordert een vergoeding van € 1.060,- aan materiële schade en een vergoeding van € 1.000,- aan immateriële schade.
+
+8.1.
+
+Standpunt officier van justitie
+
+De officier van justitie acht de vordering van benadeelde [slachtoffer01] voor wat betreft de materiële schade toewijsbaar tot een bedrag van € 1.200,-. De gevorderde immateriële schade acht hij geheel toewijsbaar. Ook de vorderingen van de benadeelden [slachtoffer02] , [slachtoffer07] en [slachtoffer09] zijn naar het oordeel van de officier van justitie geheel voor toewijzing vatbaar.
+
+Ten aanzien van de vordering van de benadeelde partij [slachtoffer08] stelt de officier van justitie zich op het standpunt dat het materiële deel niet-ontvankelijk dient te worden verklaard en dat het immateriële deel geheel kan worden toegewezen.
+
+8.2.
+
+Standpunt verdediging
+
+De raadsman heeft zich op het standpunt gesteld dat de vordering van de benadeelde partij [slachtoffer01] toewijsbaar is tot een bedrag van € 200,- en voor het overige deel niet-ontvankelijk dient te worden verklaard. Het immateriële deel van de vordering dient te worden gematigd tot een bedrag van € 500,-.
+
+De benadeelde partijen [slachtoffer02] en [slachtoffer07] dienen niet-ontvankelijk te worden verklaard in hun vorderingen, aangezien deze onvoldoende zijn onderbouwd. Dit geldt ook voor het materiële deel van de vordering van de benadeelde partij [slachtoffer08] ; met betrekking tot het immateriële deel van deze vordering heeft de raadsman zich gerefereerd aan het oordeel van de rechtbank.
+
+Ten aanzien van de vordering van de benadeelde partij [slachtoffer09] heeft de raadsman niet-ontvankelijkheid bepleit voor het materiële deel van de vordering, voor zover deze ziet op de gestolen sieraden; ten aanzien van het gevorderde geldbedrag van € 60,- aan contanten heeft de raadsman zich gerefereerd aan het oordeel van de rechtbank. Ten aanzien van de immateriële schade heeft de raadsman matiging tot een bedrag van € 500,- bepleit.
+
+8.3.
+
+Beoordeling
+
+Materiële schade
+
+Vast is komen te staan dat aan de benadeelde partijen door de bewezenverklaarde strafbare feiten rechtstreeks materiële schade is toegebracht. De rechtbank overweegt dat ruimte bestaat voor toewijzing van de gevorderde vergoeding van sieraden en contant geld, ook als daarvan geen aankoopbonnen of opnamebewijzen kunnen worden overgelegd - bijvoorbeeld omdat het gaat om een erfstuk of een schenking. De rechtbank heeft de bevoegdheid om schade te schatten en heeft daarvan gebruik gemaakt bij het bepalen van de gevraagde vergoedingen voor de sieraden. Vergoeding zal alleen worden toegekend voor geldbedragen en sieraden die in de aangiftes zijn genoemd. Het deel van de schade dat in enkele gevallen door de verzekering is vergoed, zal op de vorderingen in mindering worden gebracht. De rechtbank is van oordeel dat de door de benadeelden gevorderde materiële schadebedragen als redelijk en niet buitensporig moeten worden aangemerkt.
+
+Nu is komen vast te staan dat aan de benadeelde partijen door de onder 1, 2, 7, 8 en 9 bewezenverklaarde strafbare feiten, rechtstreeks materiële schade is toegebracht, deze vorderingen door de verdachte niet (voldoende gemotiveerd) zijn weersproken en de gevorderde schadevergoeding de rechtbank ook overigens niet onrechtmatig of ongegrond voorkomt, zullen vorderingen voor wat betreft het materiële deel volledig worden toegewezen.
+
+Immateriële schade
+
+Met betrekking tot de vergoeding van immateriële schade is de rechtbank van oordeel dat de grondslag daarvoor is artikel 6:106 onder b van het Burgerlijk Wetboek: aantasting van de persoon op andere wijze. Van de in dat artikel bedoelde aantasting in de persoon ‘op andere wijze’ is in ieder geval sprake indien de benadeelde partij geestelijk letsel heeft opgelopen. Ook als het bestaan van geestelijk letsel in voornoemde zin niet kan worden aangenomen, is niet uitgesloten dat de aard en de ernst van de normschending en van de gevolgen daarvan voor de benadeelde, meebrengen dat van de in art. 6:106, aanhef en onder b, BW bedoelde aantasting in zijn persoon ‘op andere wijze’ sprake is. In zo een geval zal degene die zich hierop beroept de aantasting in zijn persoon met concrete gegevens moeten onderbouwen. Dat is slechts anders indien de aard en de ernst van de normschending meebrengen dat de in dit verband relevante nadelige gevolgen daarvan voor de benadeelde zo voor de hand liggen, dat een aantasting in de persoon kan worden aangenomen.
+
+De rechtbank is van oordeel dat de aard en de ernst van de normschending in deze zaak met zich brengt dat de nadelige gevolgen voor de benadeelde partijen zozeer voor de hand liggen, dat reeds daarom een aantasting in de persoon kan worden aangenomen. De rechtbank wijst er daarbij op dat het gaat om kwetsbare ouderen die in hun eigen huis en in hun aanwezigheid zijn bestolen, waarbij zij er veelal later pas achter kwamen dat er ook nog een tweede persoon in de woning aanwezig was. De ingrijpende gevolgen van de inbreuk op hun privésfeer blijken verder afdoende uit de aangiften en de mondelinge toelichtingen door de benadeelde partijen ter zitting. Naar het oordeel van de rechtbank hebben de benadeelde partijen daarmee voldoende feiten en omstandigheden gesteld.
+
+Vast is komen te staan dat aan de benadeelde partijen door de onder 1, 8 en 9 bewezenverklaarde strafbare feiten, rechtstreeks immateriële schade is toegebracht. Die schade zal naar maatstaven van billijkheid worden vastgesteld op de hierna te vermelden bedragen, zodat de vorderingen tot deze gevorderde bedragen zullen worden toegewezen.
+
+De benadeelde partijen hebben gevorderd het te vergoeden bedrag te vermeerderen met wettelijke rente. De rechtbank bepaalt dat de te vergoeden schadebedragen vermeerderd worden met wettelijke rente vanaf de per feit bewezenverklaarde pleegdatum.
+
+Nu de vorderingen van de benadeelde partijen zullen worden toegewezen, zal de verdachte worden veroordeeld in de kosten door de benadeelde partijen gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil.
+
+Nu de verdachte de strafbare feiten ter zake waarvan schadevergoeding zal worden toegekend samen met een mededader heeft gepleegd, zijn zij daarvoor ieder hoofdelijk aansprakelijk. Indien en voor zover de mededader de benadeelde partijen betaalt is de verdachte in zoverre jegens de benadeelde partijen van deze betalingsverplichting bevrijd.
+
+8.4.
+
+Conclusie
+
+De verdachte moet de benadeelde partij [slachtoffer01] een schadevergoeding betalen van € 6.000,- (bestaande uit € 5.000,- materiële schade en € 1.000,- immateriële schade), vermeerderd met de wettelijke rente vanaf 6 juni 2022 tot aan de dag van algehele voldoening en kosten als hieronder in de beslissing vermeld.
+
+Tevens wordt oplegging van de hierna te noemen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht passend en geboden geacht.
+
+De verdachte moet de benadeelde partij [slachtoffer02] een schadevergoeding betalen van
+
+€ 1.000,- (bestaande uit materiële schade), vermeerderd met de wettelijke rente vanaf 21 maart 2022 tot aan de dag van algehele voldoening en kosten als hieronder in de beslissing vermeld.
+
+Tevens wordt oplegging van de hierna te noemen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht passend en geboden geacht.
+
+De verdachte moet de benadeelde partij [slachtoffer07] een schadevergoeding betalen van
+
+€ 950,- (bestaande uit materiële schade), vermeerderd met de wettelijke rente vanaf 5 april 2022 tot aan de dag van algehele voldoening en kosten als hieronder in de beslissing vermeld.
+
+Tevens wordt oplegging van de hierna te noemen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht passend en geboden geacht.
+
+De verdachte moet de benadeelde partij [slachtoffer08] een schadevergoeding betalen van
+
+€ 3.231,- (bestaande uit € 2.731,- materiële schade en € 500,- immateriële schade), vermeerderd met de wettelijke rente vanaf 12 april 2022 tot aan de dag van algehele voldoening en kosten als hieronder in de beslissing vermeld.
+
+Tevens wordt oplegging van de hierna te noemen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht passend en geboden geacht.
+
+De verdachte moet de benadeelde partij [slachtoffer09] een schadevergoeding betalen van
+
+€ 2.060,- (bestaande uit € 1.060,- materiële schade en € 1.000,- immateriële schade), vermeerderd met de wettelijke rente vanaf 22 april 2022 tot aan de dag van algehele voldoening en kosten als hieronder in de beslissing vermeld.
+
+Tevens wordt oplegging van de hierna te noemen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht passend en geboden geacht.
+
+9.
+
+Toepasselijke wettelijke voorschriften
+
+Gelet is op de artikelen 14a, 14b, 14c, 36f, 45, 57 en 311 van het Wetboek van Strafrecht.
+
+10.
+
+Bijlagen
+
+De in dit vonnis genoemde bijlagen maken deel uit van dit vonnis.
+
+11.
+
+Beslissing
+
+De rechtbank:
+
+verklaart bewezen, dat de verdachte de onder 1, 2, 3, 4, 5, 6, 7, 8, 9 en 10 ten laste gelegde feiten, zoals hiervoor omschreven, heeft begaan;
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte daarvan vrij;
+
+stelt vast dat het bewezenverklaarde oplevert de hiervoor vermelde strafbare feiten;
+
+verklaart de verdachte strafbaar;
+
+veroordeelt de verdachte tot een
+
+gevangenisstraf voor de duur van 28 maanden
+
+;
+
+bepaalt dat van deze gevangenisstraf een gedeelte, groot
+
+8 maanden
+
+niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten;
+
+verbindt hieraan een proeftijd, die wordt gesteld op 2 jaren;
+
+tenuitvoerlegging kan worden gelast als de veroordeelde de algemene voorwaarde niet naleeft en ook als de veroordeelde gedurende de proeftijd een bijzondere voorwaarde niet naleeft of een voorwaarde die daaraan van rechtswege is verbonden;
+
+stelt als algemene voorwaarde:
+
+- de veroordeelde zal zich vóór het einde van de proeftijd niet aan een strafbaar feit schuldig maken;
+
+stelt als bijzondere voorwaarden:
+
+1. de veroordeelde zal zich melden bij Reclassering Nederland, zolang en frequent als die reclasseringsinstelling noodzakelijk vindt;
+
+2. de veroordeelde zal meewerken aan diagnostiek en de daaruit voortvloeiende ambulante behandeling bij De Waag of een soortgelijke zorgverlener, gedurende de proeftijd, of zoveel korter als de reclassering in overleg met de zorgverlener verantwoord vindt;
+
+3. de veroordeelde zal meewerken aan toeleiding naar een verblijf in de instelling voor begeleid wonen/maatschappelijke opvang, of een soortgelijke instelling en zal zich houden aan de aanwijzingen die door of namens de directeur van die instelling worden gegeven, gedurende de proeftijd, of zoveel korter als de reclassering in overleg met de directeur van die instelling verantwoord vindt;
+
+4. de veroordeelde zal zich onthouden van het gebruik van verdovende middelen en alcohol, onder de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek en/of urineonderzoek, gedurende de proeftijd of zoveel korter als de reclassering verantwoord acht;
+
+5. de veroordeelde zal op geen enkele wijze contact (laten) opnemen, zoeken of hebben met de slachtoffers in de onderhavige zaak, zolang het openbaar ministerie dit verbod nodig acht;
+
+verstaat dat van rechtswege de volgende voorwaarden zijn verbonden aan de hierboven genoemde bijzondere voorwaarden
+
+- de veroordeelde zal ten behoeve van het vaststellen van haar identiteit medewerking verlenen aan het nemen van één of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbieden;
+
+- de veroordeelde zal medewerking verlenen aan reclasseringstoezicht, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclassering zo vaak en zolang als de reclassering dit noodzakelijk acht;
+
+geeft aan genoemde reclasseringsinstelling opdracht toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden;
+
+beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht, voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht;
+
+veroordeelt de verdachte, hoofdelijk met diens mededader, des dat de een betalende de ander zal zijn bevrijd, om tegen behoorlijk bewijs van kwijting aan de benadeelde partij [slachtoffer01] , te betalen een bedrag van
+
+€ 6.000,- (zegge: zesduizend euro),
+
+bestaande uit € 5.000 aan materiële schade en € 1.000 aan immateriële schade, te vermeerderen met de wettelijke rente hierover vanaf 6 juni 2022 tot aan de dag der algehele voldoening;
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+legt aan de verdachte
+
+de maatregel tot schadevergoeding
+
+op, inhoudende de verplichting aan de staat ten behoeve van [slachtoffer01] te betalen
+
+€ 6.000,-
+
+(hoofdsom), vermeerderd met de wettelijke rente vanaf 6 juni 2022 tot aan de dag van de algehele voldoening; bepaalt dat indien volledig verhaal van de hoofdsom van € 6.000,- niet mogelijk blijkt,
+
+gijzeling
+
+kan worden toegepast voor de duur van
+
+65 dagen
+
+; de toepassing van de gijzeling heft de betalingsverplichting niet op;
+
+verstaat dat betaling aan de benadeelde partij, waaronder begrepen betaling door zijn mededader, tevens geldt als betaling aan de staat ten behoeve van de benadeelde partij en omgekeerd;
+
+veroordeelt de verdachte, hoofdelijk met diens mededader, des dat de een betalende de ander zal zijn bevrijd, om tegen behoorlijk bewijs van kwijting aan de benadeelde partij [slachtoffer02] , te betalen een bedrag van
+
+€ 1.000,- (zegge: duizend euro),
+
+bestaande uit materiële schade, te vermeerderen met de wettelijke rente hierover vanaf 21 maart 2022 tot aan de dag der algehele voldoening;
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+legt aan de verdachte
+
+de maatregel tot schadevergoeding
+
+op, inhoudende de verplichting aan de staat ten behoeve van [slachtoffer02] te betalen
+
+€ 1.000,-
+
+(hoofdsom), vermeerderd met de wettelijke rente vanaf 21 maart 2022 tot aan de dag van de algehele voldoening; bepaalt dat indien volledig verhaal van de hoofdsom van € 1.000,- niet mogelijk blijkt,
+
+gijzeling
+
+kan worden toegepast voor de duur van
+
+20 dagen
+
+; de toepassing van de gijzeling heft de betalingsverplichting niet op;
+
+verstaat dat betaling aan de benadeelde partij, waaronder begrepen betaling door zijn mededader, tevens geldt als betaling aan de staat ten behoeve van de benadeelde partij en omgekeerd;
+
+veroordeelt de verdachte, hoofdelijk met diens mededader, des dat de een betalende de ander zal zijn bevrijd, om tegen behoorlijk bewijs van kwijting aan de benadeelde partij [slachtoffer07] , te betalen een bedrag
+
+van € 950,- (zegge: negenhonderd en vijftig euro),
+
+bestaande uit materiële schade, te vermeerderen met de wettelijke rente hierover vanaf 5 april 2022 tot aan de dag der algehele voldoening;
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+legt aan de verdachte
+
+de maatregel tot schadevergoeding
+
+op, inhoudende de verplichting aan de staat ten behoeve van [slachtoffer07] te betalen
+
+€ 950,-
+
+(hoofdsom), vermeerderd met de wettelijke rente vanaf 5 april 2022 tot aan de dag van de algehele voldoening; bepaalt dat indien volledig verhaal van de hoofdsom van € 950,- niet mogelijk blijkt,
+
+gijzeling
+
+kan worden toegepast voor de duur van
+
+19 dagen
+
+; de toepassing van de gijzeling heft de betalingsverplichting niet op;
+
+verstaat dat betaling aan de benadeelde partij, waaronder begrepen betaling door zijn mededader, tevens geldt als betaling aan de staat ten behoeve van de benadeelde partij en omgekeerd;
+
+veroordeelt de verdachte, hoofdelijk met diens mededader, des dat de een betalende de ander zal zijn bevrijd, om tegen behoorlijk bewijs van kwijting aan de benadeelde partij [slachtoffer08] , te betalen een bedrag van
+
+€ 3.231,- (zegge: drieduizend tweehonderdeenendertig euro)
+
+, bestaande uit € 2.731,- aan materiële schade en € 500,- aan immateriële schade, te vermeerderen met de wettelijke rente hierover vanaf 12 april 2022 tot aan de dag der algehele voldoening;
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+legt aan de verdachte
+
+de maatregel tot schadevergoeding
+
+op, inhoudende de verplichting aan de staat ten behoeve van [slachtoffer08] te betalen
+
+€ 3.231,-
+
+(hoofdsom), vermeerderd met de wettelijke rente vanaf 12 april 2022 tot aan de dag van de algehele voldoening; bepaalt dat indien volledig verhaal van de hoofdsom van € 3.231,- niet mogelijk blijkt,
+
+gijzeling
+
+kan worden toegepast voor de duur van
+
+42 dagen
+
+; de toepassing van de gijzeling heft de betalingsverplichting niet op;
+
+verstaat dat betaling aan de benadeelde partij, waaronder begrepen betaling door zijn mededader, tevens geldt als betaling aan de staat ten behoeve van de benadeelde partij en omgekeerd;
+
+veroordeelt de verdachte, hoofdelijk met diens mededader, des dat de een betalende de ander zal zijn bevrijd, om tegen behoorlijk bewijs van kwijting aan de benadeelde partij [slachtoffer09] , te betalen een bedrag van
+
+€ 2.060,- (zegge: tweeduizend zestig euro),
+
+bestaande uit
+
+€ 1.060,- aan materiële schade en € 1.000,- aan immateriële schade, te vermeerderen met de wettelijke rente hierover vanaf 22 april 2022 tot aan de dag der algehele voldoening;
+
+veroordeelt de verdachte in de proceskosten door de benadeelde partij gemaakt en in de kosten ten behoeve van de tenuitvoerlegging nog te maken, tot op heden begroot op nihil;
+
+legt aan de verdachte
+
+de maatregel tot schadevergoeding
+
+op, inhoudende de verplichting aan de staat ten behoeve van [slachtoffer09] te betalen
+
+€ 2.060,-
+
+(hoofdsom), vermeerderd met de wettelijke rente vanaf 22 april 2022 tot aan de dag van de algehele voldoening; bepaalt dat indien volledig verhaal van de hoofdsom van € 2.060,- niet mogelijk blijkt
+
+, gijzeling
+
+kan worden toegepast voor de duur van
+
+30 dagen
+
+; de toepassing van de gijzeling heft de betalingsverplichting niet op;
+
+verstaat dat betaling aan de benadeelde partij, waaronder begrepen betaling door haar mededader, tevens geldt als betaling aan de staat ten behoeve van de benadeelde partij en omgekeerd.
+
+Dit vonnis is gewezen door:
+
+mr. H.J. de Kraker, voorzitter,
+
+mrs. J.M.L. van Mulbregt en C.G. van de Grampel, rechters,
+
+in tegenwoordigheid van mr. C. van Wingerden, griffier,
+
+en uitgesproken op de openbare terechtzitting op de datum die in de kop van dit vonnis is vermeld.
+
+Bijlage I
+
+Tekst tenlastelegging
+
+Aan de verdachte wordt ten laste gelegd dat
+
+1
+
+zij op of omstreeks 6 juni 2022 te Maassluis,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres02] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+- een of meerdere sieraden, in elk geval enig(e) goed(eren), dat/die geheel of ten
+
+dele aan [slachtoffer01] (geboren op [geboortedatum01] 1930), in elk geval aan een ander dan aan
+
+verdachte en/of haar mededader, toebehoorde(n) en/of
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+2
+
+zij op of omstreeks 21 maart 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres03] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een hoeveelheid geld, althans enig geldbedrag,
+
+dat/die geheel of ten dele aan [slachtoffer02] (geboren op [geboortedatum02] 1941), in elk geval
+
+aan een ander dan aan verdachte en/of haar mededader, toebehoorde(n)
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+3
+
+zij op of omstreeks 23 maart 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres04] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een hoeveelheid geld, althans enig geldbedrag,
+
+dat/die geheel of ten dele aan [slachtoffer03] (geboren op [geboortedatum03] 1942), in elk
+
+geval aan een ander dan aan verdachte en/of haar mededader, toebehoorde(n)
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling T-Zorg”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+4
+
+zij op of omstreeks 31 maart 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres05] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een hoeveelheid geld, althans enig geldbedrag,
+
+dat/die geheel of ten dele aan [slachtoffer04] (geboren op [geboortedatum04] 1933), in elk geval
+
+aan een ander dan aan verdachte en/of haar mededader, toebehoorde(n)
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van de gemeente en/of een medewerker
+
+van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+5
+
+zij op of omstreeks 2 april 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres06] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een of meerdere besteksets (van het merk Keltum Pleet en/of Christofle), in elk
+
+geval enig(e) goed(eren), dat/die geheel of ten dele aan [slachtoffer05] (geboren op [geboortedatum05]
+
+1935), in elk geval aan een ander dan aan verdachte en/of haar
+
+mededader, toebehoorde(n),
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+6
+
+zij op of omstreeks 2 april 2022 te Rotterdam,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres07] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een geldbedrag van (ongeveer) 50 euro, althans enig geldbedrag en/of een of
+
+meerdere bankpassen en/of een of meerdere klantenkaarten,
+
+in elk geval enig(e) goed(eren), dat/die geheel of ten dele aan [slachtoffer06]
+
+(geboren op [geboortedatum06] 1941), in elk geval aan een ander dan aan verdachte en/of
+
+haar mededader, toebehoorde(n),
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+7
+
+zij op of omstreeks 5 april 2022 te Spijkenisse,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres08] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een of meerdere sieraden, in elk geval enig(e) goed(eren), dat/die geheel of ten dele
+
+aan [slachtoffer07] (geboren op [geboortedatum07] 1942), in elk geval aan een ander dan aan
+
+verdachte en/of haar mededader, toebehoorde(n),
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+8
+
+zij op of omstreeks 12 april 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan het [adres09]
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een of meerdere sieraden, in elk geval enig(e) goed(eren), dat/die geheel of ten dele
+
+aan [slachtoffer08] (geboren op [geboortedatum08] 1928), in elk geval aan een ander dan
+
+aan verdachte en/of haar mededader, toebehoorde(n),
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van Zorginstelling “Aafje”, althans een
+
+medewerker van een instelling die zich inzet voor (hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+9
+
+zij op of omstreeks 22 april 2022 te Krimpen aan den IJssel,
+
+tezamen en in vereniging met een ander
+
+in/uit een woning gelegen aan de [adres10] ,
+
+heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen,
+
+een hoeveelheid geld, althans enig geldbedrag en/of een of meerdere sieraden, in
+
+elk geval enig(e) goed(eren), dat/die geheel of ten dele aan [slachtoffer09] , geboren op [geboortedatum09]
+
+1936), in elk geval aan een ander dan aan verdachte en/of haar mededader,
+
+toebehoorde(n),
+
+terwijl verdachte en/of haar mededader zich de toegang tot de plaats van het
+
+misdrijf heeft/hebben verschaft en/of die weg te nemen goederen onder haar/hun
+
+bereik heeft/hebben gebracht door middel van het aannemen van een valse naam
+
+of van een valse hoedanigheid, of door listige kunstgrepen, of door een
+
+samenweefsel van verdichtsels,
+
+door zich voor te doen als een medewerker van een instelling die zich inzet voor
+
+(hulpbehoevende) ouderen;
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht)
+
+10
+
+zij op of omstreeks 23 mei 2022 te Rotterdam,
+
+ter uitvoering van het door verdachte en/of haar mededader voorgenomen misdrijf
+
+om geld en/of (een) goed(eren) van haar/hun gading, in elk geval enig(e)
+
+goed(eren), dat/die geheel of ten dele aan een ander toebehoorde(n), te weten aan
+
+[slachtoffer10] (geboren op [geboortedatum010] 1930), weg te nemen,
+
+met het oogmerk om het zich wederrechtelijk toe te eigenen
+
+- zich heeft voorgedaan als medewerker van Zorginstelling “Aafje”, althans een
+
+instelling die zich inzet voor (hulpbehoevende) ouderen en/of
+
+- ( vervolgens) de kamer/woonruimte van die [slachtoffer10] is binnen gelopen,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid.
+
+(art 310 Wetboek van Strafrecht, art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht, art
+
+311 lid 1 ahf/sub 5 Wetboek van Strafrecht, art 45 lid 1 Wetboek van Strafrecht)
