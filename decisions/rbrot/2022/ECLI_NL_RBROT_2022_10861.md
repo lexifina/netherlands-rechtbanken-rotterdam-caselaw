@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:10861"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0009", "AR-Updates.nl 2023-0119", "VAAN-AR-Updates.nl 2023-0119"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0009", "AR-Updates.nl 2023-0119", "VAAN-AR-Updates.nl 2023-0119", "PR-Updates.nl 2023-0009"]
 ---
 
 # ECLI:NL:RBROT:2022:10861 Rechtbank Rotterdam , 01-12-2022 / 10121004 HA VERZ 22-81
