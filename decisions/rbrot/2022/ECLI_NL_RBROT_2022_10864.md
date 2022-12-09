@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:10864"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0010", "AR-Updates.nl 2022-1434", "PJ 2023/6 met annotatie van E. Lutjens", "Sdu Nieuws Arbeidsrecht 2023/10", "VAAN-AR-Updates.nl 2022-1434"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0010", "AR-Updates.nl 2022-1434", "PJ 2023/6 met annotatie van E. Lutjens", "Sdu Nieuws Arbeidsrecht 2023/10", "VAAN-AR-Updates.nl 2022-1434", "PR-Updates.nl 2023-0010"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:136"]]
 ---
 
