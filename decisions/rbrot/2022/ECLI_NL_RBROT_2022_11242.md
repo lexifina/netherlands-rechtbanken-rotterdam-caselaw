@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2022:11242"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0008"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0008", "PR-Updates.nl 2023-0008"]
 ---
 
 # ECLI:NL:RBROT:2022:11242 Rechtbank Rotterdam , 28-12-2022 / C/10/637097 / HA ZA 22-347
