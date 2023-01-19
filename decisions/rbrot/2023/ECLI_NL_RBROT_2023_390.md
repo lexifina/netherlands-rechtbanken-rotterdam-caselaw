@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:390"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0132", "VAAN-AR-Updates.nl 2023-0132"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2084"]]
 ---
 
 # ECLI:NL:RBROT:2023:390 Rechtbank Rotterdam , 19-01-2023 / 4908758
