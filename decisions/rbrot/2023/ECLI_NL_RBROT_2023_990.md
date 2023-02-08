@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:990"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4856, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBROT:2023:990 Rechtbank Rotterdam , 08-02-2023 / ROT 22/6254, 22/6255, 23/403 en 23/404
