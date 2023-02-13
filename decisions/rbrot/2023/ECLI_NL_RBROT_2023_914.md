@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:914"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0030", "JOR 2023/105 met annotatie van mr. A. Menken", "PJ 2023/39 met annotatie van S.H. Kuiper"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0030", "JOR 2023/105 met annotatie van mr. A. Menken", "PJ 2023/39 met annotatie van S.H. Kuiper", "PR-Updates.nl 2023-0030"]
 ---
 
 # ECLI:NL:RBROT:2023:914 Rechtbank Rotterdam , 13-02-2023 / ROT 22/883 en ROT 22/884
