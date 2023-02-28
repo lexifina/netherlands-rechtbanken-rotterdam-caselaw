@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2055"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0067"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0067", "PR-Updates.nl 2023-0067"]
 ---
 
 # ECLI:NL:RBROT:2023:2055 Rechtbank Rotterdam , 28-02-2023 / C/10/403211 / F1 RK 12-2032 en C/10/413382 / F1 RK 12-4170
