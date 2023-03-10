@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2213"
-published_in: ["Rechtspraak.nl", "PJ 2023/61 met annotatie van B. Degelink", "PR-Updates.nl PR-2023-0104"]
+published_in: ["Rechtspraak.nl", "PJ 2023/61 met annotatie van B. Degelink", "PR-Updates.nl PR-2023-0104", "PR-Updates.nl 2023-0104"]
 ---
 
 # ECLI:NL:RBROT:2023:2213 Rechtbank Rotterdam , 10-03-2023 / ROT 22/5457 en ROT 22/4590
