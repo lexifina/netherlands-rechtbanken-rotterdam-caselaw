@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:2603"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0411", "PR-Updates.nl PR-2023-0052", "PJ 2023/50", "VAAN-AR-Updates.nl 2023-0411"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0411", "PR-Updates.nl PR-2023-0052", "PJ 2023/50", "VAAN-AR-Updates.nl 2023-0411", "PR-Updates.nl 2023-0052"]
 ---
 
 # ECLI:NL:RBROT:2023:2603 Rechtbank Rotterdam , 24-03-2023 / 10193378
