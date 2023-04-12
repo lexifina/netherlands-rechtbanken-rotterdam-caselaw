@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3109"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0062"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0062", "PR-Updates.nl 2023-0062"]
 ---
 
 # ECLI:NL:RBROT:2023:3109 Rechtbank Rotterdam , 12-04-2023 / C/10/654327 / KG ZA 23-201
