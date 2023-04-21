@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3217"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0520", "PR-Updates.nl PR-2023-0063", "JAR 2023/171 met annotatie van mr. B.M.C. Stenden, mr. L.S. Rozema", "VAAN-AR-Updates.nl 2023-0520"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0520", "PR-Updates.nl PR-2023-0063", "JAR 2023/171 met annotatie van mr. B.M.C. Stenden, mr. L.S. Rozema", "VAAN-AR-Updates.nl 2023-0520", "PR-Updates.nl 2023-0063"]
 ---
 
 # ECLI:NL:RBROT:2023:3217 Rechtbank Rotterdam , 21-04-2023 / 9798001
