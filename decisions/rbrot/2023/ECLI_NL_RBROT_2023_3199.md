@@ -1,0 +1,1253 @@
+---
+ecli: "ECLI:NL:RBROT:2023:3199"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "71-117679-22"
+decided: "2023-04-21"
+published: "2023-04-18"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3199"
+published_in: ["Rechtspraak.nl", "NJFS 2023/183", "UDH:TvSO/17838 met annotatie van mr. W.J. Morra"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:1014, Overig"]]
+---
+
+# ECLI:NL:RBROT:2023:3199 Rechtbank Rotterdam , 21-04-2023 / 71-117679-22
+
+## Inhoudsindicatie
+
+Vonnis in de zaak Tyrus waarin - onder meer - twee Haagse wethouders werden vervolgd: De verdachte wordt vrijgesproken van alle verdenkingen. Die verdenkingen waren 1) lidmaatschap van een criminele organisatie, 2) en 3) passieve ambtelijke omkoping, 4) schending van het ambtsgeheim, 5) meineed en 6) mensensmokkel/tewerkstellen illegale vreemdeling. De rechtbank motiveert deze vrijspraken uitgebreid. De motivering van de vrijspraak van de belangrijkste eerste drie verdenkingen komt in het kort op het volgende neer.
+
+De ondernemers in deze zaak hebben partijdonaties van (alles bij elkaar) €100.659,33 aan de politieke partij Hart voor Den Haag gedaan. Een eerste constatering in de zaak was dat deze partijdonaties op zichzelf géén gift zijn aan de ambtenaren, maar een gift aan de politieke partij. Via de partijdonaties is er misschien wel iets van niet-geldelijke waarde van de ondernemers doorgesijpeld naar de ambtenaren. Een goed gefinancierde verkiezingscampagne leidt wellicht tot meer bekendheid, status en trotse gevoelens. Deze doorgesijpelde waarde is niet te begroten, laat staan dat kan worden vastgesteld dat de waarde substantieel was. Met de beste wil van de wereld kan niet worden vastgesteld dat, en zo ja, in hoeverre, de positie van de ambtenaren één op één door de partijdonaties is verbeterd.
+
+Uit de partijdonaties kan geen kwade bedoeling van de gevers worden afgeleid. Sterker nog: een partijdonatie wordt in principe juist gedaan met simpel gezegd een goede bedoeling.
+
+Tegen deze achtergrond moest de achterkant van de tenlastegelegde ambtelijke omkopingen wel héél evident wijzen op een kwade bedoeling van de gever(s). Een uitgebreide bespreking van alle ten laste gelegde tegenprestaties heeft het beeld echter niet doen kantelen en van kwade bedoelingen van de ondernemers is dus geen sprake geweest.
+
+## Uitspraak
+
+RECHTBANK ROTTERDAM
+
+Team 1
+
+Parketnummer: 71-117679-22
+
+Datum uitspraak: 21 april 2023
+
+Tegenspraak
+
+Vonnis van de meervoudige kamer in de strafzaak tegen de verdachte:
+
+[verdachte01] ,
+
+geboren te [geboorteplaats01] op [geboortedatum01] 1976, ingeschreven op het adres [adres01] ,
+
+[postcode01] te [plaats01] .
+
+Advocaten van de verdachte: mrs. J.P. Plasman en J.L. L’Homme, advocaten te Amsterdam.
+
+Officieren van justitie: mrs. J.F. de Boer en S. Sleeswijk-Visser.
+
+Onderzoek op de zitting
+
+De zaak stond op 14 oktober 2022 voor het eerst op zitting voor regievoering. De inhoudelijke behandeling van de zaak vond plaats op 23, 24, 26, 30 en 31 januari, 1, 6, 7, 8 en 9 februari en 7 maart 2023. Op 21 april 2023 werd het onderzoek op de zitting gesloten.
+
+Inhoudsopgave vonnishoofdstukken
+
+Hoofdstuk 1. Beschuldiging in de tenlastelegging
+
+Hoofdstuk 2. Vooropstellingen bij de bewijswaardering
+
+Hoofdstuk 3. Bewijswaardering feiten 1, 2 en 3 ambtelijke omkoping en criminele organisatie
+
+Hoofdstuk 4. Bewijswaardering feit 4 schending geheimhoudingsplicht
+
+Hoofdstuk 5. Bewijswaardering feit 5 meineed
+
+Hoofdstuk 6. Bewijswaardering feit 6 mensensmokkel/tewerkstellen illegale vreemdeling
+
+Hoofdstuk 7. Beslissing over het beslag
+
+Hoofdstuk 8. Beslissingen in het kort en ondertekening
+
+1. Beschuldiging in de tenlastelegging
+
+1.1.
+
+Kern van de beschuldiging
+
+Kort samengevat wordt de verdachte beschuldigd van 1) lidmaatschap van een criminele organisatie, 2) en 3) passieve ambtelijke omkoping, 4) schending van het ambtsgeheim,
+
+5) meineed en 6) mensensmokkel/tewerkstellen illegale vreemdeling. Hieronder is de beschuldiging integraal weergegeven.
+
+1.2.
+
+Integrale beschuldiging
+
+Feit 1
+
+hij op één of meerdere tijdstippen in of omstreeks de periode van 1 mei 2017 tot en met
+
+1 oktober 2019 te Den Haag, althans (elders) in Nederland, tezamen en in vereniging met (een) ander(en), heeft deelgenomen aan een of meer organisatie(s), bestaande uit hem, verdachte, en/of [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of [medeverdachte04] en/of [medeverdachte05] en/of [medeverdachte06] en/of [medeverdachte07] en/of één of meer andere perso(o)n(en), welke organisatie(s) tot oogmerk had(den) het plegen van misdrijven, te weten:
+
+(poging tot) omkoping van (een) ambtena(a)r(en) (art. 177 Wetboek van Strafrecht) en/of
+
+schending van geheimhoudingsplicht (art. 272 Wetboek van Strafrecht) en/of
+
+passieve ambtelijke omkoping (art. 363 Wetboek van Strafrecht) en/of
+
+omkoping van kiezers en/of gemachtigde kiezers en/of (een) overtreding(en) van de Kieswet (art. 126 Wetboek van Strafrecht en/of art. Z3 Kieswet).
+
+Feit 2
+
+hij op één of meerdere tijdstip(pen) in of omstreeks de periode van 1 mei 2017 tot en met
+
+1 oktober 2019 te Den Haag en/of elders in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, als ambtenaar (te weten als wethouder dan wel gemeenteraadslid zijnde een lid van een algemeen vertegenwoordigend orgaan), één of meer gift(en) en/of belofte(n) en/of dienst(en), te weten - zakelijk weergegeven -:
+
+één of meerdere (girale) geldbedrag(en) (gestort op bankrekeningnummer [iban_nummer01] ten name van Vereniging Groep [verdachte01] ) (tot een bedrag) van € 20.000,-, althans enig(e) geldbedrag(en)(gedaan door [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [naam C.V01] C.V. (I t/m VII) en/of [naam C.V02] C.V. en/of [bedrijf01] B.V.) en/of
+
+één of meerdere (girale) geldbedrag(en) (gestort op bankrekeningnummer [iban_nummer02] ten name van [stichting01] ) (tot een bedrag) van € 32.500,-, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [naam C.V01] C.V. (I t/m VII) en/of [naam C.V02] C.V. en/of [bedrijf01] B.V. en/of [bedrijf02] B.V. en/of [bedrijf03] B.V. en/of [bedrijf04] B.V. en/of
+
+de betaling van de factuur voor het maken van een website voor [groep01] ter hoogte van € 6.050,-, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte02] en/of [medeverdachte01] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [bedrijf05] B.V. en/of [bedrijf06] B.V.) en/of
+
+de betaling van de factu(u)r(en) van regioTV voor de uitzending van een tv commercial en/of diverse promotieactiviteiten, ter hoogte van € 5.057,80, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte02] en/of [medeverdachte01] en/of (een) aan hem/hen gelieerde vennootschap(pen) te weten [bedrijf05] B.V. en/of [bedrijf06] B.V. en/of
+
+een boottocht (aangeboden door [medeverdachte03] ) op of omstreeks 25 juli 2019, gevolgd een etentje bij een restaurant (genaamd ‘ [horecagelegenheid01] ’ te Hoorn) (betaald door [medeverdachte03] en/of [bedrijf01] B.V.) en/of
+
+een boottocht (aangeboden door [medeverdachte03] ) op of omstreeks 23 juli 2018, gevolgd door een etentje bij een restaurant (genaamd ‘ [horecagelegenheid02] ’ te Muiden) (betaald door [medeverdachte03] en/of [bedrijf01] B.V.) en/of
+
+de (tijdelijke) terbeschikkingstelling van een bouwkraan (geregeld en/of (vooraf) betaald en/of gedaan door [medeverdachte02] en/of [bedrijf06] B.V.)
+
+A) heeft aangenomen, terwijl hij, verdachte en/of zijn medeverdachte(n) (telkens)
+
+wist(en), althans redelijkerwijs moest(en) vermoeden dat deze gift(en) en/of deze
+
+belofte(n) en/of deze dienst(en) hem/hen werd(en) gedaan en/of verleend en/of
+
+aangeboden,
+
+(1°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun bediening iets te doen en/of na te laten en/of
+
+(2°) (telkens) ten gevolge en/of naar aanleiding van hetgeen door hem, verdachte,
+
+en/of zijn medeverdachte(n) in zijn/hun huidige en/of vroegere bediening is gedaan en/of nagelaten en/of
+
+B) heeft gevraagd,
+
+(3°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun bediening iets te doen en/of na te laten en/of
+
+(4°) (telkens) ten gevolge en/of naar aanleiding van hetgeen door hem, verdachte,
+
+en/of zijn medeverdachte(n) in zijn/hun huidige en/of vroegere bediening is gedaan en/of nagelaten,
+
+te weten (telkens) - zakelijk weergegeven -:
+
+het laten ontstaan en/of in stand houden en/of onderhouden en/of verbeteren van een zodanige relatie tussen hem, verdachte, en/of zijn medeverdachte(n) enerzijds en die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) anderzijds, dat hij, verdachte, en/of zijn medeverdachte(n) tegenover die (rechts)perso(o)n(en) voornoemd niet meer zo neutraal en/of zo vrij en/of onbevooroordeeld en/of onafhankelijk en/of objectief was/waren/kon(den) zijn bij het nemen van beslissingen in relatie tot voornoemde (rechts)perso(o)n(en) als in het geval dat hij, verdachte, en/of zijn medeverdachte(n) die gift(en) en/of belofte(n) en/of dienst(en) niet had/hadden aangenomen en/of gevraagd en/of
+
+geven van een voorkeursbehandeling aan die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) bij het nemen/maken van (een) (politieke) keuze(s) en/of beslissing(en) en/of het doen/indienen van (politieke) voorstellen en/of
+
+het begunstigen van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het verstrekken en/of delen van geheime en/of vertrouwelijke en/of interne/gemeentelijke en/of niet openbare en/of concurrentiegevoelige informatie aan/met die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het onthouden en/of achterhouden van informatie door verdachte en/zijn medeverdachte(n) ten aanzien van (een) perso(o)n(en) die betrokken zijn bij en/of invloed uitoefenen op (de) besluitvormingsprocedure(s) (binnen de gemeente Den Haag) en/of
+
+het al dan niet op (uitdrukkelijk) verzoek van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) ten gunste van die (rechts)perso(o)n(en) invloed uitoefenen op het (huisvestings-, woningbouw-, en/of vergunningen-) beleid van de gemeente Den Haag en/of
+
+ten gunste van die (rechts)perso(o)n(en) beïnvloeden van een of meer perso(o)n(en), gelieerd aan (een project van) of werkzaam bij de gemeente Den Haag op dusdanige wijze dat er invloed werd verkregen op (een) ander beleidsterrein(en) en/of project(en) dan die waarvoor verdachte en/of zijn medeverdachte(n) als portefeuillehouder verantwoordelijk waren zulks met het oogmerk om het/de belang(en) van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) te dienen en/of
+
+het aanwezig zijn bij door en/of namens die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] georganiseerde ontmoetingen en/of besprekingen met betrekking tot de (zakelijke) belangen van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde rechts)perso(o)n(en)
+
+en/of
+
+hij op één of meerdere tijdstip(pen) in of omstreeks de periode van 1 mei 2017 tot en met
+
+1 oktober 2019 te Den Haag en/of elders in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, in het vooruitzicht van een aanstelling als ambtenaar (te weten als wethouder), één of meer gift(en) en/of belofte(n) en/of dienst(en), te weten - zakelijk weergegeven -:
+
+één of meerdere (girale) geldbedrag(en) (gestort op bankrekeningnummer [iban_nummer01] ten name van Vereniging Groep [verdachte01] ) (tot een bedrag) van € 20.000,-, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [naam C.V01] C.V. (I t/m VII) en/of [naam C.V02] C.V. en/of [bedrijf01] B.V.) en/of
+
+één of meerdere (girale) geldbedrag(en) (gestort op bankrekeningnummer [iban_nummer02] ten name van [stichting01] ) (tot een bedrag) van € 32.500,-, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [naam C.V01] C.V. (I t/m VII) en/of [naam C.V02] C.V. en/of [bedrijf01] B.V. en/of [bedrijf02] B.V. en/of [bedrijf03] B.V. en/of [bedrijf04] B.V.) en/of
+
+de betaling van de factuur voor het maken van een website voor [groep01] ter hoogte van € 6.050,-, althans enig(e) geldbedrag(en) (gedaan door [medeverdachte02] en/of [medeverdachte01] en/of (een) aan hem/hen gelieerde vennootschap(pen), te weten [bedrijf05] B.V. en/of [bedrijf06] B.V.) en/of
+
+de betaling van de factu(u)r(en) van regioTV voor de uitzending van een tv commercial en/of diverse promotieactiviteiten, ter hoogte van € 5.057,80, althans enig(e) geldbedrag(en)(gedaan door [medeverdachte02] en/of [medeverdachte01] en/of (een) aan hem/hen gelieerde vennootschap(pen) te weten [bedrijf05] B.V. en/of [bedrijf06] B.V.)
+
+A) heeft aangenomen, terwijl hij, verdachte en/of zijn medeverdachte(n) (telkens)
+
+wist(en), althans redelijkerwijs moest(en) vermoeden dat deze gift(en) en/of deze
+
+belofte(n) en/of deze dienst(en) hem/hen werd(en) gedaan en/of verleend en/of
+
+aangeboden,
+
+(1°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun (toekomstige) bediening iets te doen en/of na te laten
+
+B) heeft gevraagd,
+
+(3°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun (toekomstige) bediening iets te doen en/of na te laten
+
+te weten (telkens) - zakelijk weergegeven -:
+
+het laten ontstaan en/of in stand houden en/of onderhouden en/of verbeteren van een zodanige relatie tussen hem, verdachte, en/of zijn medeverdachte(n) enerzijds en die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) anderzijds, dat hij, verdachte, en/of zijn medeverdachte(n) tegenover die (rechts)perso(o)n(en) voornoemd niet meer zo neutraal en/of zo vrij en/of onbevooroordeeld en/of onafhankelijk en/of objectief was/waren/kon(den) zijn bij het nemen van beslissingen in relatie tot voornoemde (rechts)perso(o)n(en) als in het geval dat hij, verdachte, en/of zijn medeverdachte(n) die gift(en) en/of belofte(n) en/of dienst(en) niet had/hadden aangenomen en/of gevraagd en/of
+
+het geven van een voorkeursbehandeling aan die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) bij het nemen/maken van (een) (politieke) keuze(s) en/of beslissing(en) en/of het doen/indienen van (politieke) voorstellen en/of
+
+het begunstigen van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het verstrekken en/of delen van geheime en/of vertrouwelijke en/of interne/gemeentelijke en/of niet openbare en/of concurrentiegevoelige informatie aan/met die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het onthouden en/of achterhouden van informatie door verdachte en/zijn medeverdachte(n) ten aanzien van (een) perso(o)n(en) die betrokken zijn bij en/of invloed uitoefenen op (de) besluitvormingsprocedure(s) (binnen de gemeente Den Haag) en/of
+
+het al dan niet op (uitdrukkelijk) verzoek van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) ten gunste van die (rechts)perso(o)n(en) invloed uitoefenen op het (huisvestings-, woningbouw-, en/of vergunningen-) beleid van de gemeente Den Haag en/of
+
+ten gunste van die (rechts)perso(o)n(en) beïnvloeden van een of meer perso(o)n(en), gelieerd aan (een project van) of werkzaam bij de gemeente Den Haag op dusdanige wijze dat er invloed werd verkregen op (een) ander beleidsterrein(en) en/of project(en) dan die waarvoor verdachte en/of zijn medeverdachte(n) als portefeuillehouder verantwoordelijk waren zulks met het oogmerk om het/de belang(en) van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde vennootschap(pen) te dienen en/of
+
+het aanwezig zijn bij door en/of namens die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] georganiseerde ontmoetingen en/of besprekingen met betrekking tot de (zakelijke) belangen van die [medeverdachte01] en/of [medeverdachte02] en/of [medeverdachte03] en/of (een) aan hem/hen gelieerde rechts)perso(o)n(en),
+
+terwijl die aanstelling als ambtenaar (te weten als wethouder) is gevolgd.
+
+Feit 3
+
+hij op één of meerdere tijdstip(pen) in of omstreeks de periode van 1 mei 2017 tot en met
+
+1 oktober 2019 te Den Haag, althans in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, als ambtenaar (te weten als wethouder dan wel gemeenteraadslid zijnde een lid van een algemeen vertegenwoordigend orgaan), één of meer gift(en) en/of belofte(n) en/of dienst(en), te weten – zakelijk weergegeven -:
+
+de betaling van een of meerdere factu(u)r(en) voor (een) advertentie(s) in lokale kranten en/of de kosten voor de aanschaf van en/of reparatie(s) aan een campagnebus voor de verkiezingscampagne 2018 van [groep01] ter hoogte van € 31.859,33 en/of € 3.455,- en/of € 7.750,- en/of 6.413,-, althans enig(e) geldbedrag(en) (gedaan door en/of namens [medeverdachte05] en/of [medeverdachte06] en/of [bedrijf07] B.V.) en/of
+
+de (mede)financiering van één of meer (verkiezings-)bijeenkomst(en) van [groep01] in zalencentrum [zalencentrum01] en/of de betaling van eten en drinken voor deelnemers aan één of meer (verkiezings)bijeenkomst(en) van [groep01] in zalencentrum [zalencentrum01] en/of
+
+(delen van) een hardhouten vloer (ter waarde van (minimaal) € 70 per m2) en/of
+
+(de betaling van) een etentje bij een restaurant (genaamd ‘ [horecagelegenheid03] ’) en/of
+
+het verwerven van een of meerdere stempas(sen) en/of (daarbij) één of meerdere volmachtbewij(s)(z)(en) (al dan niet tegen betaling) ten behoeve van het verkrijgen van stemmen (ten behoeve van [groep01] ) en/of toezeggingen, om op hem, verdachte, en/of zijn medeverdachte(n) en/of de politieke partij [groep01] te stemmen bij de Haagse gemeenteraadsverkiezingen van 2018,
+
+A) heeft aangenomen, terwijl hij, verdachte en/of zijn medeverdachte(n) (telkens)
+
+wist(en), althans redelijkerwijs moest(en) vermoeden dat deze gift(en) en/of deze
+
+belofte(n) en/of deze dienst(en) hem/hen werd(en) gedaan en/of verleend en/of
+
+aangeboden,
+
+(1°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen
+
+om, in zijn/hun bediening iets te doen en/of na te laten en/of
+
+(2°) (telkens) ten gevolge en/of naar aanleiding van hetgeen door hem, verdachte,
+
+en/of zijn medeverdachte(n), in zijn/hun huidige en/of vroegere bediening is
+
+gedaan en/of nagelaten en/of
+
+B) heeft gevraagd,
+
+(3°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen
+
+om, in zijn/hun bediening iets te doen en/of na te laten en/of
+
+(4°) (telkens) ten gevolge en/of naar aanleiding van hetgeen door hem, verdachte,
+
+en/of zijn medeverdachte(n), in zijn/hun huidige en/of vroegere bediening is gedaan en/of nagelaten,
+
+te weten (telkens) - zakelijk weergegeven -:
+
+het laten ontstaan en/of in stand houden en/of onderhouden en/of verbeteren van een zodanige relatie tussen hem, verdachte, en/of zijn medeverdachte(n) enerzijds en die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) (te weten onder meer [bedrijf07] B.V.) anderzijds dat hij, verdachte, en/of zijn medeverdachte(n) tegenover die (rechts)perso(o)n(en) voornoemd niet meer zo neutraal en/of zo vrij en/of onbevooroordeeld en/of onafhankelijk en/of objectief was/waren/kon(den) zijn bij het nemen van beslissingen in relatie tot voornoemde (rechts)perso(o)n(en) als in het geval dat hij, verdachte, en/of zijn medeverdachte(n) die gift(en) en/of belofte(n) en/of dienst(en) niet had/hadden aangenomen en/of gevraagd en/of
+
+het geven van een voorkeursbehandeling aan die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het (anders dan om zakelijke redenen) begunstigen van die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hem gelieerde vennootschap(pen) en/of
+
+het verstrekken en/of delen van geheime en/of vertrouwelijke en/of interne/gemeentelijke en/of niet openbare en/of concurrentiegevoelige informatie aan/met die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het ten gunste van [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) invloed uitoefenen op het (huisvestings-, woningbouw- en/of vergunningen-) beleid van de gemeente Den Haag en/of
+
+het aanwezig zijn bij (een of meerdere) door en/of namens die [medeverdachte05] en/of [medeverdachte06] georganiseerde ontmoeting(en)en en/of besprekingen(en) met betrekking tot de (zakelijke) belangen van die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen);
+
+en/of
+
+hij op één of meerdere tijdstip(pen) in of omstreeks de periode van 1 mei 2017 tot en met
+
+1 oktober 2019 te Den Haag en/of elders in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, in het vooruitzicht van een aanstelling als ambtenaar (te weten als wethouder), één of meer gift(en) en/of belofte(n) en/of dienst(en), te weten - zakelijk weergegeven -:
+
+de betaling van een of meerdere factu(u)r(en) voor (een) advertentie(s) in lokale kranten en/of de kosten voor de aanschaf van en/of reparatie(s) aan een campagnebus voor de verkiezingscampagne 2018 van [groep01] ter hoogte van € 31.859,33 en/of € 3.455,- en/of € 7.750,- en/of 6.413,-, althans enig(e) geldbedrag(en) (gedaan door en/of namens [medeverdachte05] en/of [medeverdachte06] en/of [bedrijf07] B.V.) en/of
+
+de (mede)financiering van één of meer (verkiezings-)bijeenkomst(en) van [groep01] in zalencentrum [zalencentrum01] en/of de betaling van eten en drinken voor deelnemers aan één of meer (verkiezings)bijeenkomst(en) van [groep01] in zalencentrum [zalencentrum01] en/of
+
+het verwerven van een of meerdere stempas(sen) en/of (daarbij) één of meerdere volmachtbewij(s)(z)(en) (al dan niet tegen betaling) ten behoeve van het verkrijgen van stemmen (ten behoeve van [groep01] ) en/of toezeggingen, om op hem, verdachte, en/of zijn medeverdachte(n) en/of de politieke partij [groep01] te stemmen bij de Haagse gemeenteraadsverkiezingen van 2018,
+
+A) heeft aangenomen, terwijl hij, verdachte en/of zijn medeverdachte(n) (telkens) wist(en), althans redelijkerwijs moest(en) vermoeden dat deze gift(en) en/of deze
+
+belofte(n) en/of deze dienst(en) hem/hen werd(en) gedaan en/of verleend en/of
+
+aangeboden,
+
+(1°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun (toekomstige) bediening iets te doen en/of na te laten
+
+B) heeft gevraagd,
+
+(3°) (telkens) teneinde hem, verdachte, en/of zijn medeverdachte(n) te bewegen om
+
+in zijn/hun (toekomstige) bediening iets te doen en/of na te laten
+
+te weten (telkens) - zakelijk weergegeven -:
+
+het laten ontstaan en/of in stand houden en/of onderhouden en/of verbeteren van een zodanige relatie tussen hem, verdachte, en/of zijn medeverdachte(n) enerzijds en die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) (te weten onder meer [bedrijf07] B.V.) anderzijds dat hij, verdachte, en/of zijn medeverdachte(n) tegenover die (rechts)perso(o)n(en) voornoemd niet meer zo neutraal en/of zo vrij en/of onbevooroordeeld en/of onafhankelijk en/of objectief was/waren/kon(den) zijn bij het nemen van beslissingen in relatie tot voornoemde (rechts)perso(o)n(en) als in het geval dat hij, verdachte, en/of zijn medeverdachte(n) die gift(en) en/of belofte(n) en/of dienst(en) niet had/hadden aangenomen en/of gevraagd en/of
+
+het geven van een voorkeursbehandeling aan die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het (anders dan om zakelijke redenen) begunstigen van die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hem gelieerde vennootschap(pen) en/of
+
+het verstrekken en/of delen van geheime en/of vertrouwelijke en/of interne/gemeentelijke en/of niet openbare en/of concurrentiegevoelige informatie aan/met die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) en/of
+
+het ten gunste van [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen) invloed uitoefenen op het (huisvestings-, woningbouw- en/of vergunningen-) beleid van de gemeente Den Haag en/of
+
+het aanwezig zijn bij (een of meerdere) door en/of namens die [medeverdachte05] en/of [medeverdachte06] georganiseerde ontmoeting(en)en en/of besprekingen(en) met betrekking tot de (zakelijke) belangen van die [medeverdachte05] en/of [medeverdachte06] en/of (een) aan hem/hen gelieerde vennootschap(pen),
+
+terwijl die aanstelling als ambtenaar (te weten als wethouder) is gevolgd.
+
+Feit 4
+
+hij op één op meerdere tijdstippen in of omstreeks de periode van 29 juni 2018 tot en met 9 juli 2019 te Den Haag, althans in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, één of meermalen, enig geheim waarvan hij, verdachte, en/of zijn medeverdachte(n), wist(en) of redelijkerwijs moest(en) vermoeden dat hij en/of zijn medeverdachte(n) uit hoofde van zijn/hun ambt, beroep en/of enig wettelijk voorschrift, te weten wethouder(s) van de gemeente Den Haag, verplicht was/waren dat geheim te bewaren, (telkens) opzettelijk heeft/hebben geschonden, immers heeft/hebben hij, verdachte en/of zijn medeverdachte(n), vertrouwelijke en/of geheime informatie, te weten:
+
+(delen van) het (concept-)besluit van het college over Onderwijs- en Cultuurcomplex – gebiedsontwikkeling Spuikwartier en/of
+
+het besluit van de Burgemeester en/of de gemeente Den Haag om vijf extra nachtvergunningen voor horecazaken buiten het centrum te verstrekken (vóór de officiële bekendmaking en/of publicatie van dat besluit in het RIS en/of op de website van de gemeente Den Haag) en/of
+
+(de inhoud van) een voorstel van het college van Burgemeester en Wethouders van Den Haag betreffende parkeergarage De Zeeheld en/of het toekennen van de investering voor de aankoop van die parkeergarage en/of de financiering daarvan en/of de opname daarvan in de begroting en de exploitatie van die parkeergarage, die op 9 juli 2019 in de gemeenteraad besproken zou worden,
+
+per emailbericht verstrekt aan [medeverdachte01] en/of [medeverdachte02] en/of (vervolgens) de inhoud daarvan met de [medeverdachte01] en/of [medeverdachte02] en/of één of meer ander(en) besproken en/of
+
+(telefonisch) aan [medeverdachte05] bekendgemaakt en/of per WhatsApp-bericht de link voor het doen van een aanvraag volgens het principe ‘wie het eerst komt, het eerst maalt’ gestuurd aan die [medeverdachte05] (waardoor die [medeverdachte05] eerder over die informatie beschikte dan eventuele andere geïnteresseerden) en/of
+
+(telefonisch) met een journalist van Omroep West gedeeld en/of besproken.
+
+Feit 5
+
+hij op één op meerdere tijdstippen in of omstreeks de periode van 29 maart 2018 tot en met 7 november 2019 te Den Haag, althans in Nederland, (telkens) tijdens de gemeenteraadsvergadering(en) (te weten op 29 maart 2018 en/of 7 juni 2018 en/of
+
+7 november 2019) ter beëdiging als lid van de raad en/of als wethouder van de gemeente Den Haag, zijnde een geval waarin een wettelijk voorschrift een verklaring onder ede vordert of daaraan rechtsgevolgen verbindt, (telkens) mondeling en persoonlijk en opzettelijk (een), geheel of ten dele, valse verklaring(en) onder ede heeft afgelegd, immers heeft hij, verdachte, na voorhouding van de tekst door de voorzitter van de vergadering van de gemeenteraad Den Haag dat hij zweert en/of verklaart en belooft dat hij, om tot lid van de raad en/of tot wethouder benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heeft gegeven of beloofd en (vervolgens), om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heeft aangenomen of zal aannemen en (vervolgens) getrouw zal zijn aan de Grondwet, dat hij de wetten zal nakomen en dat hij zijn plichten als lid van de raad en/of als wethouder naar eer en geweten zal vervullen, gezegd: ‘Zo waarlijk helpe mij God almachtig’ en/of ‘Dat verklaar en beloof ik!’.
+
+Feit 6
+
+hij op één of meerdere tijdstippen in of omstreeks de periode van 1 maart 2019 tot en met
+
+1 oktober 2019 in Den Haag, althans in Nederland, (telkens) [slachtoffer01] , uit winstbejag behulpzaam is geweest bij het zich verschaffen van verblijf in Nederland, dan wel hem daartoe gelegenheid en/of middelen heeft verschaft, immers heeft hij voornoemde persoon arbeid laten verrichten in zijn, verdachtes, woning, terwijl hij wist, dan wel ernstige redenen had te vermoeden dat dat verblijf wederrechtelijk was;
+
+en/of
+
+hij in of omstreeks de periode van 1 maart 2019 tot en met 1 oktober 2019 te Den Haag, althans in Nederland, een ander, te weten [slachtoffer01] , die zich wederrechtelijk toegang tot of verblijf in Nederland had verschaft, krachtens overeenkomst of aanstelling arbeid heeft doen verrichten, terwijl verdachte wist of ernstige redenen had om te vermoeden dat de toegang en/of dat verblijf wederrechtelijk was.
+
+2. Vooropstellingen bij de bewijswaardering
+
+2.1.
+
+Opmaat
+
+In dit hoofdstuk van het vonnis zal als opmaat naar de ‘echte’ bewijswaardering in algemene overwegingen een eerste voorzichtige bewijswaarderingsschets worden gegeven. Daaraan voorafgaand wordt in het kort beschreven wie de verdachte en zijn medeverdachten zijn en wat de belangrijkste verdenkingen tegen hen zijn. Ook wordt de visie van de officier van justitie op het één en ander uiteengezet.
+
+2.2.
+
+Wie is wie?
+
+Uit het (opsporings)onderzoek Tyrus is een megastrafzaak gevolgd. De zaak tegen de verdachte maakt daar deel van uit. De medeverdachten zijn de heren: [medeverdachte04] ,
+
+[medeverdachte05] (hierna: [naam01] ), [medeverdachte06] (hierna: [naam02] ), [medeverdachte01] , [medeverdachte03] en [medeverdachte02] en mevrouw [medeverdachte07] .
+
+De verdachte is de oprichter en naamgever van de Haagse politieke partij [groep01] . Deze partij is opgericht in 2013 en behaalde bij de gemeenteraadsverkiezingen in 2014, met een gezamenlijke lijst met de Ouderen Partij Den Haag, drie zetels. De verdachte is toen gemeenteraadslid geworden. [medeverdachte04] was in die tijd gemeenteraadslid voor D66 en stapte in februari 2017 over naar [groep01] .
+
+Voorafgaand aan de gemeenteraadsverkiezingen in 2018 werd de naam van de politieke partij gewijzigd in [groep01] (hierna: [groep02] ). Na de verkiezingen op 21 maart 2018 werd [groep02] met acht zetels de grootste politieke partij van Den Haag. [groep02] mocht twee wethouders leveren aan het college van burgemeester en wethouders (hierna: het college) en op 7 juni 2018 traden de verdachte en [medeverdachte04] toe tot het college. De verdachte werd beëdigd als wethouder Economie, Sport en Buitenruimte en werd de eerste locoburgemeester van Den Haag. [medeverdachte04] werd beëdigd als wethouder Financiën, Integratie en Stadsdelen.
+
+[medeverdachte05] was een horecaondernemer en eigenaar van Zalencentrum [zalencentrum01] (hierna: de [zalencentrum01] ) in Den Haag. Hij heeft zowel in 2014 als in 2018 als lijstduwer op de lijst [groep02] gestaan. [naam02] is de jongere broer van [medeverdachte05] en werkte als salesmanager bij de [zalencentrum01] . [naam03] is de partner van [naam02] . Zij werd in maart 2018 gemeenteraadslid voor [groep02] .
+
+[medeverdachte01] en [medeverdachte02] zijn projectontwikkelaars. [medeverdachte01] heeft in 2014 het bedrijf [bedrijf06] B.V. mede opgericht en was creatief directeur daarvan. [medeverdachte02] heeft sinds 2017 een onderneming genaamd [bedrijf05] B.V. In juli 2019 is [medeverdachte02] algemeen directeur geworden van [bedrijf06] B.V. Verder is [medeverdachte02] in 2019 lid geweest van het bestuur van [groep02] .
+
+[medeverdachte03] is een vastgoedbeheerder en -belegger en heeft diverse vastgoedbedrijven. Hij is daarnaast aandeelhouder van [bedrijf06] B.V.
+
+De verdachte en [medeverdachte04] zullen hierna ook gezamenlijk worden aangeduid als: de ambtenaren. [medeverdachte05] , [naam02] , [medeverdachte01] , [medeverdachte02] en [medeverdachte03] zullen hierna ook gezamenlijk worden aangeduid als: de ondernemers.
+
+2.3.
+
+De belangrijkste verdenkingen
+
+Aan de verdachte en ook aan zijn medeverdachten wordt - onder meer - de deelname aan een criminele organisatie tenlastegelegd rond de politieke partij [groep02] . De verdachte en zes van de zeven medeverdachten wordt daarnaast passieve of actieve ambtelijke omkoping van de ambtenaren tenlastegelegd. Deze twee verdenkingen hangen sterk samen, omdat bij de deelname aan de criminele organisatie de ambtelijke omkopingen het kernverwijt vormen.
+
+Vanwege deze samenhang start het volgende hoofdstuk met de bespreking van de bewijswaardering van de ambtelijke omkoping en de criminele organisatie gezamenlijk. De officier van justitie heeft bij requisitoir uitgelegd dat deelname aan een criminele organisatie is tenlastegelegd gelet op het beeld dat het gehele dossier laat zien.
+
+De rechtbank zal daarom bij de bespreking van de ambtelijke omkopingen nauwelijks differentiëren in de vonnissen van de verdachte en zijn medeverdachten, ook al verschillen de tenlasteleggingen op onderdelen. Ook als (onderdelen van) een zaaksdossier niet expliciet ten grondslag lijk(t)(en) te zijn gelegd aan de tenlastelegging, kan de inhoud daarvan in de visie van de officier van justitie toch bijdragen aan het bewijs van de criminele organisatie. Bespreking van het dossier in brede zin is dus voor ieder van de verdachten relevant.
+
+Daarna zal in de daaropvolgende hoofdstukken de bewijswaardering van de andere tenlastegelegde feiten worden besproken.
+
+2.4.
+
+Standpunt van de officier van justitie
+
+Door de officier van justitie is aangevoerd dat de ambtelijke omkoping zowel als de deelname aan een criminele organisatie kan worden bewezenverklaard. De officier van justitie heeft op basis daarvan gevorderd dat de verdachte wordt veroordeeld tot een gevangenisstraf van 22 maanden en een geldboete van € 8.500,--. Daarnaast moet de verdachte worden ontzet van het recht om een bestuurlijk ambt te bekleden in rijks-, provinciaal- of gemeentelijk verband dan wel in enige andere organisatie met overheidsstatus, voor de duur van 4 jaar. In een kleine 200 pagina’s tellend requisitoir dat is gebaseerd op een dossier van ruim 15.000 pagina’s is dit standpunt uitvoerig onderbouwd. Deze onderbouwing is grotendeels feitelijk van aard en vindt haar basis in processen-verbaal van onderzoek, inbeslaggenomen documenten, verhoren van verdachten en getuigen, afgeluisterde vertrouwelijke communicatie en - voor een belangrijk deel - in (afgetapte) telefoongesprekken, sms-berichten, WhatsAppberichten en inbeslaggenomen e-mailverkeer van en tussen de diverse verdachten.
+
+In dit standpunt ligt een, op zichzelf goed te begrijpen en te volgen, visie op de gebeurtenissen in de Haagse gemeentepolitiek in de periode van 1 mei 2017 tot 1 oktober 2019 besloten. Meer in het bijzonder zijn dit de gebeurtenissen in de periode rond de verkiezingscampagne van [groep02] in 2018 en de eerste periode van deelname van [groep02] aan het college. De visie van de officier van justitie kan het beste worden gekenmerkt als een rechttoe rechtaan-visie op de feiten en omstandigheden, waarin de voornamelijk achteraf aangetroffen communicatie en documenten door een corruptiebril worden bezien.
+
+2.5.
+
+Zitting
+
+Tijdens het onderzoek op de zitting heeft de rechtbank met vragen en ‘voorlopige oordelen’ procespartijen uitgenodigd en uitgedaagd om in een open debat de feiten en omstandigheden in de zaak te duiden en van commentaar te voorzien. Dit was niet zonder reden en had als belangrijk doel om dichterbij de juiste interpretatie van de feiten en omstandigheden te komen om zo de waarheidsvinding te dienen. In strafzaken waar de eerste vraag niet is wié een strafbaar feit heeft gepleegd, maar begint bij de vraag óf er een strafbaar feit is gepleegd, komt het bij de bewijsvraag nog sterker aan op uitleg, verduidelijking en interpretatie van de feiten en omstandigheden. Daarbij is goede tegenspraak van groot belang. Alle procespartijen hebben daaraan daadwerkelijk bijgedragen.
+
+2.6.
+
+Algemene eerste beoordeling
+
+De rechtbank zal de rechttoe rechtaan-visie van de officier van justitie op het bewijs van de ambtelijke omkoping en de criminele organisatie niet overnemen, omdat deze naar het oordeel van de rechtbank te eenzijdig is, hier en daar zelfs rigide en echt onvoldoende oog heeft voor de lezing van de verdachten van de gebeurtenissen.
+
+De rechtbank zal bij háár bewijswaardering uitgaan van een vrijere, meer reële interpretatie van de feiten en omstandigheden binnen de bredere context die het procesdossier en met name de zitting hebben geboden. Dat uitgangspunt past goed in een ambtelijke omkopingszaak, die in het algemeen naar zijn aard en achtergrond bewijsrechtelijk niet gemakkelijk is. Deze zaak vormt op dat punt zeker geen uitzondering. Daar komt nog bij dat in deze zaak in de tenlasteleggingen diverse partijdonaties aan een startende lokale politieke partij centraal zijn gesteld als uitgangspunt van de ambtelijke omkopingen. Dat is voor het eerst en betreft - mede daarom - een juridisch onontgonnen en ook wel hobbelig terrein. De rechtbank vindt het daarom van belang dat er ook met een staatsrechtelijke - hier en daar zelfs voorzichtig politieke, of beter gezegd rechtsstatelijke - bril wordt gekeken naar de feiten en omstandigheden. Daarnaast is nadrukkelijk aandacht voor de door de verdachten - op de zitting - individueel als ook in zekere zin in collectief gegeven lezing van de feiten en omstandigheden. Aandacht die in het opsporingsonderzoek en het vervolg daarop niet altijd op de voorgrond heeft gestaan.
+
+Al deze bewijswaarderingsfactoren spelen een rol in vrijwel alle bestanddelen van de achter de tenlastelegging schuilgaande delictsomschrijvingen, net als bij de daar weer op ingrijpende elementen van schuld en wederrechtelijkheid.
+
+2.7.
+
+Conclusie
+
+In dit hoofdstuk is een licht kritische bewijswaarderingsschets gepresenteerd en is kort aangegeven hoe de rechtbank de bewijswaardering over de ambtelijke omkoping en in het verlengde daarvan de deelname aan de criminele organisatie zal opzetten.
+
+3. Bewijswaardering feiten 1, 2 en 3 ambtelijke omkoping en criminele organisatie
+
+3.1.
+
+Inleiding
+
+Dit bewijswaarderingshoofdstuk start met de bespreking van de bewijsvraag over de ambtelijke omkoping en de criminele organisatie gezamenlijk.
+
+3.2.
+
+Leeswijzer
+
+§ 3.1. Inleiding
+
+§ 3.2. Leeswijzer
+
+§ 3.3. Weerballonvisie
+
+§ 3.4. Partijdonaties en persoonlijke bijdragen
+
+§ 3.5. Giften
+
+§ 3.6. Oogmerk, opzet of redelijkerwijs vermoeden: kwade bedoeling
+
+§ 3.7. Vaststellen van een kwade bedoeling van een gever in het algemeen
+
+§ 3.8. De bedoeling van de ondernemers aan de voorkant
+
+§ 3.9. Uiterst belangrijke tussenvraag
+
+§ 3.10. De bedoeling van de ondernemers aan de achterkant
+
+§ 3.11. Deelname aan een criminele organisatie
+
+§ 3.12. Het strafrecht is niet de oplossing
+
+§ 3.13. Conclusies op een rij
+
+3.3.
+
+Weerballonvisie
+
+3.3.1.
+
+Waarschijnlijkheidsvraag
+
+Tijdens en na lezing van het zeer omvangrijke dossier en ook in raadkamer drong zich - op zich niet verrassend - steeds de vraag op: ‘Is het logisch dat twee ambtenaren van een net startende lokale politieke partij van een grote stad worden omgekocht met partijdonaties?’ Het uiteindelijke antwoord op die vraag moet worden gezocht in de feiten en omstandigheden die uit het dossier te destilleren zijn. En, zoals gezegd, die weg zal de rechtbank natuurlijk gaan. Toch wil de rechtbank een antwoord op de genoemde vraag ook in een weerballonvisie vooropstellen, los van de feiten en omstandigheden uit het dossier. Anders gezegd: wat is de voorafgaande waarschijnlijkheid van een ja als antwoord op de gestelde vraag? In een strafzaak waar - zoals opgemerkt - de eerste vraag niet is wié een strafbaar feit heeft gepleegd, maar die begint bij de vraag óf er een strafbaar feit is gepleegd, is zo’n voorafgaand waarschijnlijkheidsoordeel, ‘prior odds’ genoemd in de Bayesiaanse statistiek, zo gek nog niet.
+
+3.3.2.
+
+Waarschijnlijkheidsantwoord
+
+Het korte en duidelijke antwoord op de waarschijnlijkheidsvraag is: klein! In algemene zin ligt het niet voor de hand dat een net startende politieke partij zijn peuter- en kleuterbestaan en de potentiële eerste groei inricht met strafbare feiten als ambtelijke omkoping met partijdonaties als basis. Veelal zijn nieuwe partijen uit op verandering en vernieuwing die voortkomen uit ideële motieven. In die context zal uitgestrooid corruptiezaad al snel op de rotsen vallen.
+
+Ook van de zijde van een omkoper ligt het in algemene zin niet voor de hand om een startende partij uit te kiezen om invloed te kopen, omdat die invloed simpelweg nog verre van zeker is. Bestaande structuren zijn er niet, de echte macht ontbreekt en de te corrumperen personen zijn simpelweg nog niet bekend. Zittende gevestigde partijen met vaste structuren en werkwijzen bieden een veel gemakkelijker corruptieperspectief met de om te kopen volksvertegenwoordigers en/of bestuurders op key posities. Een context die een compostrijke voedingsbodem biedt voor strafbare feiten, wat zo’n partij voor de omkoper tot een veel logischer ‘slachtoffer’ maakt.
+
+3.3.3.
+
+Conclusie
+
+Dit voorafgaande algemene waarschijnlijkheidsoordeel over de kern van de bewijsvraag is verre van keihard en ook in zijn overtuigingskracht niet heel groot. Volstrekt onbelangrijk is zo’n oordeel natuurlijk ook weer niet.
+
+3.4.
+
+Partijdonaties en persoonlijke bijdragen
+
+3.4.1.
+
+Inleiding
+
+Bij de ten laste gelegde ambtelijke omkopingen staat een aantal (financiële) overdrachten van de ondernemers centraal. Tijdens het onderzoek op de zitting zijn in dit verband verschillende termen gebruikt voor deze overdrachten, al dan niet met een zekere lading: partijsteun, campagnefinanciering, doneren, donaties, sponsoring enzovoort. De rechtbank zal (ook) in het vervolg van dit vonnis kiezen voor de term: ‘partijdonaties’. Deze term dekt de lading van de verschillende bijdragen van de ondernemers aan de partij [groep02] goed en omvat zowel de financiële bijdragen als die in ‘natura’. Daarnaast zouden twee van de ondernemers de verdachte - kort gezegd - persoonlijk hebben getrakteerd. Deze bijdragen worden hierna ‘persoonlijke bijdragen’ genoemd.
+
+3.4.2.
+
+Partijdonaties
+
+De hierna volgende partijdonaties zijn vast komen te staan. Daarbij past nog een voorafgaande opmerking. De partijdonaties zijn gedaan vanaf de bankrekeningen van aan de ondernemers gelieerde rechtspersonen. Hoewel de ondernemers allemaal hebben gezegd dat zij de partijdonaties hebben gedaan, is dat dus eigenlijk niet zo. De verdediging heeft op dit punt geen verweer gevoerd. De rechtbank zal er ook geen verdere woorden aan vuil maken en ervan uitgaan dat de ondernemers de partijdonaties voor hun rekening nemen, maar opmerkelijk is het wel, omdat dit in de tenlasteleggingen van de feiten 2 en 3 niet (steeds) zo is verwoord.
+
+[medeverdachte05] :
+
+a. Het aankoopbedrag van een bus in juni 2017: € 7.750,-.
+
+Diverse overboekingen tussen mei en oktober 2017, ‘sponsoring’, ‘campagnebus’, en ‘reclame bus’: € 2.500,-.
+
+Betalingen voor advertentieruimte in o.a. lokale kranten in januari tot en met april 2018: € 31.859,33.
+
+[medeverdachte03] :
+
+a. Overboekingen in februari 2018, ‘Doneren t.b.v. jullie campagne’: € 20.000,-.
+
+Overboekingen in maart 2019, ‘Donatie’: € 32.500,-.
+
+[medeverdachte02] :
+
+- Kosten voor de website van [groep02] in september 2017: € 3.025,-.
+
+[medeverdachte01] :
+
+- Kosten voor de website van [groep02] in september 2017: € 3.025,-.
+
+3.4.3.
+
+Niet vast te stellen partijdonaties
+
+Anders dan de officier van justitie wil, zijn de andere ten laste gelegde partijdonaties niet vast komen te staan. Daarover - kort gezegd - het volgende:
+
+[medeverdachte05] :
+
+a. Een betaling voor de bus ter hoogte van € 4.413,-. Niet is gebleken hoe en dus óf deze betaling heeft plaatsgevonden.
+
+Een overboeking van € 335,- met omschrijving ‘verkoop loten’. Aannemelijk is dat dit de per pin betaalde opbrengst van voor de partij verkochte loten betreft.
+
+Het meefinancieren van (een) verkiezingsbijeenkomst(en) in de [zalencentrum01] . Uit het dossier volgt dat wordt gesproken over een ‘goede prijs’
+
+en dat er ook ‘ver in het begin’ wel eens een factuur niet werd gestuurd.
+
+Dit is dermate vaag gebleven, zowel qua plaatsing in de tijd als qua kosten, dat deze partijdonatie (daarmee) onvoldoende vaststaat.
+
+Het verwerven van stempassen en/of volmachtbewijzen voor [groep02] . Niet in de verste verte is komen vast te staan of [medeverdachte04] en de verdachte ervan op de hoogte waren dat meer werd gedaan dan het stimuleren van kiezers om te gaan stemmen. Er kan dan ook niet worden geconcludeerd dat zij deze ‘bijdrage’ hebben aangenomen.
+
+[medeverdachte01] :
+
+- De betaling van filmpjes op RegioTV. Uit de verklaring van [medeverdachte01] op de zitting en uit de e-mailberichten in het dossier volgt dat [medeverdachte01] dit bedoeld heeft als lening, omdat met de betaling van de website al gesponsord was.
+
+Hoewel zeker enige onduidelijkheid bestaat over de terugbetaling ervan, wordt ervan uitgegaan dat de betaling van € 5.057,80 een lening was. De tegenwerping van de officier van justitie dat de terugbetaling van [groep02] op 16 maart 2018 eerder plaatsvond dan de ontvangst van de factuur op 20 maart 2018 en daarom niet op de facturen van RegioTV, maar op de Facebookcampagne moet zien, kan geen standhouden. In de e-mail van 20 maart 2018
+
+schrijft [medeverdachte01] namelijk dat hij voor de kosten van de Facebookcampagne nog een afzonderlijke factuur verwacht. Die was op dat moment dus ook nog niet betaald. Aannemelijk is dat de betaling van € 5.000,- van [groep02] zag op het in eerste instantie begrote bedrag van € 4.200,- voor de RegioTV-filmpjes en € 800,- voor de Facebookcampagne.
+
+Nu deze betalingsconstructie overigens ook bedacht was vanwege de BTW-verrekening
+
+, is het niet vreemd dat het bedrag door [groep02] al aan [medeverdachte01] werd ‘terugbetaald’ voorafgaand aan de daadwerkelijke ontvangst van de facturen.
+
+3.4.4.
+
+Conclusie partijdonaties
+
+De ondernemers hebben gezamenlijk in een periode van twee jaar partijdonaties aan de politieke partij [groep02] gedaan voor een totaalbedrag van € 100.659,33.
+
+3.4.5.
+
+Persoonlijke bijdragen
+
+De volgende persoonlijke bijdragen aan de verdachte zijn vast komen te staan.
+
+[medeverdachte05] :
+
+- Een etentje bij [horecagelegenheid03] (in augustus 2019), met een onbekende waarde (vermoedelijk rond de € 50,-).
+
+[medeverdachte03] :
+
+Twee boottochten in juli 2018 en juli 2019.
+
+De etentjes na afloop van die boottochten. De kosten daarvan bedroegen in juli 2018 in totaal € 500,- (voor zes personen)
+
+en in juli 2019 € 1.088,50 (voor acht personen)
+
+. De persoonlijke bijdragen aan de verdachte zijn dan € 83,- en € 136,-.
+
+3.4.6.
+
+Niet vast te stellen persoonlijke bijdragen
+
+Anders dan de officier van justitie wil zijn de andere ten laste gelegde persoonlijke bijdragen aan de verdachte niet vast komen te staan. Daarover - kort gezegd - het volgende:
+
+[medeverdachte05] :
+
+- Houten vloerdelen, die door [medeverdachte05] werden aangeboden als restpartij vanuit de [zalencentrum01] (in de zomer van 2019). Volgens het dossier zijn ze niet gelegd in de woning van de verdachte en daarom kan niet worden gezegd dat ze door hem zijn aangenomen.
+
+[medeverdachte02] :
+
+- De terbeschikkingstelling van een bouwkraan voor de verbouwing van de woning van de verdachte (in de zomer van 2019). De verdachte heeft betaald voor het gebruik van de bouwkraan, dus het gaat hier in feite om het voorschieten van de kosten en het aanwenden van contacten in de bouwwereld.
+
+Dat is naar het oordeel van de rechtbank zo futiel, dat daaraan geen waarde zal worden toegekend.
+
+3.4.7.
+
+Conclusie persoonlijke bijdragen
+
+Twee van de ondernemers hebben aan de verdachte persoonlijke bijdragen gedaan voor een bedrag van in totaal € 269,- en twee boottochten.
+
+3.5.
+
+Giften
+
+3.5.1.
+
+Inleiding
+
+De volgende vraag die voorligt is of de vastgestelde partijdonaties aan de politieke partij [groep02] en de persoonlijke bijdragen aan de verdachte zijn aan te merken als giften aan de ambtenaren in de zin van de ambtelijke omkopingsbepalingen
+
+177 en 363 van het Wetboek van strafrecht (hierna: Sr).
+
+3.5.2.
+
+Definitie gift
+
+Er is sprake van een gift in de zin van de ambtelijke omkopingsbepalingen op het moment dat kan worden vastgesteld dat iets van waarde aan de ambtenaren is overgedragen.
+
+3.5.3.
+
+Partijdonaties als gift
+
+Hiervoor onder §3.4.2. hebben we gezien dat de ondernemers gezamenlijk over een periode van ongeveer twee jaar voor een totaalbedrag van € 100.659,33 partijdonaties hebben gedaan aan [groep02] . Deze partijdonaties, het woord zegt het al, zijn gedaan aan de partij en niet aan de ambtenaren. Feitelijk is er geen euro in handen gekomen van de ambtenaren. Een eerste belangrijke vaststelling is daarom dat de partijdonaties van
+
+€ 100.659,33 op zichzelf niet zijn overgedragen aan de ambtenaren en in die zin in ieder geval géén gift zijn aan die ambtenaren als omschreven in de ambtelijke omkopingsbepalingen.
+
+3.5.4.
+
+Waardeoverdracht op een andere manier
+
+Is er dan doordat er partijdonaties aan de partij zijn gedaan toch ook iets van waarde, anders dan door geld, overgedragen aan de ambtenaren? Het antwoord op die vraag is nog niet zo eenvoudig.
+
+Een groot deel van de partijdonaties is gebruikt voor de financiering van de verkiezingscampagne van [groep02] in 2018 en onbetwist is gebleven dat de rest is uitgegeven aan de financiële handel en wandel van die partij.
+
+[groep02] is (vervolgens) gegroeid en is gaan meebesturen en dit zou mede een gevolg of een uitvloeisel kunnen zijn van de partijdonaties. Of zo’n direct verband tussen het één en het ander bestaat en zo ja, in welke mate, is niet vast te stellen. Ook vele andere factoren kunnen namelijk debet zijn geweest aan de groei, het succes van en het meebesturen door de partij. De op de zitting gehoorde deskundige prof. dr. [deskundige01] wees op het ontbreken van wetenschappelijk onderzoek in Nederland naar (causaal) verband tussen partijdonaties op lokaal niveau en het succes van een politieke partij. Als dat effect er al zou zijn - voor een verkiezingscampagne is altijd geld nodig - is dat volgens vergelijkend internationaal onderzoek minimaal.
+
+In dat geval is het doortrekken van dat verband naar de individuen en/of de organen van de partij uiterst lastig. Het is op zich niet uitgesloten dat niet alleen de partij maar ook haar bestuur, haar leden, de fractie, de gemeenteraadsleden en andere bij de partij betrokken personen en organen, anders dan door geld, beter zijn geworden van de partijdonaties. Het is echter bijna onmogelijk om te bewijzen dat er een (direct) verband is tussen de partijdonaties en het wel en wee van de individuen binnen de partij. Meer concreet: anders dan de officier van justitie wil, kan met de beste wil van de wereld niet worden vastgesteld dat, en zo ja, in hoeverre, de positie van de ambtenaren één op één door de partijdonaties is verbeterd, laat staan dat, zoals de officier van justitie stelt, zij hun functie als wethouder hieraan hebben te danken.
+
+Aan de andere kant is ook weer niet volstrekt onaannemelijk dat met de partijdonaties een zekere niet-geldelijke waardeoverdracht heeft plaatsgehad tussen de ondernemers en de bredere achterban van de partij, waaronder ook de ambtenaren. Een goed gefinancierde verkiezingscampagne leidt wellicht tot meer bekendheid, status en trotse gevoelens. Probleem daarbij is alleen dat - als gezegd - deze waardeoverdracht niet is te begroten, en dat al helemaal niet vast te stellen is dat van de giften een substantiële niet-geldelijke waarde is doorgesijpeld naar de ambtenaren. En hoewel ook giften van betrekkelijke waarde de bewijsrechtelijke drempel van het voor ambtelijke omkoping relevante delictsbestanddeel van ‘gift’ (kunnen) halen, heeft die betrekkelijke waarde een belangrijke schaduwzijde. Deze schaduwzijde zal hieronder in ‘
+
+§3.9. Uiterst belangrijke tussenvraag
+
+’ meer in het bijzonder in
+
+§3.9.2.
+
+nader worden besproken.
+
+3.5.5.
+
+Conclusie partijdonaties als gift
+
+De partijdonaties van € 100.659,33 zijn niet overgedragen aan de ambtenaren en in die zin is dit géén gift aan die ambtenaren in de zin van de omkopingsbepalingen. Wel is er via de partijdonaties sprake van enige niet-geldelijke waardeoverdracht van de ondernemers aan de ambtenaren. Op zichzelf genomen is dit om die reden een gift in de zin van de omkopingsbepalingen. Van groot belang daarbij is dat deze ‘waarde’ niet is te begroten en dat dus ook niet is vast te stellen dat sprake is van een substantiële waardeoverdracht.
+
+3.5.6.
+
+Persoonlijke bijdragen als gift
+
+Hiervoor onder §3.4.5. zijn de persoonlijke bijdragen van de ondernemers aan de verdachte vastgesteld. Deze bijdragen hebben een materiële totaalwaarde van € 269,-. De twee boottochten hebben ook een waarde. Deze immateriële waarde laat zich begroten op: ‘twee leuke dagen’. Zowel de materiële als de immateriële persoonlijke bijdrage zijn daarmee aan te merken als giften in de zin van de ambtelijke omkopingsbepalingen.
+
+3.6.
+
+Oogmerk, opzet of redelijkerwijs vermoeden: kwade bedoeling
+
+3.6.1.
+
+Inleiding
+
+Voor het bewijs van ambtelijke omkoping is vervolgens nodig dat komt vast te staan dat de in het vorige hoofdstuk vastgestelde giften aan de ambtenaren - a) een niet te substantiëren niet-geldelijke gift, en b) € 269,- aan etentjes en ‘twee leuke dagen’ - met een bepaalde bedoeling aan de ambtenaren zijn gedaan. Voor het bewijs van passieve en actieve ambtelijke omkoping moet komen vast te staan dat de ondernemers de giften aan de ambtenaren deden om deze te bewegen om - kort gezegd - iets te doen of iets niet te doen. Zo’n omkoping kent de kant van de ambtenaren: de passieve kant en de kant van de ondernemers: de actieve kant.
+
+3.6.2.
+
+Passieve kant
+
+Als komt vast te staan dat een ambtenaar een gift heeft aangenomen, komt het er op aan om vast te stellen of die ambtenaar wist of redelijkerwijs moest vermoeden dat deze gift hem werd gedaan om hem als ambtenaar iets te laten doen of niet te doen. Voor weten is op grond van de jurisprudentie voorwaardelijk opzet de ondergrens. In klare taal komt dit erop neer dat de ambtenaar heus wel weet dat er een behoorlijk grote kans is dat de gift hem door de gever wordt gedaan met de bedoeling om er beter van te worden, maar dat hij dat wel oké vindt. Redelijkerwijs moeten vermoeden komt er in gewone mensentaal op neer dat de ambtenaar aan zijn water kan voelen dat de gift hem niet (alleen) wordt gedaan omdat de gever dat zo leuk vindt, maar met de bedoeling dat de gever er een voordeel van kan hebben.
+
+3.6.3.
+
+Actieve kant
+
+Aan de kant van de gever ligt de lat hoger. Daar is het noodzakelijk dat bij het doen van de gift aan de ambtenaar bij de gever het oogmerk bestaat om die ambtenaar iets te laten doen of niet te doen. Dit oogmerk is aanwezig wanneer het doen van een gift door de gever, naar hij moet hebben beseft, als noodzakelijk en dus voor hem gewild gevolg meebrengt dat de ambtenaar wordt bewogen tot een doen of niet doen. In gewoon Nederlands: de gever wil de ambtenaar met de gift koste wat het kost beïnvloeden om hem van goede wil te zijn. Het betreft de zwaarste vorm van opzet waarvoor voorwaardelijk opzet zoals hiervoor kort omschreven niet voldoende is.
+
+3.6.4.
+
+Conclusie
+
+Het draaipunt van de actieve omkoping ligt in het oogmerk om de ambtenaar te bewegen iets te doen of niet te doen en het draaipunt bij de passieve variant ligt in het weten of redelijkerwijs vermoeden van de ambtenaar van dat bewegen. De rechtbank zal in het vervolg van dit vonnis hierover in gezamenlijkheid spreken over de kwade bedoeling die de gever met de gift moet hebben en die de ambtenaar dus moet onderkennen.
+
+3.7.
+
+Vaststellen van een kwade bedoeling van een gever in het algemeen
+
+Een kwade bedoeling die een gever met een gift heeft kan in het algemeen - als dit niet uit bijvoorbeeld een (bekennende) verklaring blijkt - worden gebaseerd op de feiten en omstandigheden aan de voorkant en/of de achterkant van een ambtelijke omkoping. Aan de voorkant kan een kwade bedoeling worden gegrond op de uiterlijke verschijningsvorm van de gift en/of het geven. Van belang daarbij zijn bijvoorbeeld de hoogte van de gift, de vorm en de aard daarvan en/of de omstandigheden waaronder de gift is overgedragen. Aan de achterkant van ambtelijke omkoping kan de initiële (oorspronkelijke) kwade bedoeling van de gever met de gift worden afgeleid uit - de uiterlijke verschijningsvorm van - de concrete gunsten/tegenprestaties van de ambtenaar aan de gever of de gebleken voorkeursbehandeling van de gever door de ambtenaar. Deze voorkant en achterkant van een ambtelijke omkoping vormen daarbij in zekere zin communicerende vaten. Anders gezegd: als de kwade bedoeling van de ambtelijke omkoping aan de voorkant niet zo duidelijk is, komt het meer aan op de achterkant en andersom.
+
+3.8.
+
+De bedoeling van de ondernemers aan de voorkant
+
+3.8.1.
+
+Inleiding
+
+De vastgestelde giften van de ondernemers aan de ambtenaren betreffen nogmaals: a) een niet te substantiëren niet-geldelijke gift en b) € 269,- aan etentjes en ‘twee leuke dagen’. Hieronder zal de bedoeling van deze giften in die volgorde worden uitgewerkt. Daaraan voorafgaand zal het fenomeen van de partijdonatie en de bedoeling van zo’n partijdonatie, nader worden uiteengezet.
+
+3.8.2.
+
+Fenomeen van partijdonaties en de bedoeling daarvan
+
+Politieke partijen zijn onmisbaar in onze democratie. Zij verwoorden de wensen en opvattingen die in de maatschappij leven en vormen een brug tussen de samenleving en de politieke besluitvorming. Worteling van de politieke partij in de maatschappij is daarbij van groot belang. Dat particulieren of bedrijven bereid zijn een politieke partij financieel te ondersteunen, kan een uiting zijn van die maatschappelijke worteling. Voor partijdonaties kunnen verschillende motieven bestaan, variërend van het eens zijn met een standpunt van een partij tot de hoop om invloed te kunnen hebben op de koers van een partij. Motieven die op zichzelf, uiteraard binnen de grenzen van de wet, volledig legitiem zijn.
+
+Om meer inzicht te krijgen in de financiering van politieke partijen in Nederland heeft de rechtbank ambtshalve de eerder genoemde deskundige benoemd: prof. dr. [deskundige01] . Op de vraag wat de regels rond financiering zijn voor lokale politieke partijen, antwoordde hij: ‘Dan zijn we snel klaar, want er is niks geregeld.’ En zo is het. In 2013 is de Wet financiering politieke partijen (Wfpp) ingevoerd, maar in deze wet zijn alleen regels gegeven rondom de subsidies en (toezicht op) financiering van landelijke politieke partijen. Het komt er op neer dat - in tegenstelling tot landelijke partijen - lokale politieke partijen niet worden gesubsidieerd door het Rijk en er geen regels zijn over hun financiering. Daarbij is er volgens [deskundige01] ook nog een verschil in positie tussen lokale afdelingen van landelijke partijen en onafhankelijke lokale partijen. De eerste categorie kan doorgaans profiteren van financiële injecties of faciliteiten van hun landelijke moederpartij. Dit voordeel is er niet voor onafhankelijke lokale partijen. Zij zijn in grote mate afhankelijk van partijdonaties. Dit is nog sterker het geval in verkiezingstijd, waarin veel kosten gemaakt moeten worden in verband met het voeren van campagne.
+
+Kort en goed is het toegestaan om een politieke partij met een partijdonatie te ondersteunen en dit dient bovendien ook nog een belangrijke maatschappelijke functie. Regels rondom partijdonaties op lokaal niveau zijn er (nog) niet. Voor lokale partijen zonder landelijke moederpartij zijn partijdonaties bovendien eigenlijk onmisbaar.
+
+3.8.3.
+
+De partijdonaties
+
+Uit het voorgaande volgt dat een partijdonatie als zodanig strafrechtelijk gezien kleurloos is. Dat wil zeggen dat uit een partijdonatie op zichzelf geen kwade bedoeling van de gever kan worden afgeleid. Sterker nog: een partijdonatie wordt in beginsel juist gedaan met simpel gezegd een goede bedoeling. Dit vormt als zodanig een sterke contra-indicatie voor het vaststellen van de, voor het bewijs van ambtelijke omkoping noodzakelijke, kwade bedoeling. Dat is in deze zaak niet anders. De ondernemers en de ambtenaren hebben dit zo verklaard, ook overigens geeft het dossier geen aanleiding voor het tegendeel en eigenlijk is in het requisitoir van de officier van justitie de betwisting van dit gegeven ook niet te lezen.
+
+De rechtbank stelt op grond daarvan vast dat de ondernemers met hun partijdonaties aan de voorkant goede bedoelingen hadden.
+
+Daarbij valt nog op te merken dat [groep02] , als onafhankelijke lokale partij, geen subsidie van het Rijk of ondersteuning van een landelijke moederpartij kreeg. De partij was dus afhankelijk van bijdragen van burgers of bedrijven. Ten tijde van de partijdonaties door de ondernemers aan [groep02] waren er geen regels of beperkingen voor financiering van een lokale politieke partij. Er zat geen maximum aan het te doneren bedrag en een partijdonateur mocht anoniem blijven. Afgezet tegen het op handen zijnde wetsvoorstel Wet politieke partijen (Wpp) waarin donaties aan lokale partijen worden gemaximeerd, zijn de bijdragen in deze zaak bovendien ook niet echt hoog te noemen.
+
+Kortom, een kwade bedoeling aan de voorkant van de tenlastegelegde ambtelijke omkopingen kan niet worden gegrond op de uiterlijke verschijningsvorm van de partijdonatie en/of het geven daarvan. Het fenomeen van de partijdonatie als bijzondere gift biedt daarvoor simpelweg geen enkel aanknopingspunt en vormt daarvoor zelfs een contra-indicatie.
+
+3.8.4.
+
+De persoonlijke bijdragen
+
+De persoonlijke bijdragen betreffen - als gezegd - drie etentjes van betrekkelijke waarde en twee leuke dagen op een boot.
+
+Over het eerste etentje bij [horecagelegenheid03] is door de verdachte en [medeverdachte05] onweersproken verklaard en daarmee komen vast te staan dat zij als vrienden vrijwel steeds om en om restaurantrekeningen betaalden en nu dus [medeverdachte05] . Tegen deze achtergrond is naar zijn uiterlijke verschijningsvorm aan de voorkant van deze tenlastegelegde ambtelijke omkoping nog geen kwade bedoeling te duiden.
+
+De twee andere etentjes hebben plaatsgevonden in het kader van twee boottochten. In zeker één van de gevallen waren ook de andere gasten van de boottrip betrokkenen bij [groep02] . Als de uiterlijke verschijningsvorm van de boottochtjes met afsluitende etentjes wordt vastgesteld, dan volgt daaruit dat de verdachte samen met een aantal anderen twee keer door [medeverdachte03] is getrakteerd op een leuke dag met afsluitend diner in een redelijk goed restaurant.
+
+Gelet op de betrekkelijk dunne relatie tussen [medeverdachte03] en de verdachte is de voorkant van deze ambtelijke omkoping niet geheel kleurloos en zou dit een voorzichtige basis kunnen zijn voor het vaststellen van een kwade bedoeling van [medeverdachte03] bij het geven van de giften aan de verdachte. De samenstelling van het gezelschap, de relatieve waarde van het varen, de verdere context en het feit dat het afsluitende diner nou ook weer niet enorm luxe was, doen daar misschien ook wel weer een beetje aan af. Al met al zal het daarom ook voor deze twee persoonlijke giften aankomen op de achterkant van de ambtelijke omkoping of uiteindelijk een kwade bedoeling met de giften kan worden vastgesteld.
+
+3.8.5.
+
+Conclusie
+
+De - uiterlijke verschijningsvorm van de - voorkant van ambtelijke omkopingen door partijdonaties is glashelder. Van een kwade bedoeling bij de gevers lijkt echt geen sprake. Sterker nog: uit die uiterlijke verschijningsvorm volgt zelfs een goede bedoeling van de ondernemers. Voor twee van de persoonlijke bijdragen ligt dit ietsje anders, maar ook daar staat de kwade bedoeling nog niet vast, maar is slechts sprake van een zweem daarvan.
+
+3.9.
+
+Uiterst belangrijke tussenvraag
+
+3.9.1.
+
+Nadruk teveel op de achterkant van de ambtelijke omkoping
+
+Op grond van de voorgaande duidelijke vaststellingen heeft de rechtbank zichzelf hardop de vraag gesteld of de bewijswaarderingsvraag niet hier al ophoudt, omdat de kwade bedoeling van de ondernemers met de partijdonaties simpelweg ontbreekt. Kan dan überhaupt nog sprake zijn van ambtelijke omkoping?
+
+Die vraag drong zich op omdat die kwade bedoeling dan volledig zou moeten volgen uit de uiterlijke verschijningsvorm van de concrete gunsten/tegenprestaties van de ambtenaren aan de ondernemers of de gebleken voorkeursbehandeling van de ondernemers door de ambtenaren. Deze achterkant van de tenlastegelegde ambtelijke omkopingen zou dan ook nog de vastgestelde goede bedoeling van de ondernemers bij de partijdonaties moeten wegnemen, wat die vaststelling nog lastiger maakt. Van belang is daarbij ook nog dat de kwade bedoeling bij iedere individuele gift per ondernemer aan de partij [groep02] moet worden vastgesteld. Van iedere omkoping op zichzelf moet immers komen vast te staan dat deze is gedaan met een kwade bedoeling. Daar dwingt de tenlastelegging van de omkopingen in ieder geval toe.
+
+3.9.2.
+
+Doorsijpeling van de partijdonaties naar de ambtenaren
+
+Verder is in dit verband de eerdere vaststelling van belang dat de partijdonaties voor de ambtenaren slechts hebben geleid tot een niet te substantiëren niet-geldelijke gift van ‘enige’ waarde. De rechtbank oordeelde in
+
+§3.5.4.
+
+dat die vaststelling een zekere schaduwzijde had. Als al een kwade bedoeling van de ondernemers met de partijdonaties voor [groep02] (alsnog) zou komen vast te staan, dan sijpelt die bedoeling slechts in marginale zin door in de relatie tussen de ondernemers en de ambtenaren. Dit legt een nóg grotere druk op de achterkant van de ambtelijke omkopingen. Die moet dan wel héél evident wijzen op corruptie.
+
+3.9.3.
+
+Zou het dan toch….?!
+
+Een en ander maakte - als gezegd - dat de vaststelling van de kwade bedoeling op basis van de achterkant van de omkopingen een zo onmogelijke opgave leek dat de rechtbank speelde met de gedachte om deze achterwege te laten. Toch heeft de rechtbank daar uiteindelijk niet voor gekozen. De feiten en omstandigheden rondom de tegenprestaties sprongen daarvoor te nadrukkelijk in het oog. Bij (eerste) lezing van het dossier, bij de bespreking van de feiten en omstandigheden op de zitting en bij het aanhoren van het requisitoir van de officier van justitie zijn bij de rechtbank meer dan eens de wenkbrauwen gaan fronsen. Niet zelden schoot dan door het hoofd: zou het dan toch….?! Dit vormde de reden om in raadkamer en in dit vonnis de achterkant van de ambtelijke omkoping toch in de afwegingen te betrekken.
+
+3.9.4.
+
+Conclusie
+
+Gelet op (sommige) treffende en in het oog springende feiten en omstandigheden aan de achterkant, zullen hieronder alle concrete tegenprestaties van de ambtenaren aan de ondernemers op een rij worden gezet. Daarbij zal steeds worden bekeken of hieruit uiteindelijk toch een oorspronkelijke kwade bedoeling kan worden afgeleid die heeft gekleefd aan de betrekkelijke niet-geldelijke waardeoverdrachten die de partijdonaties van de ondernemers voor de ambtenaren in zich hadden. Ook zal dit worden bekeken voor de vastgestelde persoonlijke bijdragen aan de verdachte.
+
+3.10.
+
+De bedoeling van de ondernemers aan de achterkant
+
+3.10.1.
+
+Inleiding
+
+Uit het voorgaande volgt dat het denkbaar is dat de kwade bedoeling alsnog zou kunnen worden afgeleid uit de door de verdachte verrichte tegenprestaties aan of een concreet geworden voorkeursbehandeling van (een van) de ondernemers. Daarvan zal, gelet op al het voorgaande, slechts in bijzondere gevallen sprake kunnen zijn. Bij die beoordeling is daarnaast ook de context nog van belang.
+
+3.10.2.
+
+Context
+
+Verklaring verdachten
+
+Bij de beoordeling van de achterkant van de omkopingen moeten ook de verklaringen van de verdachten worden betrokken, het betreft immers de visie van de verdachten op de kwade bedoeling achter de gift.
+
+Politieke context
+
+In een politieke context waarin een en ander plaatsheeft moet niet uit het oog worden verloren dat het handelen van een raadslid of wethouder dat gericht is op het algemeen belang, tegelijkertijd in individuele wensen kan voorzien. Op de achtergrond zullen ook altijd partijbelangen een rol spelen. De tegenprestatie moet dus zó evident en exclusief gericht zijn op het voordeel van de ondernemers, dat daaruit duidelijk volgt dat de partijdonaties beslist niet zonder kleur waren en dat dit voordeel de bedoeling was van die partijdonaties.
+
+Toerekening bewijsmiddelen
+
+Het dossier bevat veel afgetapte telefoongesprekken, sms-berichten en WhatsAppberichten en inbeslaggenomen e-mailverkeer van en tussen de diverse verdachten waarmee de kwade bedoeling nader zou kunnen worden ingekleurd. Terughoudendheid is daarbij geboden. De berichten moeten op de eerste plaats in de tijd en context worden geplaatst. Verder zegt een bericht in beginsel niets over de bedoeling van de ontvanger ervan of van de personen die worden besproken en van de conversatie geen weet hebben. De officier van justitie heeft hiermee in het requisitoir onvoldoende rekening gehouden en lijkt er bijna van uit te gaan dat iedere verdachte de inhoud van ieder bericht in het dossier kende. Bij lezing van het dossier heeft de rechtbank zichzelf ook wel betrapt op deze aanname, maar juist is deze niet. Bij de beoordeling in dit vonnis is de rechtbank hierop attent geweest.
+
+Tijdsverloop
+
+Tot slot is ook het tijdsverloop tussen de partijdonaties en de tegenprestaties van invloed op deze beoordeling.
+
+3.10.3.
+
+De tegenprestaties op een rij
+
+De verweten tegenprestaties komen erop neer dat de ambtenaren de ondernemers een voorkeursbehandeling hebben gegeven en dat deze ondernemers in hun eigen voordeel invloed konden uitoefenen op beleid in de gemeente Den Haag.
+
+3.10.3.1.
+
+Zaaksdossiers Leyweg, Di-rect, Niek Engelschmanpark
+
+In de zaaksdossiers over het winkelcentrum aan de Leyweg en de huisvesting van de band Di-rect ziet de rechtbank geen ‘tegenprestatie’ vanuit de verdachte.
+
+Leyweg
+
+De officier van justitie heeft in het requisitoir de feiten uit het zaaksdossier Leyweg op een rijtje gezet, maar daaraan geen juridische conclusie verbonden. Uit het dossier volgt dat de verdachte zich intensief heeft ingespannen om dit winkelcentrum nieuw leven in te blazen om daarmee een verkiezingsbelofte in te lossen. Hij heeft met dat doel een aantal (bevriende) ondernemers benaderd. Het lijkt erop dat als anderen bereid waren geweest het pand te huren, dat ook prima was geweest. Het is niet vreemd dat de verdachte potentiële huurders benaderde die hij al kende; volstrekt willekeurige ondernemers bellen heeft veel minder zin. Voor zover er al iemand exclusief voordeel aan deze inspanningen zou kunnen ontlenen, dan zou dat de verdachte zelf zijn, als hij had kunnen shinen als ‘koning van de Leyweg’.
+
+Di-rect
+
+Dat eigen motief van de verdachte zien we ook terug bij de huisvesting van de band Di-rect. Dat [medeverdachte01] (mogelijk op oneigenlijke wijze) door zijn contacten met de makelaar heeft geregeld dat Di-rect het hoogste bod kon doen is helder, maar heeft niets met ambtelijke omkoping van doen. Dat de verdachte een ambtenaar heeft benaderd terwijl het pand niet binnen zijn portefeuille viel en Di-rect als toekomstige eigenaar mogelijk niet aan de eisen voldeed, komt ook naar voren uit het dossier en is wellicht niet volgens de regels. Het is echter niet te kenmerken als tegenprestatie tegenover [medeverdachte01] . [medeverdachte01] zegt zelfs tot drie keer toe dat de verdachte niet hoeft te ‘duwen’
+
+, hij zou het zelf wel regelen. Bovendien had de verdachte duidelijk een eigen agenda: hij wilde scoren door Di-rect op deze manier in de stad te houden.
+
+Hij wilde andere Haagse bands erbij in het pand vestigen en regelde ook meteen nog even dat Di-rect workshops en muzieklessen in de wijk zou geven. Daar kon hij mee thuis komen.
+
+Niek Engelschmanpark
+
+Waarom de officier van justitie het zaakdossier over de woning aan het Niek Engelschmanpark bespreekt bij de tegenprestaties, is voor de rechtbank niet duidelijk. De eigenaar van de woning is geen verdachte in deze zaak. Hoewel hij via zijn medeaandeelhouderschap van een aantal vennootschappen gelinkt zou kunnen worden aan de giften van [medeverdachte03] , heeft de officier van justitie niet aangevoerd dat de inspanningen van de verdachte voor de privéwoning van de eigenaar van de woning aan [medeverdachte03] ten goede zijn gekomen. Dat is ook moeilijk voorstelbaar. Dat de verdachte zich persoonlijk met andere vergunningen zou hebben bezig gehouden, zoals de officier van justitie stelt, kan evenmin als tegenprestatie worden aangemerkt, nu niet duidelijk is gemaakt voor welke giften deze bezigheden een tegenprestatie zouden zijn.
+
+3.10.3.2.
+
+Zaaksdossiers De Zeeheld, Huisvesting
+
+In de zaaksdossiers waarin wel tegenprestaties te zien zijn, moeten die, om de bedoeling in kwade zin te kleuren, zó evident en exclusief gericht zijn op het persoonlijk voordeel van de ondernemers, dat als een paal boven water staat dat zij met hun bijdragen niet de partij [groep02] hebben willen steunen, maar de ambtenaren hebben willen omkopen. In de zaaksdossiers De Zeeheld en Huisvesting zijn wel inspanningen van de verdachte en/of [medeverdachte04] terug te zien die de ondernemers wellicht ten goede zijn gekomen, maar deze leveren geen exclusief voordeel voor hen op.
+
+Zeeheld
+
+Ten aanzien van het project ‘De Zeeheld’ kan de rechtbank niet anders vaststellen dan dat uiteindelijk - na eindeloos getouwtrek tussen de gemeente en [medeverdachte01] - wellicht door enige ‘druk’ vanuit de verdachte, een koopovereenkomst is gesloten, maar dat dit voor [medeverdachte01] in principe niet de meest rendabele uitkomst is geweest. De officier van justitie heeft overigens ook niet gesteld dat er een hogere dan marktconforme koopprijs is betaald voor de parkeergarage, zoals de tenlastelegging suggereert. De verkoop is via de reguliere ambtelijke kanalen verlopen. Dat er een geheim ‘herenakkoord’ zou zijn gesloten, waarbij [medeverdachte01] een locatie elders zou zijn beloofd voor het bouwen van de geplande 40-60 woningen, doet wellicht de wenkbrauwen fronsen. In het dossier komt dit herenakkoord echter alleen terug als ‘plan’ van [medeverdachte01] zelf.
+
+Dat dit plan vanuit de gemeente Den Haag zou zijn geaccordeerd en daadwerkelijk tot stand is gekomen, blijkt echter niet
+
+, laat staan dat het uiteindelijk is uitgevoerd. Dit betekent dat exclusief voordeel voor [medeverdachte01] of zijn ondernemingen niet naar voren is gekomen. Ook bij deze kwestie speelt overigens mee dat de verdachte een eigen motief had voor zijn bemoeienis: hij was al jaren voor deze wijk bezig en wilde laten zien dat hij voldoende parkeergelegenheid voor de buurt had geregeld.
+
+Huisvesting
+
+Wie het zaaksdossier Huisvesting voor het eerst leest, krijgt het gevoel dat een aantal vastgoedondernemers een dikke vinger in de pap heeft gekregen op het gemeentehuis, zodat zij daar hun eigen zaakjes konden veiligstellen. [medeverdachte03] , [medeverdachte01] en [medeverdachte02] zouden volgens de officier van justitie hebben bewerkstelligd dat de ambtenaren hun wensen over erfpachtsuppletie en woningsplitsen in het partijprogramma, het coalitieakkoord en vervolgens in de Woonagenda 2019 - 2023 en de Huisvestingsverordening hebben laten opnemen. Teksten als ‘komende vier jaar zit het gebakken’, ‘we hebben ze toch niet voor niets groot gemaakt ;-)’ en ‘uitmelken die posities tot het bot :-)’ uit het onderlinge mail- en appverkeer ondersteunen dat onderbuikgevoel. Wanneer echter wat meer wordt uitgezoomd en het handelen van de ondernemers en wethouders in de politieke context en in de tijd wordt geplaatst, groeit dat gevoel niet uit tot een kwade bedoeling.
+
+De verdachte was in het voorjaar van 2017 in contact gekomen met [medeverdachte01] en [medeverdachte02] , en in die zomer bleken zij elkaars tegenstander rond het project ‘De Zeeheld’. Zijn concrete standpunten en enthousiasme spraken [medeverdachte01] , [medeverdachte02] en [medeverdachte03] aan. Al gauw bleek dat zij hem konden adviseren over vastgoed en de bouwwereld, kennis die bij [groep02] ontbrak en die nodig was om beleid over deze onderwerpen in het verkiezingsprogramma te formuleren. Daarnaast beschikte [medeverdachte01] met zijn achtergrond in de mediawereld over een uitgebreid netwerk. Hij vond dat de verkiezingscampagne van [groep02] wel een tikje professioneler kon worden ingestoken en dat de verdachte een ‘artiestenmanager’ nodig had. [groep02] kon als beginnende partij zoveel kennis, ervaring en netwerk goed gebruiken en de verdachte accepteerde dit aanbod dankbaar. [medeverdachte01] , [medeverdachte02] en [medeverdachte03] hebben met hun adviezen en input invloed gehad op het partijprogramma. De verdachte vroeg [medeverdachte01] en [medeverdachte02] uiteindelijk ook voor de klankbordgroep, een groep adviseurs in het kader van de coalitieonderhandelingen, waarvan onder meer ook [medeverdachte05] deel uitmaakte. Zij hebben daarmee ook invloed gehad op de inhoud van het coalitieakkoord en op de daarop gebaseerde besluiten, zoals de Woonagenda en de Huisvestingsverordening.
+
+Tot zover is de analyse van de officier van justitie dus juist. Deze vastgoedondernemers hadden invloed op het beleid, ze hadden een vinger in de Haagse gemeentepap. Maar is dat nu niet juist wat je beoogt als je een politieke partij steunt, met een partijdonatie of met advies? Het doel van het steunen van een partij is om deze partij groter en sterker te laten worden. En dan het liefst de grootste, zodat deze partij kan gaan besturen. Je wilt immers graag dat jouw standpunten en goede ideeën voor de stad worden verwezenlijkt. Het is dan ook weinig verrassend dat een politieke partij standpunten uitdraagt die in het straatje van de achterban en dus ook van de partijadviseurs passen. Sterker nog, dat is in ons politieke partijenstelsel nu juist de bedoeling. Kennelijk gaven [medeverdachte01] , [medeverdachte02] en [medeverdachte03] adviezen die [groep02] wilde overnemen. De adviezen leidden volgens [medeverdachte01] tot het aanspreken van een grotere groep kiezers.
+
+Bij die politieke invloed hoort ook ‘een kort lijntje met de wethouder’ en ‘dicht bij het vuur zitten’. Dat is namelijk feitelijk het geval als je een politieke partij adviseert die aan de macht komt. Het voordeel zat vooral in de betere samenwerking en communicatie met de gemeente(ambtenaren)
+
+. Dat zij als ondernemers blij waren met die rol, omdat zij niet ‘langs de zijlijn’ hoefden af te wachten, valt hen niet kwalijk te nemen. Het is overigens geen geheim dat zowel op Europees als landelijk niveau (en wellicht ook in de lokale politiek) lobbyisten van het bedrijfsleven en vertegenwoordigers van allerlei belangengroepen op niet altijd even transparante wijze proberen invloed uit te oefenen op het beleid. Beïnvloeding via politieke partijen lijkt daarvan de legale keerzijde. Daarvoor bestaan in elk geval geen duidelijke spelregels.
+
+Mag die invloed dan leiden tot persoonlijke voordeeltjes? De officier van justitie merkte op dat politieke invloed overgaat in strafbare ambtelijke omkoping wanneer ‘het algemeen belang wordt verdrongen door individuele bevoordeling van burgers of ondernemers die bereid zijn daarvoor te betalen’
+
+. Dit gaat per definitie ten koste van degenen die door de omkopers niet worden vertegenwoordigd, volgens de officier van justitie. Die scheidslijn tussen algemeen en persoonlijk belang is in de praktijk niet zo gemakkelijk te trekken. Goed beleid voor de stad kan tegelijkertijd ook goed uitpakken voor een bepaalde groep inwoners of ondernemers. Het idee van [medeverdachte01] over de erfpachtsuppletie is daar een voorbeeld van. De rechtbank is er niet blind voor dat [medeverdachte01] van dit idee zou kunnen profiteren, het zou zijn winst op woningbouwprojecten ongetwijfeld fors hebben verhoogd en het is maar de vraag of het alternatief zou zijn dat er helemaal niet werd gebouwd. De andere kant is echter dat het voor àlle ontwikkelaars financieel aantrekkelijker zou worden om sociale woningen te bouwen, wat op dat moment te weinig gebeurde. En daar komt het belang van [groep02] om de hoek kijken. De partij was al langere tijd bezig de sociale woningbouw te stimuleren. Ook woningcorporatie Vestia was in beginsel enthousiast over het idee. Het plan leverde dus niet evident een exclusief voordeel voor alleen [medeverdachte01] en [medeverdachte02] op en paste bovendien bij de eerder ingenomen standpunten van [groep02] . Dat anderen hierbij werden uitgesloten of buitenspel gezet, zoals de officier van justitie opmerkt, ziet de rechtbank niet terug in het dossier.
+
+Dat geldt ook voor de kwestie rond woningsplitsing. [medeverdachte01] vertelde de verdachte dat een verbod op woningsplitsing de ‘business’ van [medeverdachte03] in de weg zou gaan zitten en daarom geen goed idee was. In het partijprogramma werd op voorstel van [medeverdachte01] in plaats van een wijkspecifiek splitsverbod
+
+opgenomen dat splitsen onderhevig zou worden aan een Leefbaarheids Effecten Rapportage. Kennelijk een wassen neus, want in bestaande wijken voldeed men daar toch wel aan.
+
+In het coalitieakkoord werd vervolgens geen splitsverbod opgenomen, maar de frase ‘kritisch kijken naar’, wat de verdachte meteen triomfantelijk aan [medeverdachte03] liet weten. In november 2018, toen de verdachte alsnog de strijd aanging met zijn collega-wethouder [naam04] op dit onderwerp, werd hij door [medeverdachte03] gesouffleerd met een e-mail waarom een splitsverbod een slecht idee zou zijn. Deze kwestie lijkt wellicht een exclusief voordeel voor [medeverdachte03] op te leveren. [medeverdachte03] heeft echter bij pleidooi aangetoond dat splitsen slechts een zeer klein percentage van zijn omzet betreft. Opvallend is bovendien dat [medeverdachte03] - nota bene op de dag van zijn partijdonatie! - de verdachte adviseert om in een verkiezingsdebat het woningsplitsen maar te laten zitten, omdat hij er geen ‘extra zieltjes mee wint’.
+
+In de e-mail van 27 november 2018 geeft hij in algemene termen weer waarom een splitsverbod ‘kul’ is, waarbij zijn eigen belang niet wordt genoemd.
+
+En eveneens bijzonder is dat hij tijdens de coalitieonderhandelingen aan de verdachte meldt: ‘overigens verbod splitsen is nog niet zo slecht met een paar aanpassingen’
+
+en dat hij enkele dagen later verbaasd is als het splitsverbod toch van de baan is.
+
+Bovendien heeft [groep02] uiteindelijk voor een beperkt splitsverbod, zoals opgenomen in de Huisvestingsverordening, gestemd. Dit alles wijst niet op een evident exclusief voordeel voor [medeverdachte03] , maar een idee waarbij het algemeen belang dan wel de vastgoedsector als geheel is gebaat.
+
+Elders ziet de rechtbank evenmin evident en exclusief voordeel voor [medeverdachte01] , [medeverdachte03] en [medeverdachte02] . Er zijn bijvoorbeeld geen gevallen bekend waarin projecten exclusief aan deze ondernemers zijn gegund, waarbij anderen zijn gepasseerd. Als er al voordeel is geweest, is het ook belangrijk om deze gebeurtenissen in de tijd te plaatsen. Hadden [medeverdachte01] en [medeverdachte02] halverwege 2017, toen zij via hun netwerk een campagnefilmpje en een Facebookcampagne regelden en deze gezamenlijk betaalden, de bedoeling om met die donatie van een paar duizend euro het mogelijke voordeel van de erfpachtsuppletie of woningsplitsing te bereiken? Op dat moment had [groep02] drie van de 45 zetels in de gemeenteraad. De kans dat zij de grootste partij zouden worden was niet heel groot. Nog minder vast stond dat [groep02] zo groot zou worden dat zij een wethouder zouden kunnen leveren. Uit de berichten van de vastgoedondernemers blijkt ook dat zij zelf blij verrast waren met de verkiezingswinst van de partij en dat zij dit niet van tevoren hadden kunnen denken
+
+. Dus voor zover zij al hadden bedacht dat zij - behalve het hebben van invloed op het vastgoedbeleid voor de stad - voordeel konden slepen uit hun betrokkenheid bij de partij, dan is dat in elk geval voor [medeverdachte01] en [medeverdachte02] niet halverwege 2017 geweest, het moment van hun donatie. Voor [medeverdachte03] geldt dat hij kort voor de verkiezingen in 2018 een vrij forse gift heeft gedaan. Wellicht was op dat moment verkiezingswinst wat beter voorzienbaar. Maar als [medeverdachte03] met die donatie al heeft beoogd om [groep02] de grootste te maken en daarmee zijn politieke adviseursrol meer effect te laten hebben, dan is dat binnen de wettelijke regels.
+
+3.10.3.3.
+
+Zaaksdossier Televisiestraat - De Schilde
+
+Ook dit zaaksdossier doet bij eerste lezing vermoeden dat de verdachte en [medeverdachte04] , [medeverdachte05] en [medeverdachte02] een gunst verleenden door zich actief in te zetten voor het verkrijgen van het pand De Schilde. De verdachte en [medeverdachte04] zijn daarvoor zelfs vrij ver gegaan, door in deze kwestie collega-wethouder [naam05] politiek onder druk te zetten om dit pand uit haar portefeuille over te hevelen naar de portefeuille van de verdachte. De verdachte en [medeverdachte04] hebben aangevoerd dat ook hun bemoeienis met De Schilde het algemeen belang diende. De verdachte wilde graag een vestiging van Plopsaland onderbrengen bij de Uithof, op een locatie waar op dat moment een hotel voor Poolse arbeidsmigranten stond. Deze arbeidsmigranten konden worden ondergebracht in De Schilde, waar [medeverdachte05] een shortstay-voorziening wilde opzetten. Op de zitting heeft de verdachte verklaard dat hij pas echt met Plopsaland aan de slag ging na zijn reis naar België. De officier van justitie heeft terecht opgemerkt dat deze reis pas in maart 2019 plaatsvond, terwijl de eerste contacten met [medeverdachte05] over De Schilde dateren van september 2018. Dat lijkt dus niet te kloppen met elkaar.
+
+Uit het dossier volgt echter dat de verdachte zich in de eerste maanden weinig met het pand heeft bemoeid. [medeverdachte05] heeft begin september 2018 zelf contact gezocht met de eigenaren van De Schilde om een gedeelte van het pand te huren. De verdachte heeft hem op dat moment slechts in contact gebracht met de heer [naam06] .
+
+Pas op 18 december 2018 stuurde de verdachte een aantekening naar zichzelf waarin hij de ‘Polenvoorzieningen’ Laakhaven en Lozerlaan koppelde aan de beoogde shortstay-voorziening in De Schilde in de Televisiestraat
+
+. En pas vanaf half januari 2019 is de verdachte daadwerkelijk zelf actie gaan ondernemen. Vanaf dat moment had hij zelf politieke belangen bij het regelen van een shortstay-voorziening in De Schilde. Toen heeft kennelijk het plan postgevat dat het pand uit de portefeuille van wethouder [naam05] gehaald moest worden, omdat zij andere ideeën had over de invulling van het pand. Vervolgens heeft de verdachte de hem kenmerkende politieke druk uitgeoefend om zijn doel te bereiken. Dat betekent dat ook voor dit dossier geldt dat de stelling van de verdachte dat zijn inspanningen op een algemeen belang gericht waren, niet zonder meer onderuit gehaald kan worden. De rechtbank kan niet vaststellen dat de verdachte de betrokken ondernemers met zijn handelen exclusief voordeel heeft bezorgd.
+
+3.10.3.4.
+
+Zaaksdossier Nachtontheffing
+
+Misschien wel de meest in het oog springende tegenprestatie is de verleende nachtontheffing aan de [zalencentrum01] van [medeverdachte05] . Uit het dossier volgt dat de verdachte zich jarenlang zeer actief heeft ingezet voor dit voordeel voor het bedrijf van zijn vriend, bovendien donateur van de partij. De motie uit juli 2017 en het burgemeestersbesluit van 18 april 2019 over die nachtontheffing waren toch vooral toegeschreven op de [zalencentrum01] . De voor de [zalencentrum01] lastige voorwaarden werden daarbij op initiatief van de verdachte geschrapt. De rechtbank heeft lang nagedacht en gediscussieerd over de vraag of deze tegenprestatie niet een evident en exclusief voordeel opleverde voor de [achternamen01] . Op het eerste gezicht is wat hier gebeurt een blauwdruk van corruptie. Wie beter kijkt, ziet echter iets anders.
+
+Allereerst valt op dat de verdachte steeds heeft aangevoerd dat de nachtontheffing een algemeen belang diende, namelijk het stimuleren van het uitgaansleven en met name het reanimeren van de dance-scene in Den Haag. Dat dat algemeen belang bestond, wordt niet weersproken door het dossier en ook de officier van justitie heeft dat niet overtuigend kunnen weerleggen. Bovendien bevatte het voorstel van de verdachte, dat is uitgemond in het burgemeestersbesluit over de nachtontheffing, daarnaast een voorstel voor ruimere openingstijden voor horeca in het centrum; het was dus niet slechts op de nachtontheffing gericht. Het is de burgemeester geweest die hem heeft aangeraden het horecadeel los te koppelen van de nachtontheffing. Het feit dat [medeverdachte05] op de zitting heeft verklaard dat hij niet per se dancefeesten wilde organiseren, maar wel de stad vooruit helpen, wordt door de officier van justitie uitgelegd als onderstreping van zijn stelling dat het doel was om er illegale activiteiten te ontplooien. Een andere - wellicht plausibeler - uitleg is dat de verdachte zèlf deze nachtontheffing graag wilde regelen om daadwerkelijk het uitgaansleven nieuw leven in te blazen. Anders dan de officier van justitie stelt, zijn er na verlening van de nachtontheffing wel degelijk feesten geweest in de [zalencentrum01] waarbij van de nachtontheffing gebruik is gemaakt.
+
+Dit betekent dat het door de verdachte geschetste verhaal dat hij handelde vanuit een algemeen belang niet zomaar terzijde te schuiven is en dat niet kan worden gezegd dat het slechts een evident exclusief voordeel voor [medeverdachte05] betreft.
+
+Belangrijk daarbij is dat de verdachte zijn inspanningen voor de belangen van de [zalencentrum01] vrijwel altijd in alle openheid heeft verricht. Transparantie verdraagt zich slecht met het doorgaans heimelijke karakter van omkoping en is wellicht zelfs een contra-indicatie daarvoor. Deze openheid maakt het mogelijk om het politieke controlesysteem van een college en een gemeenteraad te laten werken. Dat was al zichtbaar toen de verdachte als raadslid een motie voor de nachtontheffing indiende in juli 2017. Andere partijen beschuldigden de verdachte tijdens de raadsvergadering van cliëntelisme. Ze wilden niet dat deze motie alleen de [zalencentrum01] zou bevoordelen en de motie werd door de gemeenteraad verworpen. Toen de verdachte eenmaal wethouder was, is de nachtontheffing er alsnog gekomen. Maar ook daarvoor geldt dat het een burgemeestersbesluit betreft, gebaseerd op het coalitieakkoord van het college waarin meerdere partijen zijn vertegenwoordigd. Uit het dossier volgt dat in alle adviezen en voorbereidende memo’s de burgemeester erop is gewezen dat het voorstel was toegeschreven op één ondernemer, namelijk [medeverdachte05] . Ofwel: het was voor iedereen duidelijk. De burgemeester heeft desondanks het besluit genomen. Het besluit is ook na haar aftreden niet teruggedraaid. Wel is er later in de gemeenteraad een debat geweest over de totstandkoming van het burgemeestersbesluit, omdat men daarbij vraagtekens zette. Transparantie maakt die controle mogelijk. Met andere woorden: het is de politieke arena die ervoor waakt dat slechts het algemeen belang wordt gediend. Vriendjespolitiek dient daar ontmaskerd te worden.
+
+Daar komt nog bij dat in het geval van de nachtontheffing voor de rechtbank zwaar meeweegt dat de donaties van [medeverdachte05] donaties aan zijn
+
+eigen
+
+partij waren, de partij waarbij hij al vanaf 2014 was betrokken, waarvoor hij op de lijst stond en waarvoor hij als adviseur werd betrokken in de klankbordgroep. In dat geval kan een partijdonatie toch heel moeizaam van kleur verschieten naar steekpenningen. Simpel gezegd: [medeverdachte05] had zijn invloed op de partij en op de verdachte toch wel, met of zonder donaties aan zijn partij.
+
+3.10.4.
+
+Partij-invloed
+
+Feitelijk geldt het voorgaande ook voor de andere betrokken ondernemers in deze zaak, ook al waren zij niet allemaal lid van de partij. Hun invloed op het partijprogramma van [groep02] en later indirect op het beleid van de gemeente Den Haag is er onmiskenbaar. Dat een horecaondernemer daarbij adviseert tot plannen die goed uitpakken voor de horeca en dat de adviezen van een vastgoedondernemer de vastgoedbranche ten goede komen is niet vreemd en niet over de grens. Dat deze ondernemers ook op financieel gebied hun steentje bijdroegen is niet één-op-één aan hun politieke invloed te koppelen, omdat niet is gebleken dat zij daarvan exclusief voordeel genoten.
+
+3.10.5.
+
+Conclusie: de achterkant biedt ook geen soelaas
+
+De ten laste gelegde tegenprestaties van de ambtenaren aan de achterkant van de ambtelijke omkoping bieden geen basis voor vaststelling van een kwade bedoeling bij de betrekkelijke niet-geldelijke waardeoverdrachten die de partijdonaties van de ondernemers voor de ambtenaren in zich hadden. Evenmin is dit zo voor de vastgestelde persoonlijke bijdragen aan de verdachte.
+
+3.11.
+
+Het strafrecht is niet de oplossing
+
+Het strafrecht is dus niet de oplossing voor het ontbreken van spelregels en dat is maar goed ook. Vanwege het belang van partijdonaties als toonbeeld van worteling in de maatschappij moeten deze niet teveel aan banden worden gelegd. Juist ondernemers zijn in staat om een lokale partij met significantere bedragen te steunen, zij moeten niet worden afgeschrikt door een mogelijke verdenking van corruptie. Anderzijds kan niet worden ontkend dat dergelijke steun op zichzelf al politieke invloed met zich mee kan brengen. Transparantie is daarom belangrijk, zodat politieke controle kan plaatsvinden. Het wetsvoorstel voor de Wpp onderkent dit belang. Het voorstel bevat voor lokale partijen naast een subsidieregeling en regels om transparantie te bewerkstelligen ook een donatieplafond. In de tenlastegelegde periode waren die regels er niet en ze zijn er nu nog steeds niet. Het ontbreken van deugdelijke (regels over) partijfinanciering moet niet worden opgelost met het strafrecht.
+
+Dat geldt ook voor de schimmigheid rond politieke beïnvloeding. Ook daarvoor bestaan geen wettelijke regels. De ondernemers in deze zaak hebben zich begeven in dat grijze gebied en zij zijn daar niet de enigen. Daar komt nog bij dat uit het dossier het beeld oprijst dat de verdachte hard loopt voor de inwoners van zijn stad - de ombudspolitiek - maar misschien nog wel iets harder voor zijn achterban. Dat is verdacht. De vraag of een wethouder zaken mag ‘regelen’ voor zijn achterban, brengt echter al snel allerlei staatsrechtelijke en politieke kwesties met zich mee. Op de zitting is bijvoorbeeld het dualisme tussen het college en de gemeenteraad besproken en de partijbelangen die daarbij in de praktijk toch altijd een rol spelen. Die praktijk blijkt weerbarstiger dan de theorie. Deze vragen moeten dan ook niet worden beantwoord binnen het strafrecht. De strafrechtelijke omkopingsbepalingen vergen een causaal verband tussen een gift en een tegenprestatie. Als dat causale verband er niet overduidelijk is, zal er niet snel sprake zijn van omkoping. Partijdonaties en politieke beïnvloeding zijn naar hun aard niet snel als zodanig aan te merken. Controle op die politieke beïnvloeding vindt plaats in de daarvoor toegeruste politieke gremia. In de lokale politiek is dat binnen het college (als dit bestaat uit wethouders afkomstig uit meerdere partijen) en met name de gemeenteraad, in de uitoefening van de controlerende functie. De Haagse gemeenteraad is daartoe ook uitstekend uitgerust, zoals het bij de start van de inhoudelijke behandeling getoonde filmfragment ook laat zien.
+
+3.12.
+
+Deelname aan een criminele organisatie
+
+Bij de tenlastegelegde deelname aan een criminele organisatie staan de ambtelijke omkopingen zo centraal dat door het ontbreken daarvan vrijwel geen enkel fundament van de criminele organisatie overblijft. Als ‘extra’ oogmerk van de criminele organisatie is ook nog - kortweg - het overtreden van de Kieswet ten laste gelegd. De rechtbank stelt voorop dat uit het dossier niet blijkt dat de ambtenaren hier enige kennis van hadden. Verder komen deze strafbare feiten zodanig slecht uit de verf dat lastig is hoe een en ander is te duiden. Voor het geval dat het dossier al wel voldoende feiten en omstandigheden zou bevatten om aan te nemen dat er gehandeld is in strijd met de Kieswet dan is een crimineel samenwerkingsverband dat daarvoor was bestemd zeker een brug te ver. Daarbij is natuurlijk ook een relevante factor dat dat samenwerkingsverband ook niet langs de ambtelijke omkopingen is te construeren.
+
+3.13.
+
+Conclusies op een rij
+
+De ondernemers hebben partijdonaties van € 100.659,33 aan de politieke partij [groep02] gedaan. Deze partijdonaties zijn als zodanig géén gift aan die ambtenaren. Mogelijk is er via de partijdonaties wel iets van niet-geldelijke waarde van de ondernemers doorgesijpeld naar de ambtenaren dat als gift is te duiden. Aan de verdachte zijn daarnaast ook enkele persoonlijke bijdragen gedaan die als gift zijn aan te merken.
+
+Uit de - uiterlijke verschijningsvorm van de - voorkant van de tenlastegelegde ambtelijke omkopingen lijkt van een kwade bedoeling bij de gevers echt geen sprake. Sterker nog: uit die uiterlijke verschijningsvorm volgt zelfs een goede bedoeling van de ondernemers. Voor twee van de persoonlijke bijdragen ligt dit ietsje anders, maar ook daar staat aan de voorkant de kwade bedoeling niet vast.
+
+Tegen deze achtergrond zou de achterkant van de tenlastegelegde ambtelijke omkopingen wel héél evident moeten wijzen op een kwade bedoeling van de naar de ambtenaren doorgesijpelde waarde van de partijdonaties en de persoonlijke bijdragen. Een uitgebreide bespreking van alle ten laste gelegde tegenprestaties heeft het beeld echter niet doen kantelen en van kwade bedoelingen van de ondernemers is dus geen sprake geweest.
+
+De verdachte wordt daarom vrijgesproken van de tenlastegelegde ambtelijke omkopingen. Als gevolg daarvan wordt de verdachte ook van de tenlastegelegde deelname aan een criminele organisatie vrijgesproken.
+
+4.
+Bewijswaardering feit 4 schending geheimhoudingsplicht
+
+4.1.
+
+Overtreding wettelijk voorschrift
+
+Binnen de gemeentepolitiek wordt veel informatie geproduceerd en ontvangen door de diverse organen. In die informatiestroom is openbaarheid het uitgangspunt. Uitzondering daarop vormt de regeling in de artikelen 25, 55 en 86 van de Gemeentewet (oud) in samenhang met artikel 10 van de toen geldende Wet openbaarheid van bestuur (hierna: Wob). Deze artikelen geven aan de gemeenteraad, het college en de commissies de bevoegdheid om geheimhouding op te leggen ten aanzien van schriftelijke stukken en hetgeen in een besloten vergadering wordt behandeld. Als geheimhouding krachtens deze artikelen is opgelegd, heeft dit als consequentie dat degene die van die geheime informatie kennis draagt, verplicht is tot geheimhouding. Handelen in strijd met deze opgelegde geheimhoudingsplicht is strafbaar gesteld in artikel 272 Sr. Er is dan sprake van schending van een geheimhoudingsplicht die voortvloeit uit een wettelijk voorschrift, namelijk eerder genoemde artikelen 25, 55 en/of 86 van de Gemeentewet.
+
+4.2.
+
+Schending van het ambts- of beroepsgeheim
+
+Overtreding van artikel 272 Sr kan ook aan de orde zijn als sprake is van schending van enig geheim, waarvan iemand wist of redelijkerwijs moest vermoeden dat hij dat uit hoofde van zijn ambt of beroep verplicht was te bewaren. Kort gezegd: schending van het ambts- of beroepsgeheim. Voor diverse ambten of beroepen, zoals bijvoorbeeld artsen en notarissen, is een geheimhoudingsplicht wettelijk geregeld. Voor wethouders is dat niet het geval. Zo kent de Gemeentewet geen afzonderlijke bepaling over ambtsgeheim. Ondanks het ontbreken van een wettelijk kader op dit punt, is in de rechtspraak aangenomen
+
+dat onder omstandigheden voor wethouders sprake kan zijn van een
+
+ongeschreven
+
+ambtsgeheim. Bij beoordeling van de vraag of sprake is van een ambtsgeheim is van belang de aard van de verstrekte informatie, het moment van de informatieverstrekking en de hoedanigheid waarin die informatie is verkregen.
+
+4.3.
+
+Wat is gedeeld en met wie?
+
+Het (concept-)besluit van het college over OCC en/of een e-mail van 26 juni 2018
+
+Sinds 2017 wordt er in Den Haag gebouwd aan een nieuw Onderwijs en Cultuurcomplex Spuikwartier (OCC). Wethouder [naam04] (hierna: [naam04] ) was toentertijd de verantwoordelijke wethouder voor dit complex.
+
+Op 26 juni 2018 kregen wethouders [medeverdachte04] en [naam04] een e-mail afkomstig van gemeenteadviseur [naam07] . In deze mail stonden afspraken die [medeverdachte04] en [naam04] met elkaar gemaakt hadden over de scope uitbreiding van het Spuikwartier. Deze afspraken vormden de basis voor het hierna te noemen concept-raadsbesluit over het OCC.
+
+Op 29 juni 2018 ontvingen [medeverdachte04] en de verdachte een envelop van [naam04] met stukken die betrekking hadden op het OCC-project. Deze envelop bevatte onder meer het concept-raadsbesluit en een concept-collegebesluit. Op het concept-collegebesluit stond vermeld ‘Geheim WOB, GEHEIM ogv art. 86 lid 2 Gem. wet juncto art. 10, lid 2, sub b, f en g Wob’ en handgeschreven ‘+ lid 1 sub c alleen collegeleden’.
+
+Deze stukken zijn gestuurd ter bespreking in de vergadering van het college van 3 juli 2018.
+
+[medeverdachte04] heeft de stukken uit de envelop in de avond van 29 juni 2018 doorgenomen en foto’s met handgeschreven aantekeningen teruggestuurd naar [naam04] , met het privé e-mailadres van de verdachte in de bcc. Dit waren foto’s van (delen van) het concept-raadsbesluit en concept-collegebesluit.
+
+De verdachte heeft deze foto’s op 30 juni 2018 doorgemaild naar [medeverdachte01] en [medeverdachte02] .
+
+[medeverdachte01] en [medeverdachte02] hebben daar dezelfde dag op gereageerd en de wethouders inhoudelijk advies gegeven.
+
+Daarnaast heeft [medeverdachte01] de stukken doorgestuurd naar zijn zakenpartner [naam08] .
+
+Daarop is een mailwisseling gevolgd tussen [medeverdachte01] , [medeverdachte02] en de verdachte.
+
+[medeverdachte04] heeft naar aanleiding daarvan op 1 juli 2018 de e-mail van gemeenteadviseur [naam07] van 26 juni 2018 met daarin de afspraken tussen [naam04] en hemzelf doorgestuurd naar [medeverdachte02] .
+
+Op de collegevergadering van 3 juli 2018 is zowel het collegebesluit als het raadsvoorstel, na enkele tekstuele aanpassingen, geaccordeerd. Verder is in die vergadering het collegebesluit als geheim geclassificeerd in de zin van artikel 55 Gemeentewet. Het raadsvoorstel is openbaar geworden en gepubliceerd.
+
+Nachtvergunning
+
+Op 18 april 2019 heeft de gemeente Den Haag vijf nachtontheffingen beschikbaar gesteld voor grote horecagelegenheden. Vlak voordat dit nieuws bekend werd gemaakt, heeft de verdachte in een telefoongesprek
+
+met [medeverdachte05] verteld dat het die middag bekend zou worden gemaakt.
+
+De Zeeheld
+
+Op 9 juli 2019 zou in de gemeenteraad van Den Haag een voorstel van het college worden besproken betreffende de aankoop door de gemeente Den Haag van parkeergarage De Zeeheld van [bedrijf06] , vertegenwoordigd door [medeverdachte01] . Op 5 juli 2019 heeft de verdachte de inhoud van dit voorstel telefonisch gedeeld en besproken met een journalist van Omroep West.
+
+De betreffende journalist heeft daarop contact opgenomen met [medeverdachte01] om het verhaal bevestigd te krijgen. Dit heeft geleid tot een artikel over deze kwestie op 8 juli 2019 op de website van Omroep West.
+
+4.4.
+
+Standpunt officier van justitie
+
+Het (concept-)besluit van het college over OCC en/of een e-mail van 26 juni 2018
+
+Volgens de officier van justitie volgt uit het dossier dat zowel het concept-collegebesluit als de vastgelegde afspraken in de e-mail van 26 juni 2018, die de basis vormden voor het concept-raadsbesluit, geheim waren, in elk geval tot de collegevergadering van 3 juli 2018. Dat het raadsbesluit op de vergadering van 3 juli 2018 openbaar is geworden, doet niet af aan de situatie daarvoor. Zowel [medeverdachte04] als de verdachte heeft zich daarom schuldig gemaakt aan schending van het ambtsgeheim. [medeverdachte01] en [medeverdachte02] zijn medeplegers van dit feit. [medeverdachte01] en [medeverdachte02] hebben de geheime stukken ontvangen en hebben actief gevraagd om meer stukken. [medeverdachte01] heeft daarnaast de stukken doorgestuurd naar [naam08] .
+
+Nachtontheffingen en De Zeeheld
+
+Door vóór de officiële bekendmaking van de vijf nachtontheffingen dit nieuws al aan [medeverdachte05] te vertellen en door te lekken aan een journalist over de aankoop door de gemeente Den Haag van parkeergarage De Zeeheld, heeft de verdachte zijn ambtsgeheim geschonden. Dat de verdachte bij De Zeeheld wist dat het om geheime informatie ging, blijkt uit een tapgesprek met [medeverdachte01] waarin de verdachte zegt ‘Ik lek natuurlijk iets uit het college. Dat wordt natuurlijk niet echt gewaardeerd’.
+
+Deze onderdelen van de tenlastelegging kunnen ook bewezen worden verklaard.
+
+4.5.
+
+Beoordeling
+
+Het (concept-)besluit van het college over OCC en/of een e-mail van 26 juni 2018
+
+De rechtbank leidt uit artikel 55 (oud) Gemeentewet af dat aan het opleggen van geheimhouding omtrent stukken die aan het college worden overgelegd een besluit van het college, de burgemeester of een commissie ten grondslag moet liggen. Artikel 55 (oud) Gemeentewet geeft de bevoegdheid tot oplegging van geheimhouding niet (rechtstreeks) aan de wethouder. Binnen de gemeente Den Haag zal mogelijk zijn geregeld hoe (door wie en wanneer) een besluit om geheimhouding op te leggen als hier aan de orde tot stand moet komen. Dit blijkt alleen niet uit het dossier of uit het onderzoek op de zitting, en dus ook niet of in dit geval is gehandeld volgens zulke regelingen. De enkele, overigens onjuiste, melding op de stukken is daarvoor onvoldoende. De rechtbank merkt hierbij nog op dat de officier van justitie ook niet heeft gesteld dat er sprake is van het overtreden van een/dit wettelijk voorschrift, misschien wel om dezelfde redenen.
+
+Kortom, er kan niet vastgesteld worden dat de verdachte en [medeverdachte04] door het delen van het concept-collegebesluit en/of de e-mail van 26 juni 2018 gehandeld hebben in strijd met een wettelijk voorschrift. Dat geldt ook voor de informatie die de verdachte deelde met betrekking tot de extra nachtontheffingen en parkeergarage De Zeeheld. Op deze stukken was evenmin geheimhouding op grond van de Gemeentewet opgelegd.
+
+De vraag die vervolgens opkomt is of de verdachte en/of [medeverdachte04] dan gehandeld hebben in strijd met hun ambtsgeheim.
+
+Een wethouder zal uit hoofde van zijn ambt met grote regelmaat beschikken over vertrouwelijke, geheime en/of nog niet-openbaar gemaakt informatie, ook als dus niet expliciet geheimhouding als hierboven bedoeld is opgelegd. Dit kan bijvoorbeeld gaan om informatie die een wethouder gehoord heeft in een besloten collegevergadering. Uit hoofde van het ambt mag er van worden uitgegaan dat een wethouder daar prudent mee omgaat. Dat er binnen de gemeente Den Haag aandacht voor dit punt is, blijkt ook uit de Gedragscode integriteit burgemeester en wethouders van de gemeente Den Haag 2016
+
+en het feit dat regelmatig, zo verklaren getuigen, over dit onderwerp gesproken werd.
+
+Dit betekent echter niet dat iedere openbaarmaking van dergelijke informatie valt onder het strafrechtelijke begrip schending van het ambtsgeheim als bedoeld in artikel 272 Sr. Er kan ook sprake zijn van overtreding van een integriteitsnorm, zonder dat dit direct als misdrijf moet worden beschouwd. In hoeverre er op bepaalde informatie een ambtsgeheim in de zin van artikel 272 Sr rust, zal dus van geval tot geval beoordeeld moeten worden op basis van het kader geschetst in de rechtspraak: wat was de aard van de verstrekte informatie, het moment van de informatieverstrekking en de hoedanigheid waarin die informatie is verkregen. Enige terughoudendheid bij deze toets acht de rechtbank op zijn plaats, bij het ontbreken van een wettelijk kader over het ambtsgeheim van een wethouder.
+
+Uit het behandelde op de zitting blijkt dat het OCC-project politiek gezien gevoelig lag en dat er grote (financiële) belangen speelden. De verdachte en [medeverdachte04] hadden zich dus de terechte vraag kunnen stellen of zij eigenlijk wel bevoegd waren om de informatie met derden te delen. Zeker nu er ook nog voor wat betreft het concept-collegebesluit boven de markt hing, dat op de collegevergadering geheimhouding zou worden opgelegd.
+
+Daar staat tegenover dat de verdachte en [medeverdachte04] hebben uitgelegd waarom zij deze twee stukken (voor een deel) deelden met [medeverdachte01] en [medeverdachte02] : zij zaten als adviseurs vastgoed in de klankbordgroep van de partij en waren daarom op de achtergrond betrokken geweest bij de coalitieonderhandelingen. De inhoud van het concept-collegebesluit en concept-raadsvoorstel was een forse en onverwachte afwijking van de tijdens die onderhandelingen gemaakte afspraken over het OCC. De verdachte en [medeverdachte04] vroegen advies aan hen over deze kwestie. Deze omstandigheden maken dat niet zonder meer gezegd kan worden dat de verdachte en [medeverdachte04] , ook al betrof het hier een gevoelig dossier, in dit specifieke geval hun ambtsgeheim schonden door met een paar leden van hun klankbordgroep overleg te hebben in aanloop naar de collegevergadering van 3 juli 2019. Het houden van ruggenspraak met de partij-adviseurs bij de coalitieonderhandelingen bij belangrijke te nemen beslissingen is niet ongebruikelijk in de politiek en misschien zelfs wel nodig. De stukken zijn gedeeld in de snelkookpan van politieke besluitvorming. Dat kleurt de zaak. Daar komt bij dat [medeverdachte01] en [medeverdachte02] geen (zakelijke) belangen hadden bij het OCC. Zij adviseerden slechts de partij op dit vastgoedonderwerp over de in te nemen partijpolitieke standpunten. De verdachte deelde ook aan [naam04] mee dat hij met hen over deze standpunten had overlegd. Bij deze stand van zaken kan de rechtbank niet vaststellen dat sprake is van het opzettelijk schenden van een geheim als bedoeld in artikel 272 Sr.
+
+Nachtontheffingen en De Zeeheld
+
+Op het moment dat de verdachte informatie over het besluit over de nachtontheffingen en de aankoop van parkeergarage De Zeeheld deelde met respectievelijk [medeverdachte05] en een journalist, was deze informatie nog niet openbaar gemaakt. In beide gevallen gebeurde dat (vlak) daarna.
+
+Het lekken van informatie aan een belanghebbende of de pers is wellicht politiek gezien onwenselijk en mogelijk niet-integer. Dat de verdachte zich daarvan bewust was kan worden afgeleid uit het door de officier van justitie geciteerde tapgesprek. Dit betekent zoals gezegd echter niet dat daarmee dan sprake is van het plegen van een misdrijf. De lat voor die vaststelling ligt hoger. Waarom de in deze twee kwesties gedeelde informatie als geheim in de zin van artikel 272 Sr moet worden beschouwd volgt onvoldoende uit het dossier en is evenmin voldoende over het voetlicht gebracht door de officier van justitie. In feite komt het erop neer dat de informatie slechts iets eerder werd gedeeld dan dat deze openbaar werd gemaakt. De aard van de gedeelde informatie komt de rechtbank niet als zeer gevoelig voor.
+
+4.6.
+
+Conclusie
+
+Het delen van de OCC-stukken levert geen schending van artikel 272 Sr op voor de verdachte en [medeverdachte04] en kan daarom ook niet leiden tot een veroordeling voor medeplegen van [medeverdachte01] en [medeverdachte02] . Het delen door de verdachte van informatie over parkeergarage De Zeeheld en het besluit extra nachtontheffingen levert evenmin schending van artikel 272 Sr op. De verdachte zal van dit feit worden vrijgesproken.
+
+5. Bewijswaardering feit 5 meineed
+
+5.1.
+
+Standpunt van de officier van justitie
+
+De officier van justitie vindt dat dit feit bewezen kan worden verklaard. Dit vloeit voort uit de bewezenverklaring van feit 2 en 3: door zich te laten omkopen, heeft de verdachte gehandeld in strijd met zijn eed/belofte dat hij - kort gezegd - geen gunst heeft gegeven of beloofd en geen geschenk of belofte heeft aangenomen om iets in zijn ambt te doen of te laten en daarom met die eed/belofte een valse verklaring afgelegd.
+
+5.2.
+
+Beoordeling
+
+Het dossier en het requisitoir zijn geënt op de omkoping; als daar sprake van is, volgt daaruit het bewijs voor meineed. In hoofdstuk 3 van dit vonnis heeft de rechtbank overwogen dat de verdachte zal worden vrijgesproken van de tenlastegelegde passieve omkopingen. Daarmee komt het bewijs voor meineed te vervallen: niet is komen vast te staan dat de verdachte met zijn eed/belofte een valse verklaring heeft afgelegd.
+
+5.3.
+
+Conclusie
+
+De verdachte zal worden vrijgesproken van dit feit.
+
+6.
+Bewijswaardering feit 6 mensensmokkel/tewerkstellen illegale vreemdeling
+
+6.1.
+
+Standpunt van de officier van justitie
+
+De officier van justitie is van mening dat de in de tenlastelegging (als tweede alternatief) opgenomen tewerkstelling van een illegale vreemdeling bewezen kan worden verklaard. Ter onderbouwing heeft de officier van justitie opgemerkt dat de Oekraïense klusjesman [naam09] vanaf 22 maart 2019 tot 1 oktober 2019 bij de verdachte heeft gewerkt, dat deze in die periode geen verblijfsstatus in Nederland had en dat ervan uit mag worden gegaan dat zijn verblijf in Nederland wederrechtelijk was. De verdachte had ernstige redenen om dit te vermoeden, met name omdat de factuur voor gemaakte arbeidskosten werd betaald aan het bedrijf van een vriend van [naam09] , en niet aan [naam09] zelf. Onder de gegeven omstandigheden had de verdachte naar de verblijfsvergunning van [naam09] moeten vragen.
+
+6.2.
+
+Beoordeling
+
+Vast staat dat [naam09] in 2019 werkzaamheden heeft verricht in de woning van de verdachte en dat de verdachte hiervoor heeft betaald. In het dossier wordt de geschiedenis van [naam09] uitgebreid besproken; voor zover hier van belang, is gebleken dat hij al sinds 1994 in Nederland verblijft, maar dat hij is uitgeprocedeerd en mag worden uitgezet. Zelf heeft hij verklaard legaal in Nederland te wonen, maar zonder verblijfsvergunning. Volgens hem liep de aanvraag nog en hij wist niet hoe het in elkaar zat. Hij heeft verder verklaard, overigens zonder dat de rijksrecherche hem hiernaar vroeg, dat hij nooit met de verdachte over zijn verblijfsstatus heeft gesproken. Tot slot beschikt hij wel over een Nederlands rijbewijs.
+
+De verdachte heeft verklaard dat hij ervan uitging dat [naam09] legaal in Nederland woonde, aangezien hij hem kende via zijn eveneens (legaal in Nederland verblijvende) Oekraïense vriendin. De man sprak daarnaast Nederlands, had desgevraagd een Nederlands rijbewijs aan hem laten zien en verbleef al meer dan 20 jaar in Nederland. De verdachte had, kortom, geen enkele reden om te twijfelen aan zijn verblijfsstatus.
+
+De rechtbank oordeelt dat de gegeven omstandigheden geen ‘ernstige redenen’ opleveren voor een vermoeden van wederrechtelijk verblijf in Nederland. Het enkele feit dat [naam09] de facturen op naam van een bevriend bedrijf wilde laten plaatsen, is daarvoor onvoldoende. Wellicht waren opgetrokken wenkbrauwen op hun plaats geweest voor wat betreft de inkomstenbelasting, maar niet met het oog op een illegaal verblijf.
+
+6.3.
+
+Conclusie
+
+De verdachte zal worden vrijgesproken van het onder 6 ten laste gelegde feit.
+
+7. Beslag
+
+7.1.
+
+Standpunt officier van justitie
+
+De officier van justitie heeft gevorderd het in beslag genomen geldbedrag van € 8.500,- formeel gezien terug te geven aan de verdachte, met dien verstande dat naast het klassieke beslag ook conservatoir beslag open staat, waardoor de op te leggen geldboete kan worden verrekend met dit in beslag genomen geldbedrag.
+
+7.2.
+
+Beoordeling
+
+Ten aanzien van het in beslag genomen geldbedrag van € 8.500,- zal een last worden gegeven tot teruggave aan de verdachte.
+
+8.
+Beslissingen in het kort en ondertekening
+
+De rechtbank:
+
+verklaart niet bewezen, dat de verdachte de ten laste gelegde feiten heeft begaan en spreekt de verdachte daarvan vrij;
+
+beslist ten aanzien van de voorwerpen, geplaatst op de lijst van inbeslaggenomen en nog niet teruggegeven voorwerpen, als volgt:
+
+- gelast de teruggave aan verdachte van: € 8.500.- (Omschrijving:  170 x 50 euro).
+
+[beslagnummer01]
+
+Dit vonnis is gewezen door:
+
+mr. J.H. Janssen, voorzitter,
+
+mrs. M.V. Scheffers en T.M. Riemens, rechters,
+
+in tegenwoordigheid van mr. C.J. Voogel- van Buuren, griffier,
+
+en uitgesproken op de openbare zitting van deze rechtbank op 21 april 2023.
+
+Hierna gezamenlijk aangeduid als ‘de officier van justitie’.
+
+Requisitoir, pagina 151.
+
+Zaaksdossier 14 Financiering campagne 2018, pagina 55. In de voetnoten zal steeds verwezen worden naar een zaaksdossier (kortweg ZD).
+
+ZD14, pagina 65. Enkele overboekingen van maart en april 2017 zijn buiten beschouwing gelaten, gelet op het begin van de tenlastegelegde periode op 1 mei 2017.
+
+ZD14, pagina 42.
+
+ZD14, pagina 74. 8 x € 2.500,-, overgeboekt op de rekening van [groep01] .
+
+ZD14, pagina 92. 13 x € 2.500,-, overgeboekt op de rekening van [stichting01] , een stichting die is opgericht om donateurs van [groep02] anoniem te laten blijven.
+
+ZD14, pagina 293. Het totaal bedroeg € 6.050,- inclusief BTW (ZD14, pagina 297). De kosten zijn verdeeld over twee facturen, met 50% van de kosten voor [bedrijf05] en 50% voor [bedrijf06] .
+
+ZD14, pagina 300. Het op de factuur genoemde hogere bedrag bevat vermoedelijk ook een andere betaling.
+
+ZD14, pagina 66.
+
+ZD14, pagina 198.
+
+RC-verhoor [medeverdachte04] d.d. 19 mei 2022, pagina 7.
+
+ZD04 Nachtontheffing, pagina 442-443.
+
+ZD14, pagina 460 en 556-557.
+
+ZD14, pagina 549.
+
+E-mail van [medeverdachte01] aan [naam08] van 7 februari 2018, ZD14, pagina 461.
+
+ZD14, pagina 461.
+
+ZD04, pagina 136.
+
+ZD12 Giften, pagina 86 (vermoedelijk inclusief fooi).
+
+ZD12, pagina 73 (exclusief fooi).
+
+ZD12, pagina 8 (relaas) en 138 (verhoor van de verdachte).
+
+ZD12, pagina 80.
+
+Requisitoir, pagina 27.
+
+ZD15 Di-rect, pagina 74.
+
+‘Daar wil ik gewoon media-aandacht om. Dat zou natuurlijk kicken zijn’; ZD15, pagina 74.
+
+In e-mails van [medeverdachte01] zelf: ZD11 De Zeeheld, pagina 420-425, 433 en 529 en in een e-mail van de verdachte: pagina 497.
+
+Wethouders [naam10] en [naam04] weten niets van het herenakkoord (AD02 Getuigen, pagina 599-600 en 293-294). De heer [naam06] , hoofd DSO, verklaart dat het plan ‘niet is doorgezet, omdat de gemeente een andere plek niet kon invullen’ en dat er ‘over het plan is gesproken, maar dat er niets is afgesproken’ (RC-verhoor [naam06] d.d. 6 januari 2023, pagina 6).
+
+‘Heel veel duwtjes bepaalde richtingen op, waarin zijn mensen maar vaak ook hij in eerste instantie anders over dachten, hebben deze partij geen windeieren gelegd en een grotere doelgroep aangesproken dan voorheen. Dat weet [verdachte01] maar al te goed, vandaar zijn dankbaarheid’, e-mail van [medeverdachte01] aan [naam08] van 19 maart 2018, ZD02 Huisvesting, pagina 149.
+
+‘Dus laten we duimen dat [verdachte01] woensdag de grootste wordt of in ieder geval met minimaal 6 zetels de eindstreep haalt, dan gaat het er de komende jaren mbt de samenwerking met de gemeente voor al onze (grote) Haagse projecten er stukken beter uitzien’, e-mail van [medeverdachte01] aan [naam08] van 19 maart 2018, ZD02, pagina 149.
+
+Requisitoir, pagina 11.
+
+Uit het dossier blijkt niet dat [groep02] eerder voorstander was van een algeheel splitsverbod, zoals de officier van justitie stelt.
+
+Appbericht van [medeverdachte01] aan [medeverdachte03] d.d. 18 januari 2018, ZD02, pagina 141.
+
+E-mail van [medeverdachte01] aan de verdachte d.d. 14 februari 2018, ZD02, pagina 251.
+
+ZD02, pagina 212-213.
+
+Appbericht van [medeverdachte03] aan de verdachte d.d. 10 april 2018, ZD02, pagina 152.
+
+Appbericht van [medeverdachte03] aan de verdachte d.d. 13 april 2018, ZD02, pagina 153.
+
+‘Los van het feit dat ik (wij) het vooral voor [verdachte01] doen zitten we ook gewoon ineens zo dicht bij het vuur qua ideeën en inbreng op het gebied van vastgoed. Was ooit een kleine wens 'om via [verdachte01] iets dichter bij te komen' en moet je nu zien. Nog geen halfjaar later waar we staan... en ik vind het oprecht heel bijzonder, leuk en leerzaam’ Appbericht van [medeverdachte01] aan [medeverdachte02] d.d. 12 april 2018, [bedrijf08] , pagina 420.
+
+Directeur Portefeuille Realisatie, Ontwikkeling en Economie van DSO en namens de gemeente gemandateerd in de Algemene Vergadering van Aandeelhouders van Starterspanden BV/CV.
+
+ZD20 Televisiestraat, pagina 256.
+
+ZD04 Nachtontheffing, pagina 156. Het aantal feesten is overigens niet zodanig dat de ‘verlaatjes’ niet voldoende waren geweest.
+
+Fragment van de Raadsvergadering van 6 juli 2017, 8:22:56 tot 8:27:14
+
+https:// [website01]
+
+.
+
+HR 14 juni 2005, ECLI:NL:HR:2005:AT2855
+
+ZD06b Schending ambtsgeheim raadsvoorstel OCC, pagina 82.
+
+ZD06 Schending ambtsgeheim raadsvoorstel OCC, pagina 7 en 27 en ZD07 Schenden ambtsgeheim stukken OCC, pagina 48.
+
+ZD06, pagina 25 en ZD07, pagina 48.
+
+ZD06, pagina 36.
+
+ZD07, pagina 42.
+
+ZD06, pagina 29 en ZD07, pagina 40.
+
+ZD06, pagina 38.
+
+ZD04, pagina 398.
+
+ZD11, pagina 211.
+
+ZD11, pagina 586.
+
+ZD07, pagina 88.
