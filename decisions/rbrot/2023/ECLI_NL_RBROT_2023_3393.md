@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3393"
 published_in: ["Rechtspraak.nl", "Douanerechtspraak 2023/56"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:57, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2023:3393 Rechtbank Rotterdam , 25-04-2023 / ROT 21/4332
