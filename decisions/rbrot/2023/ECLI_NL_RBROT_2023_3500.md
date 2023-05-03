@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:3500"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5429, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5451, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2023:3500 Rechtbank Rotterdam , 03-05-2023 / ROT 21/146
