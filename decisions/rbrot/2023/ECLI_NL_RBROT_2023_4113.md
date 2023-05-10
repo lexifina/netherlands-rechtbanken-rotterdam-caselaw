@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4113"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0101", "PJ 2023/76"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0101", "PJ 2023/76", "PR-Updates.nl 2023-0101"]
 ---
 
 # ECLI:NL:RBROT:2023:4113 Rechtbank Rotterdam , 10-05-2023 / C/10/646477 / HA ZA 22-845
