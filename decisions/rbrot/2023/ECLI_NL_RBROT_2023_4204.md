@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4204"
 published_in: ["Rechtspraak.nl", "INS-Updates.nl 2023-0143", "OR-Updates.nl 2023-0129"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:562"]]
 ---
 
 # ECLI:NL:RBROT:2023:4204 Rechtbank Rotterdam , 17-05-2023 / C/10/635810 / HA ZA 22-278
