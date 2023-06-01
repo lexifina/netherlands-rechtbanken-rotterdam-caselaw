@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBROT:2023:4445"
 court: "Rechtbank Rotterdam"
 court_code: "RBROT"
 docket: "ROT 21/3695, 21/3696, 21/3697 en 21/4074"
-decided: "2023-05-31"
+decided: "2023-06-01"
 published: "2023-05-26"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4445"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:260, Overig"]]
 ---
 
-# ECLI:NL:RBROT:2023:4445 Rechtbank Rotterdam , 31-05-2023 / ROT 21/3695, 21/3696, 21/3697 en 21/4074
+# ECLI:NL:RBROT:2023:4445 Rechtbank Rotterdam , 01-06-2023 / ROT 21/3695, 21/3696, 21/3697 en 21/4074
 
 ## Inhoudsindicatie
 
@@ -26,9 +27,9 @@ Bestuursrecht
 
 zaaknummers: ROT 21/3695, ROT 21/3696, ROT 21/3697, en ROT 21/4074
 
-uitspraak van de enkelvoudige kamer van 31 mei 2023 in de zaken tussen
+uitspraak van de enkelvoudige kamer van 1 juni 2023 in de zaken tussen
 
-[naam eiseres] uit [plaatsnaam], eiseres
+[naam eiseres] uit [plaatsnaam] , eiseres
 
 (gemachtigde: mr. E. Dans),
 
@@ -72,7 +73,7 @@ Verweerder heeft een verweerschrift ingediend.
 
 Eiseres heeft aanvullende beroepsgronden ingediend.
 
-Het onderzoek ter zitting in alle zaken heeft plaatsgevonden op 22 februari 2022. Eiseres heeft zich laten vertegenwoordigen door een kantoorgenoot van haar gemachtigde, mr. R. Bassie, bijgestaan door [naam 1], bedrijfsleider. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door [naam 2], toezichthoudend dierenarts bij de Nederlandse Voedsel- en Warenautoriteit (NVWA).
+Het onderzoek ter zitting in alle zaken heeft plaatsgevonden op 22 februari 2022. Eiseres heeft zich laten vertegenwoordigen door een kantoorgenoot van haar gemachtigde, mr. R. Bassie, bijgestaan door [naam 1] , bedrijfsleider. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door [naam 2] , toezichthoudend dierenarts bij de Nederlandse Voedsel- en Warenautoriteit (NVWA).
 
 Overwegingen
 
@@ -86,7 +87,7 @@ bevindingen dat op 25 juli 2018 is opgemaakt door een toezichthouder van de NVWA
 
 Datum en tijdstip van de bevinding: woensdag 4 juli 2018 omstreeks 06:30 uur.
 
-In het bedrijf aangesproken en. gelegitimeerd aan: [naam 3],
+In het bedrijf aangesproken en. gelegitimeerd aan: [naam 3] ,
 
 functie: personeelsmanager.
 
@@ -162,7 +163,7 @@ Hierdoor werd de dieren niet elke vermijdbare vorm van lijden bespaard.”
 
 Datum en tijdstip van de bevinding: 18 april 2019 omstreeks 16:50 uur.
 
-In het bedrijf aangesproken: [naam 4], functie: hoofd kwaliteit.
+In het bedrijf aangesproken: [naam 4] , functie: hoofd kwaliteit.
 
 Ik bevond mij in de aanvoerhal bij het gedeelte waar de kuikens vanuit een
 
@@ -222,13 +223,13 @@ Uit containers gelost levend pluimvee werd bij het verplaatsen niet beschermd
 
 tegen elke vermijdbare vorm van lijden.
 
-De medewerker, [naam 5], die op het moment van de constatering de
+De medewerker, [naam 5] , die op het moment van de constatering de
 
 snelheidshendel bediende en de aanvoer van nieuwe kuikens op het carrousel
 
 limiteerde was in het bezit van een persoonscertificaat afgegeven door SVO-Lobex
 
-(zie bijlage persoonscertificaat [naam 5]). De medewerker was onder ander
+(zie bijlage persoonscertificaat [naam 5] ). De medewerker was onder ander
 
 getoetst op de activiteit aanhaken of optakelen van levende dieren. Het bedienen
 
@@ -250,7 +251,7 @@ bevindingen dat op 10 maart 2020 is opgemaakt door een toezichthouder van de NVW
 
 Datum en tijdstip van de bevinding: dinsdag 10 maart 2020 omstreeks 6:30 uur.
 
-In het bedrijf aangesproken en gelegitimeerd aan: [naam 4],
+In het bedrijf aangesproken en gelegitimeerd aan: [naam 4] ,
 
 functie: hoofd kwaliteitsdienst.
 
@@ -328,7 +329,7 @@ bevindingen dat op 22 januari 2020 is opgemaakt door een toezichthouder van de N
 
 Datum en tijdstip van de bevinding: 13 januari 2020 omstreeks 6:00 uur.
 
-In het bedrijf aangesproken en gelegitimeerd aan: [naam 3],
+In het bedrijf aangesproken en gelegitimeerd aan: [naam 3] ,
 
 functie: bedrijfsleider.
 
