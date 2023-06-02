@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4573"
-published_in: ["Rechtspraak.nl", "PJ 2023/72 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2023-0124"]
+published_in: ["Rechtspraak.nl", "PJ 2023/72 met annotatie van M.J.C.M. van der Poel", "PR-Updates.nl PR-2023-0124", "PR-Updates.nl 2023-0124"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2025:23, Overig"]]
 ---
 
