@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:4906"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0726", "Sdu Nieuws Arbeidsrecht 2023/247", "PR-Updates.nl PR-2023-0131", "VAAN-AR-Updates.nl 2023-0726"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0726", "Sdu Nieuws Arbeidsrecht 2023/247", "PR-Updates.nl PR-2023-0131", "VAAN-AR-Updates.nl 2023-0726", "PR-Updates.nl 2023-0131"]
 ---
 
 # ECLI:NL:RBROT:2023:4906 Rechtbank Rotterdam , 05-06-2023 / KTN-10436186_05062023
