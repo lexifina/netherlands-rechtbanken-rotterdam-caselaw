@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:6088"
-published_in: ["Rechtspraak.nl", "PJ 2023/107", "PR-Updates.nl PR-2023-0156"]
+published_in: ["Rechtspraak.nl", "PJ 2023/107", "PR-Updates.nl PR-2023-0156", "PR-Updates.nl 2023-0156"]
 ---
 
 # ECLI:NL:RBROT:2023:6088 Rechtbank Rotterdam , 20-06-2023 / ROT 22/4051
