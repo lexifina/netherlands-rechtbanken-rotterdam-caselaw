@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:8313"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:50, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2760, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2023:8313 Rechtbank Rotterdam , 30-08-2023 / C/10/634026 / HA ZA 22-169
