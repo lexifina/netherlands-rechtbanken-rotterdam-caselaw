@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:9303"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1278", "PJ 2023/124", "PR-Updates.nl PR-2023-0204", "VAAN-AR-Updates.nl 2023-1278"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1278", "PJ 2023/124", "PR-Updates.nl PR-2023-0204", "VAAN-AR-Updates.nl 2023-1278", "PR-Updates.nl 2023-0204"]
 ---
 
 # ECLI:NL:RBROT:2023:9303 Rechtbank Rotterdam , 08-09-2023 / 9609796 CV EXPL 21-43392eindvonnis
