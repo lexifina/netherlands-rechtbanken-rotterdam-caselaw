@@ -196,7 +196,7 @@ verklaart dit vonnis voor wat betreft de proceskosten uitvoerbaar bij voorraad.
 
 Dit vonnis is gewezen door mr. P. Joele en in het openbaar uitgesproken.424
 
-Hoge Raad 10 juni 1983, ECLI:NL:HR:1983:AC2816 (https://new.navigator.nl/document/id15761983061012062admusp) (Muller/Van Opzeeland)
+Hoge Raad 10 juni 1983, ECLI:NL:HR:1983:AC2816 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1983:AC2816) (Muller/Van Opzeeland)
 
 Zie bijvoorbeeld Gerechtshof Arnhem-Leeuwarden 8 september 2015, ECLI:NL:GHARL:2015:6643, Gerechtshof ’s-Hertogenbosch 12 mei 2020, ECLI:NL:GHSHE:2020:1545 en Gerechtshof Den Haag 27 juli 2021, ECLI:NL:GHDHA:2021:1529
 
