@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:8908"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1242", "PR-Updates.nl PR-2023-0208", "VAAN-AR-Updates.nl 2023-1242"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1242", "PR-Updates.nl PR-2023-0208", "VAAN-AR-Updates.nl 2023-1242", "PR-Updates.nl 2023-0208"]
 ---
 
 # ECLI:NL:RBROT:2023:8908 Rechtbank Rotterdam , 22-09-2023 / 10429760
