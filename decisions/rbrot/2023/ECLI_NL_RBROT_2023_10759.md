@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10759"
 published_in: ["Rechtspraak.nl", "INS-Updates.nl 2023-0271", "Sdu Nieuws Insolventierecht 2024/11", "Sdu Nieuws Insolventierecht 2024/15", "JOR 2024/74 met annotatie van mr. M.H.E. Rongen"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2325, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2023:10759 Rechtbank Rotterdam , 04-10-2023 / C/10/646858 / HA ZA 22-870
