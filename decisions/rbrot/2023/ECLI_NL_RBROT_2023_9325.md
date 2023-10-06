@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:9325"
 published_in: ["Rechtspraak.nl", "RN 2024/29"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1983, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2023:9325 Rechtbank Rotterdam , 06-10-2023 / 10425701 CV EXPL 23-9386
