@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:9565"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0104"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0104", "BPR-Updates.nl 2023-0104"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2956, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2023:9565 Rechtbank Rotterdam , 12-10-2023 / 10344983 / VZ VERZ 23-1804
