@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10182"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1371", "PR-Updates.nl PR-2023-0225", "PJ 2024/5 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2023-1371"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1371", "PR-Updates.nl PR-2023-0225", "PJ 2024/5 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2023-1371", "PR-Updates.nl 2023-0225"]
 ---
 
 # ECLI:NL:RBROT:2023:10182 Rechtbank Rotterdam , 03-11-2023 / 9866428 CV EXPL 22-14228
@@ -368,7 +368,7 @@ Hoge Raad 2 april 2004, ECLI:NL:HR:2004:AO1948, AO1948, AO1948, C02/318 en Hoge 
 
 Hoge Raad 2 april 2004, AO1948, AO1948, C02/318 r.o. 3.3.3.
 
-Hoge Raad 12 februari 2010, ECLI:NL:HR:2010:BK3570 (https://classic.navigator.nl/document/id1078dc5d5064d2fdfbe0daeb73c55480?anchor=id-1a8489f71861afa3d974dc64db6d6623) (
+Hoge Raad 12 februari 2010, ECLI:NL:HR:2010:BK3570 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK3570) (
 
 CZ-arrest
 
