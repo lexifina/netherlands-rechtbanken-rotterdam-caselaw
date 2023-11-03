@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:10179"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0224"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0224", "PR-Updates.nl 2023-0224"]
 ---
 
 # ECLI:NL:RBROT:2023:10179 Rechtbank Rotterdam , 03-11-2023 / 10322551 CV EXPL 23-4053
