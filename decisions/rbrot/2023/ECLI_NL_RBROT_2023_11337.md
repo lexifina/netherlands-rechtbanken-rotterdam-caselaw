@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:11337"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0019"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0019", "PR-Updates.nl 2024-0019"]
 ---
 
 # ECLI:NL:RBROT:2023:11337 Rechtbank Rotterdam , 17-11-2023 / 10398676 CV EXPL 23-7669
