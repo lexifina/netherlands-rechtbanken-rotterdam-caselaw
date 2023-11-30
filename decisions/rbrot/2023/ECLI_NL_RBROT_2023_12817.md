@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12817"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2597, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2023:12817 Rechtbank Rotterdam , 30-11-2023 / 9922531 EL 22-61
