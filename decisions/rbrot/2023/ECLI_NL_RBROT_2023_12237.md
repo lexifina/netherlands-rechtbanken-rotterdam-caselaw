@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2023:12237"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0125", "Sdu Nieuws Arbeidsrecht 2024/57", "PR-Updates.nl PR-2024-0039", "JAR 2024/62", "VAAN-AR-Updates.nl 2024-0125"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0125", "Sdu Nieuws Arbeidsrecht 2024/57", "PR-Updates.nl PR-2024-0039", "JAR 2024/62", "VAAN-AR-Updates.nl 2024-0125", "PR-Updates.nl 2024-0039"]
 ---
 
 # ECLI:NL:RBROT:2023:12237 Rechtbank Rotterdam , 22-12-2023 / 10714317
