@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13784"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.43"]
 ---
 
 # ECLI:NL:RBROT:2024:13784 Rechtbank Rotterdam , 02-01-2024 / 10648052 BM VERZ 23-3191
