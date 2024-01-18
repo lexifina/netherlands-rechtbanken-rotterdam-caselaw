@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:622"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0239", "Sdu Nieuws Arbeidsrecht 2024/79", "PR-Updates.nl PR-2024-0062", "RAR 2024/84", "VAAN-AR-Updates.nl 2024-0239"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0239", "Sdu Nieuws Arbeidsrecht 2024/79", "PR-Updates.nl PR-2024-0062", "RAR 2024/84", "VAAN-AR-Updates.nl 2024-0239", "PR-Updates.nl 2024-0062"]
 ---
 
 # ECLI:NL:RBROT:2024:622 Rechtbank Rotterdam , 18-01-2024 / 10785651 HA VERZ 23-75
