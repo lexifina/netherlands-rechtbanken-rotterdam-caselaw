@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:2964"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4114, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBROT:2024:2964 Rechtbank Rotterdam , 19-03-2024 / ROT 21/1738
