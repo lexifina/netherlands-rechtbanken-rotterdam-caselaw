@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:2692"
 published_in: ["Rechtspraak.nl", "RVR 2024/50"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2820, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2024:2692 Rechtbank Rotterdam , 27-03-2024 / C/10/657641 / HA ZA 23-434
