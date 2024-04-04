@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:14126"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:220, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2024:14126 Rechtbank Rotterdam , 04-04-2024 / ROT 22/2870
