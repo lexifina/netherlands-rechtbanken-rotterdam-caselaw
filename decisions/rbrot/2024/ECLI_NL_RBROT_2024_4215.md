@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:4215"
 published_in: ["Rechtspraak.nl", "NTHR 2024/56, 170", "S&S 2024/115"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2639"]]
 ---
 
 # ECLI:NL:RBROT:2024:4215 Rechtbank Rotterdam , 01-05-2024 / C/10/653610 / HA ZA 23-212; C/10/669490 / HA ZA 23-1032
