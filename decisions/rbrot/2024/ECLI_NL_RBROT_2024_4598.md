@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:4598"
 published_in: ["Rechtspraak.nl", "RCR 2024/58"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2308, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:4598 Rechtbank Rotterdam , 15-05-2024 / C/10/668579 / HA ZA 23-973
