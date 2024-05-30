@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6404"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1500", "Viditax (FutD) 2024071003", "FutD 2024-1585"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:2993, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:6404 Rechtbank Rotterdam , 30-05-2024 / ROT 23/5496
