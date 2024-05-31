@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6160"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2012, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1293"]]
 ---
 
 # ECLI:NL:RBROT:2024:6160 Rechtbank Rotterdam , 31-05-2024 / 10909140 VZ VERZ 24-797
