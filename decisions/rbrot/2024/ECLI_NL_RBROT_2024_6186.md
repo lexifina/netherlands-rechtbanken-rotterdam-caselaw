@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6186"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/230"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2025:560, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:227, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2024:6186 Rechtbank Rotterdam , 09-07-2024 / ROT 18/6190
