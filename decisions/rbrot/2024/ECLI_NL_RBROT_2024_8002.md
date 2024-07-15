@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:8002"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvA 2025/13"]
 ---
 
 # ECLI:NL:RBROT:2024:8002 Rechtbank Rotterdam , 15-07-2024 / C/10/678409 / KG RK 24-522
