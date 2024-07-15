@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6538"
 published_in: ["Rechtspraak.nl", "Notamail 2024/193", "NJF 2024/375", "RVR 2024/77"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3138, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:6538 Rechtbank Rotterdam , 15-07-2024 / C/10/666398 / HA ZA 23-851
