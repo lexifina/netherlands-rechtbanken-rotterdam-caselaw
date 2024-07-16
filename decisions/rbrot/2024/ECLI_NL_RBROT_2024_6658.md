@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6658"
-published_in: ["Rechtspraak.nl", "NLF 2024/1808 met annotatie van Ludwijn Jaeger", "NDFR Nieuws 2024/1731", "NTFR 2024/1706 met annotatie van mr. R.B.H. Beune", "V-N Vandaag 2024/2145", "V-N 2024/53.13 met annotatie van Redactie", "Viditax (FutD) 2024072308", "FutD 2024-1684"]
+published_in: ["Rechtspraak.nl", "NLF 2024/1808 met annotatie van Ludwijn Jaeger", "NDFR Nieuws 2024/1731", "NTFR 2024/1706 met annotatie van mr. R.B.H. Beune", "V-N Vandaag 2024/2145", "V-N 2024/53.13", "Viditax (FutD) 2024072308", "FutD 2024-1684"]
 ---
 
 # ECLI:NL:RBROT:2024:6658 Rechtbank Rotterdam , 16-07-2024 / 83.299972.22
