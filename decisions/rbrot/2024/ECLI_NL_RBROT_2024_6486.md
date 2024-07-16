@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:6486"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5972, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:6486 Rechtbank Rotterdam , 16-07-2024 / ROT 24/5927 + ROT 24/5244
