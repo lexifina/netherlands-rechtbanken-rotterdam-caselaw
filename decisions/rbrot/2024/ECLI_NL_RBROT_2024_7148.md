@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:7148"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0180", "PFR-Updates.nl 2024-0159"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0180", "PFR-Updates.nl 2024-0159", "PR-Updates.nl 2024-0180"]
 ---
 
 # ECLI:NL:RBROT:2024:7148 Rechtbank Rotterdam , 25-07-2024 / C/10/680760 / KG ZA 24-561
