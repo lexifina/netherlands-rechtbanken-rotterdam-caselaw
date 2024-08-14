@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:7580"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3006"]]
 ---
 
 # ECLI:NL:RBROT:2024:7580 Rechtbank Rotterdam , 14-08-2024 / C/10/675214 / HA ZA 24-221
