@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9115"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2283, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:9115 Rechtbank Rotterdam , 16-08-2024 / 10900914 CV EXPL 24-2018
