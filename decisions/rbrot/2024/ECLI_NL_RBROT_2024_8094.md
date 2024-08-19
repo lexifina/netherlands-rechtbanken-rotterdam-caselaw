@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:8094"
 published_in: ["Rechtspraak.nl", "JGR 2024/42 met annotatie van mr. O.P. Swens"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1072, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2024:8094 Rechtbank Rotterdam , 19-08-2024 / ROT 23/649
