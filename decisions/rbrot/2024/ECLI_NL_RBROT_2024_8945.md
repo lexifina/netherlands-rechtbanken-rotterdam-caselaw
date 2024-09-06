@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:8945"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0445", "VAAN-AR-Updates.nl 2024-1168", "AR-Updates.nl 2024-1168", "Sdu Nieuws Arbeidsrecht 2024/351", "JA 2024/173"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0445", "VAAN-AR-Updates.nl 2024-1168", "AR-Updates.nl 2024-1168", "Sdu Nieuws Arbeidsrecht 2024/351", "JA 2024/173", "Jurisprudentie HSE 2024/83"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2970"]]
 ---
 
 # ECLI:NL:RBROT:2024:8945 Rechtbank Rotterdam , 06-09-2024 / 9107603 CV EXPL 21-11169
