@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9239"
 published_in: ["Rechtspraak.nl", "JOR 2024/289 met annotatie van mr. drs. S.M.C. Nuijten", "RF 2025/4", "JONDR 2025/164"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:408, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2024:9239 Rechtbank Rotterdam , 19-09-2024 / ROT 24/5513 en ROT 24/8521
