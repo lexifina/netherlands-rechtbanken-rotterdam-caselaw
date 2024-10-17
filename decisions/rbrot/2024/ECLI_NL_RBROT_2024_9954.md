@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBROT:2024:9954"
 court: "Rechtbank Rotterdam"
 court_code: "RBROT"
-docket: "11142397 CV EXPL 24-2555"
+docket: "11142397 \\ CV EXPL 24-2555"
 decided: "2024-10-17"
 published: "2024-10-13"
 type: "uitspraak"
@@ -10,9 +10,10 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:9954"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2861, Meerdere afhandelingswijzen"]]
 ---
 
-# ECLI:NL:RBROT:2024:9954 Rechtbank Rotterdam , 17-10-2024 / 11142397 CV EXPL 24-2555
+# ECLI:NL:RBROT:2024:9954 Rechtbank Rotterdam , 17-10-2024 / 11142397 \ CV EXPL 24-2555
 
 ## Inhoudsindicatie
 
@@ -34,7 +35,7 @@ in de zaak van
 
 [eiser 1] en [eiser 2] ,
 
-wonende in [plaats 1] ,
+wonende in [woonplaats 1] ,
 
 eisers,
 
@@ -44,7 +45,7 @@ tegen
 
 [gedaagde] ,
 
-wonend te [plaats 2] ,
+wonend te [woonplaats 2] ,
 
 gedaagde,
 
@@ -55,13 +56,13 @@ De partijen worden [eiser 1] , [eiser 2] en [gedaagde] .
 1
 De procedure
 
-Het dossier bestaat uit de volgende processtukken:
+Het dossier bestaat uit de volgende stukken:
 
-de dagvaarding van 23 mei 2024 met bijlagen,
+- de dagvaarding van 23 mei 2024 met bijlagen.
 
-de conclusie van antwoord met bijlagen;
+- de conclusie van antwoord met bijlagen;
 
-het proces-verbaal van de zitting van 18 september 2024.
+- het proces-verbaal van de zitting van 18 september 2024.
 
 2
 De samenvatting van de zaak
@@ -72,7 +73,6 @@ De samenvatting van de zaak
 
 Deze beslissing wordt hieronder uitgelegd.
 
-3
 Wat is er gebeurd
 
 3.1
@@ -104,11 +104,11 @@ De lening staat niet vast
 
 4.2
 
-[eiser 1] heeft ter onderbouwing van de lening een print van een op 28 januari 2024 gedateerde overeenkomst overgelegd. Zij stelt dat zij deze samen met [gedaagde] op haar computer heeft gemaakt en digitaal ondertekend. [gedaagde] betwist dit en voert aan, dat zijn handtekening onder deze tekst is vervalst. De overgelegde uitdraai bevat geen handtekening die [gedaagde] heeft gezet, want [eiser 1] heeft het hele document gemaakt. Omdat nergens de instemming van [gedaagde] uit blijkt, kan aan deze uitdraai geen bewijskracht worden toegekend.
+[eiser 1] heeft ter onderbouwing van de lening een print van een op 28 januari 2024 gedateerde overeenkomst overgelegd. Zij stelt dat zij deze samen met [gedaagde] op haar computer heeft gemaakt en digitaal ondertekend. [gedaagde] betwist dit en voert aan, dat zijn handtekening onder deze tekst is vervalst.De overgelegde uitdraai bevat geen handtekening die [gedaagde] heeft gezet, want [eiser 1] heeft het hele document gemaakt. Omdat nergens de instemming van [gedaagde] uit blijkt, kan aan deze uitdraai geen bewijskracht worden toegekend.
 
 4.3
 
-[eiser 1] heeft nog een verklaring van haar broer overgelegd. Hij heeft haar ‘in de periode van 1 februari’ telefonisch gesproken en toen heeft hij gehoord dat zij haar ex-partner geld zou lenen om de notaris te betalen. Deze verklaring stemt niet overeen met de verklaring van [eiser 1] op de zitting. Zij verklaarde dat zij op 28 januari 2024 samen met [gedaagde] , met wie ze toen juist weer een relatie had, op de bank in haar kamer op haar computer aan de overeenkomst zat te werken toen haar broer belde. [gedaagde] betwist dit, zodat de juistheid van deze verklaring niet vast staat. Zelfs als de verklaring van de broer juist zou zijn, dan nog is dit onvoldoende om te kunnen oordelen dat de lening vast staat.
+[eiser 1] heeft nog een verklaring van haar broer overgelegd. Hij heeft haar ‘in de periode van 1 februari’ telefonisch gesproken en toen heeft hij gehoord dat zij haar ex-partner geld zou lenen om de notaris te betalen. Deze verklaring stemt niet overeen met de verklaring van [eiser 1] op de zitting. Zij verklaarde dat zij op 28 januari 2024 samen met [gedaagde] , met wie ze toen juist weer een relatie had, op de bank in haar kamer op haar computer aan de overeenkomst zat te werken toen haar broer belde. [gedaagde] betwist dit, zodat de juistheid van deze verklaring niet vast staat.Zelfs als de verklaring van de broer juist zou zijn, dan nog is dit onvoldoende om te kunnen oordelen dat de lening vast staat.
 
 4.4
 
@@ -118,7 +118,7 @@ De lening staat niet vast
 
 4.5
 
-[eiser 1] stelt -als de lening niet komt vast te staan- dat zij zonder rechtsgrond € 7.000,00 aan [gedaagde] heeft betaald, zodat hij het bedrag om die reden terug moet betalen.
+[eiser 1] stelt -als de lening niet komt vast te staan- dat zij zonder rechtsgrond €  7.000,00 aan [gedaagde] heeft betaald, zodat hij het bedrag om die reden terug moet betalen.
 
 4.6
 
@@ -126,11 +126,25 @@ De lening staat niet vast
 
 4.7
 
-[gedaagde] neemt over gang van zaken wisselende standpunten in. In zijn conclusie staat dat er over terugbetaling niet is gesproken en op de zitting verklaart hij dat [eiser 1] had gezegd dat hij niet hoefde terug te betalen. Waarom zij een dergelijk bedrag zou schenken legt hij niet uit. Hij heeft dus niet voldoende onderbouwd dat [eiser 1] heeft gezegd dat het om een schenking ging.
+[gedaagde] neemt over reden waarom [eiser 1] hem het geld heeft gegeven wisselende standpunten in. In zijn conclusie staat dat er over terugbetaling niet is gesproken en op de
+
+zitting verklaart hij dat [eiser 1] had gezegd dat hij niet terug hoefde te betalen. Dat
+
+[eiser 1] het geld heeft geschonken blijkt dus onvoldoende.
 
 4.8
 
-Bovendien had [gedaagde] moeten begrijpen, dat de betaling is gedaan, omdat het er toen op leek, dat partijen (toch) samen verder zouden gaan. Dan is een bijdrage in een woning, waar partijen eventueel samen met hun kinderen konden gaan wonen, een investering in de gezamenlijke toekomst. Dat is ofwel een onverplichte betaling ofwel een verrijking van [gedaagde] en een verarming van [eiser 1] voor het zelfde bedrag waar -bij einde relatie- geen grond voor is. Zelfs als het een schenking zou zijn, had hij moeten begrijpen dat deze gedaan was onder de voorwaarde, dat de relatie bestendig zou zijn geworden. In alledrie de gevallen behoort [gedaagde] [eiser 1] terug te betalen. Het bedrag van € 7.000,00 zal dus worden toegewezen.
+Bovendien had [gedaagde] moeten begrijpen, dat de betaling is gedaan, omdat het er
+
+toen op leek, dat partijen (toch) samen verder zouden gaan. Dan is een bijdrage in een woning,
+
+waar partijen eventueel samen met hun kinderen konden gaan wonen, een
+
+investering in de gezamenlijke toekomst. Zelfs als het een schenking zou zijn, had hij
+
+moeten begrijpen dat deze gedaan was onder de voorwaarde, dat de relatie bestendig zou
+
+zijn geworden. Dat ws niet het geval was vrijwel direct na ontvangst van het bedrag was de relatie weer uit.
 
 4.9
 
@@ -172,8 +186,6 @@ Bijlage 1 bij de dagvaarding
 Bijlage 7 bij de dagvaarding
 
 Artikel 6:203 BW
-
-Artikel 6:212 BW
 
 Artikel 21 Rv
 
