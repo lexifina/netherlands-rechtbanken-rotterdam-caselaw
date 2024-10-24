@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:10618"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2024/96"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2899, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:10618 Rechtbank Rotterdam , 24-10-2024 / ROT 24/5001
