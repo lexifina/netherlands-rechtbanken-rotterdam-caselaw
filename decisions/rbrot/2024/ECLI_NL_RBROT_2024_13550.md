@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13550"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0255", "Sdu Nieuws Arbeidsrecht 2025/98"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3135, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2024:13550 Rechtbank Rotterdam , 24-10-2024 / 11318809 VV EXPL 24-462
