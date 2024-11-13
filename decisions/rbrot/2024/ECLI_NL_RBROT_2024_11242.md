@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11242"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112107", "FutD 2024-2431", "Sdu Nieuws Belastingzaken 2024/1362", "V-N Vandaag 2024/2355", "PR-Updates.nl 2024-0252", "PR-Updates.nl PR-2024-0252", "NDFR Nieuws 2024/2021", "NTFR 2024/1998 met annotatie van mr. R.B.H. Beune", "JA 2025/9", "V-N 2025/8.28 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112107", "FutD 2024-2431", "Sdu Nieuws Belastingzaken 2024/1362", "V-N Vandaag 2024/2355", "PR-Updates.nl 2024-0252", "PR-Updates.nl PR-2024-0252", "NDFR Nieuws 2024/2021", "NTFR 2024/1998 met annotatie van mr. R.B.H. Beune", "JA 2025/9", "V-N 2025/8.28"]
 ---
 
 # ECLI:NL:RBROT:2024:11242 Rechtbank Rotterdam , 13-11-2024 / C/10/664892/ HA ZA 23-768
