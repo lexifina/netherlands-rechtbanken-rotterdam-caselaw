@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11383"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2345", "JB 2025/38 met annotatie van J.H. Roelfsema", "V-N 2025/7.25.24"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2345", "JB 2025/38 met annotatie van J.H. Roelfsema", "V-N 2025/7.25.24", "JIN 2025/113 met annotatie van mr. J.H. Roelfsema"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:3447, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBROT:2024:11383 Rechtbank Rotterdam , 15-11-2024 / ROT 22/801 e.v.
