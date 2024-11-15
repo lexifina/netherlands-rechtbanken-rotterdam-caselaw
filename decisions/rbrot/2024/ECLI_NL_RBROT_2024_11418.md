@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:11418"
-published_in: ["Rechtspraak.nl", "FutD 2024-2464", "NLF 2024/2596", "Viditax (FutD) 2024111806", "V-N Vandaag 2024/2394", "V-N 2025/9.21 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "FutD 2024-2464", "NLF 2024/2596", "Viditax (FutD) 2024111806", "V-N Vandaag 2024/2394", "V-N 2025/9.21"]
 ---
 
 # ECLI:NL:RBROT:2024:11418 Rechtbank Rotterdam , 15-11-2024 / ROT 23/5468
