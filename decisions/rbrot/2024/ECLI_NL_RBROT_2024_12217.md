@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:12217"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2025/88"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2188, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2024:12217 Rechtbank Rotterdam , 06-12-2024 / C/10/688106 / KG ZA 24-1010
