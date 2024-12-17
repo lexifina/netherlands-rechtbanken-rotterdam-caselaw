@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13554"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2025-0045"]
 ---
 
 # ECLI:NL:RBROT:2024:13554 Rechtbank Rotterdam , 17-12-2024 / C/10/657459 / FA RK 23-3418  en  C/10/664756 / FA RK 23-6335
