@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13033"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2793, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:13033 Rechtbank Rotterdam , 17-12-2024 / ROT 23/4481
