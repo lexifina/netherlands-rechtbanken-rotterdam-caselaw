@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:14142"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/736", "NTFR 2026/827 met annotatie van mr. R.B.H. Beune"]
 ---
 
 # ECLI:NL:RBROT:2024:14142 Rechtbank Rotterdam , 19-12-2024 / 10-012796-22
