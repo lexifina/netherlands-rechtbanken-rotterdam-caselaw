@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:12955"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4427, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2024:12955 Rechtbank Rotterdam , 23-12-2024 / ROT 23/6984
