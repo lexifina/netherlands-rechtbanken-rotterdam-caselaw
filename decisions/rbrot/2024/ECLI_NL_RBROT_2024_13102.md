@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2024:13102"
-published_in: ["Rechtspraak.nl", "PJ 2025/11 met annotatie van E. Lutjens", "PR-Updates.nl PR-2025-0004"]
+published_in: ["Rechtspraak.nl", "PJ 2025/11 met annotatie van E. Lutjens", "PR-Updates.nl PR-2025-0004", "PR-Updates.nl 2025-0004"]
 ---
 
 # ECLI:NL:RBROT:2024:13102 Rechtbank Rotterdam , 27-12-2024 / C/10/689951 / KG ZA 24-1125
