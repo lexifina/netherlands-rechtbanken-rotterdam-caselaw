@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4231"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0454", "AR-Updates.nl 2025-0454"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:893"]]
 ---
 
 # ECLI:NL:RBROT:2025:4231 Rechtbank Rotterdam , 08-01-2025 / 11339173 HA VERZ 24-73
