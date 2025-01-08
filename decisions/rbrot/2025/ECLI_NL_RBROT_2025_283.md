@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:283"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/9"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:195, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:429, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2025:283 Rechtbank Rotterdam , 08-01-2025 / ROT 23/7777 e.v.
