@@ -35,7 +35,7 @@ in de zaak van
 [persoon A]
 ,
 
-woonplaats: Gorinchem,
+woonplaats: [woonplaats] ,
 
 verzoekster, verweerster in het tegenverzoek,
 
