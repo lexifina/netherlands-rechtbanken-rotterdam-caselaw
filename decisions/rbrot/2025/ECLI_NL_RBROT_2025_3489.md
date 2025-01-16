@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:3489"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.44", "FJR 2026/40.47"]
 ---
 
 # ECLI:NL:RBROT:2025:3489 Rechtbank Rotterdam , 16-01-2025 / 11415546 GZ VERZ 24-8661
