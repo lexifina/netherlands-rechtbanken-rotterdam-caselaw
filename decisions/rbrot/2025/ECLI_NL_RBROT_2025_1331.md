@@ -355,6 +355,6 @@ Dit vonnis is gewezen door mr. A.M. van Kalmthout en in het openbaar uitgesproke
 
 34650
 
-Hoge Raad 12 februari 2010, ECLI:NL:HR:2010:BK3570 (https://classic.navigator.nl/document/id1078dc5d5064d2fdfbe0daeb73c55480?anchor=id-1a8489f71861afa3d974dc64db6d6623) (CZ-arrest) en Hoge Raad 23 april 2010, ECLI:NL:HR:2010:BL5262 (Haliburton)
+Hoge Raad 12 februari 2010, ECLI:NL:HR:2010:BK3570 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK3570) (CZ-arrest) en Hoge Raad 23 april 2010, ECLI:NL:HR:2010:BL5262 (Haliburton)
 
 De tot 1 januari 2007 geldende Pensioen- en spaarfondsenwet (PSW) dan wel de per 1 januari 2007 geldende Pensioenwet (Pw) dan wel artikel 7:613 BW
