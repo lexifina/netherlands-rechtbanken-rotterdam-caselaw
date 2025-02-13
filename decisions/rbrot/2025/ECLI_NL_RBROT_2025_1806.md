@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:1806"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2025/12 met annotatie van mr. drs. J.A. Lisman"]
 ---
 
 # ECLI:NL:RBROT:2025:1806 Rechtbank Rotterdam , 13-02-2025 / ROT 23/5310
