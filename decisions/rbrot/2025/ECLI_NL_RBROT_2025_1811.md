@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:1811"
-published_in: ["Rechtspraak.nl", "GJ 2025/51"]
+published_in: ["Rechtspraak.nl", "GJ 2025/51", "JGR 2025/13 met annotatie van mr. O.P. Swens"]
 ---
 
 # ECLI:NL:RBROT:2025:1811 Rechtbank Rotterdam , 13-02-2025 / ROT 23/5311
