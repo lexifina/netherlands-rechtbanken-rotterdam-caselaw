@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:2491"
 published_in: ["Rechtspraak.nl", "NLF 2025/0569"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:319, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2025:2491 Rechtbank Rotterdam , 20-02-2025 / ROT 23/2809 t/m ROT 23/2816, ROT 23/2819, ROT 23/2821, ROT 23/2824, ROT 23/2827, ROT 23/2829 t/m ROT 23/2831, ROT 23/2834, ROT 23/2837 en ROT 23/2840
