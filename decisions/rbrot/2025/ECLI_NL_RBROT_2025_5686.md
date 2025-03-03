@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:5686"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvA 2025/68"]
 ---
 
 # ECLI:NL:RBROT:2025:5686 Rechtbank Rotterdam , 03-03-2025 / C/10/691700 / KG ZA 24-1234
