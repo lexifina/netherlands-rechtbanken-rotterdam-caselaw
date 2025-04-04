@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4055"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0476", "VAAN-AR-Updates.nl 2025-0476", "Prg. 2025/141"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:658, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2025:4055 Rechtbank Rotterdam , 04-04-2025 / 11153989 CV EXPL 24-14797
