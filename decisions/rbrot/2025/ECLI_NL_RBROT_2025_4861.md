@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4861"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5894, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBROT:2025:4861 Rechtbank Rotterdam , 15-04-2025 / ROT 25/2114 en ROT 25/1914
