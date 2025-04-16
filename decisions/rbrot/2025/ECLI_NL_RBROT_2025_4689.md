@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:4689"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet Ruimte 2026/350 met annotatie van M.G.O. de Lange", "Module Ruimtelijke Ordening 2026/8877 met annotatie van M.G.O. de Lange"]
 ---
 
 # ECLI:NL:RBROT:2025:4689 Rechtbank Rotterdam , 16-04-2025 / ROT 25/2407 & ROT 25/2053
