@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:8907"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/40"]
 ---
 
 # ECLI:NL:RBROT:2025:8907 Rechtbank Rotterdam , 23-04-2025 / C/10/679625 / HA ZA 24-452
