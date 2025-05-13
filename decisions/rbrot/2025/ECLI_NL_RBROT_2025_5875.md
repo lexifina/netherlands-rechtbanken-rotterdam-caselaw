@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Weigering aanwijzing stichting als briefadresgever op basis van artikel 2.42, aanhef en onder b, Wet BRP. Beroep gegrond, terugverwijzing.
+Weigering aanwijzing stichting als briefadresgever op basis van artikel 2.42, aanhef en onder b, Wet BRP. Beroep gegrond, terugverwijzing. Zie ook ECLI:NL:RBROT:2026:13635
 
 ## Uitspraak
 
@@ -28,7 +28,7 @@ zaaknummer: ROT 24/4581
 
 uitspraak van de enkelvoudige kamer van 13 mei 2025 in de zaak tussen
 
-[eiseres], uit [plaatsnaam], eiseres
+[eiseres] , uit [plaatsnaam] , eiseres
 
 (gemachtigde: mr. P.J. de Bruin),
 
