@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9078"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2830, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2025:9078 Rechtbank Rotterdam , 06-06-2025 / 11459654 VZ VERZ 24-10508
