@@ -10,6 +10,7 @@ procedure: "Proces-verbaal"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:10062"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3652, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2025:10062 Rechtbank Rotterdam , 13-06-2025 / ROT 25/3878 en ROT 25/4231
