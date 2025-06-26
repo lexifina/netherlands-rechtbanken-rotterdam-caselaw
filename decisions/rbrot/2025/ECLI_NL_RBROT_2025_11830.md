@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:11830"
-published_in: ["Rechtspraak.nl", "NJF 2025/494"]
+published_in: ["Rechtspraak.nl", "NJF 2025/494", "JBPr 2026/32 met annotatie van prof. mr. A. Hammerstein", "S&S 2026/105"]
 ---
 
 # ECLI:NL:RBROT:2025:11830 Rechtbank Rotterdam , 26-06-2025 / C/10/699596 /HARK 25-465
