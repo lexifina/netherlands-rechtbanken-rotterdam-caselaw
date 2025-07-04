@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:7739"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:415, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2025:7739 Rechtbank Rotterdam , 04-07-2025 / ROT 24/2353
