@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15656"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/90 met annotatie van J.L. Tiel Groenestege, mr. I.J. Kohlen"]
 ---
 
 # ECLI:NL:RBROT:2025:15656 Rechtbank Rotterdam , 04-07-2025 / C/10/698877 / KG ZA 25-383
