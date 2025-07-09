@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:8931"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RO 2026/37", "JONDR 2026/446"]
 ---
 
 # ECLI:NL:RBROT:2025:8931 Rechtbank Rotterdam , 09-07-2025 / 679677 HA ZA 24-457
