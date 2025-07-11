@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Tussenuitspraak. Redelijkheid tarieven voor warmte voorafgaande aan het invoeren van een maximumtarief. Nadere motivering nodig t.a.v. kosten. ACM wordt in de gelegenheid gesteld het motiveringsgebrek te herstellen.
+Tussenuitspraak. Redelijkheid tarieven voor warmte voorafgaande aan het invoeren van een maximumtarief. Nadere motivering nodig t.a.v. kosten. ACM wordt in de gelegenheid gesteld het motiveringsgebrek te herstellen. Zie ook ECLI:NL:RBROT:2026:8970 (einduitspraak) en ECLI:NL:RBROT:2025:14479 (tweede tussenuitspraak)
 
 ## Uitspraak
 
