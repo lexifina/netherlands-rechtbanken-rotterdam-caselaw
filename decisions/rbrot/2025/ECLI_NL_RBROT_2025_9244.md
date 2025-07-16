@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9244"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3660, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2025:9244 Rechtbank Rotterdam , 16-07-2025 / ROT 24/8978
