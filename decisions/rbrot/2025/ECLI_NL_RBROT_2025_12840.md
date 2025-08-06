@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12840"
 published_in: ["Rechtspraak.nl", "NJFCZ 2026/10"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2498, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2555, Overig"]]
 ---
 
 # ECLI:NL:RBROT:2025:12840 Rechtbank Rotterdam , 06-08-2025 / C/10/704101 / KG ZA 25-772
