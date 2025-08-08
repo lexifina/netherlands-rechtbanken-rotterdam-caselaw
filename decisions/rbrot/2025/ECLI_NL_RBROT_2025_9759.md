@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9759"
-published_in: ["Rechtspraak.nl", "TT 2025/46 met annotatie van mr. T.J. Roest Crollius"]
+published_in: ["Rechtspraak.nl", "TT 2025/46 met annotatie van mr. T.J. Roest Crollius", "NOvA-Tuchtrecht-Updates.nl 2018-9999", "NOvA-Tuchtrecht-Updates.nl 2025-1235"]
 ---
 
 # ECLI:NL:RBROT:2025:9759 Rechtbank Rotterdam , 08-08-2025 / 11500993 CV EXPL 25-1554
