@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:9972"
-published_in: ["Rechtspraak.nl", "JOR 2026/31 met annotatie van prof. mr. D.R. Doorenbos", "JONDR 2026/238"]
+published_in: ["Rechtspraak.nl", "JOR 2026/31 met annotatie van prof. mr. D.R. Doorenbos", "JONDR 2026/238", "RF 2026/36"]
 ---
 
 # ECLI:NL:RBROT:2025:9972 Rechtbank Rotterdam , 20-08-2025 / ROT 24/5240
