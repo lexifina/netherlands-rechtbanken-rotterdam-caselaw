@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:11474"
 published_in: ["Rechtspraak.nl", "JBP 2025/179", "Module Privacy & AVG 2025/4488"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2861, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBROT:2025:11474 Rechtbank Rotterdam , 22-09-2025 / C/10/703288 / KG ZA 25-729
