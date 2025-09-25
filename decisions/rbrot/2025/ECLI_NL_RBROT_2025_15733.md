@@ -194,7 +194,7 @@ Van belang is bijvoorbeeld ook of er een vroegsignalering zoals bedoeld in artik
 
 4.9
 
-De tweede melding in het kader van vroegsignalering is gedaan op 21 februari 2025 en was wel compleet. Naar aanleiding van deze melding heeft schuldhulpverlening contact opgenomen met [naam 1 en 2] en is de hulp goed op gang gekomen. Zo heeft Jongmans direct contact opgenomen met de bewindvoerder en zijn (de goederen die (zullen) toebehoren aan) [naam 1 en 2] kort daarop ook daadwerkelijk onder bewind gesteld. Sindsdien zijn de schulden van [naam 1 en 2] in kaart gebracht en wordt de huur elke maand tijdig betaald.
+De tweede melding in het kader van vroegsignalering is gedaan op 21 februari 2025 en was wel compleet. Naar aanleiding van deze melding heeft schuldhulpverlening contact opgenomen met [naam 1 en 2] en is de hulp goed op gang gekomen. Zo heeft [naam 4] direct contact opgenomen met de bewindvoerder en zijn (de goederen die (zullen) toebehoren aan) [naam 1 en 2] kort daarop ook daadwerkelijk onder bewind gesteld. Sindsdien zijn de schulden van [naam 1 en 2] in kaart gebracht en wordt de huur elke maand tijdig betaald.
 
 4.10
 
