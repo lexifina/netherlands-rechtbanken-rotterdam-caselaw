@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:13294"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.9"]
 ---
 
 # ECLI:NL:RBROT:2025:13294 Rechtbank Rotterdam , 30-09-2025 / C/10/701869 / FA RK 25-4744
