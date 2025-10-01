@@ -34,9 +34,10 @@ in de zaak van
 
 de besloten vennootschap met beperkte aansprakelijkheid
 
-CLEO CLINICS HOLDING B.V.,
+[bedrijf A]
+,
 
-gevestigd te Rotterdam,
+gevestigd te [vestigingsplaats A] ,
 
 eiseres in de hoofdzaak,
 
@@ -48,14 +49,14 @@ tegen
 
 de besloten vennootschap met beperkte aansprakelijkheid
 
-[bedrijf A]
+[bedrijf B]
 ,
 
 mede handelend onder de naam
 
-[handelsnaam A] ,
+[handelsnaam B] ,
 
-gevestigd te [vestigingsplaats A] ,
+gevestigd te [vestigingsplaats B] ,
 
 gedaagde in de hoofdzaak,
 
@@ -63,7 +64,7 @@ eiseres in het incident,
 
 advocaat mr. C.J.H. Anker.
 
-Partijen worden hierna Cleo en [bedrijf A] genoemd.
+Partijen worden hierna [bedrijf A] en [bedrijf B] genoemd.
 
 1
 De procedure
@@ -74,62 +75,62 @@ Het verloop van de procedure blijkt uit:
 
 de dagvaarding van 1 april 2025, met producties 1 tot en met 28,
 
-de incidentele conclusie tot oproeping in vrijwaring van [bedrijf A] van 10 juli 2025, met producties 1 en 2,
+de incidentele conclusie tot oproeping in vrijwaring van [bedrijf B] van 10 juli 2025, met producties 1 en 2,
 
-de op 23 juli 2025 aan Cleo verleende akte niet-dienen voor antwoord in het incident.
+de op 23 juli 2025 aan [bedrijf A] verleende akte niet-dienen voor antwoord in het incident.
 
 1.2.
 
-Ten slotte is vonnis bepaald in het incident van [bedrijf A] .
+Ten slotte is vonnis bepaald in het incident van [bedrijf B] .
 
 2
 Het geschil in de hoofdzaak
 
 2.1.
 
-Cleo vordert – samengevat – bij vonnis uitvoerbaar bij voorraad, dat de rechtbank:
+[bedrijf A] vordert – samengevat – bij vonnis uitvoerbaar bij voorraad, dat de rechtbank:
 
-[bedrijf A] veroordeelt tot betaling van een schadevergoeding aan Cleo van € 51.350,00 exclusief btw,
+[bedrijf B] veroordeelt tot betaling van een schadevergoeding aan [bedrijf A] van € 51.350,00 exclusief btw,
 
-voor recht verklaart dat [bedrijf A] toerekenbaar tekort is geschoten in de nakoming van de overeenkomst tussen partijen,
+voor recht verklaart dat [bedrijf B] toerekenbaar tekort is geschoten in de nakoming van de overeenkomst tussen partijen,
 
-voor recht verklaart dat [bedrijf A] aansprakelijk is voor alle schade die Cleo heeft en nog zal lijden naar aanleiding van de toerekenbare tekortkoming in de nakoming van de verbintenissen die voortvloeien uit de overeenkomst tussen partijen,
+voor recht verklaart dat [bedrijf B] aansprakelijk is voor alle schade die [bedrijf A] heeft en nog zal lijden naar aanleiding van de toerekenbare tekortkoming in de nakoming van de verbintenissen die voortvloeien uit de overeenkomst tussen partijen,
 
-voor recht verklaart dat [bedrijf A] aansprakelijk is voor alle vermogensschade die Cleo zal lijden om een derde partij c.q. aannemer de opdracht te geven om de kliniek van Cleo in een staat te brengen conform de door partijen ondertekende offerte en visualisatie,
+voor recht verklaart dat [bedrijf B] aansprakelijk is voor alle vermogensschade die [bedrijf A] zal lijden om een derde partij c.q. aannemer de opdracht te geven om de kliniek van [bedrijf A] in een staat te brengen conform de door partijen ondertekende offerte en visualisatie,
 
-voor recht te verklaren dat [bedrijf A] aansprakelijk is voor alle omzetderving die Cleo sinds de fatale opleverdatum heeft geleden,
+voor recht te verklaren dat [bedrijf B] aansprakelijk is voor alle omzetderving die [bedrijf A] sinds de fatale opleverdatum heeft geleden,
 
-[bedrijf A] veroordeelt tot betaling van de buitengerechtelijke incassokosten aan Cleo van € 1.288,50, te vermeerderen met rente,
+[bedrijf B] veroordeelt tot betaling van de buitengerechtelijke incassokosten aan [bedrijf A] van € 1.288,50, te vermeerderen met rente,
 
-[bedrijf A] veroordeelt in de proceskosten, de beslagkosten en de nakosten, te vermeerderen met rente.
+[bedrijf B] veroordeelt in de proceskosten, de beslagkosten en de nakosten, te vermeerderen met rente.
 
 2.2.
 
-[bedrijf A] heeft nog niet voor antwoord geconcludeerd.
+[bedrijf B] heeft nog niet voor antwoord geconcludeerd.
 
 3
 Het geschil in het incident
 
 3.1.
 
-[bedrijf A] vordert toestemming om in de hoofdprocedure op te roepen in vrijwaring:
+[bedrijf B] vordert toestemming om in de hoofdprocedure op te roepen in vrijwaring:
 
-de heer [persoon B] , handelend onder de naam [handelsnaam B] , zaakdoende te ( [postcode 1] ) Amsterdam aan de [adres B] (hierna: [handelsnaam B] ), en
+de heer [persoon B] , handelend onder de naam [handelsnaam C] , zaakdoende te ( [postcode 1] ) Amsterdam aan de [adres B] (hierna: [handelsnaam C] ), en
 
 de besloten vennootschap met beperkte aansprakelijkheid [bedrijf C] , gevestigd te ( [postcode 2] ) Spijkenisse aan de [adres C] (hierna: [bedrijf C] ).
 
-Daarnaast vordert [bedrijf A] dat de rechtbank Cleo veroordeelt in de proceskosten.
+Daarnaast vordert [bedrijf B] dat de rechtbank [bedrijf A] veroordeelt in de proceskosten.
 
 3.2.
 
-[bedrijf A] motiveert die vordering als volgt. De hoofdprocedure ziet op de uitvoering van de werkzaamheden van [bedrijf A] in de kliniek van Cleo. Bij de uitvoering van het werk heeft [bedrijf A] gebruik gemaakt van verschillende onderaannemers. Uit het schaderapport van Dekra, dat door Cleo is overgelegd in de hoofdprocedure, blijkt dat vooral het schilderwerk, stucwerk, en het tegelwerk gebrekkig zijn uitgevoerd. Deze werkzaamheden zijn verricht door onderaannemers. De [handelsnaam B] heeft het schilder- en stucwerk uitgevoerd en [bedrijf C] heeft het tegelwerk uitgevoerd. Als vast komt te staan dat het uitgevoerde werk gebrekkig is, hebben De [handelsnaam B] en [bedrijf C] wanprestatie gepleegd jegens [bedrijf A] . Om die reden heeft [bedrijf A] gronden om de voorgenoemde partijen op te roepen in vrijwaring.
+[bedrijf B] motiveert die vordering als volgt. De hoofdprocedure ziet op de uitvoering van de werkzaamheden van [bedrijf B] in de kliniek van [bedrijf A] . Bij de uitvoering van het werk heeft [bedrijf B] gebruik gemaakt van verschillende onderaannemers. Uit het schaderapport van Dekra, dat door [bedrijf A] is overgelegd in de hoofdprocedure, blijkt dat vooral het schilderwerk, stucwerk, en het tegelwerk gebrekkig zijn uitgevoerd. Deze werkzaamheden zijn verricht door onderaannemers. De [handelsnaam C] heeft het schilder- en stucwerk uitgevoerd en [bedrijf C] heeft het tegelwerk uitgevoerd. Als vast komt te staan dat het uitgevoerde werk gebrekkig is, hebben De [handelsnaam C] en [bedrijf C] wanprestatie gepleegd jegens [bedrijf B] . Om die reden heeft [bedrijf B] gronden om de voorgenoemde partijen op te roepen in vrijwaring.
 
 4
 De beoordeling in het incident
 
 4.1.
 
-Op grond van artikel 209 Rv beslist de rechtbank eerst op de door [bedrijf A] opgeworpen incidentele vordering. [bedrijf A] heeft deze vorderingen tijdig en vóór alle weren ingesteld.
+Op grond van artikel 209 Rv beslist de rechtbank eerst op de door [bedrijf B] opgeworpen incidentele vordering. [bedrijf B] heeft deze vorderingen tijdig en vóór alle weren ingesteld.
 
 4.2.
 
@@ -139,7 +140,7 @@ Toewijzing vrijwaring
 
 4.3.
 
-De rechtbank wijst de vordering van [bedrijf A] toe. [bedrijf A] heeft voldoende gesteld en onderbouwd dat tussen haar en de in vrijwaring op te roepen partijen een rechtsverhouding bestaat die tot vrijwaring verplicht. Er is ook geen verweer gevoerd tegen de gevorderde toestemming.
+De rechtbank wijst de vordering van [bedrijf B] toe. [bedrijf B] heeft voldoende gesteld en onderbouwd dat tussen haar en de in vrijwaring op te roepen partijen een rechtsverhouding bestaat die tot vrijwaring verplicht. Er is ook geen verweer gevoerd tegen de gevorderde toestemming.
 
 Compensatie van de proceskosten
 
@@ -156,9 +157,9 @@ in het incident
 
 5.1.
 
-staat [bedrijf A] toe om de volgende partijen in vrijwaring te dagvaarden tegen de rolzitting van 12 november 2025:
+staat [bedrijf B] toe om de volgende partijen in vrijwaring te dagvaarden tegen de rolzitting van 12 november 2025:
 
-de heer [persoon B] , handelend onder de naam [handelsnaam B] , zaakdoende te ( [postcode 1] ) Amsterdam aan de [adres B] , en
+de heer [persoon B] , handelend onder de naam [handelsnaam C] , zaakdoende te ( [postcode 1] ) Amsterdam aan de [adres B] , en
 
 de besloten vennootschap met beperkte aansprakelijkheid [bedrijf C] ., gevestigd te ( [postcode 2] ) Spijkenisse aan de [adres C] .
 
@@ -170,7 +171,7 @@ in de hoofdzaak
 
 5.3.
 
-verwijst de zaak naar de rolzitting van 12 november 2025 voor conclusie van antwoord van [bedrijf A] ,
+verwijst de zaak naar de rolzitting van 12 november 2025 voor conclusie van antwoord van [bedrijf B] ,
 
 Dit vonnis is gewezen door mr. J.M.J. Arts. Het is ondertekend door de rolrechter en in het openbaar uitgesproken op 1 oktober 2025.
 
