@@ -38,7 +38,7 @@ uitspraakdatum: 2 oktober 2025
 
 wonende te [adres]
 
-[postcode]  [woonplaats],
+[postcode]  [woonplaats] ,
 
 verzoeker.
 
@@ -53,11 +53,11 @@ Ter zitting van 2 oktober 2025 zijn verschenen en gehoord:
 
 verzoeker;
 
-mevrouw E.J.H. Dits-Roest, werkzaam bij Geldplein (hierna: schuldhulpverlening);
+mevrouw [persoon A] , werkzaam bij Geldplein (hierna: schuldhulpverlening);
 
-mevrouw N.C. Noordzij, werkzaam bij Pameijer (hierna: begeleiding);
+mevrouw [persoon B] , werkzaam bij Pameijer (hierna: begeleiding);
 
-de heer K. Raghoenath, werkzaam bij VGO Bewind (hierna: beschermings-bewindvoerder).
+de heer [naam beschermings-bewindvoerder] , werkzaam bij VGO Bewind (hierna: beschermings-bewindvoerder).
 
 GGN Mastering Credit B.V. heeft namens Stichting Hef Wonen (hierna: verweerster) voorafgaand aan de zitting op 17 september 2025 aan de rechtbank een verweerschrift toegezonden. In dit verweerschrift is meegedeeld dat verweerster niet ter zitting zal verschijnen.
 
@@ -105,7 +105,7 @@ De beslissing
 
 De rechtbank:
 
-- schort de tenuitvoerlegging op van het op 5 juni 2025 op verzoek van verweerster uitgesproken vonnis van deze rechtbank tot ontruiming van de huurwoning van verzoeker gelegen aan [adres], voor de duur van deze voorziening en verlengt de huurovereenkomst zoals deze tussen partijen bestaat of bestond voor de duur van deze voorziening;
+- schort de tenuitvoerlegging op van het op 5 juni 2025 op verzoek van verweerster uitgesproken vonnis van deze rechtbank tot ontruiming van de huurwoning van verzoeker gelegen aan [adres] , voor de duur van deze voorziening en verlengt de huurovereenkomst zoals deze tussen partijen bestaat of bestond voor de duur van deze voorziening;
 
 - bepaalt dat de genoemde voorziening geldt voor de duur van zes maanden vanaf
 
