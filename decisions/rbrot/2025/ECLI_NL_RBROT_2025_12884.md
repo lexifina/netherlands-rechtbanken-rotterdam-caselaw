@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12884"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/36 met annotatie van mr. J.F. Groen"]
 ---
 
 # ECLI:NL:RBROT:2025:12884 Rechtbank Rotterdam , 03-10-2025 / C/10/699725 / FA RK 25-3795
