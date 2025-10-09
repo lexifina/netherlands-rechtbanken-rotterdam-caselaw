@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15529"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0083"]
 ---
 
 # ECLI:NL:RBROT:2025:15529 Rechtbank Rotterdam , 09-10-2025 / C/10/705341 / FA RK 25-6362
