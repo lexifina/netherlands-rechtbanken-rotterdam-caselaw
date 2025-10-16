@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12093"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0218"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0218", "FJR 2026/46.52"]
 ---
 
 # ECLI:NL:RBROT:2025:12093 Rechtbank Rotterdam , 16-10-2025 / C/10/703098 / FA RK 25-5291
