@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBROT:2025:12917"
 court: "Rechtbank Rotterdam"
 court_code: "RBROT"
-docket: "Zaaknummer: C/10/706898 / JE RK 25-1928"
+docket: "C/10/706898 / JE RK 25-1928"
 decided: "2025-10-22"
 published: "2025-11-05"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:129
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBROT:2025:12917 Rechtbank Rotterdam , 22-10-2025 / Zaaknummer: C/10/706898 / JE RK 25-1928
+# ECLI:NL:RBROT:2025:12917 Rechtbank Rotterdam , 22-10-2025 / C/10/706898 / JE RK 25-1928
 
 ## Inhoudsindicatie
 
