@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:13010"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2025/461"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2025/461", "JERF 2026/85"]
 ---
 
 # ECLI:NL:RBROT:2025:13010 Rechtbank Rotterdam , 22-10-2025 / C/10/704257 / HA RK 25-745
