@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:13014"
-published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2025/176"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2025/176", "S&S 2026/68"]
 ---
 
 # ECLI:NL:RBROT:2025:13014 Rechtbank Rotterdam , 24-10-2025 / 11142712 CV EXPL 24-14429
