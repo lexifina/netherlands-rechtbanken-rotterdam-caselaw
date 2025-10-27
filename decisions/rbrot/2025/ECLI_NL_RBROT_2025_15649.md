@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15649"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0040", "ERF-Updates.nl 2026-0125", "VEAN-ERF-Updates.nl 2026-0125", "JERF Actueel 2026/58"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0040", "ERF-Updates.nl 2026-0125", "VEAN-ERF-Updates.nl 2026-0125", "JERF Actueel 2026/58", "JERF 2026/65 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBROT:2025:15649 Rechtbank Rotterdam , 27-10-2025 / 11755526 VZ VERZ 25-4464
