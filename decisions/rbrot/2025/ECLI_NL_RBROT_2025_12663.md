@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12663"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3083, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2025:12663 Rechtbank Rotterdam , 27-10-2025 / C/10/706544 / KG ZA 25-918 en C/10/707820 / KG ZA 25-997
