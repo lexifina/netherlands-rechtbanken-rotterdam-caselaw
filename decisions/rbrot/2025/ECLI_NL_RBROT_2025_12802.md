@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12802"
-published_in: ["Rechtspraak.nl", "RVR 2025/112", "JAAN 2026/31 met annotatie van mr. dr. P. Heijnsbroek"]
+published_in: ["Rechtspraak.nl", "RVR 2025/112", "JAAN 2026/31 met annotatie van mr. dr. P. Heijnsbroek", "Gst. 2026/59 met annotatie van T.H.G. Robbe"]
 ---
 
 # ECLI:NL:RBROT:2025:12802 Rechtbank Rotterdam , 28-10-2025 / C/10/706386 / KG ZA 25-914
