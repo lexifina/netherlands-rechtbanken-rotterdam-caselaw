@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:12984"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1468", "RAR 2026/23"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2698, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2025:12984 Rechtbank Rotterdam , 30-10-2025 / 11780116 VZ VERZ 25-4867
