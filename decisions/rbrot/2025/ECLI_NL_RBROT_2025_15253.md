@@ -42,7 +42,7 @@ advocaat: mr. W. Boeters,
 
 tegen
 
-[eiser]
+[gedaagde]
 ,
 
 wonende te Gouda,
@@ -53,11 +53,11 @@ eiser in reconventie,
 
 advocaat: mr. J.O. Bohr.
 
-Partijen worden hierna De Veiligheidsgroup en [eiser] genoemd.
+Partijen worden hierna De Veiligheidsgroup en [gedaagde] genoemd.
 
 De zaak in het kort
 
-De Veiligheidsgroup en [eiser] hebben een overeenkomst van opdracht gesloten, inhoudende dat [eiser] een IT-werkproces en -infrastructuur ging ontwikkelen tegen betaling door De Veiligheidsgroup van loon (op een termijn van uiterlijk 36 maanden na de operationele start) van in totaal € 37.390,00. De overeenkomst is voortijdig geëindigd. [eiser] heeft de opdracht niet afgemaakt en het werk niet opgeleverd. De Veiligheidsgroup heeft [eiser] niet betaald. In dit kort geding vordert De Veiligheidsgroup afgifte door [eiser] van bedrijfsmiddelen (waaronder het technisch fundament van de website). [eiser] vordert betaling door De Veiligheidsgroup van € 37.390,00. De vorderingen worden gedeeltelijk toegewezen.
+De Veiligheidsgroup en [gedaagde] hebben een overeenkomst van opdracht gesloten, inhoudende dat [gedaagde] een IT-werkproces en -infrastructuur ging ontwikkelen tegen betaling door De Veiligheidsgroup van loon (op een termijn van uiterlijk 36 maanden na de operationele start) van in totaal € 37.390,00. De overeenkomst is voortijdig geëindigd. [gedaagde] heeft de opdracht niet afgemaakt en het werk niet opgeleverd. De Veiligheidsgroup heeft [gedaagde] niet betaald. In dit kort geding vordert De Veiligheidsgroup afgifte door [gedaagde] van bedrijfsmiddelen (waaronder het technisch fundament van de website). [gedaagde] vordert betaling door De Veiligheidsgroup van € 37.390,00. De vorderingen worden gedeeltelijk toegewezen.
 
 1
 De procedure
@@ -84,20 +84,20 @@ De mondelinge behandeling heeft plaatsgevonden op 17 september 2025.
 
 1.3.
 
-Na de mondelinge behandeling is de zaak aangehouden in verband met onderhandelingen tussen partijen over een regeling. Bij brief van 24 oktober 2025 heeft mr. Boeters namens De Veiligheidsgroup verzocht om heropening van het debat, omdat uit een definitief opleveringsrapport was gebleken dat [eiser] slechts 21% van de opdracht zou hebben voltooid. Mr. Bohr heeft dit namens [eiser] betwist en gesteld dat er geen grond was voor heropening van het debat. De voorzieningenrechter heeft kennisgenomen van de standpunten van partijen, maar daarin geen aanleiding gezien om het debat te heropenen. De vonnisdatum is bepaald op vandaag.
+Na de mondelinge behandeling is de zaak aangehouden in verband met onderhandelingen tussen partijen over een regeling. Bij brief van 24 oktober 2025 heeft mr. Boeters namens De Veiligheidsgroup verzocht om heropening van het debat, omdat uit een definitief opleveringsrapport was gebleken dat [gedaagde] slechts 21% van de opdracht zou hebben voltooid. Mr. Bohr heeft dit namens [gedaagde] betwist en gesteld dat er geen grond was voor heropening van het debat. De voorzieningenrechter heeft kennisgenomen van de standpunten van partijen, maar daarin geen aanleiding gezien om het debat te heropenen. De vonnisdatum is bepaald op vandaag.
 
 2
 De feiten
 
 2.1.
 
-De Veiligheidsgroup is op 30 april 2021 opgericht en biedt veiligheidsopleidingen aan voor particulieren en bedrijven. De Veiligheidsgroup maakt daarbij gebruik van het digitale platform De Veiligheidsschool. Khenzie Commenencia (hierna: Commenencia) is indirect enig aandeelhouder en bestuurder van De Veiligheidsgroup.
+De Veiligheidsgroup is op 30 april 2021 opgericht en biedt veiligheidsopleidingen aan voor particulieren en bedrijven. De Veiligheidsgroup maakt daarbij gebruik van het digitale platform De Veiligheidsschool. [naam 1] (hierna: [naam 1] ) is indirect enig aandeelhouder en bestuurder van De Veiligheidsgroup.
 
 2.2.
 
-Op 14 maart 2024 hebben Commenencia en [eiser] afspraken gemaakt over het opzetten door [eiser] van een IT-werkproces en -infrastructuur voor De Veiligheidsgroup tegen betaling door De Veiligheidsgroup aan [eiser] van een vergoeding. [eiser] heeft de gemaakte afspraken vastgelegd in een Whatsappbericht aan Commenencia:
+Op 14 maart 2024 hebben [naam 1] en [gedaagde] afspraken gemaakt over het opzetten door [gedaagde] van een IT-werkproces en -infrastructuur voor De Veiligheidsgroup tegen betaling door De Veiligheidsgroup aan [gedaagde] van een vergoeding. [gedaagde] heeft de gemaakte afspraken vastgelegd in een Whatsappbericht aan [naam 1] :
 
-“Khenzie, op basis van het gesprek van 14-03-2024 komen wij, met betrekking tot de compensatie van het opzetten van een IT-werkproces en infrastructuur en de daarbij behorende websites en integratielagen, voorlopig het volgende overeen:
+“ [naam 1] , op basis van het gesprek van 14-03-2024 komen wij, met betrekking tot de compensatie van het opzetten van een IT-werkproces en infrastructuur en de daarbij behorende websites en integratielagen, voorlopig het volgende overeen:
 
 DVG [vzr: De Veiligheidsgroup] bekostigt mij:
 
@@ -111,25 +111,25 @@ DVG [vzr: De Veiligheidsgroup] bekostigt mij:
 
 • een eenmaal bedrag van €5.000 giraal naar eigen invulling
 
-Uitkeer termijn is vanaf operationele start uiterlijk 36 maanden. Het door mij mede ontwikkelde proces en product (lt-werkproces infrastructuur en de daarbij behorende websites en integratielagen) kennen een evenredig, gemeenschappelijk intellectueel eigendomsrecht, te kennen 50% voor De Veiligheidsgroup en 50% op persoonlijke titel van de heer [eiser]. Een commerciële toepassing van hetgeen waar het eigendomsrecht voor geldt, buiten de eigenaren, mag uitsluitend met schriftelijke toestemming van beide eigenaren.
+Uitkeer termijn is vanaf operationele start uiterlijk 36 maanden. Het door mij mede ontwikkelde proces en product (lt-werkproces infrastructuur en de daarbij behorende websites en integratielagen) kennen een evenredig, gemeenschappelijk intellectueel eigendomsrecht, te kennen 50% voor De Veiligheidsgroup en 50% op persoonlijke titel van de heer [gedaagde] . Een commerciële toepassing van hetgeen waar het eigendomsrecht voor geldt, buiten de eigenaren, mag uitsluitend met schriftelijke toestemming van beide eigenaren.
 
 Zou jij dit in een rechtsgeldige overeenkomst kunnen opmaken?”
 
-Daarop heeft Commenencia geantwoord:
+Daarop heeft [naam 1] geantwoord:
 
 “Dankjewel voor het fijne gesprek en ik zal dit middels de RvT in orde laten maken.”
 
 2.3.
 
-Op 16 augustus 2024 heeft [eiser] de opzet van het IT-werkproces en de IT-infrastructuur voor De Veiligheidsgroup gestaakt.
+Op 16 augustus 2024 heeft [gedaagde] de opzet van het IT-werkproces en de IT-infrastructuur voor De Veiligheidsgroup gestaakt.
 
 2.4.
 
-Bij e-mail van 14 december 2024 heeft [naam 1] (hierna: [naam 1]) namens De Veiligheidsgroup aan [eiser] voorgesteld om de ontstane situatie op het kantoor van De Veiligheidsgroup te bespreken. Bij e-mail van 19 december 2024 heeft [eiser] aan [naam 1] laten weten dat hij bereid is om het gesprek over het beëindigen van de betrekkingen aan te gaan en het fijn vindt als dat gesprek online plaatsvindt.
+Bij e-mail van 14 december 2024 heeft [naam 2] (hierna: [naam 2] ) namens De Veiligheidsgroup aan [gedaagde] voorgesteld om de ontstane situatie op het kantoor van De Veiligheidsgroup te bespreken. Bij e-mail van 19 december 2024 heeft [gedaagde] aan [naam 2] laten weten dat hij bereid is om het gesprek over het beëindigen van de betrekkingen aan te gaan en het fijn vindt als dat gesprek online plaatsvindt.
 
 2.5.
 
-Bij brief van 6 juni 2025 heeft Commenencia aan [eiser] geschreven:
+Bij brief van 6 juni 2025 heeft [naam 1] aan [gedaagde] geschreven:
 
 “De reactie vanuit De Veiligheidsgroup op jouw mailbericht (d.d. 19-12-2024) heeft enige tijd op
 
@@ -139,21 +139,21 @@ Ik wil ontzettend graag op een redelijke en billijke termijn uitvoering kunnen g
 
 Helaas kan ik deze bovenstaande financiële afspraken nog niet formeel waarborgen, zonder in bezit te zijn van de door jou zonder mijn toestemming (sinds vrijdag 16 augustus 2024) toegeëigende essentiële organisatiemiddelen van De Veiligheidsgroup B.V., De Veiligheidsschool B.V. en Craai B.V., zoals onder andere beter beschreven:
 
-Een lokaal werkend technisch fundament voor de digitale leeromgeving van/voor studenten (Moodle);
+Een lokaal werkend technisch fundament voor de digitale leeromgeving van/voor studenten ( [naam leeromgeving] );
 
-Een lokaal werkende organisatie specifieke digitale leeromgeving van/voor studenten (Moodle applicatie);
+Een lokaal werkende organisatie specifieke digitale leeromgeving van/voor studenten ( [naam applicatie] );
 
 Een lokaal werkend technisch fundament voor de publieke website van/voor studenten van De Veiligheidsschool;
 
 Een lokaal werkende organisatie specifieke publieke website van/voor studenten van De Veiligheidsschool;
 
-Accountgegevens van een organisatorische Lastpass Account (met toegang tot alle gekoppelde wachtwoorden voor organisatiesystemen van De Veiligheidsgroup);
+Accountgegevens van een organisatorische [account] (met toegang tot alle gekoppelde wachtwoorden voor organisatiesystemen van De Veiligheidsgroup);
 
 Accountgegevens van alle organisatorische sociale media account van De Veiligheidsgroup en al haar (toekomstige) werkmaatschappijen;
 
 Accountgegevens van Apple om alle organisatorische Apple-producten functioneel en veilig te kunnen beheren (inclusief alle toegangsrechten op beheerdersniveau);
 
-Accountgegevens van Gitlab vanuit Craai B.V. (werkmaatschappij van De Veiligheidsgroup en alle toegangsrechten op beheerdersniveau);
+Accountgegevens van [programma] vanuit Craai B.V. (werkmaatschappij van De Veiligheidsgroup en alle toegangsrechten op beheerdersniveau);
 
 Een Dell Laptop + oplader (die formeel deels is bekostigd ten behoeve van digitale werkzaamheden van/voor De Veiligheidsgroup);
 
@@ -163,7 +163,7 @@ In aanvulling op jouw eerdere inspanningen, offers en bijdragen (waaronder het m
 
 2.6.
 
-[eiser] heeft niet gereageerd op de brief van 6 juni 2025. Bij brieven van 2 juli en 6 augustus 2025 is [eiser] opnieuw verzocht om de organisatiemiddelen terug te geven. Bij e-mail van 19 augustus 2025 heeft mr. Bohr aan mr. Boeters geschreven dat, samengevat, De Veiligheidsgroup zelf over de gevraagde gegevens beschikt, [eiser] slechts een gedeelte heeft en de laptop van [eiser] zelf is.
+[gedaagde] heeft niet gereageerd op de brief van 6 juni 2025. Bij brieven van 2 juli en 6 augustus 2025 is [gedaagde] opnieuw verzocht om de organisatiemiddelen terug te geven. Bij e-mail van 19 augustus 2025 heeft mr. Bohr aan mr. Boeters geschreven dat, samengevat, De Veiligheidsgroup zelf over de gevraagde gegevens beschikt, [gedaagde] slechts een gedeelte heeft en de laptop van [gedaagde] zelf is.
 
 2.7.
 
@@ -178,13 +178,13 @@ in conventie
 
 De Veiligheidsgroup vordert, samengevat, dat de voorzieningenrechter bij uitvoerbaar bij voorraad te verklaren vonnis:
 
-1. [eiser] beveelt om binnen 24 uur na betekening van dit vonnis onder meer de volgende bescheiden aan De Veiligheidsgroup over te dragen:
+1. [gedaagde] beveelt om binnen 24 uur na betekening van dit vonnis onder meer de volgende bescheiden aan De Veiligheidsgroup over te dragen:
 
-• het technisch fundament van de digitale leeromgeving (gemaakt in Docker-containers en geregistreerd onder de naam veiligheidsgroup/veiligheidsschool/moodle in een Gitlabproject genaamd craai/veiligheidsschool/moodle) en de applicatie (Moodle),
+• het technisch fundament van de digitale leeromgeving [technische link 1] ,
 
-• het technisch fundament van de website (in WordPress, gemaakt in Docker- containers en geregistreerd onder de naam veiligheidsgroup/veiligheidsschool/website/dotnet:001 in een Gitlabproject genaamd craai/veiligheidsschool/website),
+• het technisch fundament van de website [technische link 2] ,
 
-• accountgegevens van LastPass (geregistreerd op [e-mailadres]) en de social media-accounts van De Veiligheidsgroup,
+• accountgegevens van [prgramma] (geregistreerd op [e-mailadres] ) en de social media-accounts van De Veiligheidsgroup,
 
 • accountgegevens van softwareontwikkelingsplatformen,
 
@@ -194,19 +194,19 @@ De Veiligheidsgroup vordert, samengevat, dat de voorzieningenrechter bij uitvoer
 
 2. een dwangsom oplegt van € 1.000,00 per dag, met een maximum van € 250.000,00,
 
-3. [eiser] veroordeelt tot betaling van een voorschot voor de geleden schade en/of financiële compensatie voor de herstelkosten van € 15.000,00,
+3. [gedaagde] veroordeelt tot betaling van een voorschot voor de geleden schade en/of financiële compensatie voor de herstelkosten van € 15.000,00,
 
-4. [eiser] veroordeelt in de proceskosten.
+4. [gedaagde] veroordeelt in de proceskosten.
 
 3.2.
 
-[eiser] voert verweer en concludeert tot afwijzing van de vorderingen, met veroordeling van De Veiligheidsgroup in de proceskosten.
+[gedaagde] voert verweer en concludeert tot afwijzing van de vorderingen, met veroordeling van De Veiligheidsgroup in de proceskosten.
 
 in reconventie
 
 3.3.
 
-[eiser] vordert dat de voorzieningenrechter bij uitvoerbaar bij voorraad te verklaren vonnis:
+[gedaagde] vordert dat de voorzieningenrechter bij uitvoerbaar bij voorraad te verklaren vonnis:
 
 De Veiligheidsgroup beveelt om uiterlijk binnen zeven dagen na betekening van dit vonnis de financiële afspraken na te komen dan wel € 37.390,00 te voldoen,
 
@@ -231,21 +231,21 @@ spoedeisend belang
 
 4.2.
 
-De zaak is zowel in conventie als in reconventie voldoende spoedeisend om in kort geding te kunnen worden behandeld. Hoewel De Veiligheidsgroup [eiser] pas tien maanden na het eindigen van de samenwerking heeft verzocht om bedrijfsmiddelen terug te geven, is de voorlopige erkenning van zeven beroepsopleidingen van De Veiligheidsgroup recent, bij besluit van 11 juli 2025, ingetrokken. De Veiligheidsgroup stelt dat zij de gevorderde bedrijfsmiddelen nodig heeft om dit besluit aan te kunnen vechten. Daarmee is het spoedeisend belang van De Veiligheidsgroup bij haar vorderingen gegeven. Ook [eiser] heeft belang bij beslechting van het geschil op korte termijn. [eiser] stelt namelijk dat hij pas gehouden is tot overdracht van het door hem ontwikkelde technisch fundament van de website nadat De Veiligheidsgroup hem daarvoor heeft betaald.
+De zaak is zowel in conventie als in reconventie voldoende spoedeisend om in kort geding te kunnen worden behandeld. Hoewel De Veiligheidsgroup [gedaagde] pas tien maanden na het eindigen van de samenwerking heeft verzocht om bedrijfsmiddelen terug te geven, is de voorlopige erkenning van zeven beroepsopleidingen van De Veiligheidsgroup recent, bij besluit van 11 juli 2025, ingetrokken. De Veiligheidsgroup stelt dat zij de gevorderde bedrijfsmiddelen nodig heeft om dit besluit aan te kunnen vechten. Daarmee is het spoedeisend belang van De Veiligheidsgroup bij haar vorderingen gegeven. Ook [gedaagde] heeft belang bij beslechting van het geschil op korte termijn. [gedaagde] stelt namelijk dat hij pas gehouden is tot overdracht van het door hem ontwikkelde technisch fundament van de website nadat De Veiligheidsgroup hem daarvoor heeft betaald.
 
 overeenkomst van opdracht
 
 4.3.
 
-Op 14 maart 2024 hebben Commenencia (namens De Veiligheidsgroup)en [eiser] afspraken gemaakt over het (mede) opzetten door [eiser] van een IT-werkproces en -infrastructuur, inclusief websites en integratielagen, voor De Veiligheidsgroup tegen betaling door De Veiligheidsgroup aan [eiser] van een motor van € 22.390,00, schulden van € 5.000,00, motorkleding van € 2.500,00, een reis van € 2.500,00 en een giraal bedrag van € 5.000,00 (met een totaalwaarde van € 37.390,00). De gemaakte afspraken zijn door [eiser] vastgelegd in een Whatsappbericht, waarbij [eiser] heeft opgemerkt: “uitkeer termijn is vanaf operationele start uiterlijk 36 maanden”. Commenencia heeft de inhoud van de afspraken bevestigd door te laten weten dat hij het door de Raad van Toezicht in orde zou laten maken. Hoewel de gemaakte afspraken niet in een schriftelijke overeenkomst zijn vastgelegd, zijn zij, anders dan [eiser] kennelijk dacht, rechtsgeldig. Zij moeten worden aangemerkt als een overeenkomst van opdracht als bedoeld in artikel 7:400 lid 1 BW. Voor zover De Veiligheidsgroup zou hebben bedoeld dat enige overeenkomst slechts onder de voorwaarde van instemming van de Raad van Toezicht is aangegaan, welke instemming niet is gegeven, verwerpt de voorzieningenrechter dat standpunt. Niet gesteld is dat Commenencia als bestuurder niet bevoegd was om zelfstandig deze overeenkomst aan te gaan.
+Op 14 maart 2024 hebben [naam 1] (namens De Veiligheidsgroup)en [gedaagde] afspraken gemaakt over het (mede) opzetten door [gedaagde] van een IT-werkproces en -infrastructuur, inclusief websites en integratielagen, voor De Veiligheidsgroup tegen betaling door De Veiligheidsgroup aan [gedaagde] van een motor van € 22.390,00, schulden van € 5.000,00, motorkleding van € 2.500,00, een reis van € 2.500,00 en een giraal bedrag van € 5.000,00 (met een totaalwaarde van € 37.390,00). De gemaakte afspraken zijn door [gedaagde] vastgelegd in een Whatsappbericht, waarbij [gedaagde] heeft opgemerkt: “uitkeer termijn is vanaf operationele start uiterlijk 36 maanden”. [naam 1] heeft de inhoud van de afspraken bevestigd door te laten weten dat hij het door de Raad van Toezicht in orde zou laten maken. Hoewel de gemaakte afspraken niet in een schriftelijke overeenkomst zijn vastgelegd, zijn zij, anders dan [gedaagde] kennelijk dacht, rechtsgeldig. Zij moeten worden aangemerkt als een overeenkomst van opdracht als bedoeld in artikel 7:400 lid 1 BW. Voor zover De Veiligheidsgroup zou hebben bedoeld dat enige overeenkomst slechts onder de voorwaarde van instemming van de Raad van Toezicht is aangegaan, welke instemming niet is gegeven, verwerpt de voorzieningenrechter dat standpunt. Niet gesteld is dat [naam 1] als bestuurder niet bevoegd was om zelfstandig deze overeenkomst aan te gaan.
 
 4.4.
 
-[eiser] heeft zijn werkzaamheden op 16 augustus 2024 gestaakt. Daarvoor heeft hij als reden gegeven dat De Veiligheidsgroup hem aan het lijntje hield door de gemaakte afspraken niet vast te leggen in een overeenkomst en na te komen. Los van de vraag of dit [eiser] het recht gaf om zijn werkzaamheden neer te leggen, zijn partijen het erover eens dat de overeenkomst van opdracht op 16 augustus 2024 is geëindigd.
+[gedaagde] heeft zijn werkzaamheden op 16 augustus 2024 gestaakt. Daarvoor heeft hij als reden gegeven dat De Veiligheidsgroup hem aan het lijntje hield door de gemaakte afspraken niet vast te leggen in een overeenkomst en na te komen. Los van de vraag of dit [gedaagde] het recht gaf om zijn werkzaamheden neer te leggen, zijn partijen het erover eens dat de overeenkomst van opdracht op 16 augustus 2024 is geëindigd.
 
 4.5.
 
-De Veiligheidsgroup vordert dat [eiser] bedrijfsmiddelen die hij nog onder zich heeft aan haar overdraagt. Daaronder vallen volgens De Veiligheidsgroup ook de (mede) door [eiser] ontwikkelde technische fundamenten van de digitale leeromgeving en website. De Veiligheidsgroup legt aan haar vordering ten grondslag dat [eiser] onrechtmatig jegens haar handelt, omdat hij eigendommen van De Veiligheidsgroup onder zich houdt en De Veiligheidsgroup als gevolg daarvan schade lijdt.
+De Veiligheidsgroup vordert dat [gedaagde] bedrijfsmiddelen die hij nog onder zich heeft aan haar overdraagt. Daaronder vallen volgens De Veiligheidsgroup ook de (mede) door [gedaagde] ontwikkelde technische fundamenten van de digitale leeromgeving en website. De Veiligheidsgroup legt aan haar vordering ten grondslag dat [gedaagde] onrechtmatig jegens haar handelt, omdat hij eigendommen van De Veiligheidsgroup onder zich houdt en De Veiligheidsgroup als gevolg daarvan schade lijdt.
 
 overdracht website en betaling redelijk loon
 
@@ -255,49 +255,49 @@ De voorzieningenrechter overweegt het volgende over de digitale leeromgeving, de
 
 4.6.1.
 
-[eiser] heeft de digitale leeromgeving en website in opdracht van De Veiligheidsgroup (mede) ontwikkeld. Tijdens het gesprek op 14 maart 2024 hebben Commenencia en [eiser] ook afspraken gemaakt over intellectuele eigendomsrechten. Dit blijkt immers uit het later door [eiser] verzonden Whatsappbericht (zie 2.2.). Tijdens de mondelinge behandeling heeft [eiser] toegelicht dat partijen dit op initiatief van Commenencia zijn overeengekomen, maar dat hij geen aanspraak op rechten van intellectuele eigendom wenst te maken. [eiser] wil betaald krijgen voor het werk dat hij in opdracht van De Veiligheidsgroup heeft verricht. Zolang dat niet gebeurt, houdt hij (het technisch fundament van) de website onder zich. Overigens heeft [eiser] laten weten dat hij genoegen neemt met het totaalbedrag van € 37.390,00 en niet langer een vergoeding wenst conform de in het Whatsappbericht neergelegde afspraak. Daarom vordert hij in reconventie betaling door De Veiligheidsgroup van € 37.390,00.
+[gedaagde] heeft de digitale leeromgeving en website in opdracht van De Veiligheidsgroup (mede) ontwikkeld. Tijdens het gesprek op 14 maart 2024 hebben [naam 1] en [gedaagde] ook afspraken gemaakt over intellectuele eigendomsrechten. Dit blijkt immers uit het later door [gedaagde] verzonden Whatsappbericht (zie 2.2.). Tijdens de mondelinge behandeling heeft [gedaagde] toegelicht dat partijen dit op initiatief van [naam 1] zijn overeengekomen, maar dat hij geen aanspraak op rechten van intellectuele eigendom wenst te maken. [gedaagde] wil betaald krijgen voor het werk dat hij in opdracht van De Veiligheidsgroup heeft verricht. Zolang dat niet gebeurt, houdt hij (het technisch fundament van) de website onder zich. Overigens heeft [gedaagde] laten weten dat hij genoegen neemt met het totaalbedrag van € 37.390,00 en niet langer een vergoeding wenst conform de in het Whatsappbericht neergelegde afspraak. Daarom vordert hij in reconventie betaling door De Veiligheidsgroup van € 37.390,00.
 
 4.6.2.
 
-Volgens [eiser] is [naam 2] (hierna: [naam 2]) verantwoordelijk voor de IT-infrastructuur van De Veiligheidsgroup en heeft hij sinds 5 augustus 2024, net als [eiser], toegang tot de online leeromgeving. Ondanks dat De Veiligheidsgroup stelt dat [naam 2] alleen kijkersrechten heeft, blijkt uit een door [eiser] overgelegd overzicht van project members dat [naam 2] dezelfde rechten (als owner) heeft als [eiser]. Daaruit begrijpt de voorzieningenrechter dat ook [naam 2] toegang heeft tot de code van de online leeromgeving en dat De Veiligheidsgroup zich tot [naam 2] kan wenden om de technische fundamenten van de digitale leeromgeving in handen te krijgen. Dit ligt anders ten aanzien van de website. [eiser] weerspreekt niet dat alleen hij daarover beschikt. Hij wil deze echter niet aan De Veiligheidsgroup overdragen zolang hij daarvoor niet betaald krijgt.
+Volgens [gedaagde] is [naam 3] (hierna: [naam 3] ) verantwoordelijk voor de IT-infrastructuur van De Veiligheidsgroup en heeft hij sinds 5 augustus 2024, net als [gedaagde] , toegang tot de online leeromgeving. Ondanks dat De Veiligheidsgroup stelt dat [naam 3] alleen kijkersrechten heeft, blijkt uit een door [gedaagde] overgelegd overzicht van project members dat [naam 3] dezelfde rechten (als owner) heeft als [gedaagde] . Daaruit begrijpt de voorzieningenrechter dat ook [naam 3] toegang heeft tot de code van de online leeromgeving en dat De Veiligheidsgroup zich tot [naam 3] kan wenden om de technische fundamenten van de digitale leeromgeving in handen te krijgen. Dit ligt anders ten aanzien van de website. [gedaagde] weerspreekt niet dat alleen hij daarover beschikt. Hij wil deze echter niet aan De Veiligheidsgroup overdragen zolang hij daarvoor niet betaald krijgt.
 
 4.6.3.
 
-Artikel 7:411 lid 1 BW bepaalt dat indien de overeenkomst eindigt voordat de opdracht is volbracht en de verschuldigdheid van loon afhankelijk is van de volbrenging, de opdrachtnemer recht heeft op een naar redelijkheid vast te stellen deel van het loon. In dit geval is de overeenkomst geëindigd vóór het volbrengen van de opdracht en de verschuldigdheid van het loon afhankelijk gesteld van de volbrenging. Dat laatste volgt uit de afspraak dat betaling volgt binnen een bepaalde termijn na de operationele start. Dit betekent dat [eiser] recht heeft op een naar redelijkheid vast te stellen deel van het loon. [eiser] heeft niet inzichtelijk gemaakt welk deel van de opdracht hij heeft uitgevoerd. Dat komt in beginsel voor zijn risico. In de brief van 24 oktober 2025 heeft mr. Boeters gesteld dat 21% is voltooid. Dat heeft [eiser] betwist. Hoewel in een bodemprocedure zal moeten worden vastgesteld welke werkzaamheden precies zijn verricht, zijn partijen het erover eens dat in ieder geval 21% van de opdracht is uitgevoerd. Dat brengt de voorzieningenrechter tot het volgende.
+Artikel 7:411 lid 1 BW bepaalt dat indien de overeenkomst eindigt voordat de opdracht is volbracht en de verschuldigdheid van loon afhankelijk is van de volbrenging, de opdrachtnemer recht heeft op een naar redelijkheid vast te stellen deel van het loon. In dit geval is de overeenkomst geëindigd vóór het volbrengen van de opdracht en de verschuldigdheid van het loon afhankelijk gesteld van de volbrenging. Dat laatste volgt uit de afspraak dat betaling volgt binnen een bepaalde termijn na de operationele start. Dit betekent dat [gedaagde] recht heeft op een naar redelijkheid vast te stellen deel van het loon. [gedaagde] heeft niet inzichtelijk gemaakt welk deel van de opdracht hij heeft uitgevoerd. Dat komt in beginsel voor zijn risico. In de brief van 24 oktober 2025 heeft mr. Boeters gesteld dat 21% is voltooid. Dat heeft [gedaagde] betwist. Hoewel in een bodemprocedure zal moeten worden vastgesteld welke werkzaamheden precies zijn verricht, zijn partijen het erover eens dat in ieder geval 21% van de opdracht is uitgevoerd. Dat brengt de voorzieningenrechter tot het volgende.
 
 4.6.4.
 
-[eiser] wordt veroordeeld tot overdracht aan De Veiligheidsgroup van het technisch fundament van de website en, voor zover daarvoor nodig, de accountgegevens van de softwareontwikkelingsplatformen. Tegelijkertijd wordt De Veiligheidsgroup veroordeeld tot betaling aan [eiser] van een bedrag van € 7.851,90 (21% van € 37.390,00). Nu partijen het erover eens zijn dat in ieder geval 21% van de opdracht is uitgevoerd, kan ten minste dit bedrag beschouwd worden als een redelijk loon. Met het verkrijgen van een executoriale titel voor deze betalingsverplichting van De Veiligheidsgroup heeft [eiser] geen redelijk belang meer om de hiervoor bedoelde gegevens achter te houden. Partijen dienen binnen zeven dagen na betekening van dit vonnis aan de veroordelingen te voldoen. Aan de verplichting van [eiser] wordt een dwangsom verbonden.
+[gedaagde] wordt veroordeeld tot overdracht aan De Veiligheidsgroup van het technisch fundament van de website en, voor zover daarvoor nodig, de accountgegevens van de softwareontwikkelingsplatformen. Tegelijkertijd wordt De Veiligheidsgroup veroordeeld tot betaling aan [gedaagde] van een bedrag van € 7.851,90 (21% van € 37.390,00). Nu partijen het erover eens zijn dat in ieder geval 21% van de opdracht is uitgevoerd, kan ten minste dit bedrag beschouwd worden als een redelijk loon. Met het verkrijgen van een executoriale titel voor deze betalingsverplichting van De Veiligheidsgroup heeft [gedaagde] geen redelijk belang meer om de hiervoor bedoelde gegevens achter te houden. Partijen dienen binnen zeven dagen na betekening van dit vonnis aan de veroordelingen te voldoen. Aan de verplichting van [gedaagde] wordt een dwangsom verbonden.
 
 overige bedrijfsmiddelen
 
 4.7.
 
-De Veiligheidsgroup vordert verder dat [eiser] de accountgegevens van de wachtwoordmanager en social media-accounts, een digitaal overzicht en de administratie van alle uitgegeven organisatiemiddelen en een Dell-laptop overdraagt. Volgens De Veiligheidsgroup is [eiser] deze bedrijfsmiddelen na het eindigen van de overeenkomst van opdracht ten onrechte onder zich blijven houden. [eiser] weerspreekt dat hij over de accountgegevens en het digitale overzicht/de administratie van organisatiemiddelen beschikt. De laptop heeft [eiser] zelf gekocht en is dus zijn eigendom.
+De Veiligheidsgroup vordert verder dat [gedaagde] de accountgegevens van de wachtwoordmanager en social media-accounts, een digitaal overzicht en de administratie van alle uitgegeven organisatiemiddelen en een Dell-laptop overdraagt. Volgens De Veiligheidsgroup is [gedaagde] deze bedrijfsmiddelen na het eindigen van de overeenkomst van opdracht ten onrechte onder zich blijven houden. [gedaagde] weerspreekt dat hij over de accountgegevens en het digitale overzicht/de administratie van organisatiemiddelen beschikt. De laptop heeft [gedaagde] zelf gekocht en is dus zijn eigendom.
 
 4.7.1.
 
-[eiser] heeft een Whatsappbericht van Commenencia van 17 mei 2023 in het geding gebracht. Volgens [eiser] staat in dit bericht het wachtwoord van LastPass en kan met dit wachtwoord toegang worden verkregen tot alle overige wachtwoorden, waaronder die van de social media-accounts van De Veiligheidsgroup. Tijdens de mondelinge behandeling heeft [eiser] laten weten het wachtwoord nooit te hebben veranderd. Commenencia heeft ter zitting medegedeeld dat hij niet weet of het wachtwoord het juiste is, omdat hij daarmee niet heeft ingelogd. Naar het oordeel van de voorzieningenrechter had het op de weg van De Veiligheidsgroup gelegen om dit voorafgaand aan de zitting te controleren. Nu zij dit heeft nagelaten, dient ervan uit te worden gegaan dat het door [eiser] overgelegde wachtwoord het juiste is. De vordering wordt afgewezen.
+[gedaagde] heeft een Whatsappbericht van [naam 1] van 17 mei 2023 in het geding gebracht. Volgens [gedaagde] staat in dit bericht het wachtwoord van [prgramma] en kan met dit wachtwoord toegang worden verkregen tot alle overige wachtwoorden, waaronder die van de social media-accounts van De Veiligheidsgroup. Tijdens de mondelinge behandeling heeft [gedaagde] laten weten het wachtwoord nooit te hebben veranderd. [naam 1] heeft ter zitting medegedeeld dat hij niet weet of het wachtwoord het juiste is, omdat hij daarmee niet heeft ingelogd. Naar het oordeel van de voorzieningenrechter had het op de weg van De Veiligheidsgroup gelegen om dit voorafgaand aan de zitting te controleren. Nu zij dit heeft nagelaten, dient ervan uit te worden gegaan dat het door [gedaagde] overgelegde wachtwoord het juiste is. De vordering wordt afgewezen.
 
 4.7.2.
 
-Ten aanzien van het digitale overzicht en de administratie van alle uitgegeven organisatiemiddelen (laptops en toebehoren) inclusief gebruikersnamen en verstrekte licenties aan (oud-)personeelsleden van De Veiligheidsgroup (gemaakt in Microsoft Excel) stelt [eiser] dat De Veiligheidsgroup hier zelf over zou moeten beschikken. Volgens [eiser] heeft hij de gegevens niet, maar is hij wel bereid om te proberen om de gegevens die daadwerkelijk aan hem zijn verstrekt te achterhalen. Gelet op deze mededeling en de onduidelijkheid die er bestaat over de gegevens die De Veiligheidsgroup zelf heeft en [eiser] mogelijk nog heeft, wordt de vordering afgewezen.
+Ten aanzien van het digitale overzicht en de administratie van alle uitgegeven organisatiemiddelen (laptops en toebehoren) inclusief gebruikersnamen en verstrekte licenties aan (oud-)personeelsleden van De Veiligheidsgroup (gemaakt in Microsoft Excel) stelt [gedaagde] dat De Veiligheidsgroup hier zelf over zou moeten beschikken. Volgens [gedaagde] heeft hij de gegevens niet, maar is hij wel bereid om te proberen om de gegevens die daadwerkelijk aan hem zijn verstrekt te achterhalen. Gelet op deze mededeling en de onduidelijkheid die er bestaat over de gegevens die De Veiligheidsgroup zelf heeft en [gedaagde] mogelijk nog heeft, wordt de vordering afgewezen.
 
 4.7.3.
 
-De Veiligheidsgroup stelt dat zij de laptop heeft betaald en dat deze dus van haar is. Volgens [eiser] heeft hij de laptop gekocht en is deze van hem. Tijdens de mondelinge behandeling heeft Commenencia met zoveel woorden te kennen gegeven dat [eiser] de laptop mag houden. De vordering wordt daarom afgewezen.
+De Veiligheidsgroup stelt dat zij de laptop heeft betaald en dat deze dus van haar is. Volgens [gedaagde] heeft hij de laptop gekocht en is deze van hem. Tijdens de mondelinge behandeling heeft [naam 1] met zoveel woorden te kennen gegeven dat [gedaagde] de laptop mag houden. De vordering wordt daarom afgewezen.
 
 Schadevergoeding
 
 4.8.
 
-De Veiligheidsgroup stelt dat zij als gevolg van de handelwijze van [eiser] schade heeft geleden, bestaande uit misgelopen omzet, technische herstelkosten, marketingherstelkosten en herstelkosten voor social media. De Veiligheidsgroup begroot haar schade op € 639.664,50 en vordert een voorschot van € 15.000,00.
+De Veiligheidsgroup stelt dat zij als gevolg van de handelwijze van [gedaagde] schade heeft geleden, bestaande uit misgelopen omzet, technische herstelkosten, marketingherstelkosten en herstelkosten voor social media. De Veiligheidsgroup begroot haar schade op € 639.664,50 en vordert een voorschot van € 15.000,00.
 
-[eiser] betwist de door De Veiligheidsgroup gestelde schade.
+[gedaagde] betwist de door De Veiligheidsgroup gestelde schade.
 
 4.8.1.
 
-Voor een geldvordering in kort geding geldt dat terughoudendheid bij toewijzing op zijn plaats is. Bij de beoordeling speelt onder meer een rol of de vordering voldoende aannemelijk is en of een onmiddellijke voorziening is vereist. Naar het oordeel van de voorzieningenrechter heeft De Veiligheidsgroup niet voldoende aannemelijk gemaakt dat haar schade, voor zover geleden, het gevolg is van het handelen van [eiser]. In dat licht is bovendien onbegrijpelijk dat De Veiligheidsgroup tien maanden heeft gewacht met het terugvragen van bedrijfsmiddelen. Verder heeft De Veiligheidsgroup niet onderbouwd waarom zij een spoedeisend belang heeft bij betaling van een voorschot.
+Voor een geldvordering in kort geding geldt dat terughoudendheid bij toewijzing op zijn plaats is. Bij de beoordeling speelt onder meer een rol of de vordering voldoende aannemelijk is en of een onmiddellijke voorziening is vereist. Naar het oordeel van de voorzieningenrechter heeft De Veiligheidsgroup niet voldoende aannemelijk gemaakt dat haar schade, voor zover geleden, het gevolg is van het handelen van [gedaagde] . In dat licht is bovendien onbegrijpelijk dat De Veiligheidsgroup tien maanden heeft gewacht met het terugvragen van bedrijfsmiddelen. Verder heeft De Veiligheidsgroup niet onderbouwd waarom zij een spoedeisend belang heeft bij betaling van een voorschot.
 
 Dit betekent dat ook de geldvordering wordt afgewezen.
 
@@ -316,7 +316,7 @@ in conventie
 
 5.1.
 
-veroordeelt [eiser] om binnen zeven dagen na betekening van dit vonnis het technisch fundament van de website (in WordPress) voor studenten van De Veiligheidsschool (gemaakt in Docker- containers en geregistreerd onder de naam veiligheidsgroup/veiligheidsschool/website/dotnet:001 in een Gitlabproject genaamd craai/veiligheidsschool/website) en, voor zover daarvoor nodig, de accountgegevens van softwareontwikkelingsplatformen aan De Veiligheidsgroup over te dragen, een en ander op straffe van een dwangsom van € 50,00 voor iedere dag dat [eiser] niet aan deze veroordeling voldoet, met een maximum van € 5.000,00,
+veroordeelt [gedaagde] om binnen zeven dagen na betekening van dit vonnis het technisch fundament van de website (in WordPress) voor studenten van De Veiligheidsschool (gemaakt in Docker- containers en geregistreerd onder de naam [technische link 2] in een [programma] genaamd [technische link 3] en, voor zover daarvoor nodig, de accountgegevens van softwareontwikkelingsplatformen aan De Veiligheidsgroup over te dragen, een en ander op straffe van een dwangsom van € 50,00 voor iedere dag dat [gedaagde] niet aan deze veroordeling voldoet, met een maximum van € 5.000,00,
 
 5.2.
 
@@ -334,7 +334,7 @@ in reconventie
 
 5.5.
 
-veroordeelt De Veiligheidsgroup om binnen zeven dagen na betekening van dit vonnis een bedrag van € 7.851,90 aan [eiser] te betalen,
+veroordeelt De Veiligheidsgroup om binnen zeven dagen na betekening van dit vonnis een bedrag van € 7.851,90 aan [gedaagde] te betalen,
 
 5.6.
 
