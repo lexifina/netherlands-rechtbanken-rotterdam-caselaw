@@ -1,0 +1,155 @@
+---
+ecli: "ECLI:NL:RBROT:2025:13650"
+court: "Rechtbank Rotterdam"
+court_code: "RBROT"
+docket: "25-004346"
+decided: "2025-11-13"
+published: "2025-11-25"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:13650"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROT:2025:13650 Rechtbank Rotterdam , 13-11-2025 / 25-004346
+
+## Inhoudsindicatie
+
+552a Sv
+
+De filtering van de inbeslaggenomen voorwerpen op stukken die onder het verschoningsrecht vallen, is onderdeel van de procedure rond het beslag en valt als zodanig onder de tenuitvoerlegging van de onderzoeksmaatregel. Op grond daarvan is de rechtbank van oordeel dat in het kader van de tenuitvoerlegging van de maatregel ook de filtering van de inbeslaggenomen voorwerpen door de Nederlandse rechter is toegestaan.
+
+De Nederlandse rechter toetst slechts de formele vereisten bij de tenuitvoerlegging van de onderzoeksmaatregel, niet de rechtmatigheid of proportionaliteit van het beslag.
+
+De rechtbank geeft opdracht aan de officier van justitie om de stukken in handen van de rechter-commissaris in de rechtbank te stellen om op de voet van artikel 98 Sv de
+
+klagers alsnog in de gelegenheid te stellen zich gemotiveerd uit te laten over het verschoningsrecht met betrekking tot de in beslag genomen stukken en vastgelegde
+
+en uitgeleverde gegevens en vervolgens te beslissen over het gedane beroep op het verschoningsrecht.
+
+## Uitspraak
+
+Rechtbank Rotterdam
+
+Team straf 2
+
+Raadkamernummer: 25-004346
+
+Beschikking van de rechtbank Rotterdam, meervoudige raadkamer, op het klaagschrift van:
+
+[klager] (klager),
+
+gevestigd te [vestigingsplaats],
+
+[adres 1], [postcode],
+
+voor deze zaak domicilie kiezende te Amsterdam, ten kantore van Hertoghs Advocaten aan de [adres 2], van welk kantoor in de kwestie mr. R. Jeronimus en mr. R.J. de Jong als raadslieden optreden.
+
+Procedure
+
+Op 12 februari 2025 is op grond van artikel 552a van het Wetboek van Strafvordering (Sv) een klaagschrift ingediend.
+
+Het klaagschrift is op 16 oktober 2025 door de raadkamer in het openbaar behandeld. De officier van justitie mr. P.P.A.M. Notenboom en de gemachtigd raadslieden mrs. Jeronimus, de Jong en Verschoor zijn gehoord.
+
+Feiten
+
+Op 5 februari 2025 heeft een doorzoeking plaatsgevonden in het bedrijfspand te [vestigingsplaats]. Deze doorzoekingen vonden plaats op verzoek van de Belgische gedelegeerd Europees aanklager (EDP) in het kader van -kortgezegd- georganiseerde BTW-fraude en daarmee verbonden strafbare feiten, zoals valsheid in geschrift over de jaren 2023 en 2024. Tijdens de doorzoekingen zijn diverse gegevens(dragers) in beslag genomen en digitale gegevens vastgelegd. Het beslag is gelegd op grond van artikel 94 Sv.
+
+Standpunt klager en standpunt officier van justitie
+
+Het klaagschrift is gericht tegen de inbeslagname van goederen en kennisneming en gebruik van gegevens, in beslag genomen door middel van kopieën (images) die tijdens de
+
+doorzoeking van 5 februari 2025 zijn gemaakt van diverse (cloud)gegevensdragers.
+
+Het klaagschrift strekt primair tot aanhouding van de behandeling van het klaagschrift,
+
+totdat door de rechter-commissaris een beslissing is genomen ex artikel 98 Sv ten aanzien van het in beslag genomen verschoningsgerechtigde materiaal.
+
+De raadslieden hebben gesteld dat het gaat om de inbeslagname van gegevens waarop het verschoningsrecht van toepassing is, waardoor er bezwaar bestaat tegen verstrekking van deze gegevens aan de Belgische gedelegeerd Europees aanklager voordat er door een rechtercommissaris een inhoudelijke beoordeling heeft plaatsgevonden en de vertrouwelijke informatie zodoende uit de bestanden is gefilterd.
+
+Ter zitting is het klaagschrift op dat punt aangevuld. Nu is gebleken dat de inbeslaggenomen gegevens inmiddels al zijn overgedragen aan België, dient dit te leiden tot teruggave van de gegevens vanuit België en de vernietiging van de gegevens.
+
+Voorts wordt in het klaagschrift verzocht klager (primair geheel subsidiair gedeeltelijk) kennis te laten nemen van de op de zaak betrekking hebbende stukken. Klager heeft recht op inzage in het procesdossier, op grond van art. 23, vijfde lid, Sv.  Nu er stukken ontbreken (de artikel 31 maatregel, de aanvullende verzoeken en het EBB), kan de rechtmatigheid van de inbeslagneming niet worden beoordeeld. Meer subsidiair wordt de rechtbank verzocht de rechtmatigheid van de inbeslagneming te toetsen aan de hand van de door de rechtbank ontvangen stukken.
+
+Ter zitting is aangevoerd dat het klaagschrift mede moet worden begrepen te zijn gericht tegen de inbeslagname van de twee voertuigen (Tesla) ten name van [klager] op het adres te [vestigingsplaats]. De raadslieden verzoeken de rechtbank dit in te lezen in het ingediende klaagschrift.
+
+De officier van justitie heeft primair geconcludeerd dat de rechtbank Rotterdam onbevoegd is ten aanzien van de inbeslagname op het adres van [klager] te [vestigingsplaats]. Er vindt geen vervolging plaats voor het Rotterdamse gerecht. Artikel 552a, lid 4 Sv is van toepassing.
+
+Subsidiair dient klager niet-ontvankelijk te worden verklaard met betrekking tot de reeds overgedragen stukken. Het klaagschrift heeft primair tot doel het inbeslaggenomen materiaal te filteren. Daarvoor is artikel 552a Sv niet bedoeld. Artikel 98 Sv zou eventueel wel die ingang bieden, maar die procedure loopt niet in deze zaak.
+
+Meer subsidiair dient het klaagschrift ongegrond te worden verklaard.
+
+Het verzoek van de verdediging om kennisneming van de stukken dient te worden afgewezen. Uit artikel 23, lid 5 Sv volgt dat kennisname achterwege kan blijven in het belang van het onderzoek. De behandelend EDP heeft aangegeven dat er bezwaar bestaat tegen inzage/verstrekking om onderzoeksredenen.
+
+Bevoegdheid
+
+Uit de stukken is gebleken dat er op het vestigingsadres van [klager] te [vestigingsplaats] een doorzoeking heeft plaatsgevonden op 5 februari 2025. Dit is gedaan door de FIOD op basis van een grensoverschrijdende onderzoeksmaatregel uitgevaardigd door een
+
+gedelegeerd Europees aanklager uit een andere lidstaat. Bij de doorzoeking zijn goederen in beslag genomen. Er is op de locatie een brief achtergelaten waarin staat vermeld dat een
+
+belanghebbende ten aanzien van de inbeslaggenomen goederen op grond van artikel 552a Wetboek van Strafvordering een klaagschrift kan indienen bij de rechtbank te Rotterdam.
+
+Wat er ook zij van de juistheid van die informatie, acht de rechtbank Rotterdam zich daaraan wel gebonden en daarmee bevoegd om van het klaagschrift kennis te nemen.
+
+Ontvankelijkheid
+
+Namens klager is bij de behandeling in raadkamer aanvullend mondeling beklag gedaan over de inbeslagname van de twee Tesla voertuigen op het adres van de klager te [vestigingsplaats]. Te dien aanzien was door klager een klaagschrift ingediend, dat voor de behandeling van deze zitting is ingetrokken. De wet kent niet de mogelijkheid om een verzoek tot teruggave van het inbeslaggenomene mondeling te doen. Dit deel van het beklag betreft een nieuwe klacht die niet kan worden begrepen onder het eerder ingediende klaagschrift van een andere strekking en orde (te weten de inbeslagname van gegevens en de kennisneming en het gebruik daarvan). De klager zal daarom in dit deel van het klaagschrift niet ontvankelijk worden verklaard in het beklag.
+
+Beoordeling klacht
+
+Inbeslaggenomen verschoningsgerechtigd materiaal
+
+Op 5 februari 2025 zijn er bij verschillende doorzoekingen, waaronder bij [klager] te [vestigingsplaats], (digitale) gegevens ex artikel 94 Sv in beslag genomen door de Nederlandse EDP (als assisterend EDP) en overgedragen aan de Belgische EDP (de behandelende EDP). Daaronder bevindt zich mogelijk verschoningsgerechtigd materiaal. Klager is zelf geen verschoningsgerechtigde, maar heeft als belanghebbende geklaagd over de inbeslagname van deze gegevens. Artikel 552a Sv biedt hiertoe de mogelijkheid.
+
+De toetsing van de rechtvaardiging en vaststelling van de maatregel (in casu beslag) is voorbehouden aan de rechter in de lidstaat van verzoekende gedelegeerde Europees aanklager (de behandelend EDP), terwijl de tenuitvoerlegging van die handeling moet worden getoetst door een rechter in de lidstaat van de behandelend gedelegeerd Europees aanklager (de assisterend EDP) wanneer er sprake is van een ernstige inmenging in de rechten van de betrokkene die door het Handvest van de grondrechten van de Europese Unie worden gewaarborgd (Arrest HvJ EU (Grote Kamer) 21 december 2023, ECLI:EU:2023:1018, par. 72-73).
+
+De filtering van de inbeslaggenomen voorwerpen op stukken die onder het verschoningsrecht vallen, is onderdeel van de procedure rond het beslag en valt als zodanig onder de tenuitvoerlegging van de onderzoeksmaatregel. Op grond daarvan is de rechtbank van oordeel dat in het kader van de tenuitvoerlegging van de maatregel ook de filtering van de inbeslaggenomen voorwerpen door de Nederlandse rechter is toegestaan.
+
+De Hoge Raad heeft in haar arrest van 16 oktober 2018 overwogen dat het op grond van artikel 98 Sv het eerst aan de rechter-commissaris is om te beslissen over een beroep op het verschoningsrecht dat is gedaan ten aanzien van de in beslag genomen stukken dan wel vastgelegde gegevens die zijn opgeslagen op gegevensdragers. In artikel 98 Sv is bepaald welke procedure hiervoor moet worden gevolgd en dit is nader toegelicht in de jurisprudentie van de Hoge Raad (vgl. onder meer Hoge Raad 16 oktober 2018, ECLI:NL:HR:2018:1960 en Hoge Raad 16 juni 2020, ECLI:NL:HR:2020:1048).
+
+Het onderzoek of zich tussen de in beslag genomen stukken en vastgelegde en uitgeleverde gegevens stukken bevinden die mogelijk onder het verschoningsrecht vallen is nog niet verricht, nu door de verdediging een dergelijk verzoek aan de rechter-commissaris niet is gedaan. De rechtbank zal dan ook de behandeling van het klaagschrift aanhouden en de stukken in handen van de rechter-commissaris stellen, teneinde een beschikking te geven ex artikel 98 Sv. Klager zal daarbij in de gelegenheid gesteld worden om zich gemotiveerd uit te laten over het verschoningsrecht met betrekking tot het inbeslaggenomene op grond waarvan de rechter-commissaris vervolgens zal beslissen over het door klager gedane beroep op het verschoningsrecht (en waar nodig erop kan toezien dat alle stukken die vallen onder het verschoningsrecht worden teruggegeven dan wel worden vernietigd).
+
+Kennisneming zaakstukken
+
+De rechtbank wijst het verzoek van klager om nadere stukken (de artikel 31 maatregel, de aanvullende verzoeken en het EBB) te mogen inzien af. De rechter oordeelt dat het belang van vertrouwelijkheid van de genoemde stukken, waarin mogelijk meerdere en nog niet uitgevoerde handelingen worden beschreven, zwaarder weegt dan het belang van volledige inzage voor de verdediging. De rechtbank heeft zelf wél inzage gehad in de stukken met betrekking tot de onderzoeksmaatregel en stelt vast dat deze mede betrekking hebben op klager.
+
+Het Europees Openbaar Ministerie stelt dat de inbeslagneming rechtmatig is uitgevoerd.
+
+De maatregel is uitgevoerd op verzoek van de Belgische EDP en de Nederlandse rechter toetst slechts de formele vereisten bij de tenuitvoerlegging, niet de rechtmatigheid of proportionaliteit van het beslag.
+
+De rechtbank stelt vast dat ten aanzien van het beslag verder is voldaan aan de formele vereisten. Dat er zich mogelijk verschoninggerechtigde gegevens onder het inbeslaggenomene bevinden, maakt dat niet anders.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart zich bevoegd tot de behandeling van het beklag;
+
+- verklaart de klager niet ontvankelijk in het beklag, voorzover dat is gericht tegen de inbeslagname van de voertuigen (Tesla’s) te [vestigingsplaats].
+
+- verklaart de klager ontvankelijk in het resterende deel van het beklag;
+
+- heropent het onderzoek in raadkamer en schorst het onderzoek voor onbepaalde tijd;
+
+- geeft opdracht aan de officier van justitie om de stukken in handen van de
+
+rechter-commissaris in de rechtbank te stellen om op de voet van artikel 98 Sv de
+
+klager alsnog in de gelegenheid te stellen zich gemotiveerd uit te laten over het
+
+verschoningsrecht met betrekking tot de in beslag genomen stukken en vastgelegde
+
+en uitgeleverde gegevens en vervolgens te beslissen over het gedane beroep op het
+
+verschoningsrecht;
+
+- verwerpt het beroep voor het overige.
+
+Deze beschikking is gegeven door mr. G.P. van de Beek, voorzitter,
+
+en mrs. J. van de Klashorst en B. Vaz, rechters,
+
+in tegenwoordigheid van mr. C. van Wingerden, griffier.
+
+en in het openbaar uitgesproken op 13 november 2025.
