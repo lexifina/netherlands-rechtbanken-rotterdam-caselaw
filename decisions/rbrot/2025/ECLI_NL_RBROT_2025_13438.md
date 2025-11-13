@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:13438"
-published_in: ["Rechtspraak.nl", "Notamail 2025/262", "Sdu Nieuws Personen- en familierecht 2025/664", "RFR 2026/33"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/262", "Sdu Nieuws Personen- en familierecht 2025/664", "RFR 2026/33", "PR-Updates.nl 2025-0216"]
 ---
 
 # ECLI:NL:RBROT:2025:13438 Rechtbank Rotterdam , 13-11-2025 / C/10/687812 / FA RK 24-7760, C/10/706863 / FA RK 25-7063
