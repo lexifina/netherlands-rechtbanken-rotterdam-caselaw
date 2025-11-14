@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15750"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0512", "VAAN-AR-Updates.nl 2026-0512", "Sdu Nieuws Arbeidsrecht 2026/121"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0512", "VAAN-AR-Updates.nl 2026-0512", "Sdu Nieuws Arbeidsrecht 2026/121", "TRA 2026/49 met annotatie van Y.H. Dissel"]
 ---
 
 # ECLI:NL:RBROT:2025:15750 Rechtbank Rotterdam , 14-11-2025 / 11697471 VZ VERZ 25-3369
