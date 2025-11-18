@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15745"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0496", "VAAN-AR-Updates.nl 2026-0496"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0496", "VAAN-AR-Updates.nl 2026-0496", "PR-Updates.nl 2026-0106"]
 ---
 
 # ECLI:NL:RBROT:2025:15745 Rechtbank Rotterdam , 18-11-2025 / 11842769 VV EXPL 25-487
