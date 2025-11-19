@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14138"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/31"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/31", "Computerrecht 2026/76 met annotatie van L.J.M. Bruggeman", "JBP 2026/113 met annotatie van mr. M. Poulus"]
 ---
 
 # ECLI:NL:RBROT:2025:14138 Rechtbank Rotterdam , 19-11-2025 / C/10/677340 / HA ZA 24-317
