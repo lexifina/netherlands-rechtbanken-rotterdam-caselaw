@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14237"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/43", "JERF Actueel 2026/29", "VEAN-ERF-Updates.nl 2026-0087"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/43", "JERF Actueel 2026/29", "VEAN-ERF-Updates.nl 2026-0087", "JERF 2026/68 met annotatie van mr. dr. T. Jonkers"]
 ---
 
 # ECLI:NL:RBROT:2025:14237 Rechtbank Rotterdam , 28-11-2025 / 11529387 CV EXPL 25-2479
