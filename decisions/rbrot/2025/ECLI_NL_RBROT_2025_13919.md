@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Varia. RVV-ontheffing. Deze tussenuitspraak gaat over de afwijzing van eisers aanvraag voor een ontheffing van een parkeerverbod. Eiser is het hier niet mee eens en heeft beroep ingesteld. De rechtbank komt in deze tussenuitspraak tot het oordeel dat het bestreden besluit een gebrek bevat. De rechtbank geeft daarom de gelegenheid aan het college om het gebrek te herstellen.
+RVV-ontheffing. Deze tussenuitspraak gaat over de afwijzing van eisers aanvraag voor een ontheffing van een parkeerverbod. Eiser is het hier niet mee eens en heeft beroep ingesteld. De rechtbank komt in deze tussenuitspraak tot het oordeel dat het bestreden besluit een gebrek bevat. De rechtbank geeft daarom de gelegenheid aan het college om het gebrek te herstellen. Zie voor de einduitspraak ECLI:NL:RBROT:2026:4445.
 
 ## Uitspraak
 
