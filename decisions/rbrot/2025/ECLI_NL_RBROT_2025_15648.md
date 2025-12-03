@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15648"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/55"]
 ---
 
 # ECLI:NL:RBROT:2025:15648 Rechtbank Rotterdam , 03-12-2025 / C/10/672272 / HA ZA 24-79
