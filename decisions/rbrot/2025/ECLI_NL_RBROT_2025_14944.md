@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14944"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/37 met annotatie van mr. dr. J.A. Godschalx-Dekker"]
 ---
 
 # ECLI:NL:RBROT:2025:14944 Rechtbank Rotterdam , 04-12-2025 / C/10/709920 / FA RK 25-8624
