@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Tweede tussenuitspraak. Verzoek om handhaving tegen warmteleverancier. Naar het oordeel van de rechtbank heeft de ACM het geconstateerde motiveringsgebrek niet hersteld. Normaal gesproken volgt in zo’n geval een einduitspraak op het beroep. De rechtbank is echter van oordeel dat partijen hiermee in het kader van een zo finaal mogelijke beslechting van het geschil niet zijn geholpen. De rechtbank ziet daarom aanleiding om een tweede tussenuitspraak te doen en de ACM (nogmaals) in de gelegenheid te stellen het motiveringsgebrek op twee punten te herstellen.
+Tweede tussenuitspraak. Verzoek om handhaving tegen warmteleverancier. Naar het oordeel van de rechtbank heeft de ACM het geconstateerde motiveringsgebrek niet hersteld. Normaal gesproken volgt in zo’n geval een einduitspraak op het beroep. De rechtbank is echter van oordeel dat partijen hiermee in het kader van een zo finaal mogelijke beslechting van het geschil niet zijn geholpen. De rechtbank ziet daarom aanleiding om een tweede tussenuitspraak te doen en de ACM (nogmaals) in de gelegenheid te stellen het motiveringsgebrek op twee punten te herstellen. Zie ook ECLI:NL:RBROT:2025:8372 (eerste tussenuitspraak) en ECLI:NL:RBROT:2026:8970 (einduitspraak)
 
 ## Uitspraak
 
