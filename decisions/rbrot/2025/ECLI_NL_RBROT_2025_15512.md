@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15512"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/38"]
 ---
 
 # ECLI:NL:RBROT:2025:15512 Rechtbank Rotterdam , 12-12-2025 / 11819458 CV EXPL 25-16573
