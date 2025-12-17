@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14865"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/68 met annotatie van R.L. Fabritius"]
 ---
 
 # ECLI:NL:RBROT:2025:14865 Rechtbank Rotterdam , 17-12-2025 / 11919491 VVZ EXPL 25-607
