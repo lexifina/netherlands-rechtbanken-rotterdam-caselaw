@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14957"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/87"]
 ---
 
 # ECLI:NL:RBROT:2025:14957 Rechtbank Rotterdam , 17-12-2025 / C/10/705596 / HA ZA 25-705
