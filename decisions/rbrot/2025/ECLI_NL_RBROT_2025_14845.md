@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14845"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TVR 2026/36, p.139 met annotatie van J. Blussé van Oud-Alblas"]
 ---
 
 # ECLI:NL:RBROT:2025:14845 Rechtbank Rotterdam , 18-12-2025 / C/10/424631 / HA RK 13-425
