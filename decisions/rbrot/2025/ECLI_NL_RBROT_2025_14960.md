@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:14960"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/86"]
 ---
 
 # ECLI:NL:RBROT:2025:14960 Rechtbank Rotterdam , 22-12-2025 / C/10/707824 / KG RK 25-1032
