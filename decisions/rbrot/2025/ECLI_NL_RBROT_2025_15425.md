@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15425"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/38 met annotatie van mr. dr. R.B.M. Keurentjes"]
 ---
 
 # ECLI:NL:RBROT:2025:15425 Rechtbank Rotterdam , 24-12-2025 / C/10/711618 / FA RK 25-9435
