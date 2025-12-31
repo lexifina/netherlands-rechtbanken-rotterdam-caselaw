@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2025:15730"
-published_in: ["Rechtspraak.nl", "Notamail 2026/75", "Sdu Nieuws Personen- en familierecht 2026/198"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/75", "Sdu Nieuws Personen- en familierecht 2026/198", "ERF-Updates.nl 2026-0224", "VEAN-ERF-Updates.nl 2026-0224", "JERF Actueel 2026/97", "FJR 2026/55.21"]
 ---
 
 # ECLI:NL:RBROT:2025:15730 Rechtbank Rotterdam , 31-12-2025 / C/10/702319 HA ZA 25-546
