@@ -51,7 +51,7 @@ gedaagde partij,
 
 advocaat: mr. M.C. Luiten.
 
-Partijen worden hierna ook “Spring Properties” en “[gedaagde]” genoemd.
+Partijen worden hierna ook “Spring Properties” en “ [gedaagde] ” genoemd.
 
 1
 De zaak in het kort
@@ -120,13 +120,13 @@ DamVest heeft het pand vervolgens doorverkocht aan Spring Properties.
 
 Op 3 juli 2023 heeft de Gemeente Rotterdam een brief aan Spring Properties gestuurd waarin zij (onder andere) het volgende schreef:
 
-“Op 9 maart 2020 hebben wij de toenmalige eigenaar en ondernemer van het pand [adres] ([perceel]) te Rotterdam met een last onder dwangsom opgedragen om (…) het reclame bord aan de buitenzijde boven de winkelpui aan te passen conform de richtlijnen en de bovenlichten vrij te maken van het bevestigde reclame- en plaatmateriaal.
+“Op 9 maart 2020 hebben wij de toenmalige eigenaar en ondernemer van het pand [adres] ( [perceel] ) te Rotterdam met een last onder dwangsom opgedragen om (…) het reclame bord aan de buitenzijde boven de winkelpui aan te passen conform de richtlijnen en de bovenlichten vrij te maken van het bevestigde reclame- en plaatmateriaal.
 
 In het besluit hebben wij gemeld dat de eventueel hieruit voortvloeiende werkzaamheden eveneens dienen te worden uitgevoerd. (…)
 
 Wij verzoeken u om uiterlijk binnen zes weken na dagtekening van deze brief de
 
-noodzakelijke maatregelen te hebben getroffen aan het pand [adres]. Dit kunt u doen door de beplating voor de bovenlichten te verwijderen en verwijderd te houden waardoor het bovenraam/de bovenramen vrij komt/komen en de mogelijk architectonische bijzonderheden weer zichtbaar te worden.
+noodzakelijke maatregelen te hebben getroffen aan het pand [adres] . Dit kunt u doen door de beplating voor de bovenlichten te verwijderen en verwijderd te houden waardoor het bovenraam/de bovenramen vrij komt/komen en de mogelijk architectonische bijzonderheden weer zichtbaar te worden.
 
 Indien u niet binnen de gestelde termijn de maatregelen en de hieruit voortvloeiende
 
@@ -136,7 +136,7 @@ vijfhonderd euro) voor de beplakte bovenramen.”
 
 3.6.
 
-Vervolgens heeft Spring Properties de voorgevel van de eerste verdieping van het pand in het najaar van 2023 laten vervangen door haar aannemer Hirschel Verhage Bouw B.V. (“Hirschel”) voor een bedrag van € 31.719,-. Na de werkzaamheden van Hirschel zag de voorgevel van het pand er als volgt uit:
+Vervolgens heeft Spring Properties de voorgevel van de eerste verdieping van het pand in het najaar van 2023 laten vervangen door haar aannemer [bedrijf] B.V. (“[bedrijf]”) voor een bedrag van € 31.719,-. Na de werkzaamheden van [bedrijf] zag de voorgevel van het pand er als volgt uit:
 
 4
 Het geschil
@@ -173,7 +173,7 @@ Kort gezegd betoogt [gedaagde] dat DamVest haar onderzoeksplicht heeft geschonde
 
 4.7.
 
-Ten aanzien van de door de door Spring Properties gevorderde schadevergoeding betwist [gedaagde] dat de deze kosten zijn gemaakt in verband met het voldoen aan de last onder dwangsom. Die last bestond namelijk slechts uit “het vrijmaken van de bovenlichten van het bevestigde reclame- en plaatmateriaal”. Ook betwist [gedaagde] dat de staat van de kozijnen zodanig was dat vervanging van (alle) kozijnen noodzakelijk was. Bovendien heeft [gedaagde] DamVest al een korting van € 15.000,- op de koopprijs van het pand gegeven in verband met de staat van de voorgevel, en valt de staat van de kozijnen onder de ouderdomsclausule van de koopovereenkomst. Verder betwist [gedaagde] dat de btw op de factuur van Hirschel onderdeel uitmaakt van de door Spring Properties geleden schade, omdat Spring Properties die btw kan verrekenen. Daarnaast is [gedaagde] geen wettelijke rente verschuldigd, omdat zij nooit rechtsgeldig in gebreke is gesteld en daardoor niet in verzuim is komen te verkeren. Ten slotte stelt [gedaagde] zich op het standpunt dat de vordering van Spring Properties moet worden gematigd, omdat Spring Properties anders in een betere positie zou worden gebracht dan waarop zij op grond van de koopovereenkomst recht had.
+Ten aanzien van de door de door Spring Properties gevorderde schadevergoeding betwist [gedaagde] dat de deze kosten zijn gemaakt in verband met het voldoen aan de last onder dwangsom. Die last bestond namelijk slechts uit “het vrijmaken van de bovenlichten van het bevestigde reclame- en plaatmateriaal”. Ook betwist [gedaagde] dat de staat van de kozijnen zodanig was dat vervanging van (alle) kozijnen noodzakelijk was. Bovendien heeft [gedaagde] DamVest al een korting van € 15.000,- op de koopprijs van het pand gegeven in verband met de staat van de voorgevel, en valt de staat van de kozijnen onder de ouderdomsclausule van de koopovereenkomst. Verder betwist [gedaagde] dat de btw op de factuur van [bedrijf] onderdeel uitmaakt van de door Spring Properties geleden schade, omdat Spring Properties die btw kan verrekenen. Daarnaast is [gedaagde] geen wettelijke rente verschuldigd, omdat zij nooit rechtsgeldig in gebreke is gesteld en daardoor niet in verzuim is komen te verkeren. Ten slotte stelt [gedaagde] zich op het standpunt dat de vordering van Spring Properties moet worden gematigd, omdat Spring Properties anders in een betere positie zou worden gebracht dan waarop zij op grond van de koopovereenkomst recht had.
 
 4.8.
 
@@ -218,7 +218,7 @@ Deze omstandigheden maken naar het oordeel van de rechtbank niet dat de tekortko
 
 5.9.
 
-De rechtbank is gelet op het voorgaande van oordeel dat sprake is van een toerekenbare tekortkoming aan de zijde van [gedaagde]. Dit betekent dat [gedaagde] op grond van artikel 6:74 BW tegenover DamVest verplicht was de schade als gevolg van die tekortkoming te vergoeden. Voor het ontstaan van die verplichting was, anders dan [gedaagde] heeft betoogd, naar het oordeel van de rechtbank op grond van artikel 6:74 lid 2 BW niet vereist dat [gedaagde] in verzuim verkeerde. Nakoming was in dit geval namelijk blijvend onmogelijk, omdat [gedaagde] niet in staat was om een pand te leveren ten aanzien waarvan geen last onder dwangsom was opgelegd.
+De rechtbank is gelet op het voorgaande van oordeel dat sprake is van een toerekenbare tekortkoming aan de zijde van [gedaagde] . Dit betekent dat [gedaagde] op grond van artikel 6:74 BW tegenover DamVest verplicht was de schade als gevolg van die tekortkoming te vergoeden. Voor het ontstaan van die verplichting was, anders dan [gedaagde] heeft betoogd, naar het oordeel van de rechtbank op grond van artikel 6:74 lid 2 BW niet vereist dat [gedaagde] in verzuim verkeerde. Nakoming was in dit geval namelijk blijvend onmogelijk, omdat [gedaagde] niet in staat was om een pand te leveren ten aanzien waarvan geen last onder dwangsom was opgelegd.
 
 5.10.
 
@@ -278,7 +278,7 @@ Voor de vraag of de kosten die Spring Properties in deze procedure vordert in ca
 
 5.22.
 
-Tegen deze achtergrond is de rechtbank van oordeel dat de kosten die Spring Properties heeft gemaakt ter vervanging van de volledige kozijnen niet voortvloeien uit de last onder dwangsom en dus niet in causaal verband staan met de garantieschending door [gedaagde].
+Tegen deze achtergrond is de rechtbank van oordeel dat de kosten die Spring Properties heeft gemaakt ter vervanging van de volledige kozijnen niet voortvloeien uit de last onder dwangsom en dus niet in causaal verband staan met de garantieschending door [gedaagde] .
 
 5.23.
 
@@ -286,19 +286,19 @@ Uit de tekst van de last onder dwangsom volgt dat Spring Properties verplicht wa
 
 5.24.
 
-Spring Properties heeft in dit kader ook niet onderbouwd dat de kozijnen die na het verwijderen van de beplating tevoorschijn zijn gekomen in een slechtere staat verkeerden dan het deel van de kozijnen dat ten tijde van de aankoop door Spring Properties al zichtbaar was. De beplating was namelijk slechts bevestigd op een deel van de bovenlichten. Een groot deel van de bovenlichten was dus al zichtbaar. Gelet op de betwisting van [gedaagde] had het op de weg van Spring Properties gelegen om haar stelling dat het deel van de kozijnen dat na het verwijderen van de beplating tevoorschijn is gekomen in een slechtere staat verkeerde dan het zichtbare deel van de kozijnen nader te onderbouwen met bijvoorbeeld foto’s. Het is immers aan Spring Properties om voldoende onderbouwd te stellen dat het deel van de kozijnen dat tevoorschijn kwam in zodanig slechte staat verkeerde dat vervanging van in ieder geval dat deel noodzakelijk was. Alleen dan kan sprake zijn van een causaal verband tussen de last onder dwangsom en de aan de kozijnen uitgevoerde werkzaamheden. Ook uit de verklaring van Hirschel die Spring Properties heeft overgelegd volgt niet dat het verborgen deel van de kozijnen in slechtere staat verkeerde dan het zichtbare deel van de kozijnen. Uit die verklaring volgt slechts dat “het houtwerk” grotendeels was aangetast door houtrot en dat het “het vervangen van een deel geen duurzame of technisch verantwoorde oplossing zou zijn geweest.”
+Spring Properties heeft in dit kader ook niet onderbouwd dat de kozijnen die na het verwijderen van de beplating tevoorschijn zijn gekomen in een slechtere staat verkeerden dan het deel van de kozijnen dat ten tijde van de aankoop door Spring Properties al zichtbaar was. De beplating was namelijk slechts bevestigd op een deel van de bovenlichten. Een groot deel van de bovenlichten was dus al zichtbaar. Gelet op de betwisting van [gedaagde] had het op de weg van Spring Properties gelegen om haar stelling dat het deel van de kozijnen dat na het verwijderen van de beplating tevoorschijn is gekomen in een slechtere staat verkeerde dan het zichtbare deel van de kozijnen nader te onderbouwen met bijvoorbeeld foto’s. Het is immers aan Spring Properties om voldoende onderbouwd te stellen dat het deel van de kozijnen dat tevoorschijn kwam in zodanig slechte staat verkeerde dat vervanging van in ieder geval dat deel noodzakelijk was. Alleen dan kan sprake zijn van een causaal verband tussen de last onder dwangsom en de aan de kozijnen uitgevoerde werkzaamheden. Ook uit de verklaring van [bedrijf] die Spring Properties heeft overgelegd volgt niet dat het verborgen deel van de kozijnen in slechtere staat verkeerde dan het zichtbare deel van de kozijnen. Uit die verklaring volgt slechts dat “het houtwerk” grotendeels was aangetast door houtrot en dat het “het vervangen van een deel geen duurzame of technisch verantwoorde oplossing zou zijn geweest.”
 
 5.25.
 
-Ter zitting heeft Spring Properties zoals gezegd nog aangevoerd dat zij het pand niet van DamVest zou hebben gekocht als zij zou hebben geweten dat zij de bovenlichten niet mocht afplakken. Voor zover Spring Properties hiermee heeft willen betogen dat de volledige factuur van Hirschel als schade kwalificeert, omdat zij die kosten niet zou hebben gemaakt als zij de woning niet had gekocht, volgt de rechtbank haar niet. Dit betoog komt er op neer dat de schade van Spring Properties zou moeten worden bepaald door een vergelijking te maken tussen (i) de werkelijke situatie waarin Spring Properties de woning heeft verkregen, en de door haar gevorderde kosten heeft gemaakt voor het vervangen van de kozijnen, en (ii) de hypothetische situatie waarin Spring Properties het pand niet zou hebben gekocht, en de in deze procedure gevorderde kosten niet zou hebben gemaakt. Spring Properties heeft echter niets gesteld waaruit volgt dat uit een dergelijke vergelijking volgt dat zij schade heeft geleden. Daarbij zij opgemerkt dat voor het bepalen van de werkelijke situatie niet alleen rekening gehouden moet worden met de door Spring Properties gemaakte kosten, maar ook met de waarde van het pand dat tot het vermogen van Spring Properties behoort, en de huurinkomsten die zij uit het pand geniet.
+Ter zitting heeft Spring Properties zoals gezegd nog aangevoerd dat zij het pand niet van DamVest zou hebben gekocht als zij zou hebben geweten dat zij de bovenlichten niet mocht afplakken. Voor zover Spring Properties hiermee heeft willen betogen dat de volledige factuur van [bedrijf] als schade kwalificeert, omdat zij die kosten niet zou hebben gemaakt als zij de woning niet had gekocht, volgt de rechtbank haar niet. Dit betoog komt er op neer dat de schade van Spring Properties zou moeten worden bepaald door een vergelijking te maken tussen (i) de werkelijke situatie waarin Spring Properties de woning heeft verkregen, en de door haar gevorderde kosten heeft gemaakt voor het vervangen van de kozijnen, en (ii) de hypothetische situatie waarin Spring Properties het pand niet zou hebben gekocht, en de in deze procedure gevorderde kosten niet zou hebben gemaakt. Spring Properties heeft echter niets gesteld waaruit volgt dat uit een dergelijke vergelijking volgt dat zij schade heeft geleden. Daarbij zij opgemerkt dat voor het bepalen van de werkelijke situatie niet alleen rekening gehouden moet worden met de door Spring Properties gemaakte kosten, maar ook met de waarde van het pand dat tot het vermogen van Spring Properties behoort, en de huurinkomsten die zij uit het pand geniet.
 
 5.26.
 
-Gelet op het voorgaande wijst de rechtbank de vordering van Spring Properties tot vergoeding van de factuur van Hirschel en de buitengerechtelijke incassokosten af. Het kan dan ook in het midden blijven of de door Hirschel in rekening gebrachte btw voor vergoeding in aanmerking zou komen en of bij het bepalen van de schadevergoeding rekening gehouden moet worden met de korting van € 15.000,- die [gedaagde] aan DamVest heeft verleend.
+Gelet op het voorgaande wijst de rechtbank de vordering van Spring Properties tot vergoeding van de factuur van [bedrijf] en de buitengerechtelijke incassokosten af. Het kan dan ook in het midden blijven of de door [bedrijf] in rekening gebrachte btw voor vergoeding in aanmerking zou komen en of bij het bepalen van de schadevergoeding rekening gehouden moet worden met de korting van € 15.000,- die [gedaagde] aan DamVest heeft verleend.
 
 5.27.
 
-Spring Properties heeft niets gesteld over de mogelijkheid van andere door haar geleden schade als gevolg van de garantieschending van [gedaagde]. Dit betekent dat de mogelijkheid van schade in deze procedure niet aannemelijk is geworden. De rechtbank ziet dan ook geen aanleiding om de zaak te verwijzen naar de schadestaatprocedure.
+Spring Properties heeft niets gesteld over de mogelijkheid van andere door haar geleden schade als gevolg van de garantieschending van [gedaagde] . Dit betekent dat de mogelijkheid van schade in deze procedure niet aannemelijk is geworden. De rechtbank ziet dan ook geen aanleiding om de zaak te verwijzen naar de schadestaatprocedure.
 
 Spring Properties moet de proceskosten betalen
 
