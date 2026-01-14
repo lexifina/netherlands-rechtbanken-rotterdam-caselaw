@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:171"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/18"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/18", "TvC 2026/25, p.212 met annotatie van mr. A.E.M. Schuijers"]
 ---
 
 # ECLI:NL:RBROT:2026:171 Rechtbank Rotterdam , 14-01-2026 / ROT 25/240
