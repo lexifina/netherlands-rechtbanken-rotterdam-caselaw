@@ -52,7 +52,7 @@ De procedure
 
 1.1.
 
-Het verzoek strekt tot wraking van de rechter in de procedure met zaak-/ rekestnummer C/10/684513 / FA RK 24-6190, een procedure van verzoekster tegen Didier van Unen (hierna: de man).
+Het verzoek strekt tot wraking van de rechter in de procedure met zaak-/ rekestnummer C/10/684513 / FA RK 24-6190, een procedure van verzoekster tegen [naam] (hierna: de man).
 
 1.2.
 
