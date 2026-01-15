@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:185"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/167 met annotatie van mr. V.H. Affourtit", "JONDR 2026/698"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBROT:2026:4303"]]
 ---
 
