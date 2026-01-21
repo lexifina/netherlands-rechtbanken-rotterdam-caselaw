@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:519"
-published_in: ["Rechtspraak.nl", "EB 2026/29"]
+published_in: ["Rechtspraak.nl", "EB 2026/29", "RFR 2026/55"]
 ---
 
 # ECLI:NL:RBROT:2026:519 Rechtbank Rotterdam , 21-01-2026 / C/10/687143/ HA ZA 24-865 C/10/699463/ HA ZA 25-390
