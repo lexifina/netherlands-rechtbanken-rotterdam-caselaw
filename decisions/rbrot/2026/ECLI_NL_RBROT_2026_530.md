@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:530"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0072", "JA 2026/50"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0072", "JA 2026/50", "VR 2026/122"]
 ---
 
 # ECLI:NL:RBROT:2026:530 Rechtbank Rotterdam , 21-01-2026 / C/10/703806/ HA RK 25-718
