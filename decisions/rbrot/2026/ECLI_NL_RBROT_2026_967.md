@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:967"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0065"]
 ---
 
 # ECLI:NL:RBROT:2026:967 Rechtbank Rotterdam , 23-01-2026 / C/10/712701 / FA RK 26-10
