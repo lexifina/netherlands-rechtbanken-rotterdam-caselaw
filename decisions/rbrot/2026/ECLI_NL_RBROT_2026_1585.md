@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1585"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/85"]
 ---
 
 # ECLI:NL:RBROT:2026:1585 Rechtbank Rotterdam , 23-01-2026 / C/10/711981 / KG ZA 25-1252
