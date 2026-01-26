@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1719"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/124"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/124", "JPF 2026/57 met annotatie van mr. A. Wakker"]
 ---
 
 # ECLI:NL:RBROT:2026:1719 Rechtbank Rotterdam , 26-01-2026 / C/10/682619 / FA RK 24-5289
