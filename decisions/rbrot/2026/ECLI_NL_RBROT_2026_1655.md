@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1655"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/32"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/32", "JOR 2026/143 met annotatie van mr. dr. L.F.A. Welling-Steffens"]
 ---
 
 # ECLI:NL:RBROT:2026:1655 Rechtbank Rotterdam , 26-01-2026 / FT EA 26-5
