@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:964"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/53"]
 ---
 
 # ECLI:NL:RBROT:2026:964 Rechtbank Rotterdam , 27-01-2026 / 704704 / HA RK 25-778
