@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1260"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/52"]
 ---
 
 # ECLI:NL:RBROT:2026:1260 Rechtbank Rotterdam , 28-01-2026 / C/10/694166 / HA ZA 25-143
