@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1017"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/45", "JONDR 2026/578"]
 ---
 
 # ECLI:NL:RBROT:2026:1017 Rechtbank Rotterdam , 30-01-2026 / ROT 25/9955
