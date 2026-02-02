@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:922"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/39", "WR 2026/66"]
 ---
 
 # ECLI:NL:RBROT:2026:922 Rechtbank Rotterdam , 02-02-2026 / 11932800 VV EXPL 25-627
