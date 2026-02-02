@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1166"
-published_in: ["Rechtspraak.nl", "JA 2026/51 met annotatie van J.A.A. van Beek"]
+published_in: ["Rechtspraak.nl", "JA 2026/51 met annotatie van J.A.A. van Beek", "VR 2026/119"]
 ---
 
 # ECLI:NL:RBROT:2026:1166 Rechtbank Rotterdam , 02-02-2026 / 700374 HA RK 25-517
