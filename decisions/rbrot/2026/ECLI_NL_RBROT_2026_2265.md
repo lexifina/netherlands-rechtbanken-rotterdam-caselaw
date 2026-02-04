@@ -35,11 +35,11 @@ Tegenspraak
 
 Verdachte:
 
-[verdachte],
+[verdachte] ,
 
 geboren op [geboortedatum] 2001 in [geboorteplaats]
 
-ingeschreven op het adres [adres 1], [postcode] [plaatsnaam].
+ingeschreven op het adres [adres 1] , [postcode] [plaatsnaam] .
 
 Advocaat van de verdachte: mr. L.A.R. Newoor
 
@@ -76,11 +76,11 @@ zij in of omstreeks de periode van 26 september 2022 tot en met 8 november 2022 
 
 - in zaak Lepelaar: [aangever 9] en/of
 
-- in zaak Roemer: [aangever 10],
+- in zaak Roemer: [aangever 10] ,
 
 (telkens) heeft bewogen tot de afgifte van enig(e) goed(eren) te weten (een) bankpas(sen) /pinpas(sen) behorende bij (een) rekeningnummer(s) van de ABNAMRO Bank en/ of ING Bank en/ of Rabobank, immers heeft/hebben verdachte en/of haar mededader(s)
 
-- zich telefonisch jegens/aan die [aangever 1] en/of [aangever 2] en/of [aangever 3] en/of [aangever 4] en/of [aangever 5] en/of [aangever 6] en/of [aangever 10] en/of [aangever 7] en/of [aangever 8] en/of [aangever 9] voor te doen/voor te stellen als '[naam 1]' en /of '[naam 2]' en/of '[naam 3]' en/of '[naam 4]' en/of '[naam 5]' en/of [naam 6], althans een medewerkster van de ABNAMRO Bank en / of ING Bank en/ of Rabohank van de afdeling fraude en/of
+- zich telefonisch jegens/aan die [aangever 1] en/of [aangever 2] en/of [aangever 3] en/of [aangever 4] en/of [aangever 5] en/of [aangever 6] en/of [aangever 10] en/of [aangever 7] en/of [aangever 8] en/of [aangever 9] voor te doen/voor te stellen als ' [naam 1] ' en /of ' [naam 2] ' en/of ' [naam 3] ' en/of ' [naam 4] ' en/of ' [naam 5] ' en/of [naam 6] , althans een medewerkster van de ABNAMRO Bank en / of ING Bank en/ of Rabohank van de afdeling fraude en/of
 
 - ( daarbij) in die hoedanigheid valselijk en/ of bedriegelijk aan die [aangever 1] en/of [aangever 2] en/ of [aangever 3] en/ of [aangever 4] en/ of [aangever 5] en / of [aangever 6] en/ of [aangever 10] en/of [aangever 7] en/of [aangever 8] en/of [aangever 9] mede te delen – zakelijk weergegeven
 
@@ -104,13 +104,13 @@ Zwijndrecht, althans in Nederland, tezamen en in vereniging met één of meer an
 
 - in zaak Pergolesis: [aangever 15] en/of
 
-- in zaak Volger: [aangever 16],
+- in zaak Volger: [aangever 16] ,
 
 (telkens) heeft bewogen tot de afgifte van enig(e) goed(eren) te weten (een) bankpas(sen)/pinpas(sen) behorende bij (een) rekeningnummer(s) van de ABN AMRO Bank en/of ING Bank en/of Rabobank, immers heeft/hebben verdachte en/of haar mededader(s)
 
 - zich telefonisch jegens/aan die [aangever 11] en/of [aangever 12] en/of [aangever 13]
 
-en/of [aangever 14] en/of [aangever 15] en/of [aangever 16], voorgedaan/voorgesteld als '[naam 1]' en/of [naam 6], althans een medewerkster van de ABNAMRO Bank en/ of ING Bank en/of Rabobank van de afdeling fraude en/of
+en/of [aangever 14] en/of [aangever 15] en/of [aangever 16] , voorgedaan/voorgesteld als ' [naam 1] ' en/of [naam 6] , althans een medewerkster van de ABNAMRO Bank en/ of ING Bank en/of Rabobank van de afdeling fraude en/of
 
 - ( daarbij) in die hoedanigheid valselijk en/of bedriegelijk aan die [aangever 11] en/of [aangever 12] en/ of [aangever 13] en/of [aangever 14] en/of [aangever 15] en/of [aangever 16] mede te delen - zakelijk weergegeven - dat
 
@@ -155,19 +155,19 @@ Feit 2
 
 zij op 9 februari 2023 in Nederland, tezamen en in vereniging met anderen, ter uitvoering van het door verdachte en haar mededaders voorgenomen misdrijf om met het oogmerk om zich en een ander wederrechtelijk te bevoordelen door het aannemen van een valse naam en/of een valse hoedanigheid en/of door listige kunstgrepen en/of door een samenweefsel van verdichtsels,
 
-- in zaak Hoofdland: [aangever 13] en
+- in zaak Hoofdland: [aangever 13]   en
 
 - in zaak Gershwin: [aangever 14] en
 
 - in zaak Pergolesis: [aangever 15] en
 
-- in zaak Volger: [aangever 16],
+- in zaak Volger: [aangever 16] ,
 
 telkens heeft bewogen tot de afgifte van enige goederen te weten bankpassen /pinpassen, immers heeft/hebben verdachte en/of haar mededader(s)
 
-- zich telefonisch jegens/aan die [aangever 13] en [aangever 14] en [aangever 15] en [aangever 16], voorgedaan/voorgesteld als [naam 6], althans een medewerkster van de Bank van de afdeling fraude en
+- zich telefonisch jegens/aan die [aangever 13]   en [aangever 14] en [aangever 15] en [aangever 16] , voorgedaan/voorgesteld als [naam 6] , althans een medewerkster van de Bank van de afdeling fraude en
 
-- daarbij in die hoedanigheid valselijk en/of bedriegelijk aan die [aangever 13] en [aangever 14] en [aangever 15] en [aangever 16] mede te delen - zakelijk weergegeven – dat – er geldbedragen werden afgehaald van zijn en/of haar rekening, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid.
+- daarbij in die hoedanigheid valselijk en/of bedriegelijk aan die [aangever 13]   en [aangever 14] en [aangever 15] en [aangever 16] mede te delen - zakelijk weergegeven – dat – er geldbedragen werden afgehaald van zijn en/of haar rekening, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid.
 
 2.3.3.
 
@@ -201,7 +201,7 @@ V: Uit de tap hoorden wij dat er 6 keer was gepoogd om mensen op te lichten op 9
 
 A: Dat ben ik geweest.
 
-V: Bij deze pogingen werd het volgend fictief verhaal voorgehouden, dat er geconstaneerd is dat er een frauduleuze overboeking heeft plaatsgevonden, met een bedrag van 920,- euro ten name van ene [naam 7]( fon). Wat kun je hierover verklaren?
+V: Bij deze pogingen werd het volgend fictief verhaal voorgehouden, dat er geconstaneerd is dat er een frauduleuze overboeking heeft plaatsgevonden, met een bedrag van 920,- euro ten name van ene [naam 7] ( fon). Wat kun je hierover verklaren?
 
 A: Deze naam komt voor in het script. Deze komt vaker voor.
 
@@ -209,7 +209,7 @@ V: De verbalisant had vorige keer een gedeelte van de tap horen, wie hoor jij op
 
 A: Dat ben ik.
 
-V: Het onderzoeksteam heeft middels mastgegevens en eerdere informatie ook de locatie weten te achterhalen, waar vanuit gebeld is, namelijk het "Ibis hotel" aan de [adres 2]. Ben jij daar geweest?
+V: Het onderzoeksteam heeft middels mastgegevens en eerdere informatie ook de locatie weten te achterhalen, waar vanuit gebeld is, namelijk het "Ibis hotel" aan de [adres 2] . Ben jij daar geweest?
 
 A: Ik ben daar wel geweest.
 
@@ -219,15 +219,15 @@ A: Dan zou het wel vanuit het hotel zijn geweest.
 
 2. Proces-verbaal van de politie, aangifte [aangever 13]
 
-Ik ben gebeld door een vrouw op mijn huistelefoonnummer [telefoonnummer 2]. De vrouw die zei dat ze van de bank was en dat er € 950,- van mijn rekening afgeschreven was. De vrouw vroeg mij of ik een pasje had van de bankrekening.
+Ik ben gebeld door een vrouw op mijn huistelefoonnummer [telefoonnummer 2] . De vrouw die zei dat ze van de bank was en dat er € 950,- van mijn rekening afgeschreven was. De vrouw vroeg mij of ik een pasje had van de bankrekening.
 
 3. Proces-verbaal van de politie, aangifte [aangever 14]
 
-Ik ben gebeld op mijn telefoonnummer [telefoonnummer 3]. Ik denk dat het donderdag 9 februari 2023 was. Die vrouw vertelde dat er iemand geprobeerd had om geld van mijn rekening te halen. De vrouw noemde een bedrag van € 950,-.
+Ik ben gebeld op mijn telefoonnummer [telefoonnummer 3] . Ik denk dat het donderdag 9 februari 2023 was. Die vrouw vertelde dat er iemand geprobeerd had om geld van mijn rekening te halen. De vrouw noemde een bedrag van € 950,-.
 
 4. Proces-verbaal van de politie, aangifte [aangever 15]
 
-Ik ben op 9 februari 2023 gebeld door een vrouw op mijn nummer [telefoonnummer 4].
+Ik ben op 9 februari 2023 gebeld door een vrouw op mijn nummer [telefoonnummer 4] .
 
 5. Proces-verbaal van de politie, aangifte [aangever 16]
 
@@ -245,9 +245,9 @@ Het volgende hebben wij uit de tap kunnen constateren:
 
 - Dat zij steeds het woord "constaneren" foutief gebruikt in plaats van "constateren"
 
-- Dat zij zichzelf voorstelt als [naam 6]/[naam 8];
+- Dat zij zichzelf voorstelt als [naam 6] / [naam 8] ;
 
-- Dat het verhaal steeds is, verdachte transactie geweest een half uur geleden. Een overboeking van € 920,- euro naar ene "[naam 7]" (fonetisch).
+- Dat het verhaal steeds is, verdachte transactie geweest een half uur geleden. Een overboeking van € 920,- euro naar ene " [naam 7] " (fonetisch).
 
 Beller: [telefoonnummer 5]
 
@@ -277,11 +277,11 @@ De verdediging heeft aangevoerd dat niet kan worden vastgesteld dat de verdachte
 
 Zaak Devel
 
-De rechtbank is van oordeel dat niet kan worden vastgesteld dat de verdachte aangeefster Van der Hooft heeft geprobeerd te bewegen tot afgifte van enig goed. Uit het dossier blijkt niet dat aan deze aangeefster is verteld dat er geldbedragen van haar rekening werden afgehaald. Uit het dossier volgt slechts dat de verdachte de aangeefster heeft gebeld, zich heeft voorgedaan als [naam 6] en heeft medegedeeld dat er iets mis was met de financiën. Deze mededeling is niet opgenomen in de beschuldiging. Dat betekent dat niet kan worden bewezen dat de verdachte de feitelijke gedragingen zoals ten laste gelegd ten aanzien van dit onderdeel van beschuldiging heeft begaan. De verdachte wordt hiervan partieel vrijgesproken.
+De rechtbank is van oordeel dat niet kan worden vastgesteld dat de verdachte [aangever 12] heeft geprobeerd te bewegen tot afgifte van enig goed. Uit het dossier blijkt niet dat aan deze aangeefster is verteld dat er geldbedragen van haar rekening werden afgehaald. Uit het dossier volgt slechts dat de verdachte de aangeefster heeft gebeld, zich heeft voorgedaan als [naam 6] en heeft medegedeeld dat er iets mis was met de financiën. Deze mededeling is niet opgenomen in de beschuldiging. Dat betekent dat niet kan worden bewezen dat de verdachte de feitelijke gedragingen zoals ten laste gelegd ten aanzien van dit onderdeel van beschuldiging heeft begaan. De verdachte wordt hiervan partieel vrijgesproken.
 
 Zaak Hoofdland, Gershwin, Persolesis en Volger
 
-De verdachte heeft samen met anderen geprobeerd aangevers [aangever 13], [aangever 14], [aangever 15] en [aangever 16] op te lichten door hen te bewegen tot afgifte van hun bankpassen. De verdachte heeft verklaard dat er een script was dat zij moest volgen en dat het de bedoeling was dat degenen die werden gebeld hun bankpasje zouden afgeven. Uit de aangiften en tapgesprekken volgt dat de aangevers steeds zijn gebeld met de mededeling dat zij een bankmedewerkster genaamd [naam 6] spraken en dat er geldbedragen van hun rekening werden afgehaald. De verdachte heeft verklaard dat zij haar eigen stem herkent op de tapgesprekken en dat zij zichzelf heeft voorgedaan als '[naam 6]'. De rechtbank komt daarmee tot een bewezenverklaring van feit 2.
+De verdachte heeft samen met anderen geprobeerd aangevers [aangever 13] , [aangever 14] , [aangever 15] en [aangever 16] op te lichten door hen te bewegen tot afgifte van hun bankpassen. De verdachte heeft verklaard dat er een script was dat zij moest volgen en dat het de bedoeling was dat degenen die werden gebeld hun bankpasje zouden afgeven. Uit de aangiften en tapgesprekken volgt dat de aangevers steeds zijn gebeld met de mededeling dat zij een bankmedewerkster genaamd [naam 6] spraken en dat er geldbedragen van hun rekening werden afgehaald. De verdachte heeft verklaard dat zij haar eigen stem herkent op de tapgesprekken en dat zij zichzelf heeft voorgedaan als ' [naam 6] '. De rechtbank komt daarmee tot een bewezenverklaring van feit 2.
 
 3
 Kwalificatie en strafbaarheid
