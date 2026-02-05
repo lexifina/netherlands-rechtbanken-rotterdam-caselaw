@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1215"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/75", "AR-Updates.nl 2026-0291", "VAAN-AR-Updates.nl 2026-0291", "JAR 2026/82"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/75", "AR-Updates.nl 2026-0291", "VAAN-AR-Updates.nl 2026-0291", "JAR 2026/82", "Jurisprudentie HSE 2026/20"]
 ---
 
 # ECLI:NL:RBROT:2026:1215 Rechtbank Rotterdam , 05-02-2026 / 11735841 HA VERZ 25-34
