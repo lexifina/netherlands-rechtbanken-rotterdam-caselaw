@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2022"
-published_in: ["Rechtspraak.nl", "Notamail 2026/68", "Sdu Nieuws Personen- en familierecht 2026/181"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/68", "Sdu Nieuws Personen- en familierecht 2026/181", "JERF Actueel 2026/89"]
 ---
 
 # ECLI:NL:RBROT:2026:2022 Rechtbank Rotterdam , 06-02-2026 / C/10/713748 / HA RK 26-63
