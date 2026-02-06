@@ -52,7 +52,7 @@ gedaagde,
 
 die niet is verschenen.
 
-De partijen worden hierna ‘[eiser]’ en ‘[gedaagde]’ genoemd.
+De partijen worden hierna ‘ [eiser] ’ en ‘ [gedaagde] ’ genoemd.
 
 1
 De procedure
@@ -61,7 +61,7 @@ De procedure
 
 Het dossier bestaat uit de volgende processtukken:
 
-de conceptdagvaarding in kort geding van [eiser], met bijlagen;
+de conceptdagvaarding in kort geding van [eiser] , met bijlagen;
 
 de e-mails van de gemachtigde van [eiser] van 30 januari 2026.
 
@@ -78,7 +78,7 @@ De dagvaarding is nietig
 
 [gedaagde] is niet in deze procedure verschenen. Er wordt echter geen verstek tegen hem verleend (artikel 139 Rv). De dagvaarding voldoet namelijk op een groot aantal punten niet aan de wettelijke vereisten. Het gaat daarbij in elk geval om de volgende formele gebreken (artikel 45 en 11 Rv):
 
-de dagvaarding is niet door middel van een deurwaardersexploot betekend aan [gedaagde];
+de dagvaarding is niet door middel van een deurwaardersexploot betekend aan [gedaagde] ;
 
 het adres van de rechtbank is niet in de dagvaarding opgenomen;
 
@@ -94,7 +94,7 @@ De kantonrechter geeft [eiser] niet de gelegenheid om deze gebreken te herstelle
 
 2.3.
 
-De proceskosten komen voor rekening van [eiser], omdat hij ongelijk krijgt (artikel 237 Rv). De kantonrechter begroot de kosten die [eiser] aan Tassoupoulos moet betalen op € 0,-, omdat [gedaagde] niet in de procedure is verschenen.
+De proceskosten komen voor rekening van [eiser] , omdat hij ongelijk krijgt (artikel 237 Rv). De kantonrechter begroot de kosten die [eiser] aan [gedaagde] moet betalen op € 0,-, omdat [gedaagde] niet in de procedure is verschenen.
 
 3
 De beslissing
