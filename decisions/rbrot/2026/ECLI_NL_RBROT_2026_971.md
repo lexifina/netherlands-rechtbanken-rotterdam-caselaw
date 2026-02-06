@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:971"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JW 2026/27"]
 ---
 
 # ECLI:NL:RBROT:2026:971 Rechtbank Rotterdam , 06-02-2026 / ROT 24/9946
