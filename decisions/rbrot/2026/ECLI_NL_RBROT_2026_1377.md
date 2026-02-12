@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1377"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3070"]]
 ---
 
 # ECLI:NL:RBROT:2026:1377 Rechtbank Rotterdam , 12-02-2026 / 11910438 VZ VERZ 25-6389
