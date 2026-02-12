@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2056"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-1424", "AR-Updates.nl 2026-1424"]
 ---
 
 # ECLI:NL:RBROT:2026:2056 Rechtbank Rotterdam , 12-02-2026 / 11993343 VV EXPL 25-746
