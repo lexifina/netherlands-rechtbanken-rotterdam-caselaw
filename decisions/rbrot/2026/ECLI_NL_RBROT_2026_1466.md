@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1466"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/92 met annotatie van G.J. van Essen, mr. T. van Wijk"]
 ---
 
 # ECLI:NL:RBROT:2026:1466 Rechtbank Rotterdam , 13-02-2026 / C/10/710061 / KG ZA 25-1128
