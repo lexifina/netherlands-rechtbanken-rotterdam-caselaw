@@ -164,19 +164,19 @@ Aanleiding
 
 Op grond van het dossier en het onderzoek ter terechtzitting stelt de rechtbank het volgende vast.
 
-In september 2024 kwam in een onderzoek naar cybercrime genaamd Lijmtang de Telegramgebruiker met de naam [naam 1] naar voren. In dit onderzoek is een verdachte aangehouden (naar later bleek: de neef van de verdachte) en zijn gegevensdragers in beslag genomen. Uit onderzoek naar deze gegevensdragers is naar voren gekomen dat tussen genoemde Telegramgebruiker [naam 1] en Telegramgebruiker [naam 2] duizenden berichten zijn uitgewisseld. De gegevensdragers zijn overdragen aan het onderzoek Snoeimes. Daarin is een onderzoek ingesteld naar de identiteit van de persoon achter het Telegram-account met de gebruikersnaam [naam 2].
+In september 2024 kwam in een onderzoek naar cybercrime genaamd Lijmtang de Telegramgebruiker met de naam [naam 1] naar voren. In dit onderzoek is een verdachte aangehouden (naar later bleek: de neef van de verdachte) en zijn gegevensdragers in beslag genomen. Uit onderzoek naar deze gegevensdragers is naar voren gekomen dat tussen genoemde Telegramgebruiker [naam 1] en Telegramgebruiker [naam 2] duizenden berichten zijn uitgewisseld. De gegevensdragers zijn overdragen aan het onderzoek Snoeimes. Daarin is een onderzoek ingesteld naar de identiteit van de persoon achter het Telegram-account met de gebruikersnaam [naam 2] .
 
 In de chatgesprekken tussen [naam 1] en [naam 2] werd een adres genoemd. De verdachte kwam toen in beeld, omdat hij op dit adres staat ingeschreven. Dit heeft geleid tot het onderzoek naar de verdachte. Op 19 mei 2025 is de verdachte in zijn woning aangehouden. Zijn woning is doorzocht en meerdere gegevensdragers zijn in beslag genomen, waaronder laptops, usb-sticks en telefoons. Uit nader onderzoek naar één van de usb-sticks, die in de Lenovo laptop zat, bleek dat op de usb-stick 56 leadslijsten met 1.902.657 regels met niet-openbare gegevens stonden. Het ging om namen, e-mailadressen, wachtwoorden en woonadressen. Daarnaast werden 46 phishingbrieven aangetroffen waarin onder andere wordt gevraagd betaalgegevens te updaten of een betaling te doen. Ten slotte stonden op de usb-stick 26 phishingpanels van onder andere banken, pakketdiensten en aanbieders van media.
 
 Uit onderzoek naar de Telegram-chatgesprekken tussen [naam 1] en [naam 2] is naar voren gekomen dat [naam 1] een groot aantal bestanden met leadslijsten aan [naam 2] heeft gestuurd en dat deze [naam 2] ook bestanden aan [naam 1] heeft gestuurd. Verder heeft [naam 2] op 3 november 2023 een foto naar [naam 1] gestuurd waarop de applicatie UltraMailer zichtbaar was. Dat is een applicatie die wordt gebruikt voor het versturen voor phishingberichten. Op de foto is te zien dat 18.480 van 19.573 e-mail-berichten waren verstuurd. Een aantal screenshots bevatten e-mailberichten die waren verstuurd uit naam van banken en een creditcardmaatschappij.
 
-Op de in beslag genomen Medion Erazor laptop is het programma Telegram Desktop aangetroffen met de gebruikersnaam [naam 2]. Op de laptop waren 25 leadslijsten opgeslagen met 687.658 regels aan persoonsgegevens. Op de in beslag genomen iPhone 13 zijn screenshots aangetroffen van ingelogde bankomgevingen van bankrekeningen die niet op naam van de verdachte staan.
+Op de in beslag genomen Medion Erazor laptop is het programma Telegram Desktop aangetroffen met de gebruikersnaam [naam 2] . Op de laptop waren 25 leadslijsten opgeslagen met 687.658 regels aan persoonsgegevens. Op de in beslag genomen iPhone 13 zijn screenshots aangetroffen van ingelogde bankomgevingen van bankrekeningen die niet op naam van de verdachte staan.
 
 De verdachte heeft ter terechtzitting verklaard dat de in beslag genomen Lenovo laptop, Medion Erazor laptop en iPhone 13 van hem zijn.
 
 Standpunt officier van justitie
 
-In de chatgesprekken tussen [naam 2] en [naam 1], de usb-stick en Medion Erazor laptop zijn gegevens gevonden die bestemd zijn voor phishing. Op basis van de gegevens (leadslijsten, phishingberichten en schermafbeeldingen met ingelogde bankomgevingen van derden) die in het onderzoek zijn aangetroffen, zeker als die in samenhang worden bekeken, kan worden vastgesteld dat de gegevens bestemd zijn voor oplichting en gekwalificeerde diefstal (online diefstal met een valse sleutel). Feit 1 kan dan ook worden bewezenverklaard, in ieder geval voor zover het betreft het ontvangen, verspreiden en voorhanden hebben van de gegevens.
+In de chatgesprekken tussen [naam 2] en [naam 1] , de usb-stick en Medion Erazor laptop zijn gegevens gevonden die bestemd zijn voor phishing. Op basis van de gegevens (leadslijsten, phishingberichten en schermafbeeldingen met ingelogde bankomgevingen van derden) die in het onderzoek zijn aangetroffen, zeker als die in samenhang worden bekeken, kan worden vastgesteld dat de gegevens bestemd zijn voor oplichting en gekwalificeerde diefstal (online diefstal met een valse sleutel). Feit 1 kan dan ook worden bewezenverklaard, in ieder geval voor zover het betreft het ontvangen, verspreiden en voorhanden hebben van de gegevens.
 
 Ook feit 2 kan worden bewezenverklaard. De verdachte heeft phishingpanels voorhanden gehad. De verdachte stuurde schermafbeeldingen van in werking zijnde phishingpanels en had ook de daadwerkelijke bronbestanden voorhanden.
 
@@ -190,7 +190,7 @@ De rechtbank gaat voorbij aan het verweer van de verdediging dat de verdachte ge
 
 De verdachte ontkent dat hij degene is achter het Telegram-account met de gebruikersnaam [naam 2] en dat de in beslag genomen usb-stick van hem is. Tijdens de zitting heeft de verdachte gezegd dat vrienden bij hem thuis over de vloer kwamen die zijn laptop en telefoon gebruikten, bijvoorbeeld als hun telefoon was uitgevallen of zij met hun telefoon geen bereik hadden. Volgens de verdachte moeten de aangetroffen leadslijsten, phishing-berichten, afbeeldingen van ingelogde bankomgevingen en phishingpanels door iemand anders op zijn gegevensdragers zijn gezet zonder dat hij dat wist.
 
-Naar het oordeel van de rechtbank is het scenario dat de verdachte heeft geschetst niet aannemelijk geworden. De in beslag genomen laptops en telefoons zijn van de verdachte zoals hij zelf ook heeft verklaard ter zitting. Hij had toegang tot deze apparaten en had deze in gebruik. De usb-stick zat in de laptop die door de verdachte werd dichtgeklapt op het moment dat hij werd aangehouden. De verdachte heeft zich tot aan de zitting op zijn zwijgrecht beroepen. Op de zitting heeft de verdachte gezegd dat anderen zijn laptop, telefoon en het account [naam 2] hebben gebruikt, maar hij heeft niet concreet benoemd wie die persoon of personen zijn. Dat is daarom niet verifieerbaar. Het dossier bevat geen enkele aanwijzing dat iemand anders gebruik heeft gemaakt van de laptops en telefoons van de verdachte en het Telegram-account met de gebruikersnaam [naam 2]. Tijdens Telegram-chatgesprekken tussen 18 april 2025 en 16 mei 2025 over het aanschaffen van technische hulpmiddelen zoals phishingwebsites en antibots maakte de telefoon van de verdachte verbinding met een telecommunicatiezendmast in het gebouw van zijn werkgever en met zendmasten binnen het gebied waar de verdachte woont. Dit alles wijst in de richting van de verdachte. Er is bovendien een zeer groot aantal niet openbare gegevens op de laptop, usb-stick en telefoon van de verdachte aangetroffen en de Telegram-chatgesprekken met [naam 1] bestrijken een lange periode. Gelet ook op die hoeveelheid gegevens en die lange periode is niet zonder meer aannemelijk dat de verdachte, zoals hij tijdens de zitting heeft gezegd, de Telegram-app op zijn telefoon nooit heeft geopend en gebruikt en helemaal niets wist van de vele leadslijsten, phishingberichten, afbeeldingen van ingelogde bankomgevingen en phishingpanels op zijn gegevensdragers. De verdachte levert daarvoor geen concrete verifieerbare onderbouwing.
+Naar het oordeel van de rechtbank is het scenario dat de verdachte heeft geschetst niet aannemelijk geworden. De in beslag genomen laptops en telefoons zijn van de verdachte zoals hij zelf ook heeft verklaard ter zitting. Hij had toegang tot deze apparaten en had deze in gebruik. De usb-stick zat in de laptop die door de verdachte werd dichtgeklapt op het moment dat hij werd aangehouden. De verdachte heeft zich tot aan de zitting op zijn zwijgrecht beroepen. Op de zitting heeft de verdachte gezegd dat anderen zijn laptop, telefoon en het account [naam 2] hebben gebruikt, maar hij heeft niet concreet benoemd wie die persoon of personen zijn. Dat is daarom niet verifieerbaar. Het dossier bevat geen enkele aanwijzing dat iemand anders gebruik heeft gemaakt van de laptops en telefoons van de verdachte en het Telegram-account met de gebruikersnaam [naam 2] . Tijdens Telegram-chatgesprekken tussen 18 april 2025 en 16 mei 2025 over het aanschaffen van technische hulpmiddelen zoals phishingwebsites en antibots maakte de telefoon van de verdachte verbinding met een telecommunicatiezendmast in het gebouw van zijn werkgever en met zendmasten binnen het gebied waar de verdachte woont. Dit alles wijst in de richting van de verdachte. Er is bovendien een zeer groot aantal niet openbare gegevens op de laptop, usb-stick en telefoon van de verdachte aangetroffen en de Telegram-chatgesprekken met [naam 1] bestrijken een lange periode. Gelet ook op die hoeveelheid gegevens en die lange periode is niet zonder meer aannemelijk dat de verdachte, zoals hij tijdens de zitting heeft gezegd, de Telegram-app op zijn telefoon nooit heeft geopend en gebruikt en helemaal niets wist van de vele leadslijsten, phishingberichten, afbeeldingen van ingelogde bankomgevingen en phishingpanels op zijn gegevensdragers. De verdachte levert daarvoor geen concrete verifieerbare onderbouwing.
 
 De rechtbank acht ten aanzien van feit 1 bewezen dat de verdachte in of omstreeks de periode van 21 oktober 2023 tot en met 19 mei 2025 meermalen leadslijsten, phishing-berichten en afbeeldingen van ingelogde bankomgevingen heeft ontvangen, overgedragen en voorhanden gehad. De verdachte heeft hierbij opzettelijk gehandeld. Gelet op de aangetroffen leadslijsten, phishingberichten en afbeeldingen van ingelogde bankomgevingen kan het niet anders dan dat de verdachte wist dat deze bestemd waren tot het plegen van een misdrijf (waaronder oplichting) dat betrekking heeft op het verkrijgen van een niet-contant betaalinstrument (zoals geld dat op een bankrekening staat). Ook is bewezen dat de verdachte dit feit samen met (in ieder geval) één ander pleegde en dat dus dat sprake is van medeplegen. Uit de bewijsmiddelen, in het bijzonder de Telegram-chatgesprekken, blijkt van een nauwe en bewuste samenwerking tussen [naam 1] en de verdachte. Bestanden met niet-openbare gegevens en screenshots van phishingberichten en ingelogde bankomgevingen werden in chatgesprekken gedurende een lange periode met elkaar uitgewisseld. De rechtbank ziet hierin een nauwe en bewuste samenwerking, waaraan beide partijen een wezenlijke bijdrage leverden.
 
@@ -482,15 +482,15 @@ Bijlage 1 – Bewijsmiddelen
 
 1. Verklaring van de verdachte
 
-De in beslag genomen Medion Erazor laptop, de Lenovo Thinkpad laptop en de iPhone 13 zijn van mij. Ik woon aan de [adres].
+De in beslag genomen Medion Erazor laptop, de Lenovo Thinkpad laptop en de iPhone 13 zijn van mij. Ik woon aan de [adres] .
 
 2. Proces-verbaal van de politie
 
-Onderzoek Snoeimes richt zich op de Telegram gebruiker met username '[naam 2]'. Op 12 maart 2025 ontving onderzoek Snoeimes veiliggestelde data uit een inbeslaggenomen
+Onderzoek Snoeimes richt zich op de Telegram gebruiker met username ' [naam 2] '. Op 12 maart 2025 ontving onderzoek Snoeimes veiliggestelde data uit een inbeslaggenomen
 
-lphone (goedcode A.01 .06.001) en Samsung (goedcode A.02.01 .002) van Damian Deegbe. Deegbe werd in onderzoek Lijmtang verdacht van verschillende cybercrime feiten en is geïdentificeerd als een Telegram gebruiker met de naam [naam 1].
+lphone (goedcode A.01 .06.001) en Samsung (goedcode A.02.01 .002) van [naam 3] . [naam 3] werd in onderzoek Lijmtang verdacht van verschillende cybercrime feiten en is geïdentificeerd als een Telegram gebruiker met de naam [naam 1] .
 
-In goed A.01 .06.001 trof ik een  Telegramgesprek aan tussen [naam 2] en [naam 1]. Dit gesprek was gestart op 21 oktober 2023 en het laatste bericht was gestuurd op 1 december 2024. In totaal bestond het gesprek uit 7.082 berichten. Ik zag dat in dit gesprek een groot aantal .txt. bestanden met daarin leadslijsten waren gedeeld. In de chat tussen [naam 2] en [naam 1] werden 35 .txt bestanden gestuurd met daarin e-mailadressen, telefoonnummers en wachtwoorden. Het eerste bestand werd op 29 oktober 2023 gedeeld en het laatste op 23 oktober 2024. 33 van de 35 bestanden worden door [naam 1] gedeeld en 2 worden door [naam 2] gedeeld.
+In goed A.01 .06.001 trof ik een  Telegramgesprek aan tussen [naam 2] en [naam 1] . Dit gesprek was gestart op 21 oktober 2023 en het laatste bericht was gestuurd op 1 december 2024. In totaal bestond het gesprek uit 7.082 berichten. Ik zag dat in dit gesprek een groot aantal .txt. bestanden met daarin leadslijsten waren gedeeld. In de chat tussen [naam 2] en [naam 1] werden 35 .txt bestanden gestuurd met daarin e-mailadressen, telefoonnummers en wachtwoorden. Het eerste bestand werd op 29 oktober 2023 gedeeld en het laatste op 23 oktober 2024. 33 van de 35 bestanden worden door [naam 1] gedeeld en 2 worden door [naam 2] gedeeld.
 
 3. Proces-verbaal van de politie
 
@@ -504,7 +504,7 @@ Ik zag in de data van de USB-stick leadslijsten en phishingpanels. Ik zag 56 lea
 
 5. Proces-verbaal van de politie
 
-Ik stelde onderzoek in naar technische hulpmiddelen voor het versturen van phishingberichten op de gegevensdrager met code A.01.06.001 (SIN: AAQU8390NL) in de Telegram-chat tussen [naam 2] en [naam 1]. De chat is een gesprek dat liep tussen 21 oktober 2023 en 1 december 2024 en 7082 berichten had, waarvan 3053 afkomstig van [naam 2].
+Ik stelde onderzoek in naar technische hulpmiddelen voor het versturen van phishingberichten op de gegevensdrager met code A.01.06.001 (SIN: AAQU8390NL) in de Telegram-chat tussen [naam 2] en [naam 1] . De chat is een gesprek dat liep tussen 21 oktober 2023 en 1 december 2024 en 7082 berichten had, waarvan 3053 afkomstig van [naam 2] .
 
 Op 3 november 2023 verstuurde [naam 2] een foto met daarin een computerapplicatie zichtbaar dat ik ambtshalve herkende als de applicatie UltraMailer. UltraMailer is een applicatie die het mogelijk maakt om in bulk e-mailberichten te versturen. Ambtshalve is mij bekend dat dit een veelgebruikte applicatie is die gebruikt wordt voor phishingberichten. Ik zag dat er een adressenboek zichtbaar was met 19573 e-mailadressen. Ik zag dat op het moment van het maken van de foto er e-mailberichten werden verstuurd en dat er 18480 van de 19573 e-mailberichten waren verstuurd, waarvan er 5501 mislukt waren. Ik zag dat de titel van het bericht "U heeft een urgent bericht" was. Ik zag dat in een aantal screenshots e-mailberichten stonden uit naam van: ICS (Creditcard aanbieder), ANWB, Commerzbank (Duitse bank), Acerta (Belgische bank) en Ministeries van de Vlaamse Gemeenschap.
 
@@ -516,25 +516,25 @@ de navolgende laptop van het merk Medion Erazor
 
 aangetroffen en in beslag genomen. Deze laptop werd voorzien van het inbeslagname nummer A.02.01.002 en SIN-nummer: AAQP0543NL.
 
-Ik zag dat het Google account "[e-mailadres]" ingelogd was in de webbrowser Google Chrome. Verder zag ik dat het account "[account]" met de naam "[verdachte]" ingelogd was als mailaccount op de laptop. Ik zag in de internetgeschiedenis van de webbrowser Google Chrome dat het e-mailaccount "[verdachte]" ingelogd was op de Outlook website toen de webbrowser voor het laatst gebruikt is op 20 april 2024.
+Ik zag dat het Google account " [e-mailadres] " ingelogd was in de webbrowser Google Chrome. Verder zag ik dat het account " [account] " met de naam " [verdachte] " ingelogd was als mailaccount op de laptop. Ik zag in de internetgeschiedenis van de webbrowser Google Chrome dat het e-mailaccount " [verdachte] " ingelogd was op de Outlook website toen de webbrowser voor het laatst gebruikt is op 20 april 2024.
 
 Ik zag in de "Telegram Desktop" map meerdere leadslijsten en een archiefbestand genaamd
 
 "UltraMailer V3.5.zip". Ambtshalve is mij bekend dat UltraMailer een programma is waarmee men in bulk e-mails kan versturen. Ik zag dat het om 25 leadslijsten ging met onder andere persoonsgegevens. Deze persoonsgegevens bestonden uit e-mailadressen, namen, telefoonnummers en woonadressen. Ik zag dat in deze 25 lijsten in totaal 687.658 regels met persoonsgegevens stonden.
 
-Ik zag dat in het gesprek tussen [naam 2] en [naam 1], [naam 2] diverse keren afbeeldingen stuurde naar [naam 1], waarop vermoedelijk phishingberichten zichtbaar waren en waarbij getest werd of het bericht goed was.
+Ik zag dat in het gesprek tussen [naam 2] en [naam 1] , [naam 2] diverse keren afbeeldingen stuurde naar [naam 1] , waarop vermoedelijk phishingberichten zichtbaar waren en waarbij getest werd of het bericht goed was.
 
 7. Proces-verbaal van de politie
 
 Screenshots ingelogde bankomgeving in  Telegramgesprek
 
-Ik stelde onderzoek in op het toestel A.01.06.001 uit onderzoek Lijmtang. Ik zag dat op 2 september 2024 omstreeks 14:23 uur en 14:24 uur (UTC+2) door [naam 2] vijf screenshots van een telefoon werden gestuurd naar [naam 1] via Telegram. Ik zag dat deze screenshots van de website "[website]" waren genomen en dat er niet-openbare persoonsgegevens zichtbaar waren zoals: naam, adres, e-mailadres, GSM-nummer, telefoonnummer en spaar- of zichtrekeningen met desbetreffende IBAN-nummers en bedragen die op deze rekeningen stonden. De namen die ik zag bij de rekeningen, was niet de naam van de verdachte, maar zeer waarschijnlijk van een Belgisch persoon.
+Ik stelde onderzoek in op het toestel A.01.06.001 uit onderzoek Lijmtang. Ik zag dat op 2 september 2024 omstreeks 14:23 uur en 14:24 uur (UTC+2) door [naam 2] vijf screenshots van een telefoon werden gestuurd naar [naam 1] via Telegram. Ik zag dat deze screenshots van de website " [website] " waren genomen en dat er niet-openbare persoonsgegevens zichtbaar waren zoals: naam, adres, e-mailadres, GSM-nummer, telefoonnummer en spaar- of zichtrekeningen met desbetreffende IBAN-nummers en bedragen die op deze rekeningen stonden. De namen die ik zag bij de rekeningen, was niet de naam van de verdachte, maar zeer waarschijnlijk van een Belgisch persoon.
 
 Screenshots ingelogde bankomgeving ING.be toestel A.01.03.002
 
 Ik zag dat op het toestel met goednummer A.01.03.002, uit onderzoek Snoeimes, zeven
 
-screenshots stonden. Ik zag dat deze screenshots van de website "[website]" waren genomen en dat er niet-openbare persoonsgegevens zichtbaar waren zoals: naam, adres, e-mailadres, GSM-nummer, telefoonnummer en spaar- of zichtrekeningen met desbetreffende IBAN-nummers en bedragen die op deze rekeningen stonden. De namen die ik zag bij de rekeningen, was niet de naam van de verdachte, maar zeer waarschijnlijk van een Belgisch persoon.
+screenshots stonden. Ik zag dat deze screenshots van de website " [website] " waren genomen en dat er niet-openbare persoonsgegevens zichtbaar waren zoals: naam, adres, e-mailadres, GSM-nummer, telefoonnummer en spaar- of zichtrekeningen met desbetreffende IBAN-nummers en bedragen die op deze rekeningen stonden. De namen die ik zag bij de rekeningen, was niet de naam van de verdachte, maar zeer waarschijnlijk van een Belgisch persoon.
 
 8. Proces-verbaal van de politie
 
@@ -550,15 +550,15 @@ Ik heb delen van het Telegram-chatgesprek tussen de gebruiker van de telefoon, w
 
 Op 19 mei 2025 werd tijdens de doorzoeking in de woning aan de [adres] de navolgende laptop van het merk Lenovo, Thinkpad T450s aangetroffen en in beslag genomen. Deze laptop werd voorzien van het inbeslagname nummer A.01 .03.001 en SIN-nummer: AAQP0542NL. Op 20 mei 2025 is van deze laptop en een USB-stick die in de laptop zat een forensische kopie gemaakt. (…) Ik zag in de data van de USB-stick 26 phishingpanels. Ik zag dat het phishingpanels betrof voor verschillende diensten.
 
-Ik zag dat "[naam 2]" in de Telegramchat met "[naam 1]" op 22 juli 2024 te 13:02 uur een afbeelding stuurt waarop een ABN AMRO phishingbrief te zien is.
+Ik zag dat " [naam 2] " in de Telegramchat met " [naam 1] " op 22 juli 2024 te 13:02 uur een afbeelding stuurt waarop een ABN AMRO phishingbrief te zien is.
 
 Ik zag verder dat drie phishingbrieven uit de data van de USB-stick overeenkwamen met
 
-phishingbrieven uit de Telegram chat tussen "[naam 2]" en "[naam 1]".
+phishingbrieven uit de Telegram chat tussen " [naam 2] " en " [naam 1] ".
 
 11. Proces-verbaal van de politie
 
-Op 19 mei 2025 vond er een doorzoeking plaats in de woning aan [adres]. Ik zag een wit doosje liggen in de salontafel in de woonkamer van de woning. Na het openen van dit doosje zag ik dat hier ogenschijnlijk verdovende middelen in zaten.
+Op 19 mei 2025 vond er een doorzoeking plaats in de woning aan [adres] . Ik zag een wit doosje liggen in de salontafel in de woonkamer van de woning. Na het openen van dit doosje zag ik dat hier ogenschijnlijk verdovende middelen in zaten.
 
 Ik heb op het bureau de goederen afkomstig uit dit doosje verder onderzocht. Ik heb deze goederen gewogen inclusief verpakking (bruto gewicht) en geteld. Onderstaand de bevindingen van mijn onderzoek:
 
@@ -568,7 +568,7 @@ Ik heb op het bureau de goederen afkomstig uit dit doosje verder onderzocht. Ik 
 
 De bewijsmiddelen zijn, ook in onderdelen, alleen gebruikt voor het feit waarop zij naar hun inhoud kennelijk betrekking hebben.
 
-De exacte vindplaatsen van de bewijsmiddelen zijn genoemd in de bijbehorende voetnoot. Als wordt verwezen naar paginanummers, wordt - tenzij anders vermeld - gedoeld op paginanummers uit het zaaksdossier Snoeimes cybercrime met documentcode [nummer 1], onderzoeksnummer RTRBE25005.
+De exacte vindplaatsen van de bewijsmiddelen zijn genoemd in de bijbehorende voetnoot. Als wordt verwezen naar paginanummers, wordt - tenzij anders vermeld - gedoeld op paginanummers uit het zaaksdossier Snoeimes cybercrime met documentcode [nummer 1] , onderzoeksnummer RTRBE25005.
 
 Verklaard tijdens de zitting van 4 februari 2026.
 
@@ -590,8 +590,8 @@ Zaaksdossier Snoeimes cybercrime pagina 94.
 
 Zaaksdossier Snoeimes cybercrime pagina 24.
 
-Zaaksdossier Snoeimes verdovende middelen, documentcode [nummer 2], pagina 6-8.
+Zaaksdossier Snoeimes verdovende middelen, documentcode [nummer 2] , pagina 6-8.
 
 Zaaksdossier Snoeimes verdovende middelen, documentcode [nummer 2] pagina 35 e.v.
 
-Rapport van het Nederlands Forensisch Instituut, pagina 43 e.v. van het zaaksdossier Snoeimes verdovende middelen, documentcode [nummer 2].
+Rapport van het Nederlands Forensisch Instituut, pagina 43 e.v. van het zaaksdossier Snoeimes verdovende middelen, documentcode [nummer 2] .
