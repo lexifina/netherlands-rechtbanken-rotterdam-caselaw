@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1952"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2026/24"]
 ---
 
 # ECLI:NL:RBROT:2026:1952 Rechtbank Rotterdam , 20-02-2026 / ROT 25/3648
