@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2133"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-1435", "VAAN-AR-Updates.nl 2026-1435"]
 ---
 
 # ECLI:NL:RBROT:2026:2133 Rechtbank Rotterdam , 20-02-2026 / 11960671 VV EXPL 25-682
