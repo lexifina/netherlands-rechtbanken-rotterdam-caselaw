@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1641"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0050"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0050", "JPF 2026/53 met annotatie van mr. A.J.I. Mullenders"]
 ---
 
 # ECLI:NL:RBROT:2026:1641 Rechtbank Rotterdam , 25-02-2026 / C/10/680330 HA ZA 24-497
