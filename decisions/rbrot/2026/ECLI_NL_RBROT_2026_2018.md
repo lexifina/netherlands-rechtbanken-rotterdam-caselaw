@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2018"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/180"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/180", "FJR 2026/46.33"]
 ---
 
 # ECLI:NL:RBROT:2026:2018 Rechtbank Rotterdam , 25-02-2026 / C/10/704874 / FA RK 25-6129
