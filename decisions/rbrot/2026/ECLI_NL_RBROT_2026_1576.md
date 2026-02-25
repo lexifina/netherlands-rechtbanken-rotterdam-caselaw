@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:1576"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0048"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0048", "JPF 2026/61 met annotatie van prof. mr. P. Vlaardingerbroek"]
 ---
 
 # ECLI:NL:RBROT:2026:1576 Rechtbank Rotterdam , 25-02-2026 / C/10/684392 / FA RK 24-6132
