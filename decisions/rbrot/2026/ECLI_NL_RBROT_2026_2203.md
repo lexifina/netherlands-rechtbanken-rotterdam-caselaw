@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Wet hersteloperatie toeslagen (Wht). De Dienst Toeslagen heeft tijdens het beroep erkend dat eiseres recht heeft op een hogere nabetaling. Beroep gegrond. De rechtbank voorziet zelf in de zaak en bepaalt dat eiseres recht heeft op een nabetaling van € 2.083,-. Eiseres heeft daarnaast recht op een schadevergoeding vanwege de schending van de redelijke termijn.
+Inhoudsindicatie: Wet hersteloperatie toeslagen (Wht). Afwijzing aanvraag van eiseres om compensatie op grond van de Wht. De Dienst Toeslagen heeft de hoorplicht geschonden, maar de rechtbank passeert het gebrek met toepassing van artikel 6:22 van de Algemene wet bestuursrecht. De Dienst Toeslagen heeft de aanvraag van eiseres om compensatie terecht afgewezen. Beroep ongegrond. Eiseres krijgt wel een schadevergoeding vanwege de schending van de redelijke termijn.
 
 ## Uitspraak
 
