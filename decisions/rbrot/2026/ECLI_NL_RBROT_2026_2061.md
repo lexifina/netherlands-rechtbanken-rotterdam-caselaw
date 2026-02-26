@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2061"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "School en Wet 2026/144"]
 ---
 
 # ECLI:NL:RBROT:2026:2061 Rechtbank Rotterdam , 26-02-2026 / 12013566 HA VERZ 25-101
