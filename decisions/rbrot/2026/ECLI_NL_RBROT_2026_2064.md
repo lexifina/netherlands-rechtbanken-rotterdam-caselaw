@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2064"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0146", "VEAN-ERF-Updates.nl 2026-0146"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0146", "VEAN-ERF-Updates.nl 2026-0146", "JERF Actueel 2026/90"]
 ---
 
 # ECLI:NL:RBROT:2026:2064 Rechtbank Rotterdam , 02-03-2026 / C/10/714343 / KG ZA 26-112
