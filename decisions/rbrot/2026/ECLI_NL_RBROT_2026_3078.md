@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3078"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0075"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0075", "Sdu Nieuws Omgevingsrecht 2026/101"]
 ---
 
 # ECLI:NL:RBROT:2026:3078 Rechtbank Rotterdam , 04-03-2026 / ROT 26/1345
