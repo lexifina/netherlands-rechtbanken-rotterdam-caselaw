@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2384"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0225", "VEAN-ERF-Updates.nl 2026-0225", "JERF Actueel 2026/100"]
 ---
 
 # ECLI:NL:RBROT:2026:2384 Rechtbank Rotterdam , 04-03-2026 / C/10/704469 HA ZA 25-642
