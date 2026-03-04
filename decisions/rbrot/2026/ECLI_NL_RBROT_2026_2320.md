@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2320"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/175 met annotatie van mr. A. Steneker"]
 ---
 
 # ECLI:NL:RBROT:2026:2320 Rechtbank Rotterdam , 04-03-2026 / C/10/697949 / HA ZA 25-326
