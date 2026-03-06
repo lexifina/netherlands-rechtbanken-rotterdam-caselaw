@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2567"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/168 met annotatie van mr. J.S. Roepnarain", "JONDR 2026/697"]
 ---
 
 # ECLI:NL:RBROT:2026:2567 Rechtbank Rotterdam , 06-03-2026 / ROT 23/7389 en ROT 25/5849
