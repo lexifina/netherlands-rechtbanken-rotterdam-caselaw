@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4156"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/225", "Prg. 2026/191"]
 ---
 
 # ECLI:NL:RBROT:2026:4156 Rechtbank Rotterdam , 06-03-2026 / 11733154 VZ VERZ 25-4119
