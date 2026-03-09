@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2488"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0206", "VEAN-ERF-Updates.nl 2026-0206", "JERF Actueel 2026/108", "Prg. 2026/186", "JERF 2026/94 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBROT:2026:2488 Rechtbank Rotterdam , 09-03-2026 / C/10/714954 / KG ZA 26-154
