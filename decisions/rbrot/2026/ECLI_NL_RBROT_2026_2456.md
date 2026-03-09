@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2456"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0209", "VEAN-ERF-Updates.nl 2026-0209", "JERF Actueel 2026/107", "JERF 2026/111 met annotatie van mr. J.J.P.T. van Summeren"]
 ---
 
 # ECLI:NL:RBROT:2026:2456 Rechtbank Rotterdam , 09-03-2026 / C/10/712680 / KG ZA 25-1297
