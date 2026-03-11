@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2409"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/195 met annotatie van mr. G.W.H. Katgert"]
 ---
 
 # ECLI:NL:RBROT:2026:2409 Rechtbank Rotterdam , 11-03-2026 / C/10714088 / KG ZA 26-95
