@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3469"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Gst. 2026/89 met annotatie van W.P. Adriaanse"]
 ---
 
 # ECLI:NL:RBROT:2026:3469 Rechtbank Rotterdam , 11-03-2026 / ROT 25/924
