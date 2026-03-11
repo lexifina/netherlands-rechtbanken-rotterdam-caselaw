@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3739"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RI 2026/52"]
 ---
 
 # ECLI:NL:RBROT:2026:3739 Rechtbank Rotterdam , 11-03-2026 / FT RK 25/2232
