@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3598"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0612", "AR-Updates.nl 2026-0612", "RAR 2026/108"]
 ---
 
 # ECLI:NL:RBROT:2026:3598 Rechtbank Rotterdam , 13-03-2026 / 11997317 VZ VERZ 25-7108
