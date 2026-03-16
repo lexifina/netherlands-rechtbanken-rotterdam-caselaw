@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:2818"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-1035", "AR-Updates.nl 2026-1035"]
 ---
 
 # ECLI:NL:RBROT:2026:2818 Rechtbank Rotterdam , 16-03-2026 / 12090912 VV EXPL 26-73
