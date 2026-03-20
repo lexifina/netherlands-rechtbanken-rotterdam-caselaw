@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beslissing RC"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3040"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/735", "NTFR 2026/828 met annotatie van mr. R.B.H. Beune"]
 ---
 
 # ECLI:NL:RBROT:2026:3040 Rechtbank Rotterdam , 20-03-2026 / 83.007014.25, 83.007024.25, 83.007309.25, 83.007052.25
