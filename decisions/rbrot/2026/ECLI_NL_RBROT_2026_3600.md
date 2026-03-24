@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3600"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0616", "VAAN-AR-Updates.nl 2026-0616"]
 ---
 
 # ECLI:NL:RBROT:2026:3600 Rechtbank Rotterdam , 24-03-2026 / 12126316 VV EXPL 26-127
