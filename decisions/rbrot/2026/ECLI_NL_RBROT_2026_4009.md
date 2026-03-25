@@ -2,17 +2,17 @@
 ecli: "ECLI:NL:RBROT:2026:4009"
 court: "Rechtbank Rotterdam"
 court_code: "RBROT"
-docket: "C/10/706725"
+docket: "C/10/706725 / HA ZA 25-801"
 decided: "2026-03-25"
 published: "2026-04-08"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4009"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/63"]
 ---
 
-# ECLI:NL:RBROT:2026:4009 Rechtbank Rotterdam , 25-03-2026 / C/10/706725
+# ECLI:NL:RBROT:2026:4009 Rechtbank Rotterdam , 25-03-2026 / C/10/706725 / HA ZA 25-801
 
 ## Inhoudsindicatie
 
