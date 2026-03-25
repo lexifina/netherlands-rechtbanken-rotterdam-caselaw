@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Verzoek om openbaarmaking van stukken. Het beroep van eiseres is ontvankelijk. In het eerder ingediende beroep niet-tijdig beslissen is geen oordeel gegeven over het reële (bestreden) besluit. Ten aanzien van het bestreden besluit is sprake van een zorgvuldigheidsgebrek dat wordt gepasseerd omdat eiseres hierdoor niet is benadeeld. De rechtbank veroordeelt het college verder tot schadevergoeding vanwege het overschrijden van de redelijke termijn.
+Verzoek om openbaarmaking van stukken. Het beroep van eiseres is ontvankelijk. In het eerder ingediende beroep niet-tijdig beslissen is geen oordeel gegeven over het reële (bestreden) besluit. Ten aanzien van het bestreden besluit is sprake van een zorgvuldigheidsgebrek dat wordt gepasseerd omdat eiseres hierdoor niet is benadeeld. De rechtbank veroordeelt het college verder tot schadevergoeding vanwege het overschrijden van de redelijke termijn. Hersteluitspraak: ECLI:NL:RBROT:2026:4257.
 
 ## Uitspraak
 
