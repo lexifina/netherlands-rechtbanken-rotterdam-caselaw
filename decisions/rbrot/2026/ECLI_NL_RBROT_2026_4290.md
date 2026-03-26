@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4290"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0090", "OR-Updates.nl 2026-0075"]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-019.md", "netherlands/national/acts/faillissementswet/art-001.md", "netherlands/national/acts/faillissementswet/art-006.md"]
 ---
 
