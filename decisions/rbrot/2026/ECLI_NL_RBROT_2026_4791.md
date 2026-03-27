@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4791"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0094"]
 ---
 
 # ECLI:NL:RBROT:2026:4791 Rechtbank Rotterdam , 27-03-2026 / C/10/655492 / FA RK 23-2482
@@ -113,7 +113,7 @@ Uit productie 2 bij bericht van de man van 2 december 2024:
 
 4/3/21 13:57 - [naam 3] :	I appreciate that you continue to threaten me and keep blackmailing me to get my money and thus continue living in that rich neighborhood where you live.
 
-4/3/21 14:01 - [naam 2] :	You know that’s not thrue! It’s for [minderjarige] ! It’s your responsibility to help him too!! He already miss a father!! The only thing you give him is a little support! And you want to take that too?! Your son does not live a rich life! In the opposite!!!! We need this support for Valentijn as we agreed!
+4/3/21 14:01 - [naam 2] :	You know that’s not thrue! It’s for [minderjarige] ! It’s your responsibility to help him too!! He already miss a father!! The only thing you give him is a little support! And you want to take that too?! Your son does not live a rich life! In the opposite!!!! We need this support for [minderjarige] as we agreed!
 
 Dit fragment wordt hierna ook aangeduid als fragment A.
 
