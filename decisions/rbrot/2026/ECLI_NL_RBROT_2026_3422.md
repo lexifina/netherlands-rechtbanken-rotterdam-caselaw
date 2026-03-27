@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3422"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0523", "VAAN-AR-Updates.nl 2026-0523"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0523", "VAAN-AR-Updates.nl 2026-0523", "PR-Updates.nl 2026-0108", "PJ 2026/48"]
 ---
 
 # ECLI:NL:RBROT:2026:3422 Rechtbank Rotterdam , 27-03-2026 / 11914156 VZ VERZ 25-6458
