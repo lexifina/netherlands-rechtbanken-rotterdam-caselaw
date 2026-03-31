@@ -32,13 +32,13 @@ Tegenspraak
 
 Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, naar aanleiding van de vordering als bedoeld in artikel 36e van het Wetboek van Strafrecht van de officier van justitie in de zaak tegen
 
-[veroordeelde],
+[veroordeelde] ,
 
-geboren op [geboortedatum] 1985 te [geboorteplaats],
+geboren op [geboortedatum] 1985 te [geboorteplaats] ,
 
 ingeschreven in de basisregistratie personen op het adres:
 
-[adres ] [postcode] [plaatsnaam],
+[adres ] [postcode] [plaatsnaam] ,
 
 raadsvrouw mr. S.A. Heukers, advocaat in Leeuwarden.
 
@@ -66,7 +66,7 @@ De vordering is gebaseerd op artikel 36e, derde lid Sr. Volgens de officier van 
 4
 Standpunt verdediging
 
-De verdediging heeft primair bepleit dat de ontnemingsvordering wordt afgewezen, omdat de veroordeelde geen voordeel heeft genoten uit enig strafbaar feit. Subsidiair dient het wederrechtelijk verkregen voordeel van de veroordeelde te worden vastgesteld op € 387.582,10. Daartoe is aangevoerd dat de vermogensvergelijking op punten moet worden aangepast en dat veroordeelde geen economische eenheid vormde met haar partner [medeveroordeelde], zodat van hoofdelijkheid geen sprake kan zijn.
+De verdediging heeft primair bepleit dat de ontnemingsvordering wordt afgewezen, omdat de veroordeelde geen voordeel heeft genoten uit enig strafbaar feit. Subsidiair dient het wederrechtelijk verkregen voordeel van de veroordeelde te worden vastgesteld op € 387.582,10. Daartoe is aangevoerd dat de vermogensvergelijking op punten moet worden aangepast en dat veroordeelde geen economische eenheid vormde met haar partner [medeveroordeelde] , zodat van hoofdelijkheid geen sprake kan zijn.
 
 Bij de beoordeling van de vordering wordt nader ingegaan op de door de verdediging gevoerde verweren.
 
@@ -148,7 +148,7 @@ Op 22 maart 2019 heeft de veroordeelde de woning aan de [adres ] aangeschaft. De
 
 Vordering Debipersad
 
-Tijdens de doorzoeking van de woning van de veroordeelde en [medeveroordeelde] is een schriftelijke schuldverklaring aangetroffen. Hierin staat dat [naam 1] en [naam 2] een schuld ter waarde van € 221.000 hebben aan [medeveroordeelde]. Alle drie betrokken partijen hebben de verklaring op 8 december 2020 ondertekend. [medeveroordeelde] heeft dus een vordering van € 221.000,00. Aangezien een vordering ook als vermogen kan worden beschouwd, wordt dit bedrag meegenomen in het eindvermogen. De alternatieve verklaring die [medeveroordeelde] voor deze schuldverklaring heeft gegeven, is niet onderbouwd.
+Tijdens de doorzoeking van de woning van de veroordeelde en [medeveroordeelde] is een schriftelijke schuldverklaring aangetroffen. Hierin staat dat [naam 1] en [naam 2] een schuld ter waarde van € 221.000 hebben aan [medeveroordeelde] . Alle drie betrokken partijen hebben de verklaring op 8 december 2020 ondertekend. [medeveroordeelde] heeft dus een vordering van € 221.000,00. Aangezien een vordering ook als vermogen kan worden beschouwd, wordt dit bedrag meegenomen in het eindvermogen. De alternatieve verklaring die [medeveroordeelde] voor deze schuldverklaring heeft gegeven, is niet onderbouwd.
 
 6.3.5.
 
@@ -188,7 +188,7 @@ Totaal € 894.604,37.
 
 Vervolgprofijt
 
-In de berekening van het wederrechtelijk verkregen voordeel is meegenomen de waardestijging van het pand [adres ]. De verdediging heeft gesteld dat de woning niet is verkregen door financiering uit illegale middelen, zodat het vervolgprofijt niet aan de orde is, subsidiair dat niet blijkt dat de “vergelijkbare woning”, waarop de waardestijging is gebaseerd, inderdaad vergelijkbaar is met de woning aan de Brielselaan.
+In de berekening van het wederrechtelijk verkregen voordeel is meegenomen de waardestijging van het pand [adres ] . De verdediging heeft gesteld dat de woning niet is verkregen door financiering uit illegale middelen, zodat het vervolgprofijt niet aan de orde is, subsidiair dat niet blijkt dat de “vergelijkbare woning”, waarop de waardestijging is gebaseerd, inderdaad vergelijkbaar is met de woning aan de Brielselaan.
 
 Hierover overweegt de rechtbank dat in het vonnis in de strafzaak is vastgesteld dat de veroordeelde valse documenten heeft gebruikt voor de aanvraag van de hypotheek, waardoor geen sprake is van een financiering uit legale middelen. Naar verwachting zou aan de veroordeelde ook geen hypothecaire lening verstrekt zijn wanneer zij die zonder de valse documenten had aangevraagd. De waardestijging van de woning is dan ook aan te merken als vervolgprofijt, waarmee rekening gehouden kan worden bij de vaststelling van het wederrechtelijk verkregen voordeel.. Het vervolgprofijt, dat bestaat uit de stijging van € 140.000 van de WOZ-waarde van de woning tussen 1 januari 2021 en 1 januari 2025 dient te worden ontnomen. Die waardestijging blijkt uit de door de officier van justitie overgelegde WOZ-waarden.
 
