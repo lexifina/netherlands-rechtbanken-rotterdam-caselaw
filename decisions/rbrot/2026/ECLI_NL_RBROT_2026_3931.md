@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3931"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/97", "JOR 2026/123 met annotatie van prof. mr. S. Perrick", "JONDR 2026/532"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2465, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBROT:2026:3931 Rechtbank Rotterdam , 01-04-2026 / C/10/714787 / KG ZA 26-144
