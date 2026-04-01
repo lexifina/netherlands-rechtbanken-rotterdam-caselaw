@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:3959"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/126"]
 ---
 
 # ECLI:NL:RBROT:2026:3959 Rechtbank Rotterdam , 01-04-2026 / 10-213818-23, 10-407280-24, 10-242239-23, 10-119491-24, 10-055038-25, 10-205007-19
