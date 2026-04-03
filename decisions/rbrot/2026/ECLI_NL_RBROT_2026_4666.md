@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4666"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0096"]
 ---
 
 # ECLI:NL:RBROT:2026:4666 Rechtbank Rotterdam , 03-04-2026 / ROT 26/2177
