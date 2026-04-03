@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4481"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0624", "VAAN-AR-Updates.nl 2026-0624", "Sdu Nieuws Arbeidsrecht 2026/153"]
 ---
 
 # ECLI:NL:RBROT:2026:4481 Rechtbank Rotterdam , 03-04-2026 / 11825107 CV EXPL 25-16851
