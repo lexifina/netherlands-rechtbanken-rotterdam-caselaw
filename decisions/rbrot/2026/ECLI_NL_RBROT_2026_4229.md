@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4229"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/103"]
 ---
 
 # ECLI:NL:RBROT:2026:4229 Rechtbank Rotterdam , 03-04-2026 / C/10/715624 - KG ZA 26-194
