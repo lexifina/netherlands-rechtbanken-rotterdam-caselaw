@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4616"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/198 met annotatie van mr. drs. D. Beunk"]
 cites_law: ["netherlands/national/acts/faillissementswet/art-006.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-021.md"]
 ---
 
