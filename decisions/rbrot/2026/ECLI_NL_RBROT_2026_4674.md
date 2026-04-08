@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2026:4674"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/84"]
 ---
 
 # ECLI:NL:RBROT:2026:4674 Rechtbank Rotterdam , 08-04-2026 / C/10/571767 / HA ZA 19-334
