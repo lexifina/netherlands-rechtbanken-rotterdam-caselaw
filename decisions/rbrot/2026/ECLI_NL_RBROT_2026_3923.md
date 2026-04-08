@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De rechtbank doet in deze zaak een tussenuitspraak. Aan de hand van de criteria uit artikel 7:610 BW dient het UWV te beoordelen of sprake is geweest van een arbeidsovereenkomst tussen eiseres en haar zus, of eiseres daarmee is aan te merken als werknemer in de zin van de WW en of de betreffende jaren dienen mee te tellen voor het arbeidsverleden van eiseres.
+De rechtbank doet in deze zaak een tussenuitspraak. Aan de hand van de criteria uit artikel 7:610 BW dient het UWV te beoordelen of sprake is geweest van een arbeidsovereenkomst tussen eiseres en haar zus, of eiseres daarmee is aan te merken als werknemer in de zin van de WW en of de betreffende jaren dienen mee te tellen voor het arbeidsverleden van eiseres. Zie ook ECLI:NL:RBROT:2026:12835 (Einduitspraak)
 
 ## Uitspraak
 
