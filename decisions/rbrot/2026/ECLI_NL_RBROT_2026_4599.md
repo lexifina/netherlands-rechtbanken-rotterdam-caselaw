@@ -27,7 +27,8 @@ Bestuursrecht
 zaaknummer: ROT 24/11157
 
 uitspraak van de enkelvoudige kamer van 17 april 2026 in de zaak tussen
-Stens Transport B.V., uit Staphorst, eiseres
+
+[eiseres], uit [plaats], eiseres
 
 en
 
@@ -57,7 +58,7 @@ Eiseres heeft beroep ingesteld tegen het bestreden besluit. Verweerder heeft op 
 
 2.3.
 
-De rechtbank heeft het beroep op 15 januari 2026 op een zitting behandeld. Namens verweerder is de gemachtigde verschenen. Namens eiseres is verschenen [naam], middellijk bestuurder van eiseres.
+De rechtbank heeft het beroep op 15 januari 2026 op een zitting behandeld. Namens verweerder is de gemachtigde verschenen. Namens eiseres is verschenen [naam] , middellijk bestuurder van eiseres.
 
 Totstandkoming van het bestreden besluit
 
