@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): rotterdam
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Rotterdam (with the former Rechtbank Dordrecht), Netherlands, which global-law reads at `netherlands/rechtbanken-rotterdam/caselaw/`.
+
 Every decision of the rechtbanken (district courts): rotterdam that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 51,493 decisions from 1998-05-08 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-rotterdam/caselaw`.
